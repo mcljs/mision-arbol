@@ -50,7 +50,7 @@ const Testimonials = () =>{
           margin-bottom: 1rem
           `} 
           />
-            <h3>Meta</h3>
+            <h3>Meta a Alcanzar</h3>
             <p>"Plantar tres millones de árboles, la manera más fácil de hacerlo es incorporando a toda la población venezolana, sin distinción de raza, credo, ni ningún otro aspecto, el tema ambiental nos compete a todos, es corresponsabilidad histórica y ambienta"</p>
           </Testimonial>
         </ColumnOne>
