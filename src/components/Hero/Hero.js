@@ -45,7 +45,7 @@ height: 100%;
 
 const HeroSlider = styled.div`
 position: absolute;
-top: 0;
+top: 6px;
 left: 0;
 width: 100%;
 height: 100%;

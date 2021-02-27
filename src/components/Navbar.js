@@ -42,7 +42,7 @@ const Navbar = (  ) => {
                          margin-left: 10px;
                         @media screen and (max-width: 920px){
                           width: auto;
-                          height: 60px;
+                          height: 50px;
                           }
                         `}
                     />
@@ -58,6 +58,7 @@ const Navbar = (  ) => {
                         @media screen and (max-width: 920px){
                           width: auto;
                           height: 60px;
+                          padding-right: 40px;
                           }
                         `}
                     />
