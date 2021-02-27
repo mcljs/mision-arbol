@@ -31,7 +31,7 @@ const Navbar = (  ) => {
   return (
     <>
       <Nav scrollNav={scrollNav}  >
-        <header   className="border-b border-red-100 bg-green-600 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 border-b border-gray-800">
+        <header   className="border-b border-red-100 bg-yellow-1100 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 border-b border-gray-800">
     <div className="flex items-center justify-between px-4 py-3 sm:p-0">
       <img src={logo1} alt={logo1}
                          css={`
