@@ -146,6 +146,13 @@ font-weight: 600;
 color: #412307;
 
 }
+
+  @media screen and(max-width: 500px){
+   p{
+   color: #fff;
+   
+  }
+  }
 `;
 
 const SliderButtons = styled.div`

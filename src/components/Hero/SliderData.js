@@ -1,5 +1,5 @@
 
-import ImageOne from '../../images/Fotoram.io (1).jpg'
+import ImageOne from '../../images/pexels-binyamin-mellish-169523.jpg'
 
 
 export const SliderData = [

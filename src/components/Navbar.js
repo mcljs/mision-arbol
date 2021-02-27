@@ -31,7 +31,7 @@ const Navbar = (  ) => {
   return (
     <>
       <Nav scrollNav={scrollNav}  >
-        <header   className="border-b border-red-100 bg-yellow-1100 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 border-b border-gray-800">
+        <header   className="border-b border-yellow-1100 bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-2 border-b border-gray-800">
     <div className="flex items-center justify-between px-4 py-3 sm:p-0">
       <img src={logo1} alt={logo1}
                          css={`
@@ -79,16 +79,16 @@ const Navbar = (  ) => {
 
     click?
   <nav className="px-2 pt-2 pb-4 sm:flex sm:p-0 ">
-      <Link to="/" className="block px-2 py-1 text-white font-semibold rounded hover:bg-green-500">Inicio</Link>
-      <Link to="/blog" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-green-500 sm:mt-0 sm:ml-2">Noticias</Link>
-      <Link to="/nosotros" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-green-500 sm:mt-0 sm:ml-2">Quienes Somos</Link>
+      <Link to="/" className="block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">Inicio</Link>
+      <Link to="/blog" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Noticias</Link>
+      <Link to="/nosotros" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Quienes Somos</Link>
     </nav>
 
     :
     <nav className="px-2 pt-2 pb-4 sm:flex  sm:p-0 hidden">
-      <Link to="/" className="block px-2 py-1 text-white font-semibold rounded hover:bg-green-500">Inicio</Link>
-      <Link to="/blog" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-green-500 sm:mt-0 sm:ml-2">Noticias</Link>
-      <Link to="/nosotros" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-green-500 sm:mt-0 sm:ml-2">Nosotros</Link>
+      <Link to="/" className="block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">Inicio</Link>
+      <Link to="/blog" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Noticias</Link>
+      <Link to="/nosotros" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Nosotros</Link>
     </nav>
     }
     </header>
