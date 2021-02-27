@@ -99,7 +99,7 @@ text-shadow: 2px 2px 2px #000;
   color: #22c678;
 }
 h1{
-  font-size: clamp(5rem,8vw, 2rem);
+  font-size: clamp(3rem,8vw, 2rem);
   font-weight: 800;
   text-transform: uppercase;
 text-shadow: #000 0.1em 0.0em 0.2em;
@@ -128,7 +128,7 @@ span{
 p{
 font-family: 'Noto Serif', serif;
 color: #412307;
-    font-size: 20px;
+    font-size: 1.2rem;
   
     line-height: 30px;
     font-style: italic;
