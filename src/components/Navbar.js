@@ -75,22 +75,16 @@ const Navbar = (  ) => {
         </button>
       </div>
     </div>
-    {
-
-    click?
-  <nav className="px-2 pt-2 pb-4 sm:flex sm:p-0 ">
-      <Link to="/" className="block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">Inicio</Link>
-      <Link to="/blog" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Noticias</Link>
-      <Link to="/nosotros" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Quienes Somos</Link>
-    </nav>
-
-    :
-    <nav className="px-2 pt-2 pb-4 sm:flex  sm:p-0 hidden">
+  
+          <nav className={` ${!click && 'hidden' } px-2 pt-2 pb-4 sm:flex sm:p-0 md:static md:w-auto absolute top-full w-full bg-gray-900 `}>
       <Link to="/" className="block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">Inicio</Link>
       <Link to="/blog" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Noticias</Link>
       <Link to="/nosotros" className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Nosotros</Link>
     </nav>
-    }
+
+  
+  
+ 
     </header>
 </Nav>
 
