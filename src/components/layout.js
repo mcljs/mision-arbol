@@ -10,7 +10,7 @@ import React from 'react';
 import Navbar from '../components/Navbar'
 import Footer from './Footer/Footer';
 import {fonts} from '../lib/typography'
-import {css} from '@emotion/react'
+import {Global,css} from '@emotion/react'
 import {bpMaxSM} from '../lib/breakpoints'
 import "./layout.css"
 export const globalStyles = css`
@@ -123,9 +123,11 @@ const Layout = ({ children }) => {
 
   return (
     <>
- <Navbar  />
+  <Global styles={globalStyles}/>
+     <Navbar  />
   
    
+
         <main>{children}</main>
         <Footer />
    

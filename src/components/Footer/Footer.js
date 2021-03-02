@@ -63,7 +63,7 @@ function Footer() {
                          css={`
                          width: auto;
                          margin-top: -3px;
-                         padding-top: 12px;
+                         padding-top: 13px;
                          margin-bottom: -5px;
                          font-size: 0.9rem;
                          height: 60px;
