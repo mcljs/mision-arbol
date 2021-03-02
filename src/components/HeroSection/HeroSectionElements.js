@@ -107,6 +107,10 @@ font-weight: 600;
 color: #fff;
   text-align: end;
 text-shadow: 0px 0px 9px #000;
+  @media screen and (max-width: 768px) {
+     text-align: center;
+  }
+ 
 `
 
 export const HeroBtnWrapper = styled.div`
