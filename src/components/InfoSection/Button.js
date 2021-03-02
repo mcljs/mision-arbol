@@ -2,7 +2,7 @@ import Link from '../link'
 import styled from 'styled-components'
 
 export const Button = styled(Link)`
-  background: ${({primary}) => (primary ? '#78350F' : '#2D1406') };
+  background: ${({primary}) => (primary ? '#ee5a32' : '#2D1406') };
   white-space: nowrap;
   outline: none;
   border: none;

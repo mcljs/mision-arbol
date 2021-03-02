@@ -34,6 +34,10 @@ function Footer() {
                           margin-left: 1px;
                           height: 50px;
                           }
+         @media screen and (max-width: 480px){
+                          margin-left: -20px;
+                                                 
+                          }
                         `}/>
 <h1 style={{fontSize: '3rem',fontWeight: '200'}}
                          css={`
@@ -77,6 +81,7 @@ function Footer() {
                           margin-bottom: 2px;
                           width: auto;
                           height: 50px;
+                          padding-right: 10px;
                           font-size: 0.720rem;
                         
                           }
