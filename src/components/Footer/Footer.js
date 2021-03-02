@@ -11,7 +11,7 @@ import {
   SocialIcons,
   SocialIconLink
 } from './FooterElements';
-import logo from '../../images/Imagen4.png'
+
 import logo2 from '../../images/unnamed.png'
 function Footer() {
   return (
@@ -21,29 +21,67 @@ function Footer() {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to='/'>
-      <img src={logo2} alt={logo2}   css={`
+     
+            <img src={logo2} alt={logo2}   css={`
                          width: auto;
-                       
-                         height: 60px;
-                    
-                        @media screen and (max-width: 920px){
-                          width: auto;
-                          height: 50px;
-                          }
-                        `}/>
-            <img src={logo} alt={logo}   css={`
-                         width: auto;
-                        height: 80px;
-                         margin-left: 40px;
+                        height: 60px;
+                         margin-left: 20px;
                          margin-bottom: -30px;
-                         margin-top: -40px;
+                         margin-top: -30px;
 
                         @media screen and (max-width: 920px){
                           width: auto;
+                          margin-left: 1px;
                           height: 50px;
                           }
                         `}/>
-
+<h1 style={{fontSize: '3rem',fontWeight: '200'}}
+                         css={`
+                         width: auto;
+                         margin-top: -14px;
+                         margin-bottom: -1px;
+                         height: 60px;
+                        
+                         color: #fff;
+                         margin-left: 13px;
+                        @media screen and (max-width: 920px){
+                          margin-left: 1px;
+                          width: auto;
+                          margin-top: -27px;
+                          margin-bottom: -4px;
+                          height: 50px;
+                          font-size: 0.8rem;
+                         
+                          }
+                        `}
+         > |</h1>
+ <h3 
+                         css={`
+                         width: auto;
+                         margin-top: -3px;
+                         padding-top: 12px;
+                         margin-bottom: -5px;
+                         font-size: 1.1rem;
+                         height: 60px;
+                         color: #fff;
+                         margin-left: 20px;
+                        @media screen and (max-width: 920px){
+                          margin-left: 3px;
+                          width: auto;
+                          height: 50px;
+                          font-size: 0.8rem;
+                          padding-right: 40px;
+                          }
+                @media screen and (max-width: 480px){
+                          margin-left: 3px;
+                          margin-bottom: 2px;
+                          width: auto;
+                          height: 50px;
+                          font-size: 0.720rem;
+                        
+                          }
+                        `}
+         > Fundación <strong>Misión Arbol</strong></h3>
             </SocialLogo>
             <SocialIcons>
               <SocialIconLink href='/' target='_blank' aria-label='Facebook'>

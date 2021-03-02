@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Link from './link'
-import logo1 from '../images/logo-a.png'
+import logo1 from '../images/Imagen4.png'
 import styled from 'styled-components'
 
 
@@ -36,63 +36,16 @@ const Navbar = (  ) => {
                          css={`
                          width: auto;
                          margin-top: -3px;
-                         margin-bottom: -5px;
+                         margin-bottom: -4px;
                          height: 60px;
-                         margin-left: 0px;
+                         margin-left: 18px;
                         @media screen and (max-width: 920px){
                           width: auto;
                           height: 50px;
                           }
                         `}
                     />
-      <h1 style={{fontSize: '3rem',fontWeight: '200'}}
-                         css={`
-                         width: auto;
-                         margin-top: -14px;
-                         margin-bottom: -1px;
-                         height: 60px;
-                        
-                         color: #fff;
-                         margin-left: 13px;
-                        @media screen and (max-width: 920px){
-                          margin-left: -4px;
-                          width: auto;
-                          margin-top: -27px;
-                          margin-bottom: -4px;
-                          height: 50px;
-                          font-size: 0.8rem;
-                         
-                          }
-                        `}
-         > |</h1>
-      <div>
-          
-         <h3 
-                         css={`
-                         width: auto;
-                         margin-top: -3px;
-                         padding-top: 12px;
-                         margin-bottom: -5px;
-                         height: 60px;
-                         color: #fff;
-                         margin-left: 20px;
-                        @media screen and (max-width: 920px){
-                          margin-left: 1px;
-                          width: auto;
-                          height: 50px;
-                          font-size: 0.9rem;
-                          padding-right: 40px;
-                          }
-                @media screen and (max-width: 480px){
-                          margin-left: 1px;
-                          width: auto;
-                          height: 50px;
-                          font-size: 0.650rem;
-                          padding-right: 40px;
-                          }
-                        `}
-         > Fundación <strong>Misión Arbol</strong></h3>
-      </div>
+       
       <div className="sm:hidden">
         <button onClick={handleClick}   type="button" className="block text-gray-50 hover:text-white focus:text-white focus:outline-none">
           <svg class="h-6 w-6 fill-current" viewBox="0 0 24 24">
