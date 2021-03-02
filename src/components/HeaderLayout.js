@@ -14,7 +14,7 @@ const HeaderLayout = ({heading,image}) => (
           }}
  > 
   {heading && <h1 className="
-            relative px-2.5 text-white uppercase z-10 text-6xl text-center md:text-7xl
+            relative px-2.5 text-white uppercase z-10 text-5xl text-center md:text-7xl
           ">
             {heading}
           </h1>}
