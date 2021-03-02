@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 
 export const FooterContainer = styled.footer`
   background-color: #191111;
-  margin-bottom: -20px;
+  margin-bottom: -12px;
 `;
 
 export const FooterWrap = styled.div`
