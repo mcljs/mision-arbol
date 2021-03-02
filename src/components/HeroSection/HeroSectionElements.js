@@ -66,7 +66,7 @@ export const HeroH1 = styled.h1`
   font-size: 4.9rem;
   text-align: center;
   font-weight: 700;
-  text-shadow: black 0.1em 0.1em 0.2em;
+  text-shadow: 2px 2px 2px #000;
 
   strong{
   font-weight: 700;
