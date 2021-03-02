@@ -38,7 +38,7 @@ const Navbar = (  ) => {
                          margin-top: -3px;
                          margin-bottom: -5px;
                          height: 60px;
-                         margin-left: 10px;
+                         margin-left: 0px;
                         @media screen and (max-width: 920px){
                           width: auto;
                           height: 50px;
@@ -77,10 +77,17 @@ const Navbar = (  ) => {
                          color: #fff;
                          margin-left: 20px;
                         @media screen and (max-width: 920px){
-                          margin-left: -3px;
+                          margin-left: 1px;
                           width: auto;
                           height: 50px;
-                          font-size: 0.8rem;
+                          font-size: 0.9rem;
+                          padding-right: 40px;
+                          }
+                @media screen and (max-width: 480px){
+                          margin-left: 1px;
+                          width: auto;
+                          height: 50px;
+                          font-size: 0.650rem;
                           padding-right: 40px;
                           }
                         `}
