@@ -3,6 +3,7 @@ import { Link } from 'gatsby';
 
 export const FooterContainer = styled.footer`
   background-color: #191111;
+  margin-bottom: -20px;
 `;
 
 export const FooterWrap = styled.div`
@@ -27,6 +28,8 @@ export const SocialMediaWrap = styled.div`
   max-width: 1100px;
   margin: 16px auto 0 auto;
   @media screen and (max-width: 820px) {
+    margin-bottom: 8px;
+    margin-top: -3px;
     flex-direction: column;
   }
 `;

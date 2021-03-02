@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from 'react'
 import Link from './link'
+import logo from '../images/Imagen4.png'
 import logo1 from '../images/logo-a.png'
+import logo3 from '../images/unnamed.png'
 import styled from 'styled-components'
 
 
 
-const Navbar = (  ) => {
+const NavbarPrimary = (  ) => {
 
 
    const [click, setClick] = useState(false) 
@@ -45,46 +47,35 @@ const Navbar = (  ) => {
                           }
                         `}
                     />
-      <h1 style={{fontSize: '3rem',fontWeight: '200'}}
-                         css={`
-                         width: auto;
-                         margin-top: -14px;
-                         margin-bottom: -1px;
-                         height: 60px;
-                        
-                         color: #fff;
-                         margin-left: 13px;
-                        @media screen and (max-width: 920px){
-                          margin-left: -4px;
-                          width: auto;
-                          margin-top: -27px;
-                          margin-bottom: -4px;
-                          height: 50px;
-                          font-size: 0.8rem;
-                         
-                          }
-                        `}
-         > |</h1>
-      <div>
-          
-         <h3 
+  <img src={logo3} alt={logo3}
                          css={`
                          width: auto;
                          margin-top: -3px;
-                         padding-top: 12px;
                          margin-bottom: -5px;
                          height: 60px;
-                         color: #fff;
-                         margin-left: 20px;
+                         margin-left: 10px;
                         @media screen and (max-width: 920px){
-                          margin-left: -3px;
                           width: auto;
                           height: 50px;
-                          font-size: 0.8rem;
+                          }
+                        `}
+                    />
+      <div>
+
+         <img src={logo} alt={logo}
+                         css={`
+                         width: auto;
+                         margin-top: -3px;
+                         margin-bottom: -5px;
+                         height: 60px;
+                         margin-left: 30px;
+                        @media screen and (max-width: 920px){
+                          width: auto;
+                          height: 60px;
                           padding-right: 40px;
                           }
                         `}
-         > Fundación <strong>Misión Arbol</strong></h3>
+                    />
       </div>
       <div className="sm:hidden">
         <button onClick={handleClick}   type="button" className="block text-gray-50 hover:text-white focus:text-white focus:outline-none">

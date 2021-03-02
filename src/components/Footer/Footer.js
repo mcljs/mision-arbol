@@ -11,6 +11,8 @@ import {
   SocialIcons,
   SocialIconLink
 } from './FooterElements';
+import logo from '../../images/Imagen4.png'
+import logo2 from '../../images/unnamed.png'
 function Footer() {
   return (
     <>
@@ -18,7 +20,31 @@ function Footer() {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/'>Misión Arbol</SocialLogo>
+            <SocialLogo to='/'>
+      <img src={logo2} alt={logo2}   css={`
+                         width: auto;
+                       
+                         height: 60px;
+                    
+                        @media screen and (max-width: 920px){
+                          width: auto;
+                          height: 50px;
+                          }
+                        `}/>
+            <img src={logo} alt={logo}   css={`
+                         width: auto;
+                        height: 80px;
+                         margin-left: 40px;
+                         margin-bottom: -30px;
+                         margin-top: -40px;
+
+                        @media screen and (max-width: 920px){
+                          width: auto;
+                          height: 50px;
+                          }
+                        `}/>
+
+            </SocialLogo>
             <SocialIcons>
               <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
