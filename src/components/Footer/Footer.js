@@ -51,7 +51,7 @@ function Footer() {
                         @media screen and (max-width: 920px){
                           margin-left: 1px;
                           width: auto;
-                          margin-top: -27px;
+                          margin-top: -31px;
                           margin-bottom: -4px;
                           height: 50px;
                           font-size: 0.8rem;

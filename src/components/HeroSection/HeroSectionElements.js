@@ -93,11 +93,9 @@ color: #fff;
   text-align: center;
   max-width: 600px;
   @media screen and (max-width: 768px) {
-    font-size: 24;
+    font-size: 1.5rem;
   }
-  @media screen and (max-width: 480) {
-    font-size: 18;
-  }
+ 
 `;
 
 export const HeroH4 =styled.h4`
@@ -108,6 +106,7 @@ color: #fff;
   text-align: end;
 text-shadow: 0px 0px 9px #000;
   @media screen and (max-width: 768px) {
+  font-size: 1.2rem;
      text-align: center;
   }
  

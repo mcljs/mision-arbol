@@ -80,6 +80,9 @@ const TopLine = styled.div`
   font-size: 1rem;
   padding-left: 2rem;
   margin-bottom: 0.75rem;
+ @media screen and (max-width: 768px){
+    font-size: 0.85rem;
+  }
 `
 
 
@@ -107,7 +110,7 @@ const Testimonial = styled.div`
   padding-right: 2rem;
   h3 {
     margin-bottom: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.350rem;
     font-style: italic;
   }
   p {
