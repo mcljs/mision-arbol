@@ -12,7 +12,8 @@ import Footer from './Footer/Footer';
 import {fonts} from '../lib/typography'
 import {Global,css} from '@emotion/react'
 import {bpMaxSM} from '../lib/breakpoints'
-import "./layout.css"
+import reset from '../lib/reset'
+//import "./layout.css"
 export const globalStyles = css`
    ${bpMaxSM} {
     h1 {
@@ -112,8 +113,9 @@ export const globalStyles = css`
   h6:hover .anchor svg {
     opacity: 1;
   }
- ;
-`
+  ${reset};
+
+    `
 const Layout = ({ children }) => {
 
 
