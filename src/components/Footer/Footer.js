@@ -65,7 +65,7 @@ function Footer() {
                          margin-top: -3px;
                          padding-top: 12px;
                          margin-bottom: -5px;
-                         font-size: 1.1rem;
+                         font-size: 0.9rem;
                          height: 60px;
                          color: #fff;
                          margin-left: 20px;

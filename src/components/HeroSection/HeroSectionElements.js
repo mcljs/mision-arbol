@@ -102,7 +102,7 @@ color: #fff;
 
 export const HeroH4 =styled.h4`
   margin-top: 24px;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 font-weight: 600;
 color: #fff;
   text-align: end;
