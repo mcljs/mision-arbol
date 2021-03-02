@@ -63,7 +63,7 @@ export const HeroContent = styled.div`
 
 export const HeroH1 = styled.h1`
   color: #fff;
-  font-size: 4.9rem;
+  font-size: 4.4rem;
   text-align: center;
   font-weight: 700;
   text-shadow: 2px 2px 2px #000;
@@ -85,7 +85,7 @@ export const HeroP = styled.p`
   margin-top: 24px;
  font-family: 'Noto Serif', serif;
 color: #fff;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
   text-shadow: 2px 2px 2px #000;
     line-height: 30px;
     font-style: italic;
@@ -100,13 +100,15 @@ color: #fff;
 
 export const HeroH4 =styled.h4`
   margin-top: 24px;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 font-weight: 600;
+padding-right: 57px;
 color: #fff;
-  text-align: end;
+  text-align: right;
 text-shadow: 0px 0px 9px #000;
   @media screen and (max-width: 768px) {
   font-size: 1.2rem;
+  padding-left: 57px;
      text-align: center;
   }
  
