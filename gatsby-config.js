@@ -24,7 +24,14 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
+'gatsby-plugin-emotion',
 `gatsby-plugin-styled-components`,
+   {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/lib/typography`,
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
