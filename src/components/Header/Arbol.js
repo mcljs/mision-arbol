@@ -1,7 +1,7 @@
 
 import React from 'react'
 import styled from 'styled-components';
-import Img from 'gatsby-image';
+import { GatsbyImage} from "gatsby-plugin-image"
 import {GiFruitTree} from '@react-icons/all-files/gi/GiFruitTree';
 import {GiStairsGoal} from '@react-icons/all-files/gi/GiStairsGoal'
 import {graphql, useStaticQuery} from 'gatsby';
@@ -15,9 +15,7 @@ const Testimonials = () =>{
     edges {
       node {
         childImageSharp {
-          fluid {
-            ...GatsbyImageSharpFluid
-          }
+          gatsbyImageData(height:400)
         }
       }
     }
@@ -57,7 +55,7 @@ const Testimonials = () =>{
         <ColumnTwo>
           {data.allFile.edges.map((image,key) =>(
 
-            <Images key={key} fluid={image.node.childImageSharp.fluid}/> 
+            <Images key={key} image={image.node.childImageSharp.gatsbyImageData}/> 
           ))}
       
         </ColumnTwo>
@@ -126,7 +124,7 @@ const ColumnTwo = styled.div`
     grid-template-columns: 1fr;
   }
 `
-const Images = styled(Img)`
+const Images = styled(GatsbyImage)`
   border-radius: 10px;
   height: 100%;
   `

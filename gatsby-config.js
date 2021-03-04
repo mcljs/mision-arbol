@@ -25,6 +25,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
 'gatsby-plugin-emotion',
+    `gatsby-plugin-image`,
 `gatsby-plugin-styled-components`,
    {
       resolve: `gatsby-plugin-typography`,
