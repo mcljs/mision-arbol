@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import {Button} from './Button'
-
+import { StaticImage} from 'gatsby-plugin-image'
 const Section = styled.section`
   width:100;
   height: 100%;
@@ -64,8 +64,9 @@ background-color: #fffbec;
   }
 `
 
-const InfoSection = ({heading,paragrpahOne,paragrpahTwo,buttonLabel,reverse, image}) => {
-    
+const InfoSection = ({heading,paragrpahOne,paragrpahTwo,buttonLabel,reverse,}) => {
+   
+
     return(
       <Section>
         <Container>
@@ -76,7 +77,7 @@ const InfoSection = ({heading,paragrpahOne,paragrpahTwo,buttonLabel,reverse, ima
              <Button to="/home" primary='true'>{buttonLabel}</Button>
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
-            <img src={image} alt="home" /> 
+            <StaticImage src="../../images/image-5.jpg" alt="home" /> 
           </ColumnRight>
         </Container>
       </Section>
