@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Link from './link'
-import logo1 from '../images/Imagen4.png'
 import styled from 'styled-components'
-
+import { StaticImage} from 'gatsby-plugin-image'
 
 
 const Navbar = (  ) => {
@@ -32,18 +31,9 @@ const Navbar = (  ) => {
       <Nav scrollNav={scrollNav}  >
         <header   className="border-b border-yellow-1100 bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-2 border-b border-gray-800">
     <div className="flex items-center justify-between px-4 py-3 sm:p-0">
-      <img src={logo1} alt={logo1}
-                         css={`
-                         width: auto;
-                         margin-top: -3px;
-                         margin-bottom: -4px;
-                         height: 60px;
-                         margin-left: 18px;
-                        @media screen and (max-width: 920px){
-                          width: auto;
-                          height: 50px;
-                          }
-                        `}
+      <StaticImage className='flex items-center w-9 ml-3'  src='../images/Imagen4.png' alt="logo"
+                       placeholder="blurred"
+     
                     />
        
       <div className="sm:hidden">
