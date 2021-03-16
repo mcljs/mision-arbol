@@ -17,7 +17,7 @@ La jornada contó con el liderazgo del Ministro del Poder Popular para el Ecosoc
 
 > “Hoy el parque Pinal comienza la jornada número 44 de limpieza, desinfección y embellecimiento, el presidente Nicolás Maduro, ha querido que la Misión Venezuela Bella trascienda, más allá de embellecer los espacios, hay que desinfectarlos, y mantenerlos bioseguros, y es por eso que ya  sumamos desde el quince de abril del año pasado 5 millones 671 un mil desinfecciones” señaló Faria.
 
-sion-Arbol-1](/assets/img/2021-02-10-jornada-de-desinfección/Picture2.png)
+![Mision-Arbol-1](/assets/img/2021-02-10-jornada-de-desinfección/Picture2.png)
 
 
 ## Flexibilización  extendida
