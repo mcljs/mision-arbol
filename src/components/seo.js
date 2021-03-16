@@ -2,15 +2,19 @@
  * SEO component that queries for data with
  *  Gatsby's useStaticQuery React hook
  *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
+ * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
 import React from "react"
 import PropTypes from "prop-types"
-import { Helmet } from "react-helmet"
+import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import { useLocation } from "@reach/router"
 
-function SEO({ description, lang, meta, title }) {
+
+function SEO({ description, lang, meta,image, title }) {
+
+  useLocation()
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -18,7 +22,6 @@ function SEO({ description, lang, meta, title }) {
           siteMetadata {
             title
             description
-            author
           }
         }
       }
@@ -26,7 +29,13 @@ function SEO({ description, lang, meta, title }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const defaultTitle = site.siteMetadata?.title
+
+  
+
+  const ogImage = 
+    image || 'https://mision-arbol.netlify.app/'
+
+
 
   return (
     <Helmet
@@ -34,47 +43,58 @@ function SEO({ description, lang, meta, title }) {
         lang,
       }}
       title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
+          name: `aplication-name`,
+          content: 'Misión Arbol'
+        },
+        {
           name: `description`,
-          content: metaDescription,
+          content: metaDescription
+        },
+        {
+          property: `og:image`,
+          content: ogImage
         },
         {
           property: `og:title`,
-          content: title,
+          content: title
         },
         {
           property: `og:description`,
-          content: metaDescription,
+          content: metaDescription
         },
         {
           property: `og:type`,
-          content: `website`,
+          content: `website`
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`
+        },
+        {
+          name: `twitter:image:src`,
+          content: ogImage
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata?.author || ``,
+          content: site.siteMetadata.author
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: title
         },
         {
           name: `twitter:description`,
-          content: metaDescription,
-        },
-      ].concat(meta)}
-    />
+          content: metaDescription
+        }
+      ].concat(meta)}    />
   )
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `es-ve`,
   meta: [],
   description: ``,
 }
