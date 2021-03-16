@@ -3,7 +3,7 @@ date: 2021-02-10 03:32:21
 title: Minec desarrolló jornada de embellecimiento y desinfección en el Parque Recreacional Zoológico El Pinar
 description: Fundación Misión Árbol y la Misión Venezuela Bella, trasladaron su energía al parque Zoológico El Pinar, ubicado en la parroquia el Paraíso de Caracas.
 twitter_text: Minec desarrolló jornada de embellecimiento y desinfección en el Parque Recreacional Zoológico El Pinar
-image: ./logo.png
+image: ./logo.jpeg
 cover: ./Picture1.png
 timeToRead: 4 
 ---
