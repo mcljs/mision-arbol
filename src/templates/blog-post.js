@@ -6,7 +6,7 @@ import * as S from '../components/styles/base'
 import RecommendedPosts from "../components/RecommendedPosts"
 import Share from '../components/Share'
 import '../components/styles/base.css'
-
+import image from '../images/Eslogan de Misión Árbol (PNG).png'
  const BlogPost = ({ data,pageContext,title,twitterHandle}) => {
   const post = data.markdownRemark
   const next = pageContext.nextPost
@@ -33,8 +33,9 @@ import '../components/styles/base.css'
         <S.MainContent>
           <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
        </S.MainContent>
-
+    
       </div>
+<img src={image} alt={image} className="mx-auto pt-7 w-24"/ >
  <Share
           url={`https://mision-arbol.netlify.app${post.fields.slug}`}
 title={title}

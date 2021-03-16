@@ -5,7 +5,21 @@
   @apply px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed
   }
 
-
+ .gatsby-resp-image-background-image {
+    z-index: 2;
+    opacity: 1 !important;
+  }
+  .gatsby-resp-image-image {
+    box-shadow: none !important;
+    transition: opacity 0.2s;
+    &.lazyload {
+      opacity: 0;
+    }
+    &.lazyloaded {
+      opacity: 1;
+      z-index: 3;
+    }
+  }
 
 /* Headers */
 .markdown h1,
@@ -41,7 +55,7 @@
 }
 /* Paragraph */
 .markdown p {
-  @apply mb-4;
+  @apply mb-7;
 }
 /* Lists */
 .markdown ul,
@@ -61,7 +75,7 @@
 }
 /* Blockquotes */
 .markdown blockquote {
-  @apply p-2 mx-6 bg-gray-100 mb-4 border-l-4 border-gray-400 italic;
+  @apply p-2 mx-6 bg-gray-100 mb-7 border-l-4 border-gray-400 italic;
 }
 .markdown blockquote > p {
   @apply mb-0;
