@@ -11,7 +11,7 @@ timeToRead: 4
 
 En  continuidad con las jornadas de embellecimiento y desinfección de los parques recreacionales del territorio nacional, el Ministerio del Poder Popular para el Ecosocialismo (Minec), la Fundación Misión Árbol y la Misión Venezuela Bella, trasladaron su energía al parque Zoológico El Pinar, ubicado en la parroquia el Paraíso de Caracas.
 
-[!Mision-Arbol](/assets/img/2021-02-10-jornada-de-desinfección/Picture1.png)
+![Mision-Arbol](/assets/img/2021-02-10-jornada-de-desinfección/Picture1.png)
 
 La jornada contó con el liderazgo del Ministro del Poder Popular para el Ecosocialismo, Oswaldo Barbera, en compañía de la Presidenta de la Misión Venezuela Bella, Jacqueline Faria, con esta actividad se cumple la cuadragésima cuarta jornada de limpieza, desinfección y embellecimiento de los espacios nacionales, según lo señalado por la presidenta. 
 
