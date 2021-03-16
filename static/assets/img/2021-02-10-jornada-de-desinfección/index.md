@@ -11,13 +11,13 @@ timeToRead: 4
 
 En  continuidad con las jornadas de embellecimiento y desinfección de los parques recreacionales del territorio nacional, el Ministerio del Poder Popular para el Ecosocialismo (Minec), la Fundación Misión Árbol y la Misión Venezuela Bella, trasladaron su energía al parque Zoológico El Pinar, ubicado en la parroquia el Paraíso de Caracas.
 
-[!Mision-Arbol](/assets/img/2021-02-10-jornada-de-desinfección/Picture1.png)
+![Mision-Arbol](./Picture1.png)
 
 La jornada contó con el liderazgo del Ministro del Poder Popular para el Ecosocialismo, Oswaldo Barbera, en compañía de la Presidenta de la Misión Venezuela Bella, Jacqueline Faria, con esta actividad se cumple la cuadragésima cuarta jornada de limpieza, desinfección y embellecimiento de los espacios nacionales, según lo señalado por la presidenta. 
 
 > “Hoy el parque Pinal comienza la jornada número 44 de limpieza, desinfección y embellecimiento, el presidente Nicolás Maduro, ha querido que la Misión Venezuela Bella trascienda, más allá de embellecer los espacios, hay que desinfectarlos, y mantenerlos bioseguros, y es por eso que ya  sumamos desde el quince de abril del año pasado 5 millones 671 un mil desinfecciones” señaló Faria.
 
-sion-Arbol-1](/assets/img/2021-02-10-jornada-de-desinfección/Picture2.png)
+![Mision-Arbol-1](./Picture2.png)
 
 
 ## Flexibilización  extendida
@@ -32,7 +32,7 @@ No obstante, reiteró el llamado a seguir con los lineamientos de seguridad “v
 
 El ministro de Ecosocialismo, Oswaldo Barbera, señaló que, el objetivo es  rehabilitar los espacios públicos-recreacionales de manera bioseguros, siendo el caso del parque Zoológico El Pinar, y los otros parques que aún continúan en proceso de mejoramiento de su infraestructura y recuperación del paisajismo, como el parque Generalísimo Francisco de Miranda, el parque Alí Primera y el Zoológico de Caricuao.
 
-![Mision-Arbol-2](/assets/img/2021-02-10-jornada-de-desinfección/Picture3.png)
+![Mision-Arbol-2](./Picture3.png)
 
 > “Este zoológico pertenece al Sistema Nacional de Parques Recreacionales que maneja nuestro Instituto Nacional de Parques (Inparques), por lo tanto, es nuestra responsabilidad. Así que estamos agradecidos que la Misión Venezuela Bella se haya incorporado con nosotros a fortalecer las capacidades como un solo gobierno”, expresó el ministro. 
 
@@ -41,6 +41,6 @@ Estas jornadas tienen previsto extenderse al resto del país, “hemos iniciado 
 Finalmente, añadió que el propósito es que el pueblo tenga espacios seguros para su recreación, donde se garantice el cumplimiento de los protocolos y  medidas sanitarias en todas las áreas, “trabajar para que la gente se sienta bioseguro, pero además para que puedan compartir con sus hijos y familiares, estas bellezas escénicas que fortalecen la relación del hombre con la sociedad”.
 
 
-![Mision-Arbol-3](/assets/img/2021-02-10-jornada-de-desinfección/Picture4.png)
+![Mision-Arbol-3](./Picture4.png)
 
 **Prensa Ecosocialismo (Minec) / Kleyris Ramírez**

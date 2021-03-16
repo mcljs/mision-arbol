@@ -8,7 +8,13 @@ module.exports = {
     `gatsby-mdx`,
  `gatsby-remark-normalize-paths`,
     `gatsby-plugin-react-helmet`,
- 
+   {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `uploads`,
+        path: `${__dirname}/static/assets/img`,
+      },
+    },
  {
       resolve: `gatsby-source-filesystem`,
       options: {

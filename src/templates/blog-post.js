@@ -18,7 +18,7 @@ import Share from '../components/Share'
       <SEO title={post.frontmatter.title}
         description={post.frontmatter.description}
         //image={post.frontmatter.image}
-        image={`https://movimientoporlapazylavida.netlify.app${post.frontmatter.image?.publicURL}`}
+        image={`https://mision-arbol.netlify.app${post.frontmatter.image?.publicURL}`}
         />
       <S.PostHeader>
         <S.PostDate>
@@ -30,7 +30,7 @@ import Share from '../components/Share'
       <S.MainContent>
         <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
         <Share
-          url={`https://movimientoporlapazylavida.netlify.app${post.fields.slug}`}
+          url={`https://mision-arbol.netlify.app${post.fields.slug}`}
 title={title}
       twitterHandle={twitterHandle}
         />
