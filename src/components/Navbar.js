@@ -53,6 +53,7 @@ const Navbar = (  ) => {
       <Link to="/" className="text-sm block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">Inicio</Link>
       <Link to="/blog" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Noticias</Link>
       <Link to="/nosotros" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Nosotros</Link>
+  <Link to="/guide" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Guia de Especie</Link>
     </nav>
 
   
