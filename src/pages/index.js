@@ -6,9 +6,8 @@ import Testimonials from "../components/Header/Arbol"
 //import {SliderData} from "../components/Hero/SliderData"
 import HeroSection from "../components/HeroSection"
 import InfoSection from "../components/InfoSection/InfoSection"
-
+import Email from '../components/Email'
 import Layout from "../components/layout"
-
 import SEO from "../components/seo"
 import {InfoData} from "../data/InfoData"
 
@@ -19,7 +18,7 @@ const IndexPage = () => (
     <HeroSection />
     <InfoSection {...InfoData}/>
     <Testimonials />
-  
+    <Email />
   </Layout>
 )
 

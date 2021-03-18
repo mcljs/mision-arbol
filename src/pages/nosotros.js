@@ -18,7 +18,7 @@ const Nosotros = () => (
   <HeaderLayout 
       heading="Nosotros"
       image={Hero} />
-
+   
 <section className="pb-20 bg-gray-100 -mt-24">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
@@ -248,7 +248,7 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
             </div>
           </div>
         </section>
-
+      
   </Layout>
 )
 
