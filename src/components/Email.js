@@ -6,7 +6,10 @@ const Email = (  ) => {
     return(
  
     <section id="call-to-action" className=" relative overflow-hidden bg-blue-800 call-to-action">
-      <StaticImage  placeholder="blurred" src="../images/noticia.jpg" alt="email" className="flex absolute top-0 left-0 w-1/2 h-full call-action-image   lg:visible invisible"/>
+      <div className="flex absolute top-0 left-0 w-1/2 h-full call-action-image   lg:visible invisible">
+   <StaticImage  placeholder="blurred" src="../images/noticia.jpg" alt="email" />
+      </div>
+   
       <div className="container mx-auto ">
         <div className="flex justify-end row">
           <div className="w-full lg:w-1/2">
