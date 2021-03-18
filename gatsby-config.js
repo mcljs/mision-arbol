@@ -32,10 +32,18 @@ module.exports = {
   {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `Forestale`,
+        path: `${__dirname}/content/forestale`,
+      },
+    },
+  {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `posts`,
         path: `${__dirname}/content/posts`,
       },
     },
+  
   {
       resolve: `gatsby-transformer-remark`,
       options: {    
@@ -57,7 +65,12 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-mdx`,
+{
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`],
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,

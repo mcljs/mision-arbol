@@ -19,6 +19,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       value: `/${slug.slice(12)}`,
     })
   }
+
+
 }
 
 
@@ -80,4 +82,18 @@ exports.createPages = ({graphql,actions}) => {
     })
   })
 }
+
+
+
+exports.onCreatePage = async({page,actions}) => {
+  const {createPage} = actions
+
+
+  if(page.path.match(/^\/guide/)){
+    page.matchPath = "/guide/*"
+
+    createPage(page)
+  }
+}
+
 
