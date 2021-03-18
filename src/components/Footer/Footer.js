@@ -1,7 +1,7 @@
 import React from 'react';
 import {FaFacebook} from '@react-icons/all-files/fa/FaFacebook'
 import {FaTwitter} from '@react-icons/all-files/fa/FaTwitter'
-import {GiFruitTree} from '@react-icons/all-files/gi/GiFruitTree';
+import {FaInstagram} from '@react-icons/all-files/fa/FaInstagram';
 import {
   FooterContainer,
   FooterWrap,
@@ -89,16 +89,16 @@ function Footer() {
          > Fundación <strong>Misión Arbol</strong></h3>
             </SocialLogo>
             <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
+              <SocialIconLink href='https://www.facebook.com/Fundamiarbolven' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
 
               </SocialIconLink>
-       <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
-                <GiFruitTree />
+       <SocialIconLink href='https://www.instagram.com/fundamiarbolven/' target='_blank' aria-label='Instagram'>
+                <FaInstagram />
 
               </SocialIconLink>
               <SocialIconLink
-                href='//www.twitter.com/briandesignz'
+                href='https://twitter.com/misionarbolven'
                 target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'

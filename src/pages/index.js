@@ -1,4 +1,5 @@
 import React from "react"
+import Email from "../components/Email"
 import Testimonials from "../components/Header/Arbol"
 //import Hero from "../components/Hero/Hero"
 //import HeroS from '../components/Hero/HeroSlider'
@@ -18,6 +19,7 @@ const IndexPage = () => (
     <HeroSection />
     <InfoSection {...InfoData}/>
     <Testimonials />
+    <Email />
   </Layout>
 )
 

@@ -1,7 +1,7 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+
 
 const NotFoundPage = () => (
   <Layout>
@@ -13,7 +13,7 @@ const NotFoundPage = () => (
 	
 
 		<div className="p-4 md:p-12 text-center lg:text-left">
-					<img src="https://source.unsplash.com/MP0IUfwrn0A" className="block lg:hidden  shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" />
+					<img src="https://source.unsplash.com/MP0IUfwrn0A" className="block lg:hidden  shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" alt="img" />
 			 <span class="inline-block py-1 px-2 rounded-full bg-green-600 text-white  text-xs font-bold tracking-widest mb-2"> Forestales</span>
 			<h1 className="text-3xl font-bold pt-8 lg:pt-0">Saman</h1>
 			<div className="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-green-500 opacity-25"></div>
@@ -39,7 +39,7 @@ const NotFoundPage = () => (
 	</div>
 	<div className="w-full lg:w-2/5">
 
-		<img src="https://pbs.twimg.com/media/Ea513L7XkAcGHkT.jpg" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block"/>
+		<img src="https://pbs.twimg.com/media/Ea513L7XkAcGHkT.jpg" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block" alt="img"/>
 
 		
 	</div>

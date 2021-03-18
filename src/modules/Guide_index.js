@@ -39,7 +39,7 @@ const Guide = () => {
 
           <Tabs>
 
-              <Tab onClick={handleTabSwitch} activeTab={activeTab === 0} id={0}>Forestale</Tab>
+              <Tab onClick={handleTabSwitch} activeTab={activeTab === 0} id={0}>Forestales</Tab>
 
               <Tab onClick={handleTabSwitch} activeTab={activeTab === 1} id={1}>Medicinal</Tab>
 

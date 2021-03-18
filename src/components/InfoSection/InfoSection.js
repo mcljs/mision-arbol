@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import {Button} from './Button'
 import { StaticImage} from 'gatsby-plugin-image'
+import Emoji from '../Emoji';
 const Section = styled.section`
   width:100;
   height: 100%;
@@ -17,6 +18,7 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
+    margin-top: -180px;
   }
 `;
 
@@ -34,7 +36,11 @@ const ColumnLeft = styled.div`
     font-weight: 600;
     font-size: clamp(1.5rem, 6vw, 2rem);
   }
-
+  h4{
+    margin-bottom: 1rem;
+    
+    font-size: clamp(1.5rem, 6vw, 1rem);
+  }
   p{
     margin-bottom: 2rem
   }
@@ -49,6 +55,7 @@ const ColumnRight = styled.div`
 background-color: #fffbec;
 
   @media screen and (max-width: 768px) {
+  margin-top: -140px;
     order: ${({reverse}) =>(reverse ? '1':'2')};
   }
 
@@ -64,16 +71,17 @@ background-color: #fffbec;
   }
 `
 
-const InfoSection = ({heading,paragrpahOne,paragrpahTwo,buttonLabel,reverse,}) => {
+const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reverse,}) => {
    
 
     return(
       <Section>
         <Container>
           <ColumnLeft>
-            <h1>{heading}</h1>
-            <p>{paragrpahOne}</p>
-            <p>{paragrpahTwo}</p>
+            <h1 >Agenda de Reforestación <Emoji symbol="🌳"/></h1>
+            <h4><strong>Estado:</strong> {paragrpahOne}</h4>
+            <h4><strong>Sitio: </strong>{paragrpahTwo}</h4>
+            <h4><strong>Dia: </strong>{paragrpahThree}</h4>
              <Button to="/home" primary='true'>{buttonLabel}</Button>
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
