@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Link } from 'gatsby';
+import Link from '../link'
 
 export const FooterContainer = styled.footer`
   background-color: #191111;
@@ -53,7 +53,7 @@ export const SocialIcons = styled.div`
   width: 240px;
 `;
 
-export const SocialIconLink = styled.a`
+export const SocialIconLink = styled(Link)`
   color: #fff;
   font-size: 24px;
 `;
