@@ -9,9 +9,10 @@ import {
   SocialMediaWrap,
   SocialLogo,
   SocialIcons,
-  SocialIconLink
+
 } from './FooterElements';
 
+import Link from '../link'
 import logo2 from '../../images/unnamed.png'
 function Footer() {
   return (
@@ -89,22 +90,21 @@ function Footer() {
          > Fundación <strong>Misión Arbol</strong></h3>
             </SocialLogo>
             <SocialIcons>
-              <SocialIconLink to='https://www.facebook.com/Fundamiarbolven' target='_blank' aria-label='Facebook'>
-                <FaFacebook />
+              <Link  to='https://www.facebook.com/Fundamiarbolven' aria-label='Facebook'>
+                <FaFacebook style={{color: '#fff' ,fontSize: '20px'}}/>
 
-              </SocialIconLink>
-       <SocialIconLink to='https://www.instagram.com/fundamiarbolven/' target='_blank' aria-label='Instagram'>
-                <FaInstagram />
+              </Link>
+       <Link to='https://www.instagram.com/fundamiarbolven/' aria-label='Instagram'>
+                <FaInstagram style={{color: '#fff' ,fontSize: '20px'}}/>
 
-              </SocialIconLink>
-              <SocialIconLink
+              </Link>
+              <Link
                 to='https://twitter.com/misionarbolven'
-                target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
               >
                 <FaTwitter />
-              </SocialIconLink>
+              </Link>
               </SocialIcons>
           </SocialMediaWrap>
         </SocialMedia>
