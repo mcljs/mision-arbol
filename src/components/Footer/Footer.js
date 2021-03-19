@@ -103,7 +103,7 @@ function Footer() {
                 aria-label='Twitter'
                 rel='noopener noreferrer'
               >
-                <FaTwitter />
+                <FaTwitter style={{color: '#fff' ,fontSize: '20px'}}/>
               </Link>
               </SocialIcons>
           </SocialMediaWrap>
