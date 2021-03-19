@@ -179,24 +179,30 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
                 </p>
               </div>
             </div>
-            <div className="flex items-center">
-              <div className="w-full  mb-12 px-4">
+          
+ <div className="flex flex-wrap">
+              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                 
+                </div>
+              </div>
+              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
                 <div className="px-6">
                   <img
                     alt="..."
-
-                    src="https://pbs.twimg.com/profile_images/1037101550571806722/zYacZcEJ_400x400.jpg"                    className="shadow-lg rounded-full max-w-full mx-auto"
+                     src="https://pbs.twimg.com/profile_images/1037101550571806722/zYacZcEJ_400x400.jpg"
+                    className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxWidth: "120px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
-                     Wilmer José Vásquez
+                      Wilmer Vásquez
                     </h5>
                     <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                      Presidente de la Fundación
+                     Presidente de la Fundación
                     </p>
                     <div className="mt-6">
-                     <Link to="https://twitter.com/wilmervasquezm?lang=es"> 
+                      <Link to="https://twitter.com/wilmervasquezm?lang=es"> 
                       <button
                         className="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                         type="button"
@@ -213,39 +219,40 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
                       
                           <FaFacebookF className="ml-2"/>
                       </button>
-                      </Link>
-
-                     
-                    </div>
+                      </Link>                    </div>
                   </div>
                 </div>
               </div>
-              <div className="w-full  mb-12 px-1">
-                 <div className="px-6">
+              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
                   <img
                     alt="..."
-
                     src={Image2}
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxWidth: "120px" }}
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">
-                      Oswaldo Barbera Gutiérrez
+                      Oswaldo Gutiérrez
                     </h5>
                     <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                      Ministro del Poder Popular para el Ecosocialismo
+                      Ministro del poder popular para el ecosocialismo
                     </p>
-                    <div className="mt-6">
-                     
-                     
-                    </div>
+                   
                   </div>
-                 </div>
+                </div>
               </div>
-             
-             
-            </div>
+              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  
+                </div>
+              </div>
+ </div>
+
+
+
+            
+           
           </div>
         </section>
       
