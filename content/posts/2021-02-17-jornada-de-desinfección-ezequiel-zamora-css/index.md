@@ -18,7 +18,7 @@ El viceministro de Gestión de Residuos y Desechos Sólidos del Ministerio del
 
 Asimismo, aseguró que, continuaran con las jornadas de desinfección para garantizar espacios  donde los usuarios puedan recrearse de manera biosegura, “vamos a intensificar nuestras actividades, esto con el fin de disminuir cada día las incidencias del COVID- 19, pero también garantizarles a nuestros jóvenes, niños y adultos el disfrute pleno de estos parques”.
 
-![Mision-Arbol](/assets/img/2021-02-17-jornada-de-desinfección-ezequiel-zamora-css/img-2.png)
+![Mision-Arbol-1](/assets/img/2021-02-17-jornada-de-desinfección-ezequiel-zamora-css/img-2.png)
 
  La actividad contó con la participación del viceministro  Luis Palacios, (antes mencionado), el presidente de la **Fundación Misión Árbol, Wilmer Vásquez**, la Gerente de Parque y Plazas de la Alcaldía de Caracas, Margoth Sivira, el Coordinador de parque Ezequiel Zamora, Hilario Rojas. Además, con el apoyo de protección civil, los bomberos forestales, la unión cívico militar, y otros entes del estado.
 
@@ -28,11 +28,11 @@ Durante la jornada se hizo la entrega de materiales para la limpieza manual, y e
 
 Palacios reconoció la importancia de este emblemático parque en las tradiciones de los residentes, “el parque Ezequiel Zamora o conocido popularmente como El Calvario, es muy utilizado en la época de Semana Santa para las actividades religiosas que tengan lugar en el sector”. Por lo tanto, “nosotros como un solo gobierno podemos dar garantía  de su salubridad para el disfrute total y pleno de nuestro pueblo”, dijo.
 
-![Mision-Arbol](/assets/img/2021-02-17-jornada-de-desinfección-ezequiel-zamora-css/img-3.png)
+![Mision-Arbol-2](/assets/img/2021-02-17-jornada-de-desinfección-ezequiel-zamora-css/img-3.png)
 
 El viceministro manifestó que se realizarán jornadas de desinfección en las instituciones gubernamentales, “las desinfecciones continuarán en las zonas del patrimonio histórico cultural, parques recreacionales, plazas y adicionalmente también en las instituciones del estado para garantizar a los trabajadores las condiciones de bioseguridad, específica en cada caso”.
 
-![Mision-Arbol](/assets/img/2021-02-17-jornada-de-desinfección-ezequiel-zamora-css/img-4.png)
+![Mision-Arbol-3](/assets/img/2021-02-17-jornada-de-desinfección-ezequiel-zamora-css/img-4.png)
 
 Finalmente, Margoth Sivira, Gerente de Parque y Plazas de la Alcaldía de Caracas expresó que, “es importante seguir trabajando en conjunto, hoy tocó jornada de desinfección en el parque Ezequiel Zamora, un parque para la recreación, donde esta semana de carnaval al igual que en los otros parques de Caracas, hubo presencia de familias compartiendo y disfrutando, y ahora la Alcaldía de Caracas en conjunto con los ministerios, estamos trabajando en la desinfección para la seguridad y bienestar de la comunidad caraqueña”.
 
