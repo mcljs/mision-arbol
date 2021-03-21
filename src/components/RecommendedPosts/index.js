@@ -25,11 +25,11 @@ const RecommendedPosts = ({ next, previous }) => (
     {next && (
       <li className="w-1/2">
         <div className="flex flex-col text-right">
-          <div>Siguiente Publicación Publicación</div>
+          <div>Siguiente Publicación</div>
          <Link
         to={next.fields.slug}
    
-        className="next"
+        className="block py-2 font-semibold hover:no-underline hover:text-accent-3 hover:text-green-800"
       >
         {next.frontmatter.title}
         </Link>
