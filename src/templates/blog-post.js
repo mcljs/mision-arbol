@@ -23,7 +23,8 @@ import image from '../images/Eslogan de Misión Árbol (PNG).png'
         />
 
         <div className="mt-10 sm:mt-24">
-        <p className="px-4 lg:px-0 mb-5 ml-2 italic text-gray-500 max-w-screen-md mx-auto text-lg leading-relaxed
+          <p className="px-4 lg:px-4 mb-5 italic text-gray-500 max-w-screen-md mx-auto text-lg leading-relaxed
+
 ">
           {post.frontmatter.date} • {post.timeToRead} min de lectura
         </p>
