@@ -8,7 +8,7 @@ const Share = ({url, title, twitterHandle}) => (
   <>
   
 
-  <div className="py-14 max-w-screen-lg mx-auto mb-32 flex flex-col items-center justify-center px-7">
+  <div className="py-14 max-w-screen-lg mx-auto mb-8 flex flex-col items-center justify-center px-7">
    
     <h2 className="sm:text-2xl text-xl font-bold text-center leading-tight">Comparte este artículo con tus amigos</h2>
     <div className="mt-4 flex items-center justify-center flex-wrap">

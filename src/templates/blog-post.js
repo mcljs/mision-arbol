@@ -22,13 +22,14 @@ import image from '../images/Eslogan de Misión Árbol (PNG).png'
         image={`https://mision-arbol.netlify.app${post.frontmatter.image?.publicURL}`}
         />
 
-      <S.PostHeader>
-        <S.PostDate>
+        <div className="mt-10 sm:mt-24">
+        <p className="px-4 lg:px-0 mb-5 italic text-gray-500 max-w-screen-md mx-auto text-lg leading-relaxed
+">
           {post.frontmatter.date} • {post.timeToRead} min de lectura
-        </S.PostDate>
+        </p>
        
         <h1 className="post-title">{post.frontmatter.title}</h1>
-      </S.PostHeader>
+      </div>
       <div className="markdown">
         <S.MainContent>
           <div dangerouslySetInnerHTML={{ __html: post.html }}></div>

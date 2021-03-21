@@ -1,5 +1,6 @@
 .post-title{
-    @apply ml-4 text-4xl font-semibold text-gray-800 leading-tight
+    @apply px-4 lg:px-0  text-4xl font-semibold text-gray-800 max-w-screen-md mx-auto leading-relaxed
+
 }
 .markdown {
   @apply px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed
