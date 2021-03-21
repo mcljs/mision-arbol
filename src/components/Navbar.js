@@ -31,7 +31,7 @@ const Navbar = (  ) => {
       <Nav scrollNav={scrollNav}  >
         <header   className="border-b border-yellow-1100 bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-2 border-b border-gray-800">
     <div className="flex items-center justify-between px-4 py-3 sm:p-0">
-      <StaticImage className='flex items-center w-9 ml-3'  src='../images/Imagen4.png' alt="logo"
+      <StaticImage className='flex items-center w-9 ml-3'  src='https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366436/assets/Imagen4_trecro.png' alt="logo"
                        placeholder="blurred"
      
                     />

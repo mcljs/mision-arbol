@@ -2,10 +2,8 @@ import React from "react"
 import '../components/FotoHeader/fotos.css'
 import Layout from "../components/layout"
 import HeaderLayout from "../components/HeaderLayout"
-import Hero from '../images/img-2.jpg'
 import SEO from "../components/seo"
 
-import Image2 from '../images/ministro.jpg'
 import {StaticImage} from "gatsby-plugin-image"
 import {AiOutlineTwitter} from '@react-icons/all-files/ai/AiOutlineTwitter'
 import {FaFacebookF} from '@react-icons/all-files/fa/FaFacebookF'
@@ -17,7 +15,7 @@ const Nosotros = () => (
     <SEO title="Nosotros" />
   <HeaderLayout 
       heading="Nosotros"
-      image={Hero} />
+      image="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616368830/assets/img-2-min_wsg41q.jpg" />
    
 <section className="pb-20 bg-gray-100 -mt-24">
           <div className="container mx-auto px-4">
@@ -77,7 +75,7 @@ ambientalistas.
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-600">
                   <StaticImage
                    
-                    src="../images/jurid.jpg"
+                    src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366782/assets/jurid_e07bpu.jpg"
                     alt="..."
                     className="w-full align-middle rounded-t-lg"
                   />
@@ -227,7 +225,7 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
                 <div className="px-6">
                   <img
                     alt="..."
-                    src={Image2}
+                    src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616367021/assets/ministro_yrckfo.jpg"
                     className="shadow-lg rounded-full max-w-full mx-auto"
                     style={{ maxWidth: "120px" }}
                   />

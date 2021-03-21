@@ -1,6 +1,5 @@
 import React from "react"
 import '../components/FotoHeader/fotos.css'
-import Hero from '../images/noticia.jpg' 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeaderLayout from "../components/HeaderLayout"
@@ -45,7 +44,7 @@ const postList = allMarkdownRemark.edges
     <SEO title="Noticias" />
     <HeaderLayout 
       heading="Noticias"
-      image={Hero} />
+      image="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616367497/assets/noticia-min_cvatoc.jpg" />
     <section className="sm:py-10 py-22 max-w-screen-lg mx-auto px-8">
  
    

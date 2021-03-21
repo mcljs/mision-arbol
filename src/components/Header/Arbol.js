@@ -1,27 +1,14 @@
 
 import React from 'react'
 import styled from 'styled-components';
-import { GatsbyImage} from "gatsby-plugin-image"
+import {  StaticImage} from "gatsby-plugin-image"
 import {GiFruitTree} from '@react-icons/all-files/gi/GiFruitTree';
 import {GiStairsGoal} from '@react-icons/all-files/gi/GiStairsGoal'
-import {graphql, useStaticQuery} from 'gatsby';
+
 
 
 const Testimonials = () =>{
-  const data = useStaticQuery(graphql`
-  query {
-  allFile(filter: {ext: {regex: "/(jpg)|(png)|(jpeg)/"}, 
-    name: {in: ["arbol-2","img-3"]}}) {
-    edges {
-      node {
-        childImageSharp {
-          gatsbyImageData(height:400)
-        }
-      }
-    }
-  }
-}
-  `)
+ 
   return(
     <TestimonialsContainer>
       <TopLine>
@@ -53,11 +40,9 @@ const Testimonials = () =>{
           </Testimonial>
         </ColumnOne>
         <ColumnTwo>
-          {data.allFile.edges.map((image,key) =>(
-
-            <Images key={key} image={image.node.childImageSharp.gatsbyImageData}/> 
-          ))}
-      
+        
+            <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616368830/assets/img-2-min_wsg41q.jpg"/> 
+               <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616368734/assets/img-3_qwe31h.jpg"/> 
         </ColumnTwo>
       </ContentWrapper>
     </TestimonialsContainer>
@@ -124,7 +109,4 @@ const ColumnTwo = styled.div`
     grid-template-columns: 1fr;
   }
 `
-const Images = styled(GatsbyImage)`
-  border-radius: 10px;
-  height: 100%;
-  `
+
