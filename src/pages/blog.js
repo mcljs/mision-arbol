@@ -46,6 +46,8 @@ const postList = allMarkdownRemark.edges
     <HeaderLayout 
       heading="Noticias"
       image={Hero} />
+    <section className="sm:py-40 py-28 max-w-screen-lg mx-auto px-8">
+
    
   <ul className="grid md:grid-cols-2 grid-cols-1 sm:gap-8 gap-5">
 {postList.map(
@@ -67,6 +69,7 @@ const postList = allMarkdownRemark.edges
 
         ))}
   </ul>
+  </section>
   </Layout>
 
 )
