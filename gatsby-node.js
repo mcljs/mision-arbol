@@ -36,7 +36,7 @@ exports.createPages = ({graphql,actions}) => {
             slug
           }
           frontmatter {
-  
+            tags
             date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
             description
             title
@@ -60,6 +60,7 @@ exports.createPages = ({graphql,actions}) => {
           }
           frontmatter {
             title
+            tags
           }
         }
       }
