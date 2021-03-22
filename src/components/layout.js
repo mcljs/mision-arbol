@@ -13,7 +13,6 @@ import {fonts} from '../lib/typography'
 import {Global,css} from '@emotion/react'
 import {bpMaxSM} from '../lib/breakpoints'
 import reset from '../lib/reset'
-import RouteLoadingIndicator from './RouterLoadingIndicator';
 //import "./layout.css"
 export const globalStyles = css`
    ${bpMaxSM} {
@@ -128,9 +127,6 @@ const Layout = ({ children }) => {
     <>
   <Global styles={globalStyles}/>
      <Navbar  />
-      <RouteLoadingIndicator /> 
-   
-
         <main>{children}</main>
         <Footer />
    
