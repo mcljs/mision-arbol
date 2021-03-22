@@ -1,5 +1,4 @@
 import React from "react"
-import '../components/FotoHeader/fotos.css'
 import Layout from "../components/layout"
 import HeaderLayout from "../components/HeaderLayout"
 import SEO from "../components/seo"
