@@ -27,7 +27,7 @@ export default function HTML(props) {
                 position: "absolute",
                 left: 0,
                 top: 0,
-                marginBottom: '20px',
+                paddingBottom: '3rem',
                 right: 0,
                 bottom: 0,
                 zIndex: 100,
