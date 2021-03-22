@@ -6,17 +6,15 @@
  */
 
 
-import React, {useEffect, useState} from 'react';
-
+import React from 'react';
+import Navbar from '../components/Navbar'
+import Footer from './Footer/Footer';
 import {fonts} from '../lib/typography'
 import {Global,css} from '@emotion/react'
 import {bpMaxSM} from '../lib/breakpoints'
 import reset from '../lib/reset'
 import RouteLoadingIndicator from './RouterLoadingIndicator';
 //import "./layout.css"
-const Navbar = React.lazy(()=> import('../components/Navbar'))
-const Footer = React.lazy(()=> import('./Footer/Footer'))
-
 export const globalStyles = css`
    ${bpMaxSM} {
     h1 {
@@ -123,48 +121,18 @@ const Layout = ({ children }) => {
 
 
 
-const [state, setState] = useState({
-    isRouteChanging: false,
-    loadingKey: 0,
-  })
-
-useEffect(() => {
-    const handleRouteChangeStart = () => {
-      setState((prevState) => ({
-        ...prevState,
-        isRouteChanging: true,
-        loadingKey: prevState.loadingKey ^ 1,
-      }))
-    }
-
-const handleRouteChangeEnd = () => {
-      setState((prevState) => ({
-        ...prevState,
-        isRouteChanging: false,
-      }))
-    }
 
 
-  }, [])
-
-const isSSR = typeof window === "undefined"
 
   return (
     <>
-     
-      {!isSSR &&(
- <React.Suspense fallback={ <RouteLoadingIndicator isRouteChanging={state.isRouteChanging}/>}>
-     <Global styles={globalStyles}/>
+  <Global styles={globalStyles}/>
      <Navbar  />
-  
+      <RouteLoadingIndicator /> 
    
 
         <main>{children}</main>
         <Footer />
-
-      </React.Suspense>
-      )}
-
    
     </>
   )

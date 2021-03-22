@@ -86,6 +86,16 @@ module.exports = {
         extensions: [`.mdx`],
       },
     },
+{
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        // Setting a color is optional.
+        color: "#29d",
+        // Disable the loading spinner.
+        showSpinner: true,
+      },
+    },
+'gatsby-plugin-preload-link-crossorigin',
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
