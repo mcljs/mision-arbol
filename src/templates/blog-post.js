@@ -23,10 +23,10 @@ import TagPill from '../components/TagPill'
         />
 
         <div className="mt-10 sm:mt-24">
-          <p className="px-4 lg:px-4 mb-5 italic text-gray-500 max-w-screen-md mx-auto text-lg leading-relaxed
+          <p className="px-4 lg:px-2 mb-5 italic text-gray-500 max-w-screen-md mx-auto text-lg leading-relaxed
 
 ">
-          {post.frontmatter.date} • {post.timeToRead} min de lectura
+          {post.frontmatter.date} 
         </p>
        
         <h1 className="post-title">{post.frontmatter.title}</h1>
@@ -43,6 +43,7 @@ import TagPill from '../components/TagPill'
       </div>
  
 <img src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366412/assets/Eslogan_de_Misi%C3%B3n_%C3%81rbol_PNG_jcegjs.png" alt="Eslogan" className="mx-auto pt-7 w-24"/ >
+
  <Share
           url={`https://mision-arbol.netlify.app${post.fields.slug}`}
 title={title}

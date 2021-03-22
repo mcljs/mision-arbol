@@ -11,11 +11,11 @@ const RecommendedPosts = ({ next, previous }) => (
     {previous && (
       <li className="w-1/2">
         <div className="flex flex-col text-left">
-          <div>Anterior Publicación</div>
+          <div>← Anterior Publicación</div>
          <Link
         to={previous.fields.slug}
        
-           className="block py-2 font-semibold hover:no-underline hover:text-accent-3 hover:text-green-800"
+           className="block py-2 font-semibold mr-12 hover:no-underline hover:text-accent-3 hover:text-green-800"
       >
         {previous.frontmatter.title}
       </Link>
@@ -25,11 +25,11 @@ const RecommendedPosts = ({ next, previous }) => (
     {next && (
       <li className="w-1/2">
         <div className="flex flex-col text-right">
-          <div>Siguiente Publicación</div>
+          <div>Siguiente Publicación →</div>
          <Link
         to={next.fields.slug}
    
-        className="block py-2 font-semibold hover:no-underline hover:text-accent-3 hover:text-green-800"
+        className="block py-2 ml-8 font-semibold hover:no-underline hover:text-accent-3 hover:text-green-800"
       >
         {next.frontmatter.title}
         </Link>

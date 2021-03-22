@@ -1,7 +1,7 @@
 import React from 'react'
 import Img from 'gatsby-image'
 import Link from '../link'
-const PostItem = ({slug,fluid,date,timeToRead,title,description,}) => (
+const PostItem = ({slug,fluid,date,title,description,}) => (
 
 
     <li className="m-4">
@@ -11,7 +11,7 @@ const PostItem = ({slug,fluid,date,timeToRead,title,description,}) => (
         <h2 className="sm:text-2xl text-xl pb-5 leading-tight font-semibold">{title}</h2>
         <p className="prose opacity-75 hover:opacity-100 transition-opacity duration-200 ease-in-out ">{description}</p>
       </section>
-        <span className="sm:px-8 px-5 sm:pb-8 pb-5 ml-0 sm:ml-4 text-left w-full text-gray-600 opacity-75 text-sm ">{date} • {timeToRead} min de lectura</span>
+        <span className="sm:px-8 px-5 sm:pb-8 pb-5 ml-0 sm:ml-4 text-left w-full text-gray-600 opacity-75 text-sm ">{date} </span>
       </Link>
     </li>
 

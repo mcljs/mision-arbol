@@ -8,6 +8,14 @@ module.exports = {
     `gatsby-mdx`,
  `gatsby-remark-normalize-paths`,
     `gatsby-plugin-react-helmet`,
+ {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "G-V34B09K0T7",
+        head: true,
+        anonymize: true,
+      },
+    },
    {
       resolve: `gatsby-source-filesystem`,
       options: {
