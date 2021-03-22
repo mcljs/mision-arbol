@@ -31,11 +31,10 @@ const Navbar = (  ) => {
       <Nav scrollNav={scrollNav}  >
         <header   className="border-b border-yellow-1100 bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-2 border-b border-gray-800">
     <div className="flex items-center justify-between px-4 py-3 sm:p-0">
-      <StaticImage className='flex items-center w-9 ml-3'  src='https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366436/assets/Imagen4_trecro.png' alt="logo"
-                       placeholder="blurred"
-     
-                    />
-       
+      <Link to="/">
+      <StaticImage className='flex items-center w-9 ml-3'  src='https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366436/assets/Imagen4_trecro.png' alt="logo" placeholder="blurred" />
+        </Link>
+
       <div className="sm:hidden">
         <button onClick={handleClick}   type="button" className="block text-gray-50 hover:text-white focus:text-white focus:outline-none">
           <svg class="h-6 w-6 fill-current" viewBox="0 0 24 24">
