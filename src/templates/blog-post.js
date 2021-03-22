@@ -69,9 +69,7 @@ query Post($slug: String!) {
       tags
       description
       date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
-     image{
-       publicURL
-            }
+     image
     }
     html
     timeToRead

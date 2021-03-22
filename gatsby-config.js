@@ -2,8 +2,14 @@ module.exports = {
   siteMetadata: {
     title: `Misión Arbol`,
     description: `Misión Árbol. MINEC. Gobierno Bolivariano de Venezuela`,
-    author: `@gatsbyjs`,
+    author: `@mcljs15`,
+    siteUrl: 'https://mision-arbol.netlify.app'
   },
+flags: {
+    DEV_SSR: false,
+    FAST_DEV: true
+  },
+
   plugins: [
     `gatsby-mdx`,
  `gatsby-remark-normalize-paths`,
