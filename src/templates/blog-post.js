@@ -7,7 +7,6 @@ import RecommendedPosts from "../components/RecommendedPosts"
 import Share from '../components/Share'
 import '../components/styles/base.css'
 import TagPill from '../components/TagPill'
-import {StaticImage} from 'gatsby-plugin-image'
  const BlogPost = ({ data,pageContext,title,twitterHandle}) => {
   const post = data.markdownRemark
   const next = pageContext.nextPost
@@ -43,7 +42,7 @@ import {StaticImage} from 'gatsby-plugin-image'
         </section>
       </div>
  
-<StaticImage src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366412/assets/Eslogan_de_Misi%C3%B3n_%C3%81rbol_PNG_jcegjs.png" alt="Eslogan" className="mx-auto pt-7 w-24"/ >
+<img src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366412/assets/Eslogan_de_Misi%C3%B3n_%C3%81rbol_PNG_jcegjs.png" alt="Eslogan" className="mx-auto pt-7 w-24"/ >
  <Share
           url={`https://mision-arbol.netlify.app${post.fields.slug}`}
 title={title}
