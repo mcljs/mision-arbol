@@ -13,7 +13,6 @@ import {
 } from './FooterElements';
 
 import Link from '../link'
-import logo2 from '../../images/unnamed.png'
 function Footer() {
   return (
     <>
@@ -23,7 +22,7 @@ function Footer() {
           <SocialMediaWrap>
             <SocialLogo to='/'>
      
-            <img src={logo2} alt={logo2}   css={`
+            <img src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616371445/assets/unnamed_nixw5r.png" alt="MINEC"   css={`
                          width: auto;
                         height: 60px;
                          margin-left: 20px;

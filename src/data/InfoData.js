@@ -1,5 +1,5 @@
 import ImageOne from '../images/image-5.jpg'
-import ImageTwo from '../images/image-4.jpg'
+
 
 export const InfoData = {
   heading: 'Espacio recuperados 🌳',
@@ -17,7 +17,7 @@ export const InfoDataTwo = {
   paragrpahOne: 'Amazonas',
   paragrpahTwo: '02',
   buttonLabel: 'Ver Mas',
-  image: ImageTwo,
+  image: ImageOne,
   reverse: true,
   delay: 100
 };

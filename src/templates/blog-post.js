@@ -7,7 +7,7 @@ import RecommendedPosts from "../components/RecommendedPosts"
 import Share from '../components/Share'
 import '../components/styles/base.css'
 import TagPill from '../components/TagPill'
-import image from '../images/Eslogan de Misión Árbol (PNG).png'
+import {StaticImage} from 'gatsby-plugin-image'
  const BlogPost = ({ data,pageContext,title,twitterHandle}) => {
   const post = data.markdownRemark
   const next = pageContext.nextPost
@@ -43,7 +43,7 @@ import image from '../images/Eslogan de Misión Árbol (PNG).png'
         </section>
       </div>
  
-<img src={image} alt={image} className="mx-auto pt-7 w-24"/ >
+<StaticImage src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366412/assets/Eslogan_de_Misi%C3%B3n_%C3%81rbol_PNG_jcegjs.png" alt="Eslogan" className="mx-auto pt-7 w-24"/ >
  <Share
           url={`https://mision-arbol.netlify.app${post.fields.slug}`}
 title={title}
