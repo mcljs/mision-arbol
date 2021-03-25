@@ -25,20 +25,7 @@ const Nosotros = () => (
                 </div>
               </div>
 
-              <div className="w-full md:w-4/12 px-4 text-center">
-                <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
-                  <div className="px-4 py-5 flex-auto">
-                    <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-green-400">
-                     
-                    </div>
-                    <h6 className="text-xl font-semibold">
-                     Rango y Nivel de Adscripción
-                    </h6>
-                     <p className="mt-2 mb-4 text-gray-600">
-                      Fundación del Estado, adscrita al Ministerio del Poder Popular para el Ecosocialismo  </p>
-                  </div>
-                </div>
-              </div>
+             
 
               <div className="pt-6 w-full md:w-4/12 px-4 text-center">
                 
@@ -48,15 +35,13 @@ const Nosotros = () => (
 
             <div className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
-                <div className="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-yellow-1100">
-            
-                </div>
+               
                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                  Misión
+                  <span className="text-gray-600 p-3 text-center inline-flex items-center justify-center w-5 h-5  shadow-lg rounded-full bg-yellow-1100"></span> Misión
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
                  Somos el ente encargado de contribuir
-con la construcción de un uevo modelo
+con la construcción de un nuevo modelo
 de desarrollo, fundamentado en la
 recuperación, conservación y uso
 sustentable de los bosques, el equilibrio
@@ -138,16 +123,25 @@ ambientalistas.
                   src="https://images.pexels.com/photos/4207909/pexels-photo-4207909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 />
               </div>
-              <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
+              <div className="w-full md:w-5/12 ml-auto mr-auto px-4 mt-16 sm:mt-0">
                 <div className="md:pr-12">
-                  <div className="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-blue-1000">
-                    <i className="fas fa-rocket text-xl"></i>
-                  </div>
+                 
                   <h3 className="text-3xl font-semibold">
-                   Objetivo
+                    <span className="text-gray-600 p-3 text-center inline-flex items-center justify-center w-5 h-5  shadow-lg rounded-full bg-blue-1000"></span> Visión
                   </h3>
                   <p className="mt-4 text-lg leading-relaxed text-gray-600">
-                   La Fundación Misión Árbol, es el ente encargado de la recolección de semillas, producción de plantas, plantación, mantenimiento, recuperación, conservación y uso sustentable de los bosques, para el mejoramiento de la calidad de vida de la población, el rescate y la protección de la flora, así como saldar la deuda histórica que la población tiene con nuestro ecosistema, impulsando el reconocimiento de los Derechos Ambientales y los Derechos de la Madre Tierra en la Ética de la Mujer y el Hombre Nuevo.       </p>
+                     Ser el ente rector de las políticas públicas
+destinadas a incentivar la conciencia
+colectiva ecológica sobre la importancia
+de los bosques, el equilibrio ecológico y la
+recuperación de espacios degradados,
+particularmente en quienes habitan en
+áreas rurales, impulsando una nueva ética
+ambientalista para mejorar la calidad de
+vida de la población venezolana, el rescate
+y la protección de la flora, así como saldar
+la deuda histórica que la población que tiene con nuestro ecosistema.     
+                  </p>
                   
                 </div>
               </div>
@@ -159,20 +153,10 @@ ambientalistas.
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold">
-                  Visión
+                  Objetivo
                 </h2>
                 <p className="text-lg leading-relaxed m-4 text-gray-600">
-                 Ser el ente rector de las políticas públicas
-destinadas a incentivar la conciencia
-colectiva ecológica sobre la importancia
-de los bosques, el equilibrio ecológico y la
-recuperación de espacios degradados,
-particularmente en quienes habitan en
-áreas rurales, impulsando una nueva ética
-ambientalista para mejorar la calidad de
-vida de la población venezolana, el rescate
-y la protección de la flora, así como saldar
-la deuda histórica que la población que tiene con nuestro ecosistema.
+              La Fundación Misión Árbol, es el ente encargado de la recolección de semillas, producción de plantas, plantación, mantenimiento, recuperación, conservación y uso sustentable de los bosques, para el mejoramiento de la calidad de vida de la población, el rescate y la protección de la flora, así como saldar la deuda histórica que la población tiene con nuestro ecosistema, impulsando el reconocimiento de los Derechos Ambientales y los Derechos de la Madre Tierra en la Ética de la Mujer y el Hombre Nuevo.
                 </p>
               </div>
             </div>
