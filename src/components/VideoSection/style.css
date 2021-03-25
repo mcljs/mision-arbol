@@ -1,0 +1,31 @@
+.video-docker video {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.video-docker::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+}
+
+.video-content {
+  z-index: 2;
+}
+
+.video-content h1{
+ text-shadow: 2px 2px 2px #000;
+}
+
+.video-content h2{
+ text-shadow: 2px 2px 2px #000;
+}
+
+.link-content {
+  z-index: 2;
+}
