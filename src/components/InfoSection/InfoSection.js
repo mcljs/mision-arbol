@@ -2,7 +2,8 @@ import React from 'react'
 import styled from 'styled-components'
 import {Button} from './Button'
 import { StaticImage} from 'gatsby-plugin-image'
-import Emoji from '../Emoji';
+
+
 const Section = styled.section`
   width:100;
   height: 100%;
@@ -78,7 +79,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
       <Section>
         <Container>
           <ColumnLeft>
-            <h1 >Agenda de Reforestación <Emoji symbol="🌳"/></h1>
+            <h1 >Agenda de Reforestación </h1>
             <h4><strong>Estado:</strong> {paragrpahOne}</h4>
             <h4><strong>Sitio: </strong>{paragrpahTwo}</h4>
             <h4><strong>Dia: </strong>{paragrpahThree}</h4>
