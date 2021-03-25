@@ -9,6 +9,8 @@ const Section = styled.section`
   height: 100%;
   padding: 4rem 0rem;
 background-color: #fff2f2;
+margin-top: -85px;
+
 `;
 
 const Container = styled.div`
@@ -19,7 +21,7 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
-    margin-top: -180px;
+    margin-top: -220px;
   }
 `;
 
@@ -35,12 +37,12 @@ const ColumnLeft = styled.div`
   h1{
     margin-bottom: 1rem;
     font-weight: 600;
-    font-size: clamp(1.5rem, 6vw, 2rem);
+    font-size: clamp(1.4rem, 6vw, 2rem);
   }
   h3{
     margin-bottom: 1rem;
     
-    font-size: clamp(1.5rem, 6vw, 1rem);
+    font-size: 1.6rem;
   }
   p{
     margin-bottom: 2rem
