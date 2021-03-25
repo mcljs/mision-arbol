@@ -37,7 +37,7 @@ const ColumnLeft = styled.div`
     font-weight: 600;
     font-size: clamp(1.5rem, 6vw, 2rem);
   }
-  h4{
+  h3{
     margin-bottom: 1rem;
     
     font-size: clamp(1.5rem, 6vw, 1rem);
@@ -80,9 +80,9 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
         <Container>
           <ColumnLeft>
             <h1 >Agenda de Reforestación </h1>
-            <h4><strong>Estado:</strong> {paragrpahOne}</h4>
-            <h4><strong>Sitio: </strong>{paragrpahTwo}</h4>
-            <h4><strong>Dia: </strong>{paragrpahThree}</h4>
+            <h3><strong>Estado:</strong> {paragrpahOne}</h3>
+            <h3><strong>Sitio: </strong>{paragrpahTwo}</h3>
+            <h3><strong>Dia: </strong>{paragrpahThree}</h3>
              <Button to="/home" primary='true'>{buttonLabel}</Button>
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
