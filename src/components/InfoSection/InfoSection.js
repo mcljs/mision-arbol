@@ -81,7 +81,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
       <Section>
         <Container>
           <ColumnLeft>
-            <h1 >Agenda de Reforestación </h1>
+            <h1 >Calendario Digital</h1>
             <h3><strong>Estado:</strong> {paragrpahOne}</h3>
             <h3><strong>Sitio: </strong>{paragrpahTwo}</h3>
             <h3><strong>Dia: </strong>{paragrpahThree}</h3>
