@@ -14,7 +14,7 @@ const VideoSection = (  ) => (
     <h2 className="font-light text-white text-2xl">Comandante Hugo Chavéz</h2>
   <div class="inline-block mr-2 mt-2">
     <Link to="/nosotros">
-      <button className="px-7 py-2 rounded-full text-white bg-[#618439] font-semibold hover:bg-[#7daa49]">Siguenos</button></Link>
+      <button className="px-7 py-2 rounded-full text-white bg-[#455e29] font-semibold hover:bg-[#7daa49]">Siguenos</button></Link>
                 </div>
     </div>
 
