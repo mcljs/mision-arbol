@@ -37,7 +37,7 @@ const Navbar = (  ) => {
 
       <div className="sm:hidden">
         <button onClick={handleClick}   type="button" className="block text-gray-50 hover:text-white focus:text-white focus:outline-none">
-          <svg class="h-6 w-6 fill-current" viewBox="0 0 24 24">
+          <svg className="h-6 w-6 fill-current" viewBox="0 0 25 25">
 {
           click?
             <path fill-rule="evenodd" d="M18.278 16.864a1 1 0 0 1-1.414 1.414l-4.829-4.828-4.828 4.828a1 1 0 0 1-1.414-1.414l4.828-4.829-4.828-4.828a1 1 0 0 1 1.414-1.414l4.829 4.828 4.828-4.828a1 1 0 1 1 1.414 1.414l-4.828 4.829 4.828 4.828z"/>
