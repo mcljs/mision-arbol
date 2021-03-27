@@ -32,7 +32,7 @@ const Navbar = (  ) => {
         <header   className="border-b border-yellow-1100 bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-2 border-b border-gray-800">
     <div className="flex items-center justify-between px-4 py-3 sm:p-0">
       <Link to="/">
-      <StaticImage className='flex items-center w-9 ml-3'  src='https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366436/assets/Imagen4_trecro.png' alt="logo" placeholder="blurred" />
+      <StaticImage className='flex items-center w-9 ml-3'  src='https://res.cloudinary.com/dk5bvgq20/image/upload/q_18/v1616806926/assets/Imagen4_trecro-min_okm9fr.webp' alt="logo" placeholder="blurred" />
         </Link>
 
       <div className="sm:hidden">

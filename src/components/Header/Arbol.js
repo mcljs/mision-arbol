@@ -41,8 +41,8 @@ const Testimonials = () =>{
         </ColumnOne>
         <ColumnTwo>
         
-            <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/q_25/v1616784150/assets/unnamed_f6rfel.webp"/> 
-               <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616368734/assets/img-3_qwe31h.jpg"/> 
+            <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/q_20/v1616808985/assets/unnamed_f6rfel-min_mqqalq.webp"/> 
+               <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/q_37/v1616807391/assets/img-3_qwe31h-min_nvyg0d.webp"/> 
         </ColumnTwo>
       </ContentWrapper>
     </TestimonialsContainer>
