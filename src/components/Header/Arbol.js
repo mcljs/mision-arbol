@@ -41,7 +41,7 @@ const Testimonials = () =>{
         </ColumnOne>
         <ColumnTwo>
         
-            <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/q_10/v1616808985/assets/unnamed_f6rfel-min_mqqalq.jpg"/> 
+            <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/c_limit,h_996,q_10/a_0/v1616808985/assets/unnamed_f6rfel-min_mqqalq.webp"/> 
                <StaticImage className="rounded-3xl" src="https://res.cloudinary.com/dk5bvgq20/image/upload/q_37/v1616807391/assets/img-3_qwe31h-min_nvyg0d.webp"/> 
         </ColumnTwo>
       </ContentWrapper>

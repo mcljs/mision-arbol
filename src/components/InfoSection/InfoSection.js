@@ -88,7 +88,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
              <Button to="/home" primary='true'>{buttonLabel}</Button>
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
-            <StaticImage src="https://res.cloudinary.com/dk5bvgq20/image/upload/q_10/v1616809252/assets/image-5_rmtsez.jpg" alt="home" /> 
+            <StaticImage src="https://res.cloudinary.com/dk5bvgq20/image/upload/c_scale,h_446,q_10/v1616809252/assets/image-5_rmtsez.webp" alt="home" /> 
           </ColumnRight>
         </Container>
       </Section>
