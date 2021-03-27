@@ -14,6 +14,14 @@ flags: {
     `gatsby-mdx`,
  `gatsby-remark-normalize-paths`,
     `gatsby-plugin-react-helmet`,
+{
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://mision-arbol.netlify.app',
+        sitemap: 'https://mision-arbol.netlify.app/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      },
+    },
  {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
