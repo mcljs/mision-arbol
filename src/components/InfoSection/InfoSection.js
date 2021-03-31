@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import {Button} from './Button'
 import { StaticImage} from 'gatsby-plugin-image'
-
+import Descarga from '../../../static/assets/calendario-2021.pdf'
 
 const Section = styled.section`
   width:100;
@@ -93,7 +93,8 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
 
 
 
-             <Button to="../../../static/assets/calendario-2021.pdf" primary='true'>Descargar</Button>
+             <Button src={Descarga} primary='true'>Descargar</Button>
+          
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
             <StaticImage src="../../assets/calendario-img.png" alt="home" /> 
