@@ -21,7 +21,7 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
-    margin-top: -220px;
+    margin-top: -100px;
   }
 `;
 
@@ -82,13 +82,21 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
         <Container>
           <ColumnLeft>
             <h1 >Calendario Digital</h1>
-            <h3><strong>Estado:</strong> {paragrpahOne}</h3>
-            <h3><strong>Sitio: </strong>{paragrpahTwo}</h3>
-            <h3><strong>Dia: </strong>{paragrpahThree}</h3>
-             <Button to="/home" primary='true'>{buttonLabel}</Button>
+            <h3><strong>ABRIL 2021</strong></h3> 
+            <h3><strong>07.-</strong>Día Mundial de la Salud</h3>
+            <h3><strong>20.-</strong>Día del Caimán del Orinoco</h3>
+            <h3><strong>22.-</strong>Día Mundial de la tierra</h3>
+            <h3><strong>24.-</strong>Día internacional de la Concientización respectro al Ruido</h3>
+
+
+
+
+
+
+             <Button to="../../../static/assets/calendario-2021.pdf" download="calendario.pdf" primary='true'>Descargar</Button>
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
-            <StaticImage src="https://res.cloudinary.com/dk5bvgq20/image/upload/q_60/v1616809252/assets/image-5_rmtsez.webp" alt="home" /> 
+            <StaticImage src="../../assets/calendario-img.png" alt="home" /> 
           </ColumnRight>
         </Container>
       </Section>
