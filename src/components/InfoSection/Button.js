@@ -1,7 +1,7 @@
-import Link from '../link'
+import DownloadLink from '../DowloadLink'
 import styled from 'styled-components'
 
-export const Button = styled(Link)`
+export const Button = styled(DownloadLink)`
   background: ${({primary}) => (primary ? '#3740ff' : '#2D1406') };
   border: 1px solid #0791e6;
   white-space: nowrap;

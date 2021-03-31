@@ -93,7 +93,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
 
 
 
-             <Button to="../../../static/assets/calendario-2021.pdf" download="calendario.pdf" primary='true'>Descargar</Button>
+             <Button to="../../../static/assets/calendario-2021.pdf" primary='true'>Descargar</Button>
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
             <StaticImage src="../../assets/calendario-img.png" alt="home" /> 
