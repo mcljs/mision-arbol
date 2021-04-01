@@ -3,8 +3,6 @@ import LoaderSVG from '../images/loader.svg'
 const Loaded = (  ) => (
 
     <div
-              key={`loader`}
-              id="___loader"
               style={{
                 alignItems: "center",
                 backgroundColor: "#f9fafc",
