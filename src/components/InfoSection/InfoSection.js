@@ -97,7 +97,11 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
           
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
-            <StaticImage src="../../assets/calendario-img.png" alt="home" /> 
+            <StaticImage 
+            src="../../assets/calendario-img.png" 
+            alt="home" 
+            width={550}
+            /> 
           </ColumnRight>
         </Container>
       </Section>
