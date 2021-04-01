@@ -28,7 +28,7 @@ const isSSR = typeof window === "undefined"
     <>
 {!isSSR &&(
 
-  <React.Suspense fallback={  <Loaded /> }>
+  <React.Suspense fallback={ <div>Cargando</div> }>
   <Layout>
     <SEO title="Inicio" />
     <VideoSection />
