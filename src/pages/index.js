@@ -1,5 +1,5 @@
 import React from "react"
-import Loaded from "../components/Loaded"
+//import Loaded from "../components/Loaded"
 //const Layout = React.lazy(()=> import('../components/layout'))
 //const Testimonials = React.lazy(()=> import('../components/Header/Arbol'))
 //const InfoSection =  React.lazy(()=> import('../components/InfoSection/InfoSection'))
@@ -22,16 +22,13 @@ import VideoSection from "../components/VideoSection"
 const IndexPage = () => {
 
 
-const isSSR = typeof window === "undefined"
 
   return (
     <>
   <Layout>
     <SEO title="Inicio" />
     <VideoSection />
-  
-    <InfoSection {...InfoData}/>
-    <Testimonials />
+      <Testimonials />
     <Email />
   </Layout>
     </>
