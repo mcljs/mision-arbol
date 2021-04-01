@@ -1,5 +1,5 @@
 import React from "react"
-import LoaderSVG from '../images/loader.svg'
+import Loaded from "../components/Loaded"
 const Layout = React.lazy(()=> import('../components/layout'))
 const Testimonials = React.lazy(()=> import('../components/Header/Arbol'))
 const InfoSection =  React.lazy(()=> import('../components/InfoSection/InfoSection'))
@@ -28,24 +28,7 @@ const isSSR = typeof window === "undefined"
     <>
 {!isSSR &&(
 
-      <React.Suspense fallback={   <div
-              key={`loader`}
-              id="___loader"
-              style={{
-                alignItems: "center",
-                backgroundColor: "#f9fafc",
-                display: "flex",
-                justifyContent: "center",
-                position: "absolute",
-                left: 0,
-                top: 0,
-                right: 0,
-                bottom: 0,
-                zIndex: 100,
-              }}
-           >
-              <img src={LoaderSVG} alt="loader spinner" width="150" height="150"/>
-        </div>}>
+  <React.Suspense fallback={  <Loaded /> }>
   <Layout>
     <SEO title="Inicio" />
     <VideoSection />
