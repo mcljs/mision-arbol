@@ -23,11 +23,11 @@ const Footer1 = (  ) => (
 					<ul className="list-reset flex justify-center flex-1 md:flex-none items-center">
 			
 					  <li>
-						<Link to="https://www.facebook.com/Fundamiarbolven" aria-label='Facebook' className="inline-block text-green-500 no-underline hover:text-gray-200 hover:underline py-2 px-7">  <FaFacebook className="w-5 h-5" />
+						<Link to="https://www.facebook.com/Fundamiarbolven" aria-label='Facebook' className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-7">  <FaFacebook className="w-5 h-5" />
 </Link>
 					  </li>
 					  <li>
-						<Link to='https://www.instagram.com/fundamiarbolven/' aria-label='Instagram' className="inline-block text-green-500 no-underline hover:text-gray-200 hover:underline py-2 px-7">
+						<Link to='https://www.instagram.com/fundamiarbolven/' aria-label='Instagram' className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-7">
 <FaInstagram  className="w-5 h-5"/>
             </Link>
 					  </li>
@@ -35,7 +35,7 @@ const Footer1 = (  ) => (
 						<Link  to='https://twitter.com/misionarbolven'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
- className="inline-block text-green-500 no-underline hover:text-gray-200 hover:underline py-2 px-7" >
+ className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-7" >
    <FaTwitter className="w-5 h-5"/>
             </Link>
 					  </li>
