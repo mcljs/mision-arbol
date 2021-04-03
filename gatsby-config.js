@@ -22,6 +22,13 @@ flags: {
         policy: [{ userAgent: '*', allow: '/' }]
       },
     },
+{
+    resolve: "gatsby-plugin-google-tagmanager",
+    options: {
+      id: "GTM-MCLWVT3",
+      includeInDevelopment: false,
+    },
+  },
  {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
