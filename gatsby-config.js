@@ -23,18 +23,15 @@ flags: {
       },
     },
 {
-    resolve: "gatsby-plugin-google-tagmanager",
-    options: {
-      id: "GTM-MCLWVT3",
-      includeInDevelopment: false,
-    },
-  },
- {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "G-SG8RM3MQST",
-        head: true,
-        anonymize: true,
+        trackingIds: [
+          "G-SG8RM3MQST", // Google Analytics
+        ],
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: true,
+        },
       },
     },
    {
