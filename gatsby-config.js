@@ -25,7 +25,7 @@ flags: {
  {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "G-V34B09K0T7",
+        trackingId: "G-SG8RM3MQST",
         head: true,
         anonymize: true,
       },
