@@ -95,6 +95,7 @@ flags: {
             },
           },
           `gatsby-remark-lazy-load`,
+          `gatsby-remark-lazy-image-url`,
         ],
       },
     },

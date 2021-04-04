@@ -36,6 +36,7 @@
     "gatsby-plugin-typography": "^3.1.0",
     "gatsby-remark-images": "^4.1.0",
     "gatsby-remark-images-contentful": "^3.1.0",
+    "gatsby-remark-lazy-image-url": "^1.0.1",
     "gatsby-remark-lazy-load": "^1.0.2",
     "gatsby-remark-normalize-paths": "^1.1.0",
     "gatsby-remark-relative-images-v2": "^0.1.5",
