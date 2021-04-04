@@ -94,14 +94,14 @@ flags: {
               linkImagesToOriginal: false,
             },
           },
- {
+
+          `gatsby-remark-lazy-load`,
+          {
               resolve: `gatsby-remark-images-native-lazy-load`,
               options: {
                 loading: "lazy" // "lazy" | "eager" | "auto"
               },
            },
-          `gatsby-remark-lazy-load`,
-         
         ],
       },
     },

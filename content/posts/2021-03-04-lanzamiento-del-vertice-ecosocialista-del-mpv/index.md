@@ -4,16 +4,16 @@ tags: ["Movimiento por la Paz y la Vida", "Brigadas Ecosocialistas"]
 title: Lanzamiento del Vértice Ecosocialista del Movimiento por la Paz y la Vida
 description: Desde la Gran Base Misiones, ubicada en la parroquia El Valle, de la ciudad de Caracas, se realizó el lanzamiento del  Vértice Ecosocialista del  Movimiento por la Paz y la Vida. .
 twitter_text: Lanzamiento del Vértice Ecosocialista del Movimiento por la Paz y la Vida
-image: ./Picture1.png
-cover: ./Picture1.png
+image: ./Picture-1.png
+cover: ./Picture-1.png
 timeToRead: 4
 ---
 
 Desde la Gran Base Misiones, ubicada en la parroquia El Valle, de la ciudad de Caracas,  se realizó el lanzamiento del  Vértice Ecosocialista del  Movimiento por la Paz y la Vida. 
 
-![Mision-Arbol](https://res.cloudinary.com/dk5bvgq20/image/upload/q_24/v1616380264/Blog/2021-04-03-2021-vertices-mpv/picture1_hnhevm.webp)
+![Mision-Arbol](./Picture-1.png)
 
-La actividad contó con la participación de Alexander Vargas Gutiérrez; secretario de la comisión presidencial por la paz y la vida y Jefe del movimiento por la paz y la vida,  Antonio Benavides; diputado de la Asamblea Nacional, **Wilmer Vásquez; Presidente de  la Misión Árbol** , Emilio Feriozzi; Director General del movimiento asuntos para la paz,  Robert Martínez; Director del Viceministro  de atención integral por la paz ,  Lysmar Urrieta; Directora del movimiento por la paz y la vida de Caracas , y de Zulay Herrera; Coordinadora de GBP El Valle.
+La actividad contó con la participación de Alexander Vargas Gutiérrez; secretario de la comisión presidencial por la paz y la vida y Jefe del movimiento por la paz y la vida,  Antonio Benavides; diputado de la Asamblea Nacional, **Wilmer Vásquez; Presidente de  la Misión Árbol** , Emilio Feriozzi; Director General del movimiento asuntos para la paz,  Robert Martínez; Director del Viceministro  de atención integral por la paz ,  Lysmar Urrieta; Directora del movimiento por la paz y la vida de Caracas , y de Zulay Herrera; Coordinadora de GBP El Valle.[]
 
 Esta alianza, tiene previsto la siembra de mil plantas frutales, ornamentales y medicinales, en las 38 bases de misiones que existen a nivel nacional, esto con el fin de cumplir  con lo establecido en el 5to Objetivo Histórico del Plan de la Patria, y garantizar bienestar al pueblo venezolano.
 
