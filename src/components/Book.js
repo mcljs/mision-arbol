@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from './link'
+import {StaticImage} from 'gatsby-plugin-image';
 
 const Book = ({slug,title,date,description}) => {
     
@@ -14,7 +15,7 @@ const Book = ({slug,title,date,description}) => {
 <li className="overflow-hidden rounded-lg shadow-lg">
 
                 <Link to={slug}>
-                    <img alt="Placeholder" className="block h-auto w-full" src="https://picsum.photos/600/400/?random"/>
+                    <StaticImage alt="Placeholder" className="block h-auto w-full" src="https://picsum.photos/600/400/?random"/>
                 </Link>
 
                 <header className="flex items-center justify-between leading-tight p-2 md:p-4">

@@ -64,7 +64,7 @@ export const globalStyles = css`
   }
  
   pre {
-    background-color: #061526;
+
     border-radius: 4px;
     font-size: 16px;
     padding: 10px;
