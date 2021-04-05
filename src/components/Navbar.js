@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react'
-import Link from './link'
 import styled from 'styled-components'
 import { StaticImage} from 'gatsby-plugin-image'
-
+const Link = React.lazy(()=> import('./link'))
 
 const Navbar = (  ) => {
 
@@ -24,7 +23,7 @@ const Navbar = (  ) => {
     window.addEventListener('scroll', changeNav);
   }, []);
 
-
+const isSSR = typeof window === "undefined"
 
   return (
     <>
@@ -52,14 +51,31 @@ const Navbar = (  ) => {
         </button>
       </div>
     </div>
-  
+ 
+{!isSSR &&(
+
+  <React.Suspense fallback={ 
+
+    <div className="grid grid-flow-col gap-2 items-center sm:text-sm text-xs">
+      <div className="grid grid-flow-col gap-5 items-center sm:text-sm text-xs sm:pr-2">
+        <div className="h-5 rounded-md bg-gray-300 relative overflow-hidden w-16 h-6">
+          <div className="w-24 h-5 bg-gray-400 absolute" style={{filter: 'blur(20px)'}}></div>
+        </div>
+        <div className="h-5 rounded-md bg-gray-300 relative overflow-hidden w-6 h-6">
+          <div className="w-24 h-5 bg-gray-400 absolute"  style={{filter: 'blur(20px)'}}></div>
+        </div>
+      </div>
+      </div>
+    }>
+
           <nav className={` ${!click && 'hidden' } px-2 pt-2 pb-4 sm:flex sm:p-0 md:static md:w-auto absolute top-full w-full bg-gray-900 `}>
       <Link to="/" className="text-sm block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">Inicio</Link>
       <Link to="/blog" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Noticias</Link>
       <Link to="/nosotros" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Nosotros</Link>
   <Link to="/guide" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Guia de Especie</Link>
     </nav>
-
+ </React.Suspense>
+      )}
   
   
  
