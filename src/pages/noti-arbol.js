@@ -12,7 +12,7 @@ const NotiArbol = (  ) => (
       <div className="w-48 mx-auto">
         <StaticImage src="../images/logo.png" alt="logo"/>
       </div> 
-      <h1 className="lg:text-4xl sm:text-3xl text-2xl font-bold text-center leading-tight">Periodico Digital</h1>
+      <h1 className="lg:text-4xl sm:text-3xl text-2xl font-bold text-center leading-tight">Periódico Digital</h1>
       
 
         <div>
