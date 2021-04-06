@@ -5,7 +5,7 @@ import Link from '../link';
 const VideoSection = (  ) => (
   <>
     <section className="relative h-screen flex flex-col items-center justify-center text-center text-white py-0 px-3">
-      <div className="video-docker absolute top-0 left-0 w-full sm:h-[30.05rem] h-[28.85rem] overflow-hidden">
+      <div className="video-docker absolute top-0 left-0 w-full sm:h-[30.05rem] h-full overflow-hidden">
         <video className="min-w-full min-h-full absolute object-cover" autoPlay loop muted src={Video} type='video/mp4'></video>
     </div>
     <div className="video-content space-y-2 mb-28">

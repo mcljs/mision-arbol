@@ -21,7 +21,7 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
-    margin-top: -100px;
+    margin-top: -10px;
   }
 `;
 
@@ -99,7 +99,8 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
           <ColumnRight reverse={reverse}>
             <StaticImage 
             src="../../assets/calendario-img.png" 
-            alt="home" 
+              alt="home"
+              placeholder="tracedSVG"
             width={550}
             /> 
           </ColumnRight>

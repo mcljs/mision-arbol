@@ -7,7 +7,7 @@ const Email = (  ) => {
  
     <section id="call-to-action" className=" relative overflow-hidden bg-green-900 bg-opacity-90 call-to-action">
       <div className="flex absolute top-0 left-0 w-1/2 h-full call-action-image   lg:visible invisible">
-   <StaticImage  placeholder="blurred" src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616367497/assets/noticia-min_cvatoc.jpg" alt="email" />
+   <StaticImage placeholder="tracedSVG" src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616367497/assets/noticia-min_cvatoc.jpg" alt="email"  />
       </div>
    
       <div className="container mx-auto ">

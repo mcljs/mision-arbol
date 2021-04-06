@@ -19,10 +19,8 @@ const { allMarkdownRemark } = useStaticQuery(graphql`
             title
               cover{
                 childImageSharp{
-                  fluid(maxWidth: 900){
-                    ...GatsbyImageSharpFluid
-                  }
-                }
+                  gatsbyImageData(layout:CONSTRAINED,placeholder:TRACED_SVG)
+                              }
                      }
            
             description
@@ -58,7 +56,7 @@ const postList = allMarkdownRemark.edges
         }) => (
     <PostItem 
     slug={slug}
-    fluid={cover.childImageSharp.fluid}
+    image={cover.childImageSharp.gatsbyImageData}
     title={title}
     description={description}
     date={date}
