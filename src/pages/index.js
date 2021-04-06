@@ -1,5 +1,6 @@
 import React from "react"
 import Loaded from "../components/Loaded"
+const Banner = React.lazy(() => import('../components/Banner'))
 const Layout = React.lazy(()=> import('../components/layout'))
 const Testimonials = React.lazy(()=> import('../components/Header/Arbol'))
 const InfoSection =  React.lazy(()=> import('../components/InfoSection/InfoSection'))
@@ -32,8 +33,8 @@ const isSSR = typeof window === "undefined"
   <Layout>
     <SEO title="Inicio" />
     <VideoSection />
-  
     <InfoSection {...InfoData}/>
+    <Banner />
     <Testimonials />
     <Email />
   </Layout>

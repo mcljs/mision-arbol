@@ -32,7 +32,7 @@ import TagPill from '../components/TagPill'
         <h1 className="post-title">{post.frontmatter.title}</h1>
       </div>
       <div className="markdown">
-        <S.MainContent>
+        <S.MainContent> 
           <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
        </S.MainContent>
         <section className="mt-4">
