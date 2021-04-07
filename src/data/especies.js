@@ -216,7 +216,7 @@ La nuez del merey se puede hervir, asar o tostar y se come como bocadillo en muc
     publisher: 'Forestales',
     title_cientifico: 'XYLOPIA AROMATICA',
     image: 'fruto-de-burro.jpg',
-    imageURL: 'http://repository.humboldt.org.co/bitstream/handle/20.500.11761/883/26985.jpg?sequence=1&isAllowed=y',
+    imageURL: 'https://live.staticflickr.com/7883/46118076605_0cda9323e9_b.jpg',
     caracteristicas_fisicas: `
 Es un árbol nativo de la vegetación de pastizales cerrado, especialmente en los estados de goiás y minas gerais, en el este de brasil; también se halla en venezuela, hacia el sur del estado monagas.
 Mide entre 15 a 25 m de altura, su corteza es lisa y es fácil de desprender en forma de guasca, sus hojas elípticas son simples y alternas, posee flores agrupadas en inflorescencias axilares, sus flores poseen seis pétalos y fuerte olor, los frutos están agrupados en fascículos de unas 20 unidades.`,
