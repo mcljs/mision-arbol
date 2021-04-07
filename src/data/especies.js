@@ -118,5 +118,83 @@ Son árboles de tamaño mediano a grande, que alcanzan alturas de hasta 25 m de 
 Como uso medicinal se encontró que en las regiones del orinoco a partir del cocimiento de la corteza se hacen baños el cual es útil para cicatrizar heridas. se data que en 1579 los indígenas de la provincia de maracaibo, con el cocimiento de las hojas, los usaban para curar llagas y heridas; los indígenas tikuna de la región amazónica de colombia tomaban la decocción de las hojas y la corteza en raciones para los fuertes dolores del parto, en baños para la curación de heridas, como anticonceptivo tomaban una taza al día durante la menstruación; si la mujer tikuna se toma esta decocción al día siguiente del alumbramiento de su hijo quedará estéril, también usan la decocción de la corteza para los pies cansados.   `,
 
   },
+  {
+    id: 'caoba',
+    title: 'Caoba',
+    publisher: 'Forestales',
+    title_cientifico: 'SWIETENIA MACROPHYLLA',
+    image: 'caoba.jpg',
+    imageURL: 'https://www.asklepios-seeds.de/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/s/w/swietenia-macrophylla.jpg',
+    caracteristicas_fisicas: `
+Es una especie de árboles originaria de la zona intertropical americana perteneciente a la familia de las meliaceae; su nombre común principal es el de caoba de honduras o caoba (o caobo) de hoja grande. otros nombres autóctonos son: 'aguano' y 'zopilote'.
 
+`,
+    propiedades:`
+No obstante, su glamur, la caoba también posee propiedades medicinales; las semillas, hojas y raíces contienen alcaloides como teobromina y cafeína, los cuales tienen propiedades estimulantes, energizantes, diuréticas y vasodilatadoras; en la raíz y corteza se ha encontrado actividad antitumoral.
+
+La grasa que contienen las semillas se emplea en farmacia como emoliente, para fabricar ungüentos y pomadas utilizadas contra la resequedad en la piel, quemaduras, caspa, sarampión, mordeduras de serpiente.  `,
+
+  },
+  {
+    id: 'pino',
+    title: 'Pino',
+    publisher: 'Forestales',
+    title_cientifico: 'PINUS',
+    image: 'pinus.jpg',
+    imageURL: 'http://upload.wikimedia.org/wikipedia/commons/e/eb/Pinus_merkusii_Toba.jpg',
+    caracteristicas_fisicas: `
+La copa puede ser piramidal o redondeada y, en los árboles adultos, ancha y deprimida; los macroblastos presentan hojas escuamiformes sin clorofila, mientras que los braquiblastos son muy cortos, con una vaina membranosa de escamas y están terminados por dos a cinco hojas lineares o acículas, con dos o más canales resiníferos cada una; los conos masculinos se desarrollan en la base de los brotes anuales. los estróbilos presentan escamas persistentes, siendo las tectrices rudimentarias e inclusas y las seminíferas suele presentar una protuberancia u ombligo en su parte externa (apófosis); maduran bienal o trienalmente; las semillas, de forma, color y tamaño variables, son ápteras o con alas articuladas o íntimamente soldadas con su testa más o menos lignificada. `,
+    propiedades:`
+Se considera antiviral, febrífugo e inmunoestimulante.
+
+Los remedios con pino albar se destinan básicamente a aliviar afecciones respiratorias, como bronquitis, sinusitis, faringitis, traqueitis, procesos gripales y asmáticos.  `,
+
+  },
+  {
+    id: 'cedro-americano',
+    title: 'Cedro Americano',
+    publisher: 'Forestales',
+    title_cientifico: 'CEDRELA ODORATA',
+    image: 'cedro-americano.jpeg',
+    imageURL: 'https://i.pinimg.com/originals/15/ab/02/15ab02028e2fdf78b78b4b50132f11ec.jpg',
+    caracteristicas_fisicas: `
+El cedro amargo tiene un fuste que puede alcanzar los 40 m de altura; el tronco es recto, naciendo sus ramas, van más arriba de la mitad de su altura y con diámetros en los árboles adultos de 1 a 2 m; a veces, en su parte baja presenta contrafuertes o aletones que ayudan a afianzar el árbol, ya que tiene un sistema radical bastante superficial.
+
+La corteza, que puede llegar a espesores de 2 cm, es de color gris-claro en los árboles jóvenes y apenas dividida en placas por leves hendiduras, mientras que los árboles adultos tienen la corteza profundamente fisurada. la corteza interna es rosada, fibrosa y de sabor amargo.`,
+    propiedades:`
+Esta planta es de uso ritual en las limpias, tanto en la huasteca potosina como en la veracruzana.
+
+Además, se le atribuyen propiedades medicinales en problemas respiratorios como bronquitis y asma, para lo cual se bebe un cocimiento de la corteza. Para calmar el dolor de las heridas se aprovechan las ramas; como abortivo y para el dolor de estómago, se prepara un té con el tallo de esta planta y la corteza de macuilis (sp n/r). Como relajante muscular, antihemorrágico vaginal se administra la infusión de la madera, por vía oral y en baños.
+
+El cocimiento de la corteza se usa en baños para bajar la calentura y contra el "susto"; también se refiere útil en casos de diarrea, bilis, reumatismo, dolor de muelas y hemorragia nasal. `,
+
+  },
+  {
+    id: 'arbol-de-caucho',
+    title: 'Árbol de Caucho',
+    publisher: 'Forestales',
+    title_cientifico: 'HEVEA BRASILIENSIS',
+    image: 'arbol-de-caucho.jpg',
+    imageURL: 'https://previews.123rf.com/images/hasnuddin/hasnuddin1303/hasnuddin130300014/18404924-milky-latex-extracted-from-rubber-tree-hevea-brasiliensis-as-a-source-of-natural-rubber.jpg',
+    caracteristicas_fisicas: `
+Es un árbol de la familia de las euforbiáceas de 20 a 30 m de altura (excepcionalmente 45 m); el tronco es recto y cilíndrico de 30 a 60 cm de diámetro, de madera blanca y liviana. Sus hojas son compuestas trifoliadas, alternas, de 16 cm de longitud, por 6 a 7 cm de ancho; deja caer parcialmente las hojas durante la estación seca, antes de lo cual las hojas de la copa del árbol se tornan de color rojizo; las flores son pequeñas y reunidas en amplias panículas. Frutos: produce desde los 4 años, cada uno de los cuales es una gran cápsula de 4 cm de diámetro que se abre en valvas, con semillas ricas en aceite. `,
+    propiedades:`
+Su látex es blanco o amarillento y abundante hasta los 25 años de edad del árbol; de él se fabrica el caucho, después de "sangrar" el tronco mediante incisiones angulares en v; este látex contiene 30 a 36% de hidrocarburo del caucho, 0,5% de cenizas, 1,5% de proteínas, 2% de resina y 0,5% de quebrachitol; el caucho también puede obtenerse del látex de otros árboles del género hevea (v,G. H Guianensis aubl 1775 y H Pauciflora müll Arg 1865); este árbol es originario de la cuenca hidrográfica del río amazonas, donde existía en abundancia y con exclusividad, características que generaron el auge o fiebre del caucho, periodo de la historia sudamericana de mucha riqueza y pujanza para empresarios que se asentaron en la región amazónica y a la vez de desastre para la población indígena que sufrió exterminios y esclavitud, hasta que los ingleses se apoderaron del lucrativo negocio, al sacar el botánico henry A Wickham ilegalmente de brasil semillas de este árbol, en 1876, para establecer plantaciones en malasia, birmania, ceilán y áfrica subsahariana; hacia 1914 la cantidad de caucho obtenido de plantaciones ya superaba la extraída de árboles silvestres. `,
+
+  },
+  {
+    id: 'pionia',
+    title: 'Pionia',
+    publisher: 'Forestales',
+    title_cientifico: 'ORMOSIA COCCINEA',
+    image: 'pionia.jpg',
+    imageURL: 'https://i.pinimg.com/originals/69/c3/01/69c301b1c2b117ebd562052ad5e55e58.jpg',
+    caracteristicas_fisicas: `
+Ormosia coccinea se desarrolla como un árbol grande, de hasta 30 m de altura, de zonas boscosas con un tronco cilíndrico vertical, de hasta 9 dm de diámetro; a lo largo del tronco se presentan anillos horizontales; la corteza es marrón o negruzca.
+
+Las flores son purpúreas, aladas y cerradas como se presentan en las legumbres; el fruto es una pequeña legumbre o vaina aplanada, punteada en un extremo y de color verde y rojo-anaranjado; en el interior se encuentran dentro de una pulpa dulce de una a dos semillas que son negras en una mitad y rojas en la otra.`,
+    propiedades:`
+Esas semillas se usan en joyería y otras decoraciones; son venenosas si se ingieren.  `,
+
+  },
 ]
