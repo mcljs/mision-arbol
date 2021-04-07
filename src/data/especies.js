@@ -198,21 +198,6 @@ Esas semillas se usan en joyería y otras decoraciones; son venenosas si se ingi
 
   },
   {
-    id: 'pionia',
-    title: 'Pionia',
-    publisher: 'Forestales',
-    title_cientifico: 'ORMOSIA COCCINEA',
-    image: 'pionia.jpg',
-    imageURL: 'https://i.pinimg.com/originals/69/c3/01/69c301b1c2b117ebd562052ad5e55e58.jpg',
-    caracteristicas_fisicas: `
-Ormosia coccinea se desarrolla como un árbol grande, de hasta 30 m de altura, de zonas boscosas con un tronco cilíndrico vertical, de hasta 9 dm de diámetro; a lo largo del tronco se presentan anillos horizontales; la corteza es marrón o negruzca.
-
-Las flores son purpúreas, aladas y cerradas como se presentan en las legumbres; el fruto es una pequeña legumbre o vaina aplanada, punteada en un extremo y de color verde y rojo-anaranjado; en el interior se encuentran dentro de una pulpa dulce de una a dos semillas que son negras en una mitad y rojas en la otra.`,
-    propiedades:`
-Esas semillas se usan en joyería y otras decoraciones; son venenosas si se ingieren.  `,
-
-  },
-  {
     id: 'merey',
     title: 'Merey',
     publisher: 'Forestales',
@@ -244,7 +229,7 @@ En Colombia la infusión de la planta entera es usada por los indios witoto como
     title: 'Corozo',
     publisher: 'Forestales',
     title_cientifico: 'BACTRIS GUINEENSIS',
-    image: 'fruto-de-burro.jpg',
+    image: 'corozo.jpg',
     imageURL: 'https://static.inaturalist.org/photos/4193126/large.JPG?1467767230',
     caracteristicas_fisicas: `
 Es una palma cespitosa con hasta cien estípites erectos de 3 a 5 m de altura y 1,5 a 3 cm de diámetro, sus hojas están esparcidas a lo largo del tallo, la vaina de 30 a 60 cm de longitud tiene aguijones delgados de 1 cm de largo, el pecíolo de 4 a 7 cm tiene espinas de 3 a 6 cm, también presentes en el raquis, el cual mide 25 a 80 cm de longitud y tiene de 19 a 42 pinnas de 20 a 30 cm a cada lado, flores de 4 a 6 mm estaminadas y pistiladas, el soporte de la inflorescencia tiene hasta 20 cm de largo, con una bráctea amarillenta encima. Fruto en racimo, globoso deprimido, color negro violáceo, de 1,5 a 2 cm de diámetro.`,
