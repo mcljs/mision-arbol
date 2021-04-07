@@ -67,9 +67,7 @@ LAS DOS ESPECIES MÁS CONOCIDAS SON LA BULNESIA ARBÓREA Y LA BULNESIA SARMIENTO
     propiedades:`
 Se trata de una madera apreciada en el mercado que destaca por su extrema dureza y resistencia al fuego y a las plagas. a veces se comercializa como un "palo de hierro ", o simplemente como" ipê "(todo el género tabebuia ), o como el lapacho (correctamente tabebuia serratifolia ).
 
-Medicinal: la corteza de tabebuia serratifolia contiene más de 20 compuestos activos incluyendo lapachol, quercetina y otros flavonoides. su corteza interna se utiliza como un té de hierbas, para el tratamiento de infecciones fúngicas.
-
-se ha recomendado contra el cáncer.    `,
+Medicinal: la corteza de tabebuia serratifolia contiene más de 20 compuestos activos incluyendo lapachol, quercetina y otros flavonoides. su corteza interna se utiliza como un té de hierbas, para el tratamiento de infecciones fúngicas; se ha recomendado contra el cáncer.    `,
 
   },
   {
@@ -78,7 +76,7 @@ se ha recomendado contra el cáncer.    `,
     publisher: 'Forestales',
     title_cientifico: 'HURA CREPITANS',
     image: 'jabillo.jpg',
-    imageURL: 'https://live.staticflickr.com/8171/8018342446_fbf9f0df13_b.jpg',
+    imageURL: 'https://thumbs.dreamstime.com/b/crepitans-asombrosos-de-hura-del-%C3%A1rbol-con-las-espinas-en-la-selva-tropical-amazonas-110575011.jpg',
     caracteristicas_fisicas: `Es un árbol venenoso para los seres humanos, de la familia de las euforbiáceas, por su gran tamaño, constituye una especie maderable de gran valor económico, es nativa de las regiones intertropicales americanas, tanto en américa del norte y central como en américa del sur, especialmente en las cuencas del orinoco y del amazonas. en méxico se la conoce con los nombres de haba de indio y haba de san ignacio.
 
 Árbol perennifolio que puede alcanzar los 60 m de altura,  su madera es pesada y compacta y sus raíces son bastante superficiales y con contrafuertes, como las de muchas especies forestales de la zona intertropical. el tronco está cubierto de espinas, probablemente desarrolladas como mecanismo de defensa.
@@ -92,4 +90,33 @@ Su látex tóxico afecta a los peces adormeciéndolos, por lo que se utiliza par
 Los caribes usaban las flechas envenenadas con el látex, 6 la madera, llamada "hura" se utiliza para trabajos menores de construcción.    `,
 
   },
+  {
+    id: 'apamate',
+    title: 'Apamate',
+    publisher: 'Forestales',
+    title_cientifico: 'TABEBUIA ROSEA',
+    image: 'apamate.jpg',
+    imageURL: 'https://i.pinimg.com/originals/7f/48/85/7f4885a2f54da8243ad5492c51cb249e.jpg',
+    caracteristicas_fisicas: `
+Es un árbol de la familia de las bignonáceas, es nativo de méxico, guatemala, el salvador y otras regiones de centroamérica, llegando a colombia, venezuela y perú.
+
+Árbol de 6 a 10 m de altura, aunque en su hábitat nativo puede superar los 25 m. tronco corto de corteza grisácea, algo fisurada; hojas palmadas, compuestas de 3-5 foliolos elípticos a oblongos grandes (hasta 34 cm de largos), las inflorescencias surgen en panículas terminales, las flores tienen cáliz acampanado y bilabiado con pétalos rosa, lavanda o magenta, el fruto es una cápsula linear, cilíndrica de 22-35 cm de longitud con 7 a 10 semillas aladas, estas alas son asimétricas e irregulares, con el fin de poder dispersarse a cierta distancia del árbol original; el cuerpo de la semilla está formado por dos pequeños discos lenticulares soldados entre sí, también asimétricos para favorecer la dispersión con el viento.  `,
+    propiedades:`
+La madera es utilizada en diseño de interiores de muebles finos, pisos, gabinetes, chapas decorativas, construcción de botes, ebanistería, ruedas para carretas, artesanías, cajas y embalajes. es utilizada como ornamental, en parques, jardines y linderos de propiedades; asimismo, es utilizada como planta de sombra de cultivos en las zonas bajas de la región tropical.   `,
+
+  },
+  {
+    id: 'jobo',
+    title: 'Jobo',
+    publisher: 'Forestales',
+    title_cientifico: 'SPONDIAS MOMBIN',
+    image: 'jobo.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Spondias_mombin_MS4005.JPG',
+    caracteristicas_fisicas: `
+Son árboles de tamaño mediano a grande, que alcanzan alturas de hasta 25 m de alto y 60 cm de ancho, corteza exterior café o gris, frecuentemente áspera con crestas longitudinales, proyecciones espinosas suberosas frecuentemente presentes, corteza interna rosado-anaranjada, tricomas blancos, generalmente rectos, erectos, hasta 0.2 mm de largo, hojas 18–43 cm de largo, 7–15-folioladas; folíolos estrechamente oblongos, a veces estrechamente ovados, lanceolados o elípticos, algo falcados, asimétricos, 6–15 cm de largo y 3–5 cm de ancho, ápice acuminado u ocasionalmente agudo, base truncada u obtusa, oblicua, margen entero o a veces subentero (en las plántulas, los primeros folíolos ensanchados crenados a serrados), haz glabra, envés glabro excepto los nervios principal y secundarios a veces pubescentes, cartáceos u ocasionalmente subcoriáceos, nervio principal apenas prominente en la haz, prominente en el envés, nervios secundarios 8–20 pares, apenas prominentes a ligeramente impresos en la haz, prominentes en el envés; pecíolo 4–13,5 cm de largo, glabro a pubescente, raquis 7,1–25 cm de largo, escasamente pubescente, peciólulos glabros o pubescentes, los laterales 3–10 mm de largo, el terminal 14–40 mm de largo.   `,
+    propiedades:`
+Como uso medicinal se encontró que en las regiones del orinoco a partir del cocimiento de la corteza se hacen baños el cual es útil para cicatrizar heridas. se data que en 1579 los indígenas de la provincia de maracaibo, con el cocimiento de las hojas, los usaban para curar llagas y heridas; los indígenas tikuna de la región amazónica de colombia tomaban la decocción de las hojas y la corteza en raciones para los fuertes dolores del parto, en baños para la curación de heridas, como anticonceptivo tomaban una taza al día durante la menstruación; si la mujer tikuna se toma esta decocción al día siguiente del alumbramiento de su hijo quedará estéril, también usan la decocción de la corteza para los pies cansados.   `,
+
+  },
+
 ]
