@@ -11,6 +11,7 @@ flags: {
   },
 
   plugins: [
+    `gatsby-plugin-remove-serviceworker`,
     `gatsby-mdx`,
  `gatsby-remark-normalize-paths`,
     `gatsby-plugin-react-helmet`,
