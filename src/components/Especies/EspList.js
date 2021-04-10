@@ -10,7 +10,7 @@ export const EspList = ({publisher}) => {
     return(
        
 
- <ul className="grid md:grid-cols-3 grid-cols-1 sm:gap-8 gap-5 my-12 mx-auto px-4 md:px-12" >
+ <div className="grid md:grid-cols-3 grid-cols-1 sm:gap-8 gap-5 my-12 mx-auto px-4 md:px-12" >
         {
             especies.map(esp =>(
                 <Book key={esp.id}
@@ -20,7 +20,7 @@ export const EspList = ({publisher}) => {
             
             ))
         }
-</ul>
+</div>
    
 
   );

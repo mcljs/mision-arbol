@@ -121,7 +121,6 @@ flags: {
         showSpinner: true,
       },
     },
-'gatsby-plugin-preload-link-crossorigin',
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,

@@ -28,7 +28,6 @@
     "gatsby-plugin-mdx": "^2.2.0",
     "gatsby-plugin-nprogress": "^3.2.0",
     "gatsby-plugin-offline": "^4.2.0",
-    "gatsby-plugin-preload-link-crossorigin": "^1.0.2",
     "gatsby-plugin-react-helmet": "^4.2.0",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",
     "gatsby-plugin-robots-txt": "^1.5.5",
