@@ -25,8 +25,8 @@ const Guide = () => {
     <Layout >
  <SEO title="Guia de Especie" />
        <div className="text-center max-w-xl mx-auto">
-      <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600">Guia de Especie</h1>
-        <p className="text-xl mb-5 font-light">Esta guia nos acerca al mundo de las plantas y proporciona informacion util.<br />Si no encuentras la especie que buscas, puedes solicitarnos su inclusión en la guía.</p>       
+      <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600">Guia de Especies</h1>
+      
 <div class="mt-8 flex justify-center">
             <div class="inline-flex rounded-md bg-yellow-600 shadow">
                 <Link to="/guide/search" class="text-gray-200 font-bold py-2 px-6">

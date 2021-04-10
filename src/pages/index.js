@@ -1,5 +1,6 @@
 import React from "react"
 import Loaded from "../components/Loaded"
+const Carousel = React.lazy(() => import("../components/Carousel")) 
 const Banner = React.lazy(() => import('../components/Banner'))
 const Layout = React.lazy(()=> import('../components/layout'))
 const Testimonials = React.lazy(()=> import('../components/Header/Arbol'))
@@ -8,7 +9,7 @@ const Email = React.lazy(()=> import('../components/Email'))
 const SEO = React.lazy(()=> import('../components/seo'))
 const {InfoData} = React.lazy(()=> import('../data/InfoData'))
 const VideoSection = React.lazy(()=> import('../components/VideoSection'))
-
+const Tweet = React.lazy(()=> import('../components/Tweet/index'))
 
 
 //import Testimonials from "../components/Header/Arbol"
@@ -33,9 +34,11 @@ const isSSR = typeof window === "undefined"
   <Layout>
     <SEO title="Inicio" />
     <VideoSection />
+    <Carousel />
     <InfoSection {...InfoData}/>
     <Banner />
     <Testimonials />
+    <Tweet />
     <Email />
   </Layout>
  </React.Suspense>

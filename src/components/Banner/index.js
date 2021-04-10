@@ -30,7 +30,7 @@ El periódico 4F, en su edición Nº 273, primera del año 2021, resalta el rol 
                 
 <div className="inline-block mr-2 mt-2">
   <Link to="/noti-arbol">
-                    <button type="button" className="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-blue-500 hover:bg-blue-600 hover:shadow-lg flex items-center">
+                    <button type="button" className="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-blue-600 hover:bg-blue-500 hover:shadow-lg flex items-center">
                        <svg className="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
                         Descargar
                     </button>
@@ -39,7 +39,7 @@ El periódico 4F, en su edición Nº 273, primera del año 2021, resalta el rol 
         </div>
            
       </div> 
- <Link to="/noti-arbol" className="items-center justify-center cursor-pointer mt-4 inline-flex py-2 px-4 rounded-md bg-green-500 hover:bg-green-600 transition-all ease-in-out duration-100 font-semibold leading-8 transform hover:scale-105">
+ <Link to="/noti-arbol" className="items-center justify-center cursor-pointer mt-4 inline-flex py-2 px-4 rounded-md bg-yellow-1100 hover:bg-green-600 focus:bg-indigo-600 transition-all ease-in-out duration-100 font-semibold leading-8 transform hover:scale-105">
               <p className="text-white ">Ver Mas →</p>
 
             </Link>
