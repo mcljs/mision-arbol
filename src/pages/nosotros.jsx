@@ -1,11 +1,10 @@
 import React from "react"
 import Layout from "../components/layout"
 import HeaderLayout from "../components/HeaderLayout"
-import SEO from "../components/seo"
+import SEO from "../components/Seo"
 
 import {StaticImage} from "gatsby-plugin-image"
-import {AiOutlineTwitter} from '@react-icons/all-files/ai/AiOutlineTwitter'
-import {FaFacebookF} from '@react-icons/all-files/fa/FaFacebookF'
+
 import Link from "../components/link"
 
 
@@ -37,7 +36,7 @@ const Nosotros = () => (
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
                
                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                  <span className="text-gray-600 p-3 text-center inline-flex items-center justify-center w-5 h-5  shadow-lg rounded-full bg-yellow-1100"></span> Misión
+                Misión
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
                  Somos el ente encargado de contribuir
@@ -56,36 +55,14 @@ ambientalistas.
               </div>
 
               <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
-                <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-600">
+                <div className="">
                   <StaticImage
                    
                     src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366782/assets/jurid_e07bpu.jpg"
                     alt="..."
-                    className="w-full align-middle rounded-t-lg"
+                    className="max-w-full rounded-lg shadow-lg"
                   />
-                  <blockquote className="relative p-8 mb-4">
-                    <svg
-                      preserveAspectRatio="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 583 95"
-                      className="absolute left-0 w-full block"
-                      style={{
-                        height: "70px",
-                        top: "-64px"
-                      }}
-                    >
-                      <polygon
-                        points="-30,95 583,95 583,65"
-                        className="text-blue-600 fill-current"
-                      ></polygon>
-                    </svg>
-                    <h4 className="text-xl font-bold text-white">
-                     Naturaleza Jurídica de la Fundación Misión Árbol
-                    </h4>
-                    <p className="text-md font-light mt-2 text-white">
-                      Es una Fundación del Estado, sin fines empresariales, con personalidad jurídica y patrimonio propio, bajo la adscripción, rectoría, y control estatutario del Ministerio del Poder Popular para el Ecosocialismo.
-                    </p>
-                  </blockquote>
+                 
                 </div>
               </div>
 
@@ -127,7 +104,7 @@ ambientalistas.
                 <div className="md:pr-12">
                  
                   <h3 className="text-3xl font-semibold">
-                    <span className="text-gray-600 p-3 text-center inline-flex items-center justify-center w-5 h-5  shadow-lg rounded-full bg-blue-1000"></span> Visión
+                     Visión
                   </h3>
                   <p className="mt-4 text-lg leading-relaxed text-gray-600">
                      Ser el ente rector de las políticas públicas
@@ -161,74 +138,62 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
               </div>
             </div>
           
- <div className="flex flex-wrap">
-              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-                <div className="px-6">
-                 
-                </div>
-              </div>
-              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-                <div className="px-6">
-                  <img
+            <ul className="grid sm:grid-cols-2 grid-cols-1 sm:gap-8 gap-16">
+        
+      <li className="overflow-hidden rounden-lg flex flex-col items-center">
+                <div className="overflow-hidden rounded-lg sm:w-64 w-48">
+<StaticImage
                     alt="..."
                      src="https://pbs.twimg.com/profile_images/1037101550571806722/zYacZcEJ_400x400.jpg"
-                    className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxWidth: "120px" }}
-                  />
-                  <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">
-                      Wilmer Vásquez
-                    </h5>
-                    <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                     Presidente de la Fundación
-                    </p>
-                    <div className="mt-6">
-                      <Link to="https://twitter.com/wilmervasquezm?lang=es"> 
+                    className="w-full h-full bg-gray-100"
+                    style={{position: 'relative', overflow: 'hidden'}}
+                                      />
+</div>
+                  <div className="sm:p-8 p-0 sm:mt-0 mt-4 text-center">
+                    <h1 className="font-bold text-xl">Wilmer Vásquez</h1>
+                    <h2 className="my-3 uppercase tracking-wider text-xs text-yellow-1100">Director de la Fundación</h2>
+     <Link to="https://twitter.com/wilmervasquezm?lang=es"> 
                       <button
-                        className="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
+                        className="mt-4 px-3 py-2 rounded-md bg-gray-200 cursor-pointer inline-flex items-center"
                         type="button"
                       >
-                      <AiOutlineTwitter className="ml-2"/>
-                        </button>
+                      <svg class="mr-1 text-[#1d9bf0]" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><g fill="currentColor"><path fill="none" d="M0 0h24v24H0z"></path><path d="M22.162 5.656a8.384 8.384 0 0 1-2.402.658A4.196 4.196 0 0 0 21.6 4c-.82.488-1.719.83-2.656 1.015a4.182 4.182 0 0 0-7.126 3.814 11.874 11.874 0 0 1-8.62-4.37 4.168 4.168 0 0 0-.566 2.103c0 1.45.738 2.731 1.86 3.481a4.168 4.168 0 0 1-1.894-.523v.052a4.185 4.185 0 0 0 3.355 4.101 4.21 4.21 0 0 1-1.89.072A4.185 4.185 0 0 0 7.97 16.65a8.394 8.394 0 0 1-6.191 1.732 11.83 11.83 0 0 0 6.41 1.88c7.693 0 11.9-6.373 11.9-11.9 0-.18-.005-.362-.013-.54a8.496 8.496 0 0 0 2.087-2.165z"></path></g></svg> Twitter                       </button>
                       </Link>
+                  </div>               
+              </li>
 
-                      <Link to="https://www.facebook.com/wilmer.vasquez.94617"> 
+     <li className="overflow-hidden rounden-lg flex flex-col items-center">
+                <div className="overflow-hidden rounded-lg sm:w-64 w-48">
+<StaticImage
+                    alt="..."
+                     src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616367021/assets/ministro_yrckfo.jpg"
+                    className="w-full h-full bg-gray-100"
+                    style={{position: 'relative', overflow: 'hidden'}}
+                                      />
+</div>
+                  <div className="sm:p-8 p-0 sm:mt-0 mt-4 text-center">
+                    <h1 className="font-bold text-xl">Oswaldo Barbera</h1>
+                    <h2 className="my-3 uppercase tracking-wider text-xs text-yellow-1100">MINISTRO DEL PODER POPULAR PARA EL ECOSOCIALISMO</h2>
+     <Link to="https://twitter.com/BarberaMinistro"> 
                       <button
-                        className="bg-blue-600 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
+                        className="mt-4 px-3 py-2 rounded-md bg-gray-200 cursor-pointer inline-flex items-center"
                         type="button"
                       >
-                      
-                          <FaFacebookF className="ml-2"/>
-                      </button>
-                      </Link>                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-                <div className="px-6">
-                  <img
-                    alt="..."
-                    src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616367021/assets/ministro_yrckfo.jpg"
-                    className="shadow-lg rounded-full max-w-full mx-auto"
-                    style={{ maxWidth: "120px" }}
-                  />
-                  <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">
-                      Oswaldo Barbera
-                    </h5>
-                    <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                      Ministro del poder popular para el ecosocialismo
-                    </p>
-                   
-                  </div>
-                </div>
-              </div>
-              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-                <div className="px-6">
-                  
-                </div>
-              </div>
- </div>
+                      <svg class="mr-1 text-[#1d9bf0]" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><g fill="currentColor"><path fill="none" d="M0 0h24v24H0z"></path><path d="M22.162 5.656a8.384 8.384 0 0 1-2.402.658A4.196 4.196 0 0 0 21.6 4c-.82.488-1.719.83-2.656 1.015a4.182 4.182 0 0 0-7.126 3.814 11.874 11.874 0 0 1-8.62-4.37 4.168 4.168 0 0 0-.566 2.103c0 1.45.738 2.731 1.86 3.481a4.168 4.168 0 0 1-1.894-.523v.052a4.185 4.185 0 0 0 3.355 4.101 4.21 4.21 0 0 1-1.89.072A4.185 4.185 0 0 0 7.97 16.65a8.394 8.394 0 0 1-6.191 1.732 11.83 11.83 0 0 0 6.41 1.88c7.693 0 11.9-6.373 11.9-11.9 0-.18-.005-.362-.013-.54a8.496 8.496 0 0 0 2.087-2.165z"></path></g></svg> Twitter                       </button>
+                      </Link>
+                  </div>               
+              </li>
+
+
+
+            </ul>
+
+
+
+
+
+
+
 
 
 

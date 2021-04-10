@@ -35,6 +35,13 @@ flags: {
         },
       },
     },
+{
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/pages/`,
+      },
+    },
    {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -109,6 +116,9 @@ flags: {
 {
       resolve: `gatsby-plugin-mdx`,
       options: {
+        defaultLayouts: {
+          default: require.resolve('./src/templates/mardown-page')
+        },
         extensions: [`.mdx`],
       },
     },

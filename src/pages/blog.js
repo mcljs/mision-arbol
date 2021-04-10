@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import SEO from "../components/Seo"
 import HeaderLayout from "../components/HeaderLayout"
 import PostItem from "../components/PostItem"
 import { useStaticQuery, graphql } from "gatsby"
@@ -19,7 +19,7 @@ const { allMarkdownRemark } = useStaticQuery(graphql`
             title
               cover{
                 childImageSharp{
-                  gatsbyImageData(layout:CONSTRAINED,placeholder:TRACED_SVG)
+                  gatsbyImageData(layout:CONSTRAINED)
                               }
                      }
            

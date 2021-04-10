@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Layout from '../components/layout'
-import SEO from "../components/seo"
+import SEO from "../components/Seo"
 import { Tabs, Tab, TabContent } from '../components/Tabs'
 import Link from '../components/link'
 import {EspList} from '../components/Especies/EspList'
@@ -41,7 +41,7 @@ const Guide = () => {
 
               <Tab onClick={handleTabSwitch} activeTab={activeTab === 0} id={0}>Forestales</Tab>
 
-              <Tab onClick={handleTabSwitch} activeTab={activeTab === 1} id={1}>Medicinal</Tab>
+              <Tab onClick={handleTabSwitch} activeTab={activeTab === 1} id={1}>Medicinales</Tab>
 
               <Tab onClick={handleTabSwitch} activeTab={activeTab === 2} id={2}>Ornamentales</Tab>
 

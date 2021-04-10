@@ -2,7 +2,7 @@ import {navigate, Redirect, useParams} from '@reach/router';
 import React, {useMemo} from 'react'
 import {getEspById} from '../../selectors/getEspById';
 import Layout from '../layout';
-import SEO from '../seo';
+import SEO from '../Seo';
 import Transcript from './Transcript';
 
 

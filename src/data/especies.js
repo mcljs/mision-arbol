@@ -21,20 +21,16 @@ Las dos especies más conocidas son la bulnesia arbórea y la bulnesia sarmiento
 
   },
  {
-    id: 'medicinal',
-    title: 'Medicinal',
+    id: 'hierba-buena',
+    title: 'La Hierbabuena',
     publisher: 'Medicinal',
-    title_cientifico: 'Titulo Medicinal',
-    caracteristicas_fisicas: `ES UN ÁRBOL DE GRAN PARTE DEL NORTE DE SUDAMÉRICA, EN LA REGIÓN DE LAS GUAYANAS, DE VENEZUELA, COLOMBIA, GUYANA. A VECES EN EL MERCADO INTERNACIONAL SE LO NOMBRA COMO PARAGUAY LIGNUM VITAE YA QUE SUS PROPIEDADES Y USOS SON SIMILARES AL GUAYACÁN, ÁRBOL DEL GÉNERO GUAIACUM.
-<br/>
-CRECE EN BORDES DE CARRETERAS, CAMINOS Y RÍOS, Y EN EL INTERIOR DE BOSQUES SECOS, SUBXEROFÍTICOS Y ESPINOSOS.
+    title_cientifico: 'MENTHA SPICATA',
+    image: 'hierbabuena.jpg',
+    imageURL: 'https://t1.uc.ltmcdn.com/images/5/6/6/img_como_cuidar_la_hierbabuena_los_mejores_consejos_27665_600_square.jpg',
+    caracteristicas_fisicas: `Es una especie del género mentha, una hierba aromática muy empleada en gastronomía y perfumería por su aroma intenso y fresco. Pertenece a la familia de las lamiaceae;<LeftMouse> La hierbabuena debe su nacimiento a una hibridación de dos mentas; menta negra y menta blanca.
     `,
     propiedades:`
-MUY USADO EN CONSTRUCCIONES CIVILES Y EN NAVALES, TORNERÍA, ELABORACIÓN DE DURMIENTES DE FERROCARRIL. ES PLANTA ORNAMENTAL EN JARDINERÍA. LA MADERA DEBE UTILIZARSE RECIÉN CORTADA, PUESTO QUE AL SECARSE SE PONE EXTREMADAMENTE DURA Y YA NO ES APROVECHABLE.
-LA VERA SE EMPLEA PARA GRABADOS Y CUANDO SE NECESITA UNA MADERA DURABLE. DE SU MADERA SE EXTRAE EL ACEITE DE GUAIAC (O GUAYACOL) PARA INGREDIENTE DE PERFUMES. SU RESINA PUEDE OBTENERSE CON SOLVENTES ORGÁNICOS, EMPLEADA PARA HACER BARNIZ Y PINTURAS OSCURAS.
-<br/><br/>
-ES APRECIADO POR SUS PROPIEDADES PROTECTORAS DE LA PIEL HUMANA CON SU ESENCIA. DA UN BUEN CARBÓN Y VIGAS DE ALTA CALIDAD. IGNICIONA FÁCILMENTE, Y PRODUCE UN HUMO FRAGANTE.
-LAS DOS ESPECIES MÁS CONOCIDAS SON LA BULNESIA ARBÓREA Y LA BULNESIA SARMIENTOI.
+Es más famosa por su uso en el alivio de problemas estomacales. Carminativo y antiespasmódico, la  hierbabuena puede ayudar a los trastornos del sistema digestivo incluyendo gases, distensión abdominal y náuseas, indigestión y cólicos.
     `,
 
   },
@@ -336,6 +332,83 @@ Las flores, de 4 a 5 cm, están agrupadas en panículas terminales erectas, de 2
     propiedades:`
 La infusión y tintura de flores, hojas y corteza se usa por vía oral para el tratamiento de la disentería amebiana y otras afecciones gastrointestinales agudas; se le atribuye también propiedades antisépticas, antitumoral y espasmolítica.
 La madera es excelente para trabajos de carpintería en interiores. De color claro, vetas cortas y bien marcadas, dibujo parecido al fresno europeo, es liviana (aprox. 450 kg/m³) y muy trabajable. `,
+
+  },
+ {
+    id: 'jeginbre',
+    title: 'El Jengibre o Kion',
+    publisher: 'Medicinal',
+    title_cientifico: 'ZINGIBER OFFICINALE',
+    image: 'jengibre.png',
+    imageURL: 'https://www.bambooland.com.au/assets/full/ZINOFF.jpg?20210309030952',
+    caracteristicas_fisicas: `Esta planta pertenece a la familia de las zingiberáceas, cuyo tallo subterráneo es un rizoma horizontal muy apreciado por su aroma y sabor picante; La planta llega a tener 90 cm de altura con largas hojas de 20 cm. 
+   `,
+    propiedades:`
+El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
+
+`,
+
+  },
+ {
+    id: 'romero',
+    title: 'Romero',
+    publisher: 'Medicinal',
+    title_cientifico: 'ROSMARINUS OFFICINALIS L',
+    image: 'romero.jpg',
+    imageURL: 'https://img.fotocommunity.com/romero-rosmarinus-officinalis-l-1e8195f8-b698-40ca-a53a-8d628edfa09d.jpg?height=1080',
+    caracteristicas_fisicas: `Romero puede tratar enfermedades como la hipertensión arterial, la diabetes, la caída del pelo, problemas respiratorios, problemas estomacales, dolor de cabeza, dolor premenstrual, depresión y previene enfermedades degenerativas al poseer propiedades antioxidantes.
+
+   `,
+    propiedades:`
+El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
+
+`,
+
+  },
+ {
+    id: 'romero',
+    title: 'Romero',
+    publisher: 'Medicinal',
+    title_cientifico: 'ROSMARINUS OFFICINALIS L',
+    image: 'romero.jpg',
+    imageURL: 'https://img.fotocommunity.com/romero-rosmarinus-officinalis-l-1e8195f8-b698-40ca-a53a-8d628edfa09d.jpg?height=1080',
+    caracteristicas_fisicas: `Romero puede tratar enfermedades como la hipertensión arterial, la diabetes, la caída del pelo, problemas respiratorios, problemas estomacales, dolor de cabeza, dolor premenstrual, depresión y previene enfermedades degenerativas al poseer propiedades antioxidantes.
+
+   `,
+    propiedades:`
+El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
+
+`,
+
+  },
+ {
+    id: 'cola-de-caballo',
+    title: 'Cola de Caballo',
+    publisher: 'Medicinal',
+    title_cientifico: 'EQUISETUM ARVENSE',
+    image: 'cola-de-caballo.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Equisetopsida.jpg',
+    caracteristicas_fisicas: `Es una especie de arbusto perteneciente a la familia de las equisetáceas, planta vivaz con un rizoma rastrero del que nacen raíces secundarias; Crece en el transcurso del año de dos formas diferentes: en marzo-abril se desarrollan tallos fértiles de color marrón rojizo o amarillo de unos 20 cm; De altura, con hojas marrones.
+
+   `,
+    propiedades:`
+La cola de caballo es una planta que se utiliza para disminuir la "retención de líquidos” (edema), para los cálculos renales y de vejiga, las infecciones del tracto urinario, la incapacidad para controlar la orina (incontinencia) y para trastornos generales de los riñones y de la vejiga.
+`,
+
+  },
+ {
+    id: 'cucurma',
+    title: 'La Cúrcuma',
+    publisher: 'Medicinal',
+    title_cientifico: 'AZAFRÁN DEL POBRE O PALILLO',
+    image: 'curcuma.jpg',
+    imageURL: 'https://img3.exportersindia.com/product_images/bc-full/dir_172/5136938/turmeric-plant-1513924659-3536456.jpg',
+    caracteristicas_fisicas: `Es una planta herbácea de la familia de las zingiberáceas esta planta es originaria de los territorios del sudeste asiático, en los cuales resulta altamente conocida desde la antigüedad, y al contrario que otras no se reproduce mediante semillas sino mediante el uso de esquejes; La parte de la cúrcuma que más se suele emplear es el rizoma o tallo subterráneo, del cual parten las raíces.
+   `,
+    propiedades:`
+Posee propiedades antiinflamatorias.
+Efecto antitumoral; Un interesante antioxidante.
+Hipoglucemiante y de ayuda contra la diabetes; Protege el intestino y el hígado, cicatrizante; Protege el corazón, reduce el colesterol y previene enfermedades cardíacas; Mejora las alergias y el asma.`,
 
   },
 ]

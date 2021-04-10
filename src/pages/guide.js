@@ -4,7 +4,7 @@ import React from 'react';
 import Guide from '../modules/Guide_index'
 import {Router} from '@reach/router'
 
-import SEO from '../components/seo'
+import SEO from '../components/Seo'
 import EspScreen from '../components/Especies/EspScreen';
 import SearchScreen from '../components/Especies/SearchScreen';
 

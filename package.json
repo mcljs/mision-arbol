@@ -14,6 +14,7 @@
     "@reach/router": "^1.3.4",
     "@react-icons/all-files": "^4.1.0",
     "@tailwindcss/line-clamp": "^0.2.0",
+    "@tailwindcss/typography": "github:tailwindcss/typography",
     "@tanem/react-nprogress": "^3.0.61",
     "babel-plugin-styled-components": "^1.12.0",
     "gatsby": "^3.2.1",

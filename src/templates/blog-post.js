@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import SEO from '../components/Seo'
 import * as S from '../components/styles/base'
 import RecommendedPosts from "../components/RecommendedPosts"
 import Share from '../components/Share'
