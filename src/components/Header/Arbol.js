@@ -15,7 +15,7 @@ const Testimonials = () =>{
         Ministerio del Poder Popular para el Ecosocialismo
       </TopLine>
       <Description>
-        Misión Arbol
+        Misión Árbol
       </Description>
       <ContentWrapper>
         <ColumnOne>
@@ -36,7 +36,7 @@ const Testimonials = () =>{
           `} 
           />
             <h3>Meta a Alcanzar</h3>
-            <p>"Plantar tres millones de árboles, la manera más fácil de hacerlo es incorporando a toda la población venezolana, sin distinción de raza, credo, ni ningún otro aspecto, el tema ambiental nos compete a todos, es corresponsabilidad histórica y ambienta"</p>
+            <p>"Plantar tres millones de árboles, la manera más fácil de hacerlo es incorporando a toda la población venezolana, sin distinción de raza, credo, ni ningún otro aspecto, el tema ambiental nos compete a todos, es corresponsabilidad histórica y ambiental"</p>
           </Testimonial>
         </ColumnOne>
         <ColumnTwo>
