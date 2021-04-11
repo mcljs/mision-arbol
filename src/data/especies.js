@@ -366,22 +366,6 @@ El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de ut
 
   },
  {
-    id: 'romero',
-    title: 'Romero',
-    publisher: 'Medicinal',
-    title_cientifico: 'ROSMARINUS OFFICINALIS L',
-    image: 'romero.jpg',
-    imageURL: 'https://img.fotocommunity.com/romero-rosmarinus-officinalis-l-1e8195f8-b698-40ca-a53a-8d628edfa09d.jpg?height=1080',
-    caracteristicas_fisicas: `Romero puede tratar enfermedades como la hipertensión arterial, la diabetes, la caída del pelo, problemas respiratorios, problemas estomacales, dolor de cabeza, dolor premenstrual, depresión y previene enfermedades degenerativas al poseer propiedades antioxidantes.
-
-   `,
-    propiedades:`
-El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
-
-`,
-
-  },
- {
     id: 'cola-de-caballo',
     title: 'Cola de Caballo',
     publisher: 'Medicinal',
@@ -411,4 +395,201 @@ Efecto antitumoral; Un interesante antioxidante.
 Hipoglucemiante y de ayuda contra la diabetes; Protege el intestino y el hígado, cicatrizante; Protege el corazón, reduce el colesterol y previene enfermedades cardíacas; Mejora las alergias y el asma.`,
 
   },
+ {
+    id: 'malojillo',
+    title: 'Malojillo',
+    publisher: 'Medicinal',
+    title_cientifico: 'ZACATE DE LIMÓN',
+    image: 'malojillo.jpg',
+    imageURL: 'https://images-na.ssl-images-amazon.com/images/I/91UW4Sp1P6L._AC_SY679_.jpg',
+    caracteristicas_fisicas: `Es una planta medicinal que posee un aroma semejante al limón cuando sus hojas son cortadas.
+   `,
+    propiedades:`
+Puede ser utilizada en el tratamiento de diversas enfermedades, especialmente problemas estomacales.
+Ayuda a aliviar congestión, tos, síntomas asociados a infecciones respiratorias y al asma bronquial; Algunos estudios han demostrado que el citral (componente principal del limoncillo) inhibe el crecimiento de células cancerosas (durante las etapas iníciales) evitando su proliferación.`,
+
+  },
+ {
+    id: 'manzanilla',
+    title: 'Manzanilla',
+    publisher: 'Medicinal',
+    title_cientifico: 'CAMOMILA',
+    image: 'manzanilla.jpg',
+    imageURL: 'https://www.munayherbal.com/wp-content/uploads/2020/05/Manzanilla-1.jpg',
+    caracteristicas_fisicas: `Tal y como te adelantábamos, la manzanilla (o camomila), es una planta de porte herbáceo, anual y aromática. Presenta un tallo erguido, ramoso y puede llegar a alcanzar una altura de 50 cm (aproximadamente); Sus hojas son pinnadas, alternas, segmentadas y tienen una ligera capa de vello.
+   `,
+    propiedades:`
+Las principales propiedades de esta hierba son antiinflamatorias, antialérgicas, antibacterianas y sedantes; Además, posee buenas ventajas digestivas por lo que se recomienda beber una taza de té de manzanilla después de comer para aliviar dolores, calmar la pesadez y hasta en casos de úlceras o gastritis.
+
+`,
+  },
+ {
+    id: 'tomillo',
+    title: 'Tomillo',
+    publisher: 'Medicinal',
+    title_cientifico: 'THYMUS VULGARIS',
+    image: 'tomillo.jpg',
+    imageURL: 'https://www.mullerseeds.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/thymus_vulgaris_winter_thyme.jpg',
+    caracteristicas_fisicas: `Los tallos son erguidos, cuadrangulares, leñosos y muy ramificados; Las hojas son pequeñas y ovales de bordes enrollados y tomentosos por el envés; Las flores son pequeñas de color rosa y producido en corimbos; El tomillo tiene un penetrante olor aromático.   `,
+    propiedades:`
+Antitusiva: alivia la tos.
+Expectorante: expulsa moco y flemas de los bronquios.
+Mesolítica: disuelve los mocos.
+Antibacteriana y antivírica: combate infecciones bacterianas y virus.
+Antiinflamatoria: disminuye la inflamación.
+Analgésica: calma el dolor.
+`,
+  },
+ {
+    id: 'valeriana',
+    title: 'Valeriana',
+    publisher: 'Medicinal',
+    title_cientifico: 'VALERIANA OFFICINALIS',
+    image: 'valeriana.jpg',
+    imageURL: 'https://c8.alamy.com/compes/fj6b8e/valeriana-comun-sanar-jardin-heliotrope-jardin-valeriana-valeriana-officinalis-floreciendo-alemania-fj6b8e.jpg',
+    caracteristicas_fisicas: `Es una planta vivaz cuya morfología es muy variable; Forma un fuerte rizoma con enormes raíces laterales de cortas ramificaciones; El tallo es hasta 1 metro de altura, es cilíndrico, estriado, erecto y algo ramificado en el extremo. Se agrupan en corimbos en el extremo del tallo.  `,
+    propiedades:`
+La valeriana actúa como un agente sedante, relajando el sistema nervioso y el cerebro. Al contrario que sucede con otros tranquilizantes, esta planta no agota ni debilita a quienes la consumen, por lo que se suele recomendar su toma principalmente en personas que tengan problemas para conciliar el sueño.
+También se recomienda para aquellas afecciones relacionadas con el estrés y la ansiedad que cursan con otras reacciones tales como la histeria, dolores de cabeza y migrañas, dolores estomacales o hipocondría.
+Del mismo modo, alivia los síntomas de angustia, emotividad o tristeza, así como el nerviosismo. A la vez que ayuda a estabilizar el ritmo cardíaco, por lo que su ingesta puede estar recomendada para aquellas personas que padecen arritmias.`,
+  },
+{
+    id: 'flor-de-jamaica',
+    title: 'Flor de Jamaica',
+    publisher: 'Medicinal',
+    title_cientifico: 'HIBISCUS SABDARIFFA',
+    image: 'flor-de-jamaica.png',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flor_de_Jamaica.jpg',
+    caracteristicas_fisicas: `Es una planta herbácea que puede alcanzar de 3 a 5 metros de altura. Es propia de climas secos subtropicales, montanos, de matorral espinoso. Esta es una planta originaria del áfrica y tiene grandes propiedades medicinales
+  `,
+    propiedades:`
+Suele ser reconocida por sus propiedades terapéuticas o medicinales. Esto se debe a que, como la mayoría de las plantas, concentra múltiples vitaminas, minerales y compuestos bioactivos llamados fitoquímicos, con diversas propiedades antioxidantes, antiinflamatorias e antihipertensivas.
+La flor de jamaica es particularmente rica en hierro y calcio, dos minerales relevantes para la salud, particularmente durante la infancia, adolescencia y la en general edad reproductiva.
+`,
+  },
+{
+    id: 'perejil',
+    title: 'Perejil',
+    publisher: 'Medicinal',
+    title_cientifico: 'PETROSELINUM CRISPUM',
+    image: 'perejil.jpg',
+    imageURL: 'https://thumbs.dreamstime.com/b/parsley-leaves-flower-petroselinum-crispum-21782852.jpg',
+    caracteristicas_fisicas: `Es una planta herbácea de la familia apiaceae nativa de la zona central de la región mediterránea e introducida y naturalizada en el resto de europa y distribuida ampliamente por todo el mundo. Se cultiva generalmente como condimento.
+  `,
+    propiedades:`
+Es una planta herbácea medicinal muy utilizada para el tratamiento de la retención de líquidos, enfermedades renales como infecciones urinarias y piedras en los riñones y en algunos problemas gastrointestinales, como estreñimiento y gases; También puede aportarnos: proteínas, fibra, calcio, hierro, potasio, vitamina a, folatos tiamina, flavonoides, miristicina y apiol; Destaca su contenido en vitamina a; Asimismo contiene otras sustancias no nutritivas tales como los flavonoides y aceite esencial (apiol y miristicina).`,
+  },
+{
+    id: 'aloe-vera',
+    title: 'Aloe Vera',
+    publisher: 'Medicinal',
+    title_cientifico: 'ALOE BARBADENSIS MILLER',
+    image: 'aloe-vera.jpg',
+    imageURL: 'https://c8.alamy.com/compes/hmwdx9/botanica-liliaceae-aloe-vera-sp-aloe-barbadensis-miller-hmwdx9.jpg',
+    caracteristicas_fisicas: `Esta planta es xerófila, o sea, se adapta a vivir en áreas de poca disponibilidad de agua y se caracteriza por poseer tejidos para el almacenamiento de agua (6,7).
+
+  `,
+    propiedades:`
+En cosmética se usa cada vez más. La mayoría de los fabricantes responsables extraen y purifican los extractos, evitando el látex de la planta, conocido como aloína; Contiene vitaminas a, del grupo b, c, mucílagos, minerales, taninos, aceites, ácidos grasos (oleico y linoleico), aminoácidos, tiene la propiedad de regenerar las células de la piel, tiene acción digestiva, tiene efecto depurativo, favorece la regeneración de tejidos interno, elimina hongos y virus, regenera las células de la piel, tiene efecto analgésico, protege el sistema inmunitario y posee acción antiinflamatoria.`,
+  },
+{
+    id: 'diente-de-leon',
+    title: 'Diente León',
+    publisher: 'Medicinal',
+    title_cientifico: 'TARAXACUM OFFICINALE',
+    image: 'diente-de-leon.jpg',
+    imageURL: 'https://pflanzio.com/shop/wp-content/uploads/sites/2/2018/04/Taraxacum-officinale-6.jpg',
+    caracteristicas_fisicas: `Planta perenne con raíz primaria larga y roseta basal, suele alcanzar 40 cm de altura; Tiene hojas alternas lanceoladas con una nervadura central, sin pecíolo diferenciado, pinnatipartidas con lóbulos en forma triangular de márgenes dentados y agudos, a veces presenta microvellosidades; El tallo permanece siempre en un estado extremadamente acortado, es por esto que se denominan plantas acaulescentes; Las flores hermafroditas de color amarillo dorado fácilmente identificable; Corola en lígulas terminada en cinco pequeños dientes, florece desde fines de invierno hasta fines de verano; El fruto es un "aquenio" (cipsela) con largo pico y vilano.
+  `,
+    propiedades:`
+La planta es ampliamente utilizada en los casos donde se presentan trastornos digestivos o gástricos; También es uno de los aliados ideales para mejorar la digestión.
+El diente de león es un depurativo natural para el hígado; En caso de padecer de hígado graso, también es frecuente el uso de esta planta; Su consumo aumenta la secreción en la bilis, actúa como preventivo contra posibles hemorragias en este órgano, mientras que por otro lado mejora la pureza de la sangre.
+De igual forma, actúa como un efectivo remedio laxante y se ha demostrado su poder en el tratamiento de los cálculos renales; Tiene efectos contra el estreñimiento y ayuda a eliminar el colesterol del organismo.`,
+  },
+{
+    id: 'incienso',
+    title: 'Incienso',
+    publisher: 'Medicinal',
+    title_cientifico: 'BOSWELLIA SACRA',
+    image: 'incienso.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flor_de_Jamaica.jpg',
+    caracteristicas_fisicas: `Árbol pequeño de hojas caducas (hoja no perenne), que alcanza una altura de 2 a 8 metros, con uno o varios troncos. Su corteza tiene la textura del papel y se extrae fácilmente; Las hojas compuestas e impares (número impar de foliolos crecen a lo largo de las ramas en forma opuesta; Sus diminutas flores, de un blanco amarillento, aparecen reunidas en racimos axilares; están compuestas de cinco pétalos de diez estambres y un cáliz de cinco dientes; El fruto es una cápsula de, aproximadamente, 1 cm; De largo, las hojas nuevas están recubiertas por un fino plumón.
+Los individuos que crecen en las pendientes escarpadas desarrollan un muñón, en forma de cojín, en la base del tronco que se adhiere a la roca y le asegura una cierta estabilidad.  
+
+`,
+    propiedades:`
+Se puede utilizar como tópicos en la piel, preparando un ungüento para tratar zonas con edemas, hinchadas, lastimadas o quemadas; Los tés se pueden consumir como estimulantes y limpiadores de la piel. El té liviano en compresas puede usarse para tratar varios problemas oftalmológicos; La resina se suele masticar para mejorar la salud bucal en general ayuda a tener dientes y encías más fuertes; El té ayuda a cuidar el sistema digestivo, evitando los dolores de estómago; También es un poderoso expectorante y por ende ayuda a curar resfriados, gripes y otras enfermedades del tracto respiratorio. El incienso ayuda a mejorar la memoria y disipa el letargo; Ayuda a aliviar los dolores de cabeza; Funciona bien como repelente ya que ahuyenta a los mosquitos. También se lo utiliza para los dolores musculares, dolores por el reuma y la artritis. Durante el embarazo, puede aliviar las náuseas y ayudar en el momento del parto.
+`,
+  },
+{
+    id: 'acetaminofen',
+    title: 'Acetaminofén',
+    publisher: 'Medicinal',
+    title_cientifico: 'PLECTRANTHUS ORNATUS CODD',
+    image: 'acetaminofen.jpg',
+    imageURL: 'https://www.luontoportti.com/suomi/images/13542.jpg',
+    caracteristicas_fisicas: `Es un árbol de mediano tamaño, perteneciente a la familia monimiaceae, puede superar los quince metros de altura; de muy lento crecimiento, tardando varias decenas de años para alcanzar un tamaño adulto; Es de follaje perenne, con hojas opuestas, ovoides, de 3 a 7 cm de longitud al cabo de un corto pecíolo, de color verde brillante; el envés es más pálido y muestra pubescencias.
+Florece entre agosto y septiembre en su hábitat nativo; Las inflorescencias se presentan en pequeños racimos de unas doce flores pequeñas de color blanquecino; Las flores muestran por lo general siete pétalos, de alrededor de 1 cm de largo; las masculinas se distinguen por los numerosos estambres curvados; El boldo o acetaminofén es dioico, es decir, las flores son unisexuadas y cada espécimen las presenta de sólo un sexo; es necesaria la proximidad de ejemplares masculinos y femeninos para que la polinización —llevada a cabo habitualmente por insectos— se produzca; Los frutos son drupas de pequeño tamaño (alrededor de 2 cm de diámetro), color verde y sabor agradable. 
+
+`,
+    propiedades:`
+El acetaminofén o boldo se ha convertido en una planta que posee múltiples propiedades beneficiosas para el organismo; Es una hierba muy útil, particularmente para el sistema digestivo porque tiene diversas cualidades que la han convertido en una herramienta de cabecera en la medicina natural; Enfermedades del hígado (hepatitis, cólicos, estreñimiento), fiebre, trastornos estomacales, indigestión, distensión abdominal, apatía, insomnio, cálculos biliares, resacas, reumatismo y amebas.`,
+  },
+{
+    id: 'ajo',
+    title: 'Ajo',
+    publisher: 'Medicinal',
+    title_cientifico: 'ALLIUM SATIVUM',
+    image: 'ajo.jpg',
+    imageURL: 'https://3.bp.blogspot.com/-4X3tlk6ZEBk/WgLvUm2iSxI/AAAAAAAABDs/A_RKjdRu0ns3xeelgDtzsKiPlQp5P3jpwCLcBGAs/s1600/phoca_thumb_l_allium_sativum_2.jpg',
+    caracteristicas_fisicas: `Es una planta perenne con hojas planas y delgadas; Mide hasta 30 cm de longitud. Las raíces alcanzan fácilmente profundidades de 50 cm o más; El bulbo es de piel blanca y forma una cabeza dividida en gajos que comúnmente son llamados dientes; Cada cabeza puede contener de 6 a 12 dientes, cada uno de los cuales se encuentra envuelto en una delgada capa de color blanco o rojizo y éstos puede dar origen a una nueva planta de ajo, ya que poseen en su base una yema terminal que es capaz de germinar incluso sin necesidad de plantarse previamente. Este brote comienza a aparecer después de los tres meses de cosechado, dependiendo de la variedad y condiciones de conservación; Las flores son blancas y en algunas especies el tallo también produce pequeños bulbos o hijuelos. 
+
+`,
+    propiedades:`
+Se ha utilizado como hierba medicinal desde hace más de 5.000 años y se sabe que reduce el riesgo de infartos cardíacos, así los niveles de colesterol en sangre. Además, es un fuerte antibiótico y se utiliza para tratar resfriados, catarros e infecciones respiratorias.`,
+  },
+{
+    id: 'eucalipto',
+    title: 'Eucalipto',
+    publisher: 'Medicinal',
+    title_cientifico: 'EUCALYPTUS',
+    image: 'eucalipto.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Starr_051123-5467_Eucalyptus_globulus.jpg/250px-Starr_051123-5467_Eucalyptus_globulus.jpg',
+    caracteristicas_fisicas: `Es un árbol de gran porte que puede llegar a medir hasta 70 metros de altura; Su tallo es recto y la corteza que lo cubre se desgaja y se separa del tronco; El color de la corteza es de un característico gris azulado; Las raíces del eucalipto pueden ser muy poderosas y agresivas.
+Las hojas adultas del eucalipto son alternas, lanceoladas y llegan a medir hasta 30 centímetros de longitud. Son hojas pecioladas, con un marcado nervio central; Es de color verde oscuro brillante y de una fuerte textura endurecida; Por su parte, las hojas jóvenes carecen de pecíolo, abrazan directamente el tallo y son opuestas; Su color es de un verde claro, grisáceo; Esta característica de presentar hojas marcadamente diferenciadas entre jóvenes y adultas, se la conoce como heterofilia. 
+
+`,
+    propiedades:`
+El eucalipto es usado como remedio natural para combatir afecciones en las vías respiratorias; También para hacer papel, madera, construir y en la obtención de productos químicos; Además se usa en la aromaterapia, como repelente natural y para absorber el agua.`,
+  },
+{
+    id: 'caña-la-india',
+    title: 'Caña la India',
+    publisher: 'Medicinal',
+    title_cientifico: 'COSTUS ALLENII MAAS',
+    image: 'caña-la-india.jpg',
+    imageURL: 'https://www.bambooland.com.au/assets/thumbL/COSPUL.jpg?20210309031518',
+    caracteristicas_fisicas: `Esta planta tiene tallos gruesos con hojas verdes y grandes. Crece a una altura media de 1,21 m y produce gruesos racimos de color rojo brillante; Es también considerada como una planta de jardín o planta de interior. 
+
+`,
+    propiedades:`
+Es una planta que puede ser utilizada como medicina alternativa para sanar el cuerpo humano ya que tiene propiedades cicatrizantes, antiséptico.
+Y muy importante sus propiedades diuréticas; para tratar infecciones de orina, cistitis, piedra o arenillas en los riñones, y ayuda a orinar.`,
+  },
+{
+    id: 'hierba-de-san-juan',
+    title: 'Hierba de San Juan',
+    publisher: 'Medicinal',
+    title_cientifico: 'HYPERICUM PERFORATUM',
+    image: 'hierba-de-san-juan.jpg',
+    imageURL: 'https://swbiodiversity.org/imglib/seinet/midwest/Hypericaceae/202003/Hypericum_perforatum_habit_er_1584187568.jpg',
+    caracteristicas_fisicas: `Es una planta vivaz perteneciente a la familia de las hipericáceas (hypericaceae); Puede alcanzar los 80 centímetros de altura, si bien la mayoría de ocasiones no suele pasar de los 40 cm; Sí lo hace cuando las condiciones son realmente buenas; La hierba de san juan tiene unas raíces leñosas y poco ramificadas; Su tallo, de color rojizo (de hecho, su savia es anaranjada- rojiza, lo que potencia esa coloración) se ramifica en la parte superior y lo hace en dos ramas diferentes; En este punto es en el cual crecen las hojas; ¿y cómo son estas últimas? Pues son opuestas, ovaladas y cuentan con un haz de color verde oscuro con diminutas glándulas secretoras transparentes.
+`,
+    propiedades:`
+Los usos medicinales de esta planta, al igual que los tratamientos a base de alguna de sus partes, no se han quedado en el pasado; A día de hoy, el hipérico se sigue utilizando para aplicaciones terapéuticas, tanto en su faceta casera como en la industria farmacéutica. En su formato más casero la hierba de san juan se utiliza para acelerar la cicatrización de las heridas, aplicándolo de forma tópica.`,
+  },
+
+
+
+
 ]
