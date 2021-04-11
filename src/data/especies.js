@@ -588,7 +588,60 @@ Y muy importante sus propiedades diuréticas; para tratar infecciones de orina, 
     propiedades:`
 Los usos medicinales de esta planta, al igual que los tratamientos a base de alguna de sus partes, no se han quedado en el pasado; A día de hoy, el hipérico se sigue utilizando para aplicaciones terapéuticas, tanto en su faceta casera como en la industria farmacéutica. En su formato más casero la hierba de san juan se utiliza para acelerar la cicatrización de las heridas, aplicándolo de forma tópica.`,
   },
+{
+    id: 'toronjil',
+    title: 'Toronjil',
+    publisher: 'Medicinal',
+    title_cientifico: 'MELISSA OFFICINALIS',
+    image: 'toronjil.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/02014_Melissa_officinalis.JPG/220px-02014_Melissa_officinalis.JPG',
+    caracteristicas_fisicas: `Hierba perenne de entre 20 y 30 cm de altura con el follaje verde claro y característico olor a cítrico; Los finos tallos son cuadrangulares y pelosos, en los que se disponen las hojas en pares opuestos que a su vez se caracterizan por ser aovadas y por tener el borde crenado.
+  `,
+    propiedades:`
+El toronjil posee una serie de propiedades beneficiosas para la salud y para el tratamiento de ciertas molestias, las cuales proceden de su composición química (es rico en eugenol, cariofileno o germacreno además de citral o citronela; Algunas de sus propiedades y usos más conocidos se indican a continuación.
+Una de las propiedades más relevantes del toronjil es su efecto sedante y relajante, contribuyendo a rebajar estados de ánimo alterados o de agitación, como la depresión o la ansiedad; Asimismo contribuye a favorecer el sueño, algo útil en casos de insomnio.
 
+`,
+  },
+{
+    id: 'arnica',
+    title: 'Árnica',
+    publisher: 'Medicinal',
+    title_cientifico: 'ÁRNICA MONTANA',
+    image: 'arnica.jpg',
+    imageURL: 'https://i.pinimg.com/474x/c7/58/4e/c7584e44ba53070c2eaefc4060cca323.jpg',
+    caracteristicas_fisicas: `El toronjil posee una serie de propiedades beneficiosas para la salud y para el tratamiento de ciertas molestias, las cuales proceden de su composición química (es rico en eugenol, cariofileno o germacreno además de citral o citronela; Algunas de sus propiedades y usos más conocidos se indican a continuación.
+  `,
+    propiedades:`
+Su uso medicinal, como el de estimular el sistema nervioso y el cerebro no está comprobado; Si se ha demostrado cierta utilidad en el tratamiento de la artrosis; Sin embargo sus preparados homeopáticos en la mayoría de los casos no muestran utilidad, en los casos en los que el preparado homeopático muestra utilidad, es solo para tratar el dolor aunque la referencia no indica si este efecto es superior al efecto placebo.
+Macerar sus flores en aceite de oliva es un remedio para muchas personas del campo contra los golpes con hematoma o torcedura.
+`,
+  },
+{
+    id: 'alheli-amarillo',
+    title: 'Alhelí Amarillo',
+    publisher: 'Medicinal',
+    title_cientifico: 'ERYSIMUM CHEIRI',
+    image: 'alheli-amarillo.jpg',
+    imageURL: 'https://thumbs.dreamstime.com/z/flores-erysimum-cheiri-cheiranthus-o-wallflower-en-el-jard%C3%ADn-de-primavera-sobre-fondo-borroso-flor-dorada-amarilla-con-bokeh-165524553.jpg',
+    caracteristicas_fisicas: `Es una planta herbácea bienal o perenne con uno o más tallos que alcanzan los 15 a 80 centímetros, las hojas son generalmente estrechas y punteadas y pueden alcanzar los 20 cm de longitud; En la cima del tallo se encuentra una inflorescencia de flores con los sépalos de color púrpura-verdoso rodeado de pétalos de dos o tres cm de color amarillo brillante a rojo y púrpura; Al caer las flores quedan unos frutos largos y estrechos o silicuas peludas de varios cm de longitud. Son populares como planta ornamental.
+  `,
+    propiedades:`
+Tienen propiedades diuréticas y cardiotónicas; La flor de alelí se ha hecho popular por ser una planta de uso generalmente ornamental, la cual destila un agradable aroma que habitualmente es utilizado para perfumar algunos espacios.
+La planta posee varias propiedades que pueden resultar muy beneficiosas para el ser humano; Sus propiedades se aprovechan mediante infusión, la cual le elabora utilizando para ello sus hojas con agua hirviendo a manera de té.`,
+  },
+{
+    id: 'escoba-amarga',
+    title: 'Escoba Amarga',
+    publisher: 'Medicinal',
+    title_cientifico: 'PARTHENIUM HYSTEROPHORUS',
+    image: 'escoba-amarga.jpg',
+    imageURL: 'https://thumbs.dreamstime.com/z/parthenium-hysterophorus-y-weed-128750959.jpg',
+    caracteristicas_fisicas: `Es una planta herbácea de hábito caducifolio, con aspecto velludo y muy ramificada, alcanza entre 30 a 70 cm de altura; las hojas son alternas, ovadas y pinnadas con segmentos lanceolados, la inflorescencia se encuentra en corimbos o panículas muy numerosas, las corolas están divididas en cinco segmentos y la semilla es un aquenio.  `,
+    propiedades:`
+Los usos medicinales más frecuentes de esta especie se indican para los padecimientos digestivos, principalmente para la bilis y el dolor de estómago, así como para la fiebre intestinal, empacho o como antihelmíntico.
+Otras enfermedades para las que se recomienda son las de la piel: infecciones cutáneas, granos, ronchas, herpes, sarna, aljorra, lepra o contra la caída del cabello; Se recomienda como emenagogo, correctivo menstrual o para los flujos, aunque puede ser útil para la calentura en el dolor de cuerpo, como antiinflamatorio y en crisis convulsivas; En el reumatismo y heridas o en enfermedades respiratorias como antitusivo, o para la diabetes. Además, se utiliza para fríos o paludismo.`,
+  },
 
 
 
