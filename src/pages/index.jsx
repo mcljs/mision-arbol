@@ -1,5 +1,6 @@
 import React from "react"
 import Loaded from "../components/Loaded"
+import DelayedFallback from "../components/Tweet/DelayedFallback"
 const Carousel = React.lazy(() => import("../components/Carousel")) 
 const Banner = React.lazy(() => import('../components/Banner'))
 const Layout = React.lazy(()=> import('../components/layout'))
@@ -30,7 +31,7 @@ const isSSR = typeof window === "undefined"
     <>
 {!isSSR &&(
 
-  <React.Suspense fallback={ <Loaded/> }>
+  <React.Suspense fallback={ <DelayedFallback/> }>
   <Layout>
     <SEO title="Inicio" />
     <VideoSection />
