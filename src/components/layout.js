@@ -24,12 +24,7 @@ export const globalStyles = css`
       font-size: 24px;
     }
   }
-  hr {
-    margin: 50px 0;
-    border: none;
- 
-    background: none;
-  }
+
   em {
     font-family: ${fonts.regularItalic};
   }

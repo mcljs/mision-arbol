@@ -77,7 +77,12 @@ flags: {
         path: `${__dirname}/content/posts`,
       },
     },
-  
+  {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `2903458873`,
+      },
+    },
   {
       resolve: `gatsby-transformer-remark`,
       options: {    

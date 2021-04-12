@@ -14,11 +14,9 @@ const Contact = (  ) => (
                 <p className="text-gray-400 dark:text-gray-400">Se partidario de escribir una sugerencia a la Fundación.</p>
             </div>
             <div className="m-7">
-                <form action="https://api.web3forms.com/submit" method="POST" id="form">
+                <form action="https://formspree.io/f/xeqvqwdn" method="POST" id="form">
 
-                    <input type="hidden" name="apikey" value="YOUR_ACCESS_KEY_HERE"/>
-                    <input type="hidden" name="subject" value="New Submission from Web3Forms"/>
-                    <input type="checkbox" name="botcheck" id="" style={{display: 'none'}}/>
+              
 
 
                     <div className="mb-6">

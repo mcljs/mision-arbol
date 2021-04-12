@@ -1,5 +1,4 @@
 import React from "react"
-import Loaded from "../components/Loaded"
 import DelayedFallback from "../components/Tweet/DelayedFallback"
 const Carousel = React.lazy(() => import("../components/Carousel")) 
 const Banner = React.lazy(() => import('../components/Banner'))

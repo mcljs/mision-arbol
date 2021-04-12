@@ -27,7 +27,7 @@ Las dos especies más conocidas son la bulnesia arbórea y la bulnesia sarmiento
     title_cientifico: 'MENTHA SPICATA',
     image: 'hierbabuena.jpg',
     imageURL: 'https://t1.uc.ltmcdn.com/images/5/6/6/img_como_cuidar_la_hierbabuena_los_mejores_consejos_27665_600_square.jpg',
-    caracteristicas_fisicas: `Es una especie del género mentha, una hierba aromática muy empleada en gastronomía y perfumería por su aroma intenso y fresco. Pertenece a la familia de las lamiaceae;<LeftMouse> La hierbabuena debe su nacimiento a una hibridación de dos mentas; menta negra y menta blanca.
+    caracteristicas_fisicas: `Es una especie del género mentha, una hierba aromática muy empleada en gastronomía y perfumería por su aroma intenso y fresco. Pertenece a la familia de las lamiaceae; La hierbabuena debe su nacimiento a una hibridación de dos mentas; menta negra y menta blanca.
     `,
     propiedades:`
 Es más famosa por su uso en el alivio de problemas estomacales. Carminativo y antiespasmódico, la  hierbabuena puede ayudar a los trastornos del sistema digestivo incluyendo gases, distensión abdominal y náuseas, indigestión y cólicos.
