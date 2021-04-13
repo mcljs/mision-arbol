@@ -43,3 +43,4 @@ exports.handler = async function(event, context, callback) {
     },
     body: JSON.stringify(posts),
   });
+}

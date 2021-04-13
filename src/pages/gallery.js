@@ -5,7 +5,7 @@ import SEO from '../components/Seo'
 
 
 const Gallery = (  ) => {
-    
+  
     return(
   <Layout>
     <SEO title="Galería de Imagenes" />
@@ -17,7 +17,9 @@ const Gallery = (  ) => {
         <hr className="nt-8 border-t-2 w-20 mx-auto"/>
       </h1>
     </header>
+    
 </div>
+  <Instagram />
      </Layout>
   );
 }

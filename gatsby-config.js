@@ -17,7 +17,12 @@ flags: {
         username: `2903458873`,
       },
   },
-
+{
+     resolve: `gatsby-source-instagram-all`,
+     options: {
+       access_token: "IGQVJVYWtmcGxwelkteUJjZAmNwblFRdFd0azVPMml2X0otNTBRbmk4OXBOSEtBc2k2SV9XUlJMWUJTMllxZA2ZATWmNBMGhrcnVILVJVdGlVSkVTaHZAHU3JNbGZA3c0Jza1hhM1ZAjQ1c2SzljLUl4V0lmYgZDZD"
+     },
+},
     `gatsby-plugin-remove-serviceworker`,
     `gatsby-mdx`,
  `gatsby-remark-normalize-paths`,

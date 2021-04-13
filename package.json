@@ -50,6 +50,7 @@
     "gatsby-transformer-remark": "^3.2.0",
     "gatsby-transformer-sharp": "^3.2.0",
     "gatsby-transformer-sqip": "^3.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "lazysizes": "^5.3.2",
     "prop-types": "^15.7.2",
     "query-string": "^7.0.0",
