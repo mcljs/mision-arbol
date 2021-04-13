@@ -11,6 +11,14 @@ flags: {
   },
 
   plugins: [
+  {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `2903458873`,
+    access_token: `IGQVJVYWtmcGxwelkteUJjZAmNwblFRdFd0azVPMml2X0otNTBRbmk4OXBOSEtBc2k2SV9XUlJMWUJTMllxZA2ZATWmNBMGhrcnVILVJVdGlVSkVTaHZAHU3JNbGZA3c0Jza1hhM1ZAjQ1c2SzljLUl4V0lmYgZDZD`,
+      },
+  },
+
     `gatsby-plugin-remove-serviceworker`,
     `gatsby-mdx`,
  `gatsby-remark-normalize-paths`,
@@ -35,6 +43,7 @@ flags: {
         },
       },
     },
+
 {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -77,12 +86,7 @@ flags: {
         path: `${__dirname}/content/posts`,
       },
     },
-  {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `2903458873`,
-      },
-    },
+
   {
       resolve: `gatsby-transformer-remark`,
       options: {    

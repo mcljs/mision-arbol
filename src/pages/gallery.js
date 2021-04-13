@@ -18,8 +18,7 @@ const Gallery = (  ) => {
       </h1>
     </header>
 </div>
-    <Instagram />
-  </Layout>
+     </Layout>
   );
 }
 export default Gallery
