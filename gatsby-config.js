@@ -15,7 +15,6 @@ flags: {
       resolve: `gatsby-source-instagram`,
       options: {
         username: `2903458873`,
-    access_token: `IGQVJVYWtmcGxwelkteUJjZAmNwblFRdFd0azVPMml2X0otNTBRbmk4OXBOSEtBc2k2SV9XUlJMWUJTMllxZA2ZATWmNBMGhrcnVILVJVdGlVSkVTaHZAHU3JNbGZA3c0Jza1hhM1ZAjQ1c2SzljLUl4V0lmYgZDZD`,
       },
   },
 
