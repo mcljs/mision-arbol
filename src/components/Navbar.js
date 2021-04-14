@@ -60,7 +60,7 @@ const Navbar = (  ) => {
             {/*  <Link to="/gallery" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Galería</Link>*/}
   <Link to="/guide" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Guia de Especies</Link>
   <Link to="https://map-mision-arbol.vercel.app/" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Sitios Recuperados</Link>
-  <Link to="/contact" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Sugerencias</Link>
+  <Link to="/contact" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Solicitudes</Link>
 
     </nav>
 

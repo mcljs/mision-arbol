@@ -14,7 +14,7 @@ const Email = (  ) => {
         <div className="flex justify-end row">
           <div className="w-full lg:w-1/2">
             <div className="py-32 mx-auto text-center call-action-content">
-              <h2 className="mb-5 text-5xl font-semibold leading-tight text-white">Revista Científca</h2>
+              <h2 className="mb-5 text-5xl font-semibold leading-tight text-white">Revista Apamate</h2>
               <p className="mb-6 sm:mr-6 text-white">Suscribete mantente al dia con nuestra revista!</p>
               <form className="relative w-5/6 mx-auto md:w-2/3 call-newsletter">
                 <i className="absolute top-0 left-0 pt-3 pl-5 text-xl text-green-900 lni-envelope">

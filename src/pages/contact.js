@@ -10,8 +10,8 @@ const Contact = (  ) => (
     <div className="container mx-auto">
         <div className="max-w-md mx-auto my-10 bg-white p-5 rounded-md shadow-sm">
             <div className="text-center">
-                <h1 className="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">Sugerencias</h1>
-                <p className="text-gray-400 dark:text-gray-400">Se partidario de escribir una sugerencia a la Fundación.</p>
+                <h1 className="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">Solicitudes del Poder Popular</h1>
+                <p className="text-gray-400 dark:text-gray-400">Se partidario de escribir una solicitud a la Fundación.</p>
             </div>
             <div className="m-7">
                 <form action="https://formspree.io/f/xeqvqwdn" method="POST" id="form">
