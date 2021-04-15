@@ -4,7 +4,7 @@ export const especies = [
     title: 'Vera',
     publisher: 'Forestales',
     title_cientifico: 'BULNESIA ARBÓREA',
-    image: 'vera.jpeg',
+    image: 'vera.jpg',
     imageURL: 'https://images.nieuwkoop-europe.com/images/4BUARRS02.png',
     caracteristicas_fisicas: `Es un árbol de gran parte del norte de sudamérica, en la región de las guayanas, de venezuela, colombia, guyana. a veces en el mercado internacional se lo nombra como paraguay lignum vitae ya que sus propiedades y usos son similares al guayacán, árbol del género guaiacum.
 
