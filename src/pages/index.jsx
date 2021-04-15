@@ -1,4 +1,5 @@
 import React from "react"
+import SEO from '../components/Seo'
 import DelayedFallback from "../components/Tweet/DelayedFallback"
 const Carousel = React.lazy(() => import("../components/Carousel")) 
 const Banner = React.lazy(() => import('../components/Banner'))
@@ -6,7 +7,6 @@ const Layout = React.lazy(()=> import('../components/layout'))
 const Testimonials = React.lazy(()=> import('../components/Header/Arbol'))
 const InfoSection =  React.lazy(()=> import('../components/InfoSection/InfoSection'))
 const Email = React.lazy(()=> import('../components/Email'))
-const SEO = React.lazy(()=> import('../components/Seo'))
 const {InfoData} = React.lazy(()=> import('../data/InfoData'))
 const VideoSection = React.lazy(()=> import('../components/VideoSection'))
 const Tweet = React.lazy(()=> import('../components/Tweet/index'))
@@ -29,24 +29,22 @@ const isSSR = typeof window === "undefined"
   return (
     <>
  
-
-  <Layout>
-   <SEO title="Inicio" />
-
+ <SEO title="Inicio" />
     {!isSSR &&(
-
-  <React.Suspense fallback={ <DelayedFallback/> }>
-    <VideoSection />
+<React.Suspense fallback={ <DelayedFallback/> }>
+  <Layout>
+  
+      <VideoSection />
     <Carousel />
     <InfoSection {...InfoData}/>
     <Banner />
     <Testimonials />
     <Tweet />
-    <Email />
- </React.Suspense>
-      )}
+    <Email />  
   </Layout>
+ </React.Suspense>
 
+  )}
     </>
 )}
 
