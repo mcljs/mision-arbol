@@ -81,7 +81,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
       <Section>
         <Container>
           <ColumnLeft>
-            <h1 >Calendario Digital</h1>
+            <h1 >Calendario Ecosocialista</h1>
             <h3><strong>ABRIL 2021</strong></h3> 
             <h3><strong>07.-</strong>Día Mundial de la Salud</h3>
             <h3><strong>20.-</strong>Día del Caimán del Orinoco</h3>

@@ -32,6 +32,11 @@ export const Tab = styled.button`
     box-shadow: none;
     transform: none;
   }
+
+  @media screen and (max-width: 768px){
+      width: 40%;
+     font-size: 70%;
+    }
 `
 
 export const TabContent = styled.div`
