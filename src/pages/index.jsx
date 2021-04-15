@@ -28,11 +28,12 @@ const isSSR = typeof window === "undefined"
 
   return (
     <>
+  <SEO title="Inicio" />
 {!isSSR &&(
 
   <React.Suspense fallback={ <DelayedFallback/> }>
   <Layout>
-    <SEO title="Inicio" />
+  
     <VideoSection />
     <Carousel />
     <InfoSection {...InfoData}/>
