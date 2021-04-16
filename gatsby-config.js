@@ -25,6 +25,7 @@ flags: {
 },
     `gatsby-plugin-remove-serviceworker`,
     `gatsby-mdx`,
+`gatsby-plugin-twitter`
  `gatsby-remark-normalize-paths`,
     `gatsby-plugin-react-helmet`,
 {
