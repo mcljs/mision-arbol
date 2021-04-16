@@ -9,7 +9,7 @@ const PostItem = ({slug,image,date,title,description,}) => (
   <GatsbyImage className="w-full"  image={image}/>
      <section className="p-4">
         <h2 className="sm:text-2xl text-xl pb-5 leading-tight font-semibold">{title}</h2>
-        <p className="prose opacity-75 hover:opacity-100 transition-opacity duration-200 ease-in-out ">{description}</p>
+        <p className="prose opacity-75 hover:opacity-100 transition-opacity duration-200 ease-in-out line-clamp-3 ">{description}</p>
       </section>
         <span className="sm:px-8 px-5 sm:pb-8 pb-5 ml-0 sm:ml-4 text-left w-full text-gray-600 opacity-75 text-sm ">{date} </span>
       </Link>
