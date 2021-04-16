@@ -19,7 +19,7 @@ La noticia fue compartida en la cuenta oficial de la vicepresidenta @drodriven2 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Con profundo pesar informamos la partida física de nuestro querido Ministro para el Ecosocialismo. Oswaldo Barbera, hombre humilde, trabajador y honesto, de relación poética con la madre tierra transita a otro paisaje, de los que sembró y cultivó siempre con profunda humanidad! <a href="https://t.co/hmajq1BLnj">pic.twitter.com/hmajq1BLnj</a></p>&mdash; Delcy Rodríguez (@drodriven2) <a href="https://twitter.com/drodriven2/status/1382818968860246016?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-##Filven
+## Filven
 
 Nuestro ministro Oswaldo Barbera participó en el año 2020 en la Feria Internacional del Libro de Venezuela, allí presento su trabajo bibliográfico “Río abajo, balsero de mi alma” una serie de versos que revelan los misterios que tejen un mismo camino: el amor como deseo y transmutación en el otro.
 
