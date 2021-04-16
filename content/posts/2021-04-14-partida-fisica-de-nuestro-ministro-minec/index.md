@@ -1,7 +1,7 @@
 ---
 date: 2021-04-15 21:32:21
 tags: ["MINEC", "Ministro Oswaldo Barbera"]
-title: El equipo de Misión Árbol lamentamos la partida física de nuestro Ministro Oswaldo Barbera
+title: El equipo de Misión Árbol lamenta la partida física de nuestro Ministro Oswaldo Barbera
 description: Hombre trabajador y comprometido con el pueblo venezolano y la preservación del ambiente.
 twitter_text: El equipo de Misión Árbol lamentamos la partida física de nuestro Ministro Oswaldo Barbera
 image: ./ministro.jpeg
