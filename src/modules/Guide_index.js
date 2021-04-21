@@ -23,13 +23,13 @@ const Guide = () => {
 
   return (
     <Layout >
- <SEO title="Guia de Especie" />
+ <SEO title="Guía de Especie" />
        <div className="text-center max-w-xl mx-auto">
-      <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600">Guia de Especies</h1>
+      <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600">Guía de Especies</h1>
       
-<div class="mt-8 flex justify-center">
-            <div class="inline-flex rounded-md bg-yellow-600 shadow">
-                <Link to="/guide/search" class="text-gray-200 font-bold py-2 px-6">
+<div className="mt-8 flex justify-center">
+            <div className="inline-flex rounded-md bg-yellow-600 shadow">
+                <Link to="/guide/search" className="text-gray-200 font-bold py-2 px-6">
                     Buscar
                 </Link>
             </div>
