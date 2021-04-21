@@ -86,7 +86,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
             <h3><strong>07.-</strong>Día Mundial de la Salud</h3>
             <h3><strong>20.-</strong>Día del Caimán del Orinoco</h3>
             <h3><strong>22.-</strong>Día Mundial de la tierra</h3>
-            <h3><strong>24.-</strong>Día internacional de la Concientización respectro al Ruido</h3>
+            <h3><strong>24.-</strong>Día internacional de la Concientización respecto al Ruido</h3>
 
 
 
