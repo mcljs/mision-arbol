@@ -33,12 +33,12 @@ const Contact = (  ) => (
                         <input type="text" name="phone" id="phone" placeholder="0426-999-99-99" required className="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
                     </div>
                     <div class="mb-6">
-                        <label for="message" className="block mb-2 text-sm text-gray-600 dark:text-gray-400">Escriba el mensaje</label>
+                        <label for="message" className="block mb-2 text-sm text-gray-600 dark:text-gray-400">Escriba la solicitud</label>
 
                         <textarea rows="5" name="message" id="message" placeholder="Tu mensaje..." className="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea>
                     </div>
                     <div className="mb-6">
-                        <button type="submit" className="w-full px-3 py-4 text-white bg-yellow-1100 rounded-md focus:bg-indigo-600 focus:outline-none">Enviar Mensaje</button>
+                        <button type="submit" className="w-full px-3 py-4 text-white bg-yellow-1100 rounded-md focus:bg-indigo-600 focus:outline-none">Enviar Solicitud</button>
                     </div>
                     <p className="text-base text-center text-gray-400" id="result">
                     </p>
