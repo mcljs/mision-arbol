@@ -194,16 +194,16 @@ Esas semillas se usan en joyería y otras decoraciones; son venenosas si se ingi
 
   },
   {
-    id: 'merey',
-    title: 'Merey',
+    id: 'palma-real',
+    title: 'Palma Real',
     publisher: 'Forestales',
-    title_cientifico: 'ANACARDIUM OCCIDENTALE',
-    image: 'merey.jpg',
-    imageURL: 'https://u.iplantz.com/80/Anacardium%20occidentale-9957.5501.jpg',
+    title_cientifico: 'ROYSTONEA REGIA',
+    image: 'palma-real.jpg',
+    imageURL: 'https://st3.depositphotos.com/31856992/34580/i/600/depositphotos_345802902-stock-photo-tall-royal-palm-trees-roystonea.jpg',
     caracteristicas_fisicas: `
-El merey en realidad es el fruto del árbol del merey; el fruto fresco es verde; la nuez tiene forma parecida al frijol y alcanza, aproximadamente, 2,5 centímetros (1 pulgada) de largo; el merey tiene dos capas de cáscara, entre estas capas hay un aceite fuerte que puede producir ampollas en la piel.`,
+La palma real tiene muchos usos, además de su popular cultivo en jardinería, el tronco proporciona tablas para los "bohíos" o casas campesinas, las grandes hojas o pencas conocidas como guano sirven para techar casas; con las espatas florales se hacen "catauros", que son como cestas no tejidas. Las vainas foliares o "yaguas" sirven para envolver las hojas curadas del tabaco en tercios y antes también eran muy usadas para hacer las paredes de los bohíos. Sus flores son una importante fuente de alimento para las abejas; su fruto, el palmiche, cuelga muy abundantemente en racimos y brindan excelente alimento para cerdos. Los racimos ya secos son útiles como escobas rústicas.`,
     propiedades:`
-La nuez del merey se puede hervir, asar o tostar y se come como bocadillo en muchas partes del mundo; también se muele para hacer mantequilla de nuez o se utilizan en distintos caramelos y otros dulces; en india y en asia sudoccidental, a menudo se incorpora merey en diversos platos de comida; la nuez es rica en proteínas y grasas. `,
+En Cuba se usa la raíz en cocimiento como diurético, para expulsar piedras en la orina, para el tratamiento de la diabetes, y se dice que tiene propiedades emolientes.`,
 
   },
   {
@@ -236,16 +236,16 @@ Los frutos aparecen en las copas de estas palmas que pueden tener hasta 3 o 5 me
 
   },
   {
-    id: 'palma-real',
-    title: 'Palma Real',
+    id: 'merey',
+    title: 'Merey',
     publisher: 'Forestales',
-    title_cientifico: 'ROYSTONEA REGIA',
-    image: 'palma-real.jpg',
-    imageURL: 'https://st3.depositphotos.com/31856992/34580/i/600/depositphotos_345802902-stock-photo-tall-royal-palm-trees-roystonea.jpg',
+    title_cientifico: 'ANACARDIUM OCCIDENTALE',
+    image: 'merey.jpg',
+    imageURL: 'https://u.iplantz.com/80/Anacardium%20occidentale-9957.5501.jpg',
     caracteristicas_fisicas: `
-La palma real tiene muchos usos, además de su popular cultivo en jardinería, el tronco proporciona tablas para los "bohíos" o casas campesinas, las grandes hojas o pencas conocidas como guano sirven para techar casas; con las espatas florales se hacen "catauros", que son como cestas no tejidas. Las vainas foliares o "yaguas" sirven para envolver las hojas curadas del tabaco en tercios y antes también eran muy usadas para hacer las paredes de los bohíos. Sus flores son una importante fuente de alimento para las abejas; su fruto, el palmiche, cuelga muy abundantemente en racimos y brindan excelente alimento para cerdos. Los racimos ya secos son útiles como escobas rústicas.`,
+El merey en realidad es el fruto del árbol del merey; el fruto fresco es verde; la nuez tiene forma parecida al frijol y alcanza, aproximadamente, 2,5 centímetros (1 pulgada) de largo; el merey tiene dos capas de cáscara, entre estas capas hay un aceite fuerte que puede producir ampollas en la piel.`,
     propiedades:`
-En Cuba se usa la raíz en cocimiento como diurético, para expulsar piedras en la orina, para el tratamiento de la diabetes, y se dice que tiene propiedades emolientes.`,
+La nuez del merey se puede hervir, asar o tostar y se come como bocadillo en muchas partes del mundo; también se muele para hacer mantequilla de nuez o se utilizan en distintos caramelos y otros dulces; en india y en asia sudoccidental, a menudo se incorpora merey en diversos platos de comida; la nuez es rica en proteínas y grasas. `,
 
   },
   {
@@ -577,16 +577,16 @@ Es una planta que puede ser utilizada como medicina alternativa para sanar el cu
 Y muy importante sus propiedades diuréticas; para tratar infecciones de orina, cistitis, piedra o arenillas en los riñones, y ayuda a orinar.`,
   },
 {
-    id: 'hierba-de-san-juan',
-    title: 'Hierba de San Juan',
+    id: 'escoba-amarga',
+    title: 'Escoba Amarga',
     publisher: 'Medicinal',
-    title_cientifico: 'HYPERICUM PERFORATUM',
-    image: 'hierba-de-san-juan.jpg',
-    imageURL: 'https://swbiodiversity.org/imglib/seinet/midwest/Hypericaceae/202003/Hypericum_perforatum_habit_er_1584187568.jpg',
-    caracteristicas_fisicas: `Es una planta vivaz perteneciente a la familia de las hipericáceas (hypericaceae); Puede alcanzar los 80 centímetros de altura, si bien la mayoría de ocasiones no suele pasar de los 40 cm; Sí lo hace cuando las condiciones son realmente buenas; La hierba de san juan tiene unas raíces leñosas y poco ramificadas; Su tallo, de color rojizo (de hecho, su savia es anaranjada- rojiza, lo que potencia esa coloración) se ramifica en la parte superior y lo hace en dos ramas diferentes; En este punto es en el cual crecen las hojas; ¿y cómo son estas últimas? Pues son opuestas, ovaladas y cuentan con un haz de color verde oscuro con diminutas glándulas secretoras transparentes.
-`,
+    title_cientifico: 'PARTHENIUM HYSTEROPHORUS',
+    image: 'escoba-amarga.jpg',
+    imageURL: 'https://thumbs.dreamstime.com/z/parthenium-hysterophorus-y-weed-128750959.jpg',
+    caracteristicas_fisicas: `Es una planta herbácea de hábito caducifolio, con aspecto velludo y muy ramificada, alcanza entre 30 a 70 cm de altura; las hojas son alternas, ovadas y pinnadas con segmentos lanceolados, la inflorescencia se encuentra en corimbos o panículas muy numerosas, las corolas están divididas en cinco segmentos y la semilla es un aquenio.  `,
     propiedades:`
-Los usos medicinales de esta planta, al igual que los tratamientos a base de alguna de sus partes, no se han quedado en el pasado; A día de hoy, el hipérico se sigue utilizando para aplicaciones terapéuticas, tanto en su faceta casera como en la industria farmacéutica. En su formato más casero la hierba de san juan se utiliza para acelerar la cicatrización de las heridas, aplicándolo de forma tópica.`,
+Los usos medicinales más frecuentes de esta especie se indican para los padecimientos digestivos, principalmente para la bilis y el dolor de estómago, así como para la fiebre intestinal, empacho o como antihelmíntico.
+Otras enfermedades para las que se recomienda son las de la piel: infecciones cutáneas, granos, ronchas, herpes, sarna, aljorra, lepra o contra la caída del cabello; Se recomienda como emenagogo, correctivo menstrual o para los flujos, aunque puede ser útil para la calentura en el dolor de cuerpo, como antiinflamatorio y en crisis convulsivas; En el reumatismo y heridas o en enfermedades respiratorias como antitusivo, o para la diabetes. Además, se utiliza para fríos o paludismo.`,
   },
 {
     id: 'toronjil',
@@ -631,17 +631,18 @@ Tienen propiedades diuréticas y cardiotónicas; La flor de alelí se ha hecho p
 La planta posee varias propiedades que pueden resultar muy beneficiosas para el ser humano; Sus propiedades se aprovechan mediante infusión, la cual le elabora utilizando para ello sus hojas con agua hirviendo a manera de té.`,
   },
 {
-    id: 'escoba-amarga',
-    title: 'Escoba Amarga',
+    id: 'hierba-de-san-juan',
+    title: 'Hierba de San Juan',
     publisher: 'Medicinal',
-    title_cientifico: 'PARTHENIUM HYSTEROPHORUS',
-    image: 'escoba-amarga.jpg',
-    imageURL: 'https://thumbs.dreamstime.com/z/parthenium-hysterophorus-y-weed-128750959.jpg',
-    caracteristicas_fisicas: `Es una planta herbácea de hábito caducifolio, con aspecto velludo y muy ramificada, alcanza entre 30 a 70 cm de altura; las hojas son alternas, ovadas y pinnadas con segmentos lanceolados, la inflorescencia se encuentra en corimbos o panículas muy numerosas, las corolas están divididas en cinco segmentos y la semilla es un aquenio.  `,
+    title_cientifico: 'HYPERICUM PERFORATUM',
+    image: 'hierba-de-san-juan.jpg',
+    imageURL: 'https://swbiodiversity.org/imglib/seinet/midwest/Hypericaceae/202003/Hypericum_perforatum_habit_er_1584187568.jpg',
+    caracteristicas_fisicas: `Es una planta vivaz perteneciente a la familia de las hipericáceas (hypericaceae); Puede alcanzar los 80 centímetros de altura, si bien la mayoría de ocasiones no suele pasar de los 40 cm; Sí lo hace cuando las condiciones son realmente buenas; La hierba de san juan tiene unas raíces leñosas y poco ramificadas; Su tallo, de color rojizo (de hecho, su savia es anaranjada- rojiza, lo que potencia esa coloración) se ramifica en la parte superior y lo hace en dos ramas diferentes; En este punto es en el cual crecen las hojas; ¿y cómo son estas últimas? Pues son opuestas, ovaladas y cuentan con un haz de color verde oscuro con diminutas glándulas secretoras transparentes.
+`,
     propiedades:`
-Los usos medicinales más frecuentes de esta especie se indican para los padecimientos digestivos, principalmente para la bilis y el dolor de estómago, así como para la fiebre intestinal, empacho o como antihelmíntico.
-Otras enfermedades para las que se recomienda son las de la piel: infecciones cutáneas, granos, ronchas, herpes, sarna, aljorra, lepra o contra la caída del cabello; Se recomienda como emenagogo, correctivo menstrual o para los flujos, aunque puede ser útil para la calentura en el dolor de cuerpo, como antiinflamatorio y en crisis convulsivas; En el reumatismo y heridas o en enfermedades respiratorias como antitusivo, o para la diabetes. Además, se utiliza para fríos o paludismo.`,
+Los usos medicinales de esta planta, al igual que los tratamientos a base de alguna de sus partes, no se han quedado en el pasado; A día de hoy, el hipérico se sigue utilizando para aplicaciones terapéuticas, tanto en su faceta casera como en la industria farmacéutica. En su formato más casero la hierba de san juan se utiliza para acelerar la cicatrización de las heridas, aplicándolo de forma tópica.`,
   },
+
 
 
 
