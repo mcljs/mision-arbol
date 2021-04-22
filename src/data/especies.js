@@ -741,28 +741,6 @@ Su uso farmacológico en época moderna está aún en fase de investigación.
     `,
 
   },
-     {
-    id: 'helacho',
-    title: 'Helecho',
-    publisher: 'Ornamentales',
-    title_cientifico: 'Tracheophyta',
-    image: 'helacho.jpg',
-    imageURL: 'https://c8.alamy.com/compes/rr0y3y/cercana-de-verdes-hojas-tracheophyta-rr0y3y.jpg',
-    caracteristicas_fisicas: `Los helechos son plantas fotosintéticas en su mayoría, los cuales
-prefieren un alto grado de humedad y pueden ser de diversos tipos, como terrestres,
-rupícolas, epífitos, acuáticos y paludícolas. Además son plantas vasculares, es decir,
-cuentan con vasos conductores que le permiten transportar los nutrientes y agua a cada
-parte de la planta.`,
-
-    propiedades:`
-La infusión que se hace con las hojas del helecho común se puede emplear
-para bajar la presión arterial, el tallo se puede utilizar como diurético y en las quemaduras
-como uso tópico. Y los implantes de las hojas como tratamiento de golpes musculares,
-tiene usos veterinarios para curar las heridas de los animales, las hojas frescas pueden ser
-utilizadas como un insecticida natural contra pulgas y plagas.
-    `,
-
-  },
 {
     id: 'geranio',
     title: 'Geranio',
@@ -930,22 +908,148 @@ para esos lugares donde necesitamos de un humificador.   `,
     publisher: 'Ornamentales',
     title_cientifico: 'Bellis perennis',
     image: 'margarina.jpg',
-    imageURL: 'https://images-na.ssl-images-amazon.com/images/I/51z3-iUAPdL._AC_.jpg',
-    caracteristicas_fisicas: `A la Palma Areca también se la conoce con el nombre palmera
-amarilla, ya que los pecíolos de sus hojas poseen una característica coloración en tonos
-amarillos verdosos.
-De la misma mata salen varios tallos tipo cañas, coronados por hojas de gran tamaño
-finamente divididas en múltiples foliolos también de una coloración amarillo verdosa muy
-atractiva.
-Es originaria de Madagascar donde alcanza gran tamaño, pero ha demostrado tener una
-magnífica adaptación al crecimiento en interiores.`,
+    imageURL: 'https://previews.123rf.com/images/koromyslova/koromyslova1707/koromyslova170700012/81976657-perennial-daisy-lat-bellis-perennis-in-pots-on-the-background-of-the-sedum-lat-sedum-acre-.jpg',
+    caracteristicas_fisicas: `La Margarina también es conocida como margarita enana,
+margarita menor, margarita de los prados o dormilona. Esta alegre planta puede alcanzar
+entre los 20 y 50 cm de altura. Es muy conocida por su forma redondeada y sus pétalos
+finos y alargados de vivaces colores: rosas, fucsias, blancas y amarillas. Gracias a su
+hermosura son muy atractivas para la jardinería pero también son empleadas con fines
+terapéuticos.`,
 
     propiedades:`
-Esta planta, Palma Areca, puede ser utilizada para ambientes donde
-necesitemos humedecer el ambiente por distintas razones. Además quita toxinas
-ambientales y tolera ambientes de interior. Desde luego una buena alternativa natural
-para esos lugares donde necesitamos de un humificador.   `,
+La Margarina también tiene grandes propiedades medicinales. Mejora la
+digestión e incluso ayuda a disminuir la fiebre. Se utiliza en compresas para reducir las
+inflamaciones y es un excelente cicatrizante. Además, la infusión de esta planta es un
+remedio muy efectivo para curar el catarro, estimula el apetito, es diurética y ayuda a
+purificar la sangre.
+En Polonia es sinónimo de belleza y se le conoce como ‘la flor de las mujeres. Se ha hecho
+famosa por sus propiedades cosméticas: Mejora el metabolismo de la piel. Elimina las
+manchas otorgaando una apariencia más fresca y sana. No te preocupes. No tienes que
+estar en Polonia para aprovechar los beneficios que esta planta te ofrece.   `,
   },
+{
+    id: 'achira',
+    title: 'Achira',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Canna indica',
+    image: 'achira.jpg',
+    imageURL: 'https://images-na.ssl-images-amazon.com/images/I/71uD%2BIMtL7L._AC_SL1500_.jpg',
+    caracteristicas_fisicas: `Posee una altura de 0,8-1,5 m. Hay variedades que llegan a 3 m. Es
+de hojas grandes, oblongas, de color verde, púrpura, rojizo o variegado. Las flores se
+agrupan en inflorescencias de colores rojizo, naranja, amarillo o rosa. Su Floración es en el
+verano hasta bien avanzado el otoño. Es una planta con tallos erectos que suele emplearse
+en el jardín para formar bellos grupos aislados. Esta planta está presente en multitud de
+jardines por su magnífico follaje de vivos colores, así como por sus bellas flores que
+recuerdan a las del gladiolo.`,
 
+    propiedades:`
+Se cultiva principalmente por sus cormos o rizomas que son de importancia
+para la alimentación humana y la agroindustria. El almidón es de fácil digestión y la harina
+se usa para fabricar panes, bizcochos, galletas, tortas tallarines y fideos. Los cormos de la
+achira se comen también asados o cocidos. Las raíces se usan como diurético y las hojas
+como cicatrizante; el jugo de estas como antiséptico. Las hojas recién cortadas se usaban y
+probablemente todavía se usan sobre las quemaduras para refrescar y disipar el calor de la
+piel quemada. Las semillas se utilizan para confeccionar collares y sonajeros o maracas.
+Tallos y hojas sirven de forraje para el ganado. A las hojas también se les utiliza como un
+tipo de empaque natural para envolver comidas típicas como los tamales.   `,
+  },
+  {
+    id: 'algodoncillo',
+    title: 'Algodoncillo',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Asclepias',
+    image: 'algodoncillo.jpg',
+    imageURL: 'https://www.infojardin.com/jardineria/flores-vivaces-perennes-anuales/rgh1370723682d.jpg',
+    caracteristicas_fisicas: `Las plantas típicas son subarbustos perennes que crecen hasta 1 m
+de altura, tienen tallos grises pálidos.
+Tiene hojas opuestas, lanceoladas u oblongo-lanceoladas y en las extremidades
+acuminadas o agudas. Las flores surgen en cimas terminales con 10 a 20 flores cada una.
+Las corolas pueden ser de color púrpura o rojo y los lóbulos de la corona amarillos o
+naranja por lo que también se la llama bandera española.
+Frutos fusiformes de 5 a 10 cm de longitud, llamados folículos. Los folículos contienen
+semillas ovales oscuras de 6 a 7 mm de largo, éstas poseen pelos sedosos que les permiten
+flotar en corrientes de aire cuando los folículos se abren. ​ Las plantas florecen casi todo el
+año. Las plantas contienen una savia lechosa como la mayoría de los miembros del género.`,
+
+    propiedades:`
+Esta planta es conocida como quiebra muelas o revienta muelas entre otros
+nombres en alusión a una de sus propiedades medicinales. En algunos estados del centro y
+sur de México se reporta útil para el tratamiento de problemas dentales: las caries o
+muelas picadas con su empleo se busca por un lado calmar el dolor y por otro extraer la
+pieza afectada mediante su fragmentación. El tratamiento generalmente consiste en la
+aplicación del látex, ya sea de manera directa o en un algodón bien impregnado, sobre la
+pieza que causa la molestia; se espera con ello romperla, aliviando así el dolor y facilitando
+su extracción. En Tabasco además del procedimiento descrito, usan también la semilla
+sobre el diente que duele para eliminar la molestia.   `,
+  },
+    {
+    id: 'ave-del-paraiso',
+    title: 'Ave del Paraíso',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Strelitzia reginae',
+    image: 'ave-del-paraiso.jpg',
+    imageURL: 'https://cdn.webshopapp.com/shops/30495/files/337833640/strelitzia-nicolai-reginae-narrow-leaved.jpg',
+    caracteristicas_fisicas: `Se trata de una planta de hábitos herbáceos formada por un tallo
+acaule que emerge verticalmente de un rizoma robusto y subterráneo. El tallo está
+formado por las bases envainadoras de los pecíolos que crecen de forma alterna hasta
+alcanzar una altura de 100-150 cm de altura.`,
+
+    propiedades:`
+Es una planta perenne que no tiene tronco, sino varios tallos herbáceos de
+considerable grosor que “nacen” verticalmente de un rizoma grande y subterráneo.
+Las hojas miden entre 50 centímetros de longitud y 30 centímetros de anchura. Son verde
+oscuras, lustrosas y largas.
+De la Ave del Paraíso brotan entre 5 y 8 flores que surgen de una bráctea que recuerda el
+pico o las plumas de un pájaro de allí su nombre “Ave de Paraíso”.
+Sus sépalos naranjas y amarillos en contraste con sus pétalos azules, la convierten en una
+delicia para la vista, especialmente cuando son “abordados” por las aves que disfrutan de
+su néctar.  `,
+  },
+     {
+    id: 'boton-de-oro',
+    title: 'Botón de Oro',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Tithonia diversifolia',
+    image: 'boton-de-oro.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Tithonia_diversifolia%2C_a_Mexican_Sunflower_in_Africa._%289439108054%29.jpg',
+    caracteristicas_fisicas: `El botón de oro es una planta herbácea muy ramificada que alcanza
+alturas hasta de cinco metros; se reconoce fácilmente por sus grandes flores amarillas con
+fuerte olor a miel por sus hojas simples y alternas con tres a cinco lóbulos, el central más
+grande que los otros. El botón de oro tiene un gran valor ecológico como fuente de néctar
+y otros recursos para la fauna silvestre.
+Se propaga fácilmente a partir de estacas de 30 a 50 centímetros de longitud cosechadas
+del tercio inferior o intermedio de los tallos. Muy rara vez se propaga a partir de semillas y
+no es fácil obtenerla sexualmente viable. En cierta medida, esta circunstancia es favorable
+porque impide el comportamiento invasor de la planta.`,
+
+    propiedades:`
+Una de sus más grandes ventajas es que puede crecer en muchas zonas y se
+extiende por los 3 pisos térmicos: cálido, templado y frío. Se distribuye naturalmente por
+el norte de Suramérica y Centroamérica y se puede encontrar en alturas que van desde los
+0 hasta los 2.500 msnm.
+El botón de oro es una excelente fuente de proteína para los bovinos y se puede emplear
+en sistemas silvopastoriles.  `,
+  },
+       {
+    id: 'capa-roja-brasilena',
+    title: 'Capa roja brasileña',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Megaskepasma erythrochlamys',
+    image: 'capa-roja.jpg',
+    imageURL: 'https://c8.alamy.com/compes/rh30ex/manto-rojo-brasileno-megaskepasma-erythrochlamys-rh30ex.jpg',
+    caracteristicas_fisicas: `Es un arbusto perenne de crecimiento recto y con una floración
+muy vistosa de color rojo, motivo por el cual recibe el nombre de Capa roja brasileña.
+Mide 4 metros de alto. Es nativa de varios países de Centro y Suramérica, además de
+Venezuela, donde se encuentra de forma natural en sus bosques tropicales.
+Es una planta ornamental que se cultiva en suelo para embellecer jardines, sobre todo
+en espacios públicos con un follaje compacto formado por grandes hojas ovaladas de
+color verde intenso. Presenta unas brácteas u hojas modificadas de color rosado rojo
+que protegen a la verdadera flor que es de color blanco. Este arbusto se reproduce por
+esquejes.`,
+
+    propiedades:`
+Utilizado comúnmente como planta de ornamentación, generalmente se
+encuentran en las fincas y no reporta información acerca de otros usos.  `,
+  },
 ]
 
