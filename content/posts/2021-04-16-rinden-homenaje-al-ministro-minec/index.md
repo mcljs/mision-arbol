@@ -1,24 +1,35 @@
 ---
-date: 2021-04-16 13:32:21
-tags: ["MINEC", "Ministro Oswaldo Barbera"]
-title: Rinden homenaje al ministro para el Ecosocialismo Oswaldo Barbera
-description: Desde las instalaciones del Parque Generalísimo Francisco de Miranda, específicamente en la Capilla Ardiente, en Caracas.
-twitter_text: Rinden homenaje al ministro para el Ecosocialismo Oswaldo Barbera
-image: ./oswaldo.jpg
-cover: ./oswaldo.jpg
+date: 2021-04-22 13:32:21
+tags: ["MINEC", "Desinfeccion"]
+title: Fundación Misión Árbol, desarrolló jornada de limpieza, desinfección y embellecimiento en el parque Zoológico de Caricuao
+description: La Misión Árbol desarrolló jornada de limpieza, desinfección y embellecimiento del Parque Recreativo Nacional Zoológico de Caricuao, en Caracas.
+twitter_text: Fundación Misión Árbol, desarrolló jornada de limpieza, desinfección y embellecimiento en el parque Zoológico de Caricuao, en Caracas.
+image: ./2021-04-22.jpg
+cover: ./2021-04-22.jpg
 timeToRead: 4
 ---
 
 
-![Mision-Arbol](./oswaldo.jpg)
+![Mision-Arbol](./2021-04-22.jpg)
 
 
-Desde las instalaciones del Parque Generalísimo Francisco de Miranda, específicamente en la Capilla Ardiente, en Caracas, se llevó a cabo un homenaje en memoria del ministro para el Ecosocialismo, Oswaldo Barbera.
+La Misión Árbol desarrolló jornada de limpieza, desinfección y embellecimiento del Parque Recreativo Nacional Zoológico de Caricuao, en Caracas.
 
-La actividad fue presidida por la vicepresidenta Ejecutiva de la República Bolivariana de Venezuela, Delcy Rodríguez, acompañada por el ministro del Poder Popular para la Defensa, Vladímir Padrino López; el vicepresidente de Comunicación, Cultura y Turismo, Freddy Ñáñez; la ministra del Poder Popular para Relaciones Interiores, Justicia y Paz A/J Carmen Meléndez y el vicepresidente de Planificación, Ricardo Menéndez, así como amigos y allegados quienes rindieron honores al ministro.
+La jornada contó con la participación del Ministro del Poder Popular para el Turismo Alí Padrón; el presidente de la Fundación Misión Árbol Wilmer Vásquez, el presidente del Instituto Nacional de Parques (Inparques) Josué Lorca el presidente de Corpotur Luis Eduardo Rodríguez, Protección Civil y la Alcaldía de Caracas.
 
-Barbera, un hombre trabajador y comprometido con el pueblo venezolano, quien desde su designación el 12 de agosto del año 2019 por el presidente de la República, Nicolás Maduro Moros, dedicó su vida a la preservación del ambiente como parte del cumplimiento del 5to Objetivo Histórico del Plan de la Patria.
+Durante la actividad se logró la desinfección de los espacios comunes con hipoclorito de calcio, y el embellecimiento de las distintas áreas del parque.
 
-Cabe destacar que el titular de Minec ocupó el cargo de director regional en el estado Portuguesa del suprimido Ministerio del Ambiente, durante el año 2013. Recientemente, fue viceministro encargado para el Desarrollo Agrario y Gestión de Tierras del Ministerio para Agricultura Productiva y Tierras, además de presidir el ente adscrito Instituto Nacional de Desarrollo Rural (Inder).  
+![Mision-Arbol-1](https://res.cloudinary.com/dk5bvgq20/image/upload/v1619110062/Blog/2021-04-22/IMG-20210421-WA0060_apveir.webp)
+
+Con esta jornada se cumplen 6 millones 482 mil 926 labores de desinfección en toda Venezuela, el ministro de turismo expresó que: “Esta es la jornada número 54, en la cual hemos abordado 1 millón 409 mil 990 espacios y han participado de
+manera activa 23 mil 230 trabajadores”.  
+
+Asimismo Misión Venezuela bella resalto la importancia de la participación activa entre gobierno y poder popular ,en las labores de limpieza, desinfección y embellecimiento de Venezuela, “el país más bello del mundo”.
+
+![Mision-Arbol-2](https://res.cloudinary.com/dk5bvgq20/image/upload/v1619110062/Blog/2021-04-22/IMG-20210421-WA0054_bvhldt.webp)
+
+Por su parte, el presidente de Inparque agradeció al mandatario venezolano, Nicolás maduro por los avance en las jornadas de limpieza y desinfección e informó que dicho parque está inscrito dentro del nuevo plan Caracas Patriota Bella Segura, el cual garantizará labores de remodelación y restauración de todo el sistema de riego del parque recreativo.
+
+Finalmente, Lorca invitó a la población venezolana a disfrutar de este hermoso parque nacional, durante la semana de flexibilización tomando todas las medidas de bioseguridad.
 
 **Prensa Misión Árbol.**
