@@ -284,7 +284,7 @@ La corteza tiene principios activos que mediante el cocimiento permite emplearlo
     id: 'baraman',
     title: 'Baramán',
     publisher: 'Forestales',
-    title_cientifico: 'CATOSTEMMA COMMUNE SANDWITH',
+    title_cientifico: 'CATOSTEMMA COMMUNE SANDWICH',
     image: 'baraman.jpg',
     imageURL: 'https://c8.alamy.com/compes/bf4gae/comun-baramalli-catostemma-comuna-tronco-entre-vegetacion-selvatica-reserva-de-selva-tropical-de-iwokrama-escudo-guayanes-guyana-bf4gae.jpg',
     caracteristicas_fisicas: `
