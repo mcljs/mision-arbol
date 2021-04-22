@@ -652,30 +652,29 @@ La planta posee varias propiedades que pueden resultar muy beneficiosas para el 
     propiedades:`
 Los usos medicinales de esta planta, al igual que los tratamientos a base de alguna de sus partes, no se han quedado en el pasado; A día de hoy, el hipérico se sigue utilizando para aplicaciones terapéuticas, tanto en su faceta casera como en la industria farmacéutica. En su formato más casero la hierba de san juan se utiliza para acelerar la cicatrización de las heridas, aplicándolo de forma tópica.`,
   },
-{
-    id: 'geranio',
-    title: 'Geranio',
+        {
+    id: 'helacho',
+    title: 'Helecho',
     publisher: 'Ornamentales',
-    title_cientifico: 'Pelargonium spp',
-    image: 'geranio.jpg',
-    imageURL: 'https://i.pinimg.com/474x/3a/1d/c3/3a1dc3562bddb36546311456ec2ad658.jpg',
-    caracteristicas_fisicas: `Los geranios son plantas de exterior con flores de colores vivos.
-Florecen durante el verano y son bastante resistentes. Se suelen cultivar en el jardín, en la
-terraza o el balcón. También se pueden mantener en el interior, siempre y cuando se
-coloque en un lugar muy luminoso alejados de la calefacción.
-Hay muchas variedades distintas de geranios y cada año aparecen nuevas especies. Las
-más populares son: el geranio común, la gitanilla o geranio de hojas de hiedra (porte
-colgante), el pelargonio de pensamiento (el mejor para cultivar en interior) y los geranios
-con hojas aromáticas.`,
+    title_cientifico: 'Tracheophyta',
+    image: 'helacho.jpg',
+    imageURL: 'https://c8.alamy.com/compes/rr0y3y/cercana-de-verdes-hojas-tracheophyta-rr0y3y.jpg',
+    caracteristicas_fisicas: `Los helechos son plantas fotosintéticas en su mayoría, los cuales
+prefieren un alto grado de humedad y pueden ser de diversos tipos, como terrestres,
+rupícolas, epífitos, acuáticos y paludícolas. Además son plantas vasculares, es decir,
+cuentan con vasos conductores que le permiten transportar los nutrientes y agua a cada
+parte de la planta.`,
 
     propiedades:`
-Tiene propiedades antimicrobianas por lo que es efectiva contra el acné. Es
-descongestionante y suavizante por ello se usa en pieles quemadas por el sol o que sufren
-irritaciones o quemaduras de todo tipo; También es un poderoso remedio contra las
-estrías y los eccemas.
+La infusión que se hace con las hojas del helecho común se puede emplear
+para bajar la presión arterial, el tallo se puede utilizar como diurético y en las quemaduras
+como uso tópico. Y los implantes de las hojas como tratamiento de golpes musculares,
+tiene usos veterinarios para curar las heridas de los animales, las hojas frescas pueden ser
+utilizadas como un insecticida natural contra pulgas y plagas.
     `,
 
   },
+
 {
     id: 'espada-de-bolivar',
     title: 'Espada de Bolívar',
@@ -701,7 +700,8 @@ obtenido del prensado de sus hojas es inodoro.
     `,
 
   },
-{
+
+  {
     id: 'corazon-de-jesus',
     title: 'Corazón de Jesús',
     publisher: 'Ornamentales',
@@ -725,4 +725,208 @@ invierno con humedad ambiental.
     `,
 
   },
+    {
+    id: 'manito',
+    title: 'Manito',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Chiranthodendron',
+    image: 'manito.jpg',
+    imageURL: 'https://images.squarespace-cdn.com/content/v1/5a5f182cbe42d619379891ca/1560805360569-VJ4UELN1C7VH6LBCJEPH/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Chiranthodendron+flower+red.jpg',
+    caracteristicas_fisicas: `El árbol manito es de tamaño mediano y puede alcanzar hasta 30
+metros de altura. El fuste es recto, recubierto de corteza muy lisa de color pardo grisáceo.
+En las ramificaciones de la copa muestra pubescencias amarronadas. Su follaje es perenne;
+las hojas grandes y ligeramente lobuladas, son de color verde oscuro en el envés y
+pardorrojizas en el revés. Penden de pecíolos de entre 8 y 10 centímetros de largo.`,
+
+    propiedades:`
+Es marcadamente fitófilo. Resiste bien las bajas temperaturas (hasta 5°C) y la
+sequía; es susceptible a la verticiliosis causada por el hongo Verticillium dahliae.
+Las raíces superficiales lo hacen poco apto para usos decorativos, pero los aztecas
+utilizaban la decocción de hojas y semillas como febrífugo, analgésico y antiinflamatorio.
+Su uso farmacológico en época moderna está aún en fase de investigación.
+    `,
+
+  },
+     {
+    id: 'helacho',
+    title: 'Helecho',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Tracheophyta',
+    image: 'helacho.jpg',
+    imageURL: 'https://c8.alamy.com/compes/rr0y3y/cercana-de-verdes-hojas-tracheophyta-rr0y3y.jpg',
+    caracteristicas_fisicas: `Los helechos son plantas fotosintéticas en su mayoría, los cuales
+prefieren un alto grado de humedad y pueden ser de diversos tipos, como terrestres,
+rupícolas, epífitos, acuáticos y paludícolas. Además son plantas vasculares, es decir,
+cuentan con vasos conductores que le permiten transportar los nutrientes y agua a cada
+parte de la planta.`,
+
+    propiedades:`
+La infusión que se hace con las hojas del helecho común se puede emplear
+para bajar la presión arterial, el tallo se puede utilizar como diurético y en las quemaduras
+como uso tópico. Y los implantes de las hojas como tratamiento de golpes musculares,
+tiene usos veterinarios para curar las heridas de los animales, las hojas frescas pueden ser
+utilizadas como un insecticida natural contra pulgas y plagas.
+    `,
+
+  },
+{
+    id: 'geranio',
+    title: 'Geranio',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Pelargonium spp',
+    image: 'geranio.jpg',
+    imageURL: 'https://i.pinimg.com/474x/3a/1d/c3/3a1dc3562bddb36546311456ec2ad658.jpg',
+    caracteristicas_fisicas: `Los geranios son plantas de exterior con flores de colores vivos.
+Florecen durante el verano y son bastante resistentes. Se suelen cultivar en el jardín, en la
+terraza o el balcón. También se pueden mantener en el interior, siempre y cuando se
+coloque en un lugar muy luminoso alejados de la calefacción.
+Hay muchas variedades distintas de geranios y cada año aparecen nuevas especies. Las
+más populares son: el geranio común, la gitanilla o geranio de hojas de hiedra (porte
+colgante), el pelargonio de pensamiento (el mejor para cultivar en interior) y los geranios
+con hojas aromáticas.`,
+
+    propiedades:`
+Tiene propiedades antimicrobianas por lo que es efectiva contra el acné. Es
+descongestionante y suavizante por ello se usa en pieles quemadas por el sol o que sufren
+irritaciones o quemaduras de todo tipo; También es un poderoso remedio contra las
+estrías y los eccemas.
+    `,
+
+  },
+{
+    id: 'cala',
+    title: 'Cala',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Zantedeschia aethiopica',
+    image: 'cala.jpg',
+    imageURL: 'https://images-na.ssl-images-amazon.com/images/I/51tIfhp%2BNjL._AC_SX425_.jpg',
+    caracteristicas_fisicas: `ELa cala es una herbácea del tipo perenne, es decir que se mantiene
+verde durante todo el año. La planta se desarrolla a partir de un rizoma grueso y de forma
+ovalada, desde el cual se desarrollan sus raíces que pueden llegar a medir hasta 15
+centímetros de largo. A partir de su rizoma, parte un tallo carnoso subterráneo desde
+donde la planta se desarrolla hacia afuera. Puede medir hasta 1 metro de alto.`,
+
+    propiedades:`
+El uso principal de estas flores es por supuesto como ornamental; Es una flor
+elegante que se usa para muchas ocasiones desde matrimonios hasta funerales.
+Es una especie que principalmente se usa para preparar centros decorativos como flor
+cortada, bien sea sola o junto a otras flores.
+    `,
+
+  },
+{
+    id: 'dama-de-noche',
+    title: 'Dama de noche',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Cestrum nocturnum',
+    image: 'dama-de-noche.jpg',
+    imageURL: 'hhttps://i.ebayimg.com/images/g/EgIAAOSwx7hepHaL/s-l640.jpg',
+    caracteristicas_fisicas: `Es un arbusto de hasta cinco metros de alto con hojas ovaladas y
+unos pecíolos largos. Sus inflorescencias de color blanco, amarillo o verdoso, se presentan
+en forma de racimos cortos de flor abundante que se caracterizan por su fragancia
+nocturna. Su fruto, una baya globosa, es de color blanco y contiene las semillas de su
+reproducción. El galán de noche florece desde finales de primavera a verano y se puede
+plantar de forma aislada o en jardines.`,
+
+    propiedades:`
+El extracto de la planta se ha utilizado por la población como
+antiespasmódico, contra erupciones cutáneas y especialmente en la epilepsia.
+    `,
+  },
+{
+    id: 'reina-de-la-noche',
+    title: 'Reina de la noche',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Selenicereus grandiflorus',
+    image: 'reina-de-la-noche.jpg',
+    imageURL: 'https://i.pinimg.com/736x/a6/ac/73/a6ac73c5b7cb58253e0a5db17693f2fd.jpg',
+    caracteristicas_fisicas: `Es una planta perenne carnosa expansiva con los tallos armados de
+espinas, de color verde y con las flores de color blanco. Aunque no lo parezca, la dama de
+noche es un cactus, ya que pertenece a la familia de las cactáceas. La Reina de noche da
+sus flores por la noche y duran una sola noche.`,
+
+    propiedades:`
+La cactina tiene una acción pseudo-digitálica sin riesgo de
+acumulación por lo que se usó como cardiotónico. Antiguamente usado en el tratamiento
+de la angina de pecho, coronaritis, palpitaciones, insuficiencia cardíaca congestiva.
+Contraindicado con otras medicaciones cardiotónicas, quinidina, laxantes antraquinónicos,
+diuréticos tiazídicos (por la posible potenciación del efecto cardiotónico). Se recomienda
+evitar su uso y recurrir a digitálicos estandarizados.
+    `,
+  },
+{
+    id: 'millonaria',
+    title: 'Millonaria',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Plectranthus verticillatus',
+    image: 'millonaria.jpg',
+    imageURL: 'https://garden.org/pics/2012-08-21/ShadyGreenThumb/81f4f8.jpg',
+    caracteristicas_fisicas: `Se trata de una planta semisuculenta perenne. Tiene un follaje muy
+atractivo y sus flores muestran una forma delicada y un color blanco-malva. Se distingue
+como una hierba aromática suave y mide de 100 mm a 305 mm de altura y su extensión
+puede ser de hasta 600 mm aproximadamente.
+Los tallos son cortos, estriados y tienen una pubescencia compuesta por tricomas de corta
+longitud y ásperos que se orientan en la misma dirección.`,
+
+    propiedades:`
+Es una planta fácil de cultivar y se destina como cobertor del suelo o como
+planta colgante desde macetas o cestas ornamentales. Igualmente se usa para producir
+sombra parcial o ligera debajo de los árboles.
+También se tiende a usar en los jardines o áreas forestales como especie que atrae
+insectos y aves insectívoras. Además, es una planta que hospeda a muchas mariposas.
+Esta planta es conocida también como filtro purificador del aire. En cuanto a sus
+propiedades medicinales es un antiviral muy efectivo, antiinflamatorio y antibacteriano.
+    `,
+  },
+{
+    id: 'cayena',
+    title: 'Cayena',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Hibiscus rosa-sinensis',
+    image: 'cayena.jpg',
+    imageURL: 'https://thumbs.dreamstime.com/b/el-hibisco-rosa-sinensis-conocido-como-chino-china-subi%C3%B3-hawaiano-malva-y-shoeblackplant-color-de-126458805.jpg',
+    caracteristicas_fisicas: `Esta especie forma un arbusto o árbol pequeño de entre 2 a 5 m de
+altura. Las hojas de color verde brillante, color amarillo-dorado en otoño. Sus hojas son
+pecioladas, anchas, entre ovadas a lanceoladas con bordes dentados irregularmente.
+Las flores son grandes con cinco pétalos en las variedades sencillas de 6 a 12 cm de largo.
+Los estambres se disponen en forma columnar sobresaliendo de la corola. Existen
+numerosos cultivares, variedades e híbridos con una amplia gama de colores desde el
+blanco puro, amarillo, naranja, rojo, escarlata y tintes rosados con flores simples o dobles
+(es decir con el doble de pétalos).`,
+
+    propiedades:`
+Se cultiva como planta ornamental en los trópicos y subtrópicos.
+Algunas partes de la planta son comestibles. Las hojas tiernas se pueden usar como
+sustituto de las espinacas, las flores se consumen crudas o cocinadas, también se usan
+como colorante dando un toque púrpura a los platos. La raíz también es comestible,
+aunque de poco sabor, muy fibrosa y de textura mucilaginosa.
+En la medicina china se le atribuyen propiedades antiespasmódicas, analgésicas,
+astringentes, suavemente laxantes, emenagogas, antirritantes. También tiene usos
+cosméticos.    `,
+  },
+{
+    id: 'palma-areca',
+    title: 'Palma Areca',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Chrysalidocarpus Lutescens',
+    image: 'palma-areca.jpg',
+    imageURL: 'https://images-na.ssl-images-amazon.com/images/I/51z3-iUAPdL._AC_.jpg',
+    caracteristicas_fisicas: `A la Palma Areca también se la conoce con el nombre palmera
+amarilla, ya que los pecíolos de sus hojas poseen una característica coloración en tonos
+amarillos verdosos.
+De la misma mata salen varios tallos tipo cañas, coronados por hojas de gran tamaño
+finamente divididas en múltiples foliolos también de una coloración amarillo verdosa muy
+atractiva.
+Es originaria de Madagascar donde alcanza gran tamaño, pero ha demostrado tener una
+magnífica adaptación al crecimiento en interiores.`,
+
+    propiedades:`
+Esta planta, Palma Areca, puede ser utilizada para ambientes donde
+necesitemos humedecer el ambiente por distintas razones. Además quita toxinas
+ambientales y tolera ambientes de interior. Desde luego una buena alternativa natural
+para esos lugares donde necesitamos de un humificador.   `,
+  },
+
+
 ]
+
