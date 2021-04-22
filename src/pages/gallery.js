@@ -1,5 +1,5 @@
 import React from 'react'
-import Instagram from '../components/Gallery'
+//import Instagram from '../components/Gallery'
 import Layout from '../components/layout';
 import SEO from '../components/Seo'
 
@@ -19,8 +19,7 @@ const Gallery = (  ) => {
     </header>
     
 </div>
-  <Instagram />
-     </Layout>
+       </Layout>
   );
 }
 export default Gallery

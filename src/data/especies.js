@@ -4,7 +4,7 @@ export const especies = [
     title: 'Vera',
     publisher: 'Forestales',
     title_cientifico: 'BULNESIA ARBÓREA',
-    image: 'vera.jpg',
+    image: 'vera-1.jpg',
     imageURL: 'https://images.nieuwkoop-europe.com/images/4BUARRS02.png',
     caracteristicas_fisicas: `Es un árbol de gran parte del norte de sudamérica, en la región de las guayanas, de venezuela, colombia, guyana. a veces en el mercado internacional se lo nombra como paraguay lignum vitae ya que sus propiedades y usos son similares al guayacán, árbol del género guaiacum.
 
@@ -35,20 +35,26 @@ Es más famosa por su uso en el alivio de problemas estomacales. Carminativo y a
 
   },
 {
-    id: 'ornimentales',
-    title: 'Ornamentales',
+    id: 'orquidea',
+    title: 'Orquídea',
     publisher: 'Ornamentales',
-    title_cientifico: 'Titulo Ornamentales',
-    caracteristicas_fisicas: `ES UN ÁRBOL DE GRAN PARTE DEL NORTE DE SUDAMÉRICA, EN LA REGIÓN DE LAS GUAYANAS, DE VENEZUELA, COLOMBIA, GUYANA. A VECES EN EL MERCADO INTERNACIONAL SE LO NOMBRA COMO PARAGUAY LIGNUM VITAE YA QUE SUS PROPIEDADES Y USOS SON SIMILARES AL GUAYACÁN, ÁRBOL DEL GÉNERO GUAIACUM.
-<br/>
-CRECE EN BORDES DE CARRETERAS, CAMINOS Y RÍOS, Y EN EL INTERIOR DE BOSQUES SECOS, SUBXEROFÍTICOS Y ESPINOSOS.
-    `,
+    title_cientifico: 'Orchidaceae',
+    image: 'orquidea.jpg',
+    imageURL: 'https://i.pinimg.com/originals/07/76/b9/0776b9943fc39c1f17ee8259a24f41d5.jpg',
+    caracteristicas_fisicas: `Las orquídeas son plantas herbáceas, perennes, raramente anuales,
+terrestres o epífitas; Ocasionalmente trepadoras. Algunas especies carecen de clorofila y
+son micoheterotróficas; Con respecto a las orquídeas epífitas, se dice que pueden llegar a
+ser eternas; De hecho en la naturaleza, su supervivencia está ligada a la vida del árbol que
+las sostiene.
+Los tallos son rizomas o cormos en las especies terrestres; En las especies epífitas las hojas
+se hallan engrosadas en la base formando pseudobulbos que sirven para almacenar agua y
+nutrientes cumpliendo la función de órgano reservante y por lo general, están recubiertos
+por las vainas foliares membranosas que se secan con la edad.`,
     propiedades:`
-MUY USADO EN CONSTRUCCIONES CIVILES Y EN NAVALES, TORNERÍA, ELABORACIÓN DE DURMIENTES DE FERROCARRIL. ES PLANTA ORNAMENTAL EN JARDINERÍA. LA MADERA DEBE UTILIZARSE RECIÉN CORTADA, PUESTO QUE AL SECARSE SE PONE EXTREMADAMENTE DURA Y YA NO ES APROVECHABLE.
-LA VERA SE EMPLEA PARA GRABADOS Y CUANDO SE NECESITA UNA MADERA DURABLE. DE SU MADERA SE EXTRAE EL ACEITE DE GUAIAC (O GUAYACOL) PARA INGREDIENTE DE PERFUMES. SU RESINA PUEDE OBTENERSE CON SOLVENTES ORGÁNICOS, EMPLEADA PARA HACER BARNIZ Y PINTURAS OSCURAS.
-<br/><br/>
-ES APRECIADO POR SUS PROPIEDADES PROTECTORAS DE LA PIEL HUMANA CON SU ESENCIA. DA UN BUEN CARBÓN Y VIGAS DE ALTA CALIDAD. IGNICIONA FÁCILMENTE, Y PRODUCE UN HUMO FRAGANTE.
-LAS DOS ESPECIES MÁS CONOCIDAS SON LA BULNESIA ARBÓREA Y LA BULNESIA SARMIENTOI.
+La orquídea es una flor que no sólo puede hacer gala de su exótica belleza,
+sino que también de un gran poder rejuvenecedor.
+Esta planta posee una molécula de longevidad que aumenta la resistencia natural de las
+células, actuando sobre la piel como un potente antiinflamatorio.
     `,
 
   },
@@ -66,24 +72,23 @@ Se trata de una madera apreciada en el mercado que destaca por su extrema dureza
 Medicinal: la corteza de tabebuia serratifolia contiene más de 20 compuestos activos incluyendo lapachol, quercetina y otros flavonoides. su corteza interna se utiliza como un té de hierbas, para el tratamiento de infecciones fúngicas; se ha recomendado contra el cáncer.    `,
 
   },
-  {
-    id: 'jabillo',
-    title: 'Jabillo',
+ {
+    id: 'cedro-americano',
+    title: 'Cedro Americano',
     publisher: 'Forestales',
-    title_cientifico: 'HURA CREPITANS',
-    image: 'jabillo.jpg',
-    imageURL: 'https://thumbs.dreamstime.com/b/crepitans-asombrosos-de-hura-del-%C3%A1rbol-con-las-espinas-en-la-selva-tropical-amazonas-110575011.jpg',
-    caracteristicas_fisicas: `Es un árbol venenoso para los seres humanos, de la familia de las euforbiáceas, por su gran tamaño, constituye una especie maderable de gran valor económico, es nativa de las regiones intertropicales americanas, tanto en américa del norte y central como en américa del sur, especialmente en las cuencas del orinoco y del amazonas. en méxico se la conoce con los nombres de haba de indio y haba de san ignacio.
+    title_cientifico: 'CEDRELA ODORATA',
+    image: 'cedro-americano.jpg',
+    imageURL: 'https://i.pinimg.com/originals/15/ab/02/15ab02028e2fdf78b78b4b50132f11ec.jpg',
+    caracteristicas_fisicas: `
+El cedro amargo tiene un fuste que puede alcanzar los 40 m de altura; el tronco es recto, naciendo sus ramas, van más arriba de la mitad de su altura y con diámetros en los árboles adultos de 1 a 2 m; a veces, en su parte baja presenta contrafuertes o aletones que ayudan a afianzar el árbol, ya que tiene un sistema radical bastante superficial.
 
-Árbol perennifolio que puede alcanzar los 60 m de altura,  su madera es pesada y compacta y sus raíces son bastante superficiales y con contrafuertes, como las de muchas especies forestales de la zona intertropical. el tronco está cubierto de espinas, probablemente desarrolladas como mecanismo de defensa.
-
-Las hojas ovadas y coriáceas alcanzan los 60 cm de ancho, es una especie monoica, con flores rojas sin pétalos, las masculinas surgen en largos racimos, mientras las femeninas surgen solitarias, el fruto es una cápsula similar a una pequeña calabaza de unos 5 a 8 cm de diámetro con dehiscencia explosiva, los 16 carpelos radiales contienen semillas aplanadas de unos 2 cm de diámetro, encerradas entre dos pequeñas valvas curvas de madera muy dura. estas semillas maduran al llegar la época de lluvias y al mojarse estallan, produciendo un ruido muy fuerte, este estallido las puede catapultar a una velocidad de 70 m por segundo; 4 según una fuente pueden alcanzar una distancia de 100 m,5 según otra, unos 45 m del árbol, con una moda de 30 m^2.  `,
+La corteza, que puede llegar a espesores de 2 cm, es de color gris-claro en los árboles jóvenes y apenas dividida en placas por leves hendiduras, mientras que los árboles adultos tienen la corteza profundamente fisurada. la corteza interna es rosada, fibrosa y de sabor amargo.`,
     propiedades:`
-Los frutos pueden consumirse tostados en pequeñas cantidades, pero crudos son 'muy peligrosos por el látex de propiedades purgantes como la pichoga.
+Esta planta es de uso ritual en las limpias, tanto en la huasteca potosina como en la veracruzana.
 
-Su látex tóxico afecta a los peces adormeciéndolos, por lo que se utiliza para atraparlos. sin embargo, hay aves (loros, por ejemplo) y monos que se alimentan de sus frutos y semillas, especialmente tiernos.
+Además, se le atribuyen propiedades medicinales en problemas respiratorios como bronquitis y asma, para lo cual se bebe un cocimiento de la corteza. Para calmar el dolor de las heridas se aprovechan las ramas; como abortivo y para el dolor de estómago, se prepara un té con el tallo de esta planta y la corteza de macuilis (sp n/r). Como relajante muscular, antihemorrágico vaginal se administra la infusión de la madera, por vía oral y en baños.
 
-Los caribes usaban las flechas envenenadas con el látex, 6 la madera, llamada "hura" se utiliza para trabajos menores de construcción.    `,
+El cocimiento de la corteza se usa en baños para bajar la calentura y contra el "susto"; también se refiere útil en casos de diarrea, bilis, reumatismo, dolor de muelas y hemorragia nasal. `,
 
   },
   {
@@ -146,23 +151,24 @@ Se considera antiviral, febrífugo e inmunoestimulante.
 Los remedios con pino albar se destinan básicamente a aliviar afecciones respiratorias, como bronquitis, sinusitis, faringitis, traqueitis, procesos gripales y asmáticos.  `,
 
   },
-  {
-    id: 'cedro-americano',
-    title: 'Cedro Americano',
+    {
+    id: 'jabillo',
+    title: 'Jabillo',
     publisher: 'Forestales',
-    title_cientifico: 'CEDRELA ODORATA',
-    image: 'cedro-americano.jpg',
-    imageURL: 'https://i.pinimg.com/originals/15/ab/02/15ab02028e2fdf78b78b4b50132f11ec.jpg',
-    caracteristicas_fisicas: `
-El cedro amargo tiene un fuste que puede alcanzar los 40 m de altura; el tronco es recto, naciendo sus ramas, van más arriba de la mitad de su altura y con diámetros en los árboles adultos de 1 a 2 m; a veces, en su parte baja presenta contrafuertes o aletones que ayudan a afianzar el árbol, ya que tiene un sistema radical bastante superficial.
+    title_cientifico: 'HURA CREPITANS',
+    image: 'jabillo.jpg',
+    imageURL: 'https://thumbs.dreamstime.com/b/crepitans-asombrosos-de-hura-del-%C3%A1rbol-con-las-espinas-en-la-selva-tropical-amazonas-110575011.jpg',
+    caracteristicas_fisicas: `Es un árbol venenoso para los seres humanos, de la familia de las euforbiáceas, por su gran tamaño, constituye una especie maderable de gran valor económico, es nativa de las regiones intertropicales americanas, tanto en américa del norte y central como en américa del sur, especialmente en las cuencas del orinoco y del amazonas. en méxico se la conoce con los nombres de haba de indio y haba de san ignacio.
 
-La corteza, que puede llegar a espesores de 2 cm, es de color gris-claro en los árboles jóvenes y apenas dividida en placas por leves hendiduras, mientras que los árboles adultos tienen la corteza profundamente fisurada. la corteza interna es rosada, fibrosa y de sabor amargo.`,
+Árbol perennifolio que puede alcanzar los 60 m de altura,  su madera es pesada y compacta y sus raíces son bastante superficiales y con contrafuertes, como las de muchas especies forestales de la zona intertropical. el tronco está cubierto de espinas, probablemente desarrolladas como mecanismo de defensa.
+
+Las hojas ovadas y coriáceas alcanzan los 60 cm de ancho, es una especie monoica, con flores rojas sin pétalos, las masculinas surgen en largos racimos, mientras las femeninas surgen solitarias, el fruto es una cápsula similar a una pequeña calabaza de unos 5 a 8 cm de diámetro con dehiscencia explosiva, los 16 carpelos radiales contienen semillas aplanadas de unos 2 cm de diámetro, encerradas entre dos pequeñas valvas curvas de madera muy dura. estas semillas maduran al llegar la época de lluvias y al mojarse estallan, produciendo un ruido muy fuerte, este estallido las puede catapultar a una velocidad de 70 m por segundo; 4 según una fuente pueden alcanzar una distancia de 100 m,5 según otra, unos 45 m del árbol, con una moda de 30 m^2.  `,
     propiedades:`
-Esta planta es de uso ritual en las limpias, tanto en la huasteca potosina como en la veracruzana.
+Los frutos pueden consumirse tostados en pequeñas cantidades, pero crudos son 'muy peligrosos por el látex de propiedades purgantes como la pichoga.
 
-Además, se le atribuyen propiedades medicinales en problemas respiratorios como bronquitis y asma, para lo cual se bebe un cocimiento de la corteza. Para calmar el dolor de las heridas se aprovechan las ramas; como abortivo y para el dolor de estómago, se prepara un té con el tallo de esta planta y la corteza de macuilis (sp n/r). Como relajante muscular, antihemorrágico vaginal se administra la infusión de la madera, por vía oral y en baños.
+Su látex tóxico afecta a los peces adormeciéndolos, por lo que se utiliza para atraparlos. sin embargo, hay aves (loros, por ejemplo) y monos que se alimentan de sus frutos y semillas, especialmente tiernos.
 
-El cocimiento de la corteza se usa en baños para bajar la calentura y contra el "susto"; también se refiere útil en casos de diarrea, bilis, reumatismo, dolor de muelas y hemorragia nasal. `,
+Los caribes usaban las flechas envenenadas con el látex, 6 la madera, llamada "hura" se utiliza para trabajos menores de construcción.    `,
 
   },
   {
@@ -349,21 +355,18 @@ El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de ut
 `,
 
   },
- {
-    id: 'romero',
-    title: 'Romero',
+{
+    id: 'aloe-vera',
+    title: 'Aloe Vera',
     publisher: 'Medicinal',
-    title_cientifico: 'ROSMARINUS OFFICINALIS L',
-    image: 'romero.jpg',
-    imageURL: 'https://img.fotocommunity.com/romero-rosmarinus-officinalis-l-1e8195f8-b698-40ca-a53a-8d628edfa09d.jpg?height=1080',
-    caracteristicas_fisicas: `Romero puede tratar enfermedades como la hipertensión arterial, la diabetes, la caída del pelo, problemas respiratorios, problemas estomacales, dolor de cabeza, dolor premenstrual, depresión y previene enfermedades degenerativas al poseer propiedades antioxidantes.
+    title_cientifico: 'ALOE BARBADENSIS MILLER',
+    image: 'aloe-vera.jpg',
+    imageURL: 'https://c8.alamy.com/compes/hmwdx9/botanica-liliaceae-aloe-vera-sp-aloe-barbadensis-miller-hmwdx9.jpg',
+    caracteristicas_fisicas: `Esta planta es xerófila, o sea, se adapta a vivir en áreas de poca disponibilidad de agua y se caracteriza por poseer tejidos para el almacenamiento de agua (6,7).
 
-   `,
+  `,
     propiedades:`
-El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
-
-`,
-
+En cosmética se usa cada vez más. La mayoría de los fabricantes responsables extraen y purifican los extractos, evitando el látex de la planta, conocido como aloína; Contiene vitaminas a, del grupo b, c, mucílagos, minerales, taninos, aceites, ácidos grasos (oleico y linoleico), aminoácidos, tiene la propiedad de regenerar las células de la piel, tiene acción digestiva, tiene efecto depurativo, favorece la regeneración de tejidos interno, elimina hongos y virus, regenera las células de la piel, tiene efecto analgésico, protege el sistema inmunitario y posee acción antiinflamatoria.`,
   },
  {
     id: 'cola-de-caballo',
@@ -440,25 +443,26 @@ Antiinflamatoria: disminuye la inflamación.
 Analgésica: calma el dolor.
 `,
   },
- {
-    id: 'valeriana',
-    title: 'Valeriana',
+  {
+    id: 'diente-de-leon',
+    title: 'Diente León',
     publisher: 'Medicinal',
-    title_cientifico: 'VALERIANA OFFICINALIS',
-    image: 'valeriana.jpg',
-    imageURL: 'https://c8.alamy.com/compes/fj6b8e/valeriana-comun-sanar-jardin-heliotrope-jardin-valeriana-valeriana-officinalis-floreciendo-alemania-fj6b8e.jpg',
-    caracteristicas_fisicas: `Es una planta vivaz cuya morfología es muy variable; Forma un fuerte rizoma con enormes raíces laterales de cortas ramificaciones; El tallo es hasta 1 metro de altura, es cilíndrico, estriado, erecto y algo ramificado en el extremo. Se agrupan en corimbos en el extremo del tallo.  `,
+    title_cientifico: 'TARAXACUM OFFICINALE',
+    image: 'diente-de-leon.jpg',
+    imageURL: 'https://pflanzio.com/shop/wp-content/uploads/sites/2/2018/04/Taraxacum-officinale-6.jpg',
+    caracteristicas_fisicas: `Planta perenne con raíz primaria larga y roseta basal, suele alcanzar 40 cm de altura; Tiene hojas alternas lanceoladas con una nervadura central, sin pecíolo diferenciado, pinnatipartidas con lóbulos en forma triangular de márgenes dentados y agudos, a veces presenta microvellosidades; El tallo permanece siempre en un estado extremadamente acortado, es por esto que se denominan plantas acaulescentes; Las flores hermafroditas de color amarillo dorado fácilmente identificable; Corola en lígulas terminada en cinco pequeños dientes, florece desde fines de invierno hasta fines de verano; El fruto es un "aquenio" (cipsela) con largo pico y vilano.
+  `,
     propiedades:`
-La valeriana actúa como un agente sedante, relajando el sistema nervioso y el cerebro. Al contrario que sucede con otros tranquilizantes, esta planta no agota ni debilita a quienes la consumen, por lo que se suele recomendar su toma principalmente en personas que tengan problemas para conciliar el sueño.
-También se recomienda para aquellas afecciones relacionadas con el estrés y la ansiedad que cursan con otras reacciones tales como la histeria, dolores de cabeza y migrañas, dolores estomacales o hipocondría.
-Del mismo modo, alivia los síntomas de angustia, emotividad o tristeza, así como el nerviosismo. A la vez que ayuda a estabilizar el ritmo cardíaco, por lo que su ingesta puede estar recomendada para aquellas personas que padecen arritmias.`,
+La planta es ampliamente utilizada en los casos donde se presentan trastornos digestivos o gástricos; También es uno de los aliados ideales para mejorar la digestión.
+El diente de león es un depurativo natural para el hígado; En caso de padecer de hígado graso, también es frecuente el uso de esta planta; Su consumo aumenta la secreción en la bilis, actúa como preventivo contra posibles hemorragias en este órgano, mientras que por otro lado mejora la pureza de la sangre.
+De igual forma, actúa como un efectivo remedio laxante y se ha demostrado su poder en el tratamiento de los cálculos renales; Tiene efectos contra el estreñimiento y ayuda a eliminar el colesterol del organismo.`,
   },
 {
     id: 'flor-de-jamaica',
     title: 'Flor de Jamaica',
     publisher: 'Medicinal',
     title_cientifico: 'HIBISCUS SABDARIFFA',
-    image: 'flor-de-jamaica.png',
+    image: 'flor-de-jamaica-1.png',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flor_de_Jamaica.jpg',
     caracteristicas_fisicas: `Es una planta herbácea que puede alcanzar de 3 a 5 metros de altura. Es propia de climas secos subtropicales, montanos, de matorral espinoso. Esta es una planta originaria del áfrica y tiene grandes propiedades medicinales
   `,
@@ -479,33 +483,39 @@ La flor de jamaica es particularmente rica en hierro y calcio, dos minerales re
     propiedades:`
 Es una planta herbácea medicinal muy utilizada para el tratamiento de la retención de líquidos, enfermedades renales como infecciones urinarias y piedras en los riñones y en algunos problemas gastrointestinales, como estreñimiento y gases; También puede aportarnos: proteínas, fibra, calcio, hierro, potasio, vitamina a, folatos tiamina, flavonoides, miristicina y apiol; Destaca su contenido en vitamina a; Asimismo contiene otras sustancias no nutritivas tales como los flavonoides y aceite esencial (apiol y miristicina).`,
   },
-{
-    id: 'aloe-vera',
-    title: 'Aloe Vera',
+ {
+    id: 'valeriana',
+    title: 'Valeriana',
     publisher: 'Medicinal',
-    title_cientifico: 'ALOE BARBADENSIS MILLER',
-    image: 'aloe-vera.jpg',
-    imageURL: 'https://c8.alamy.com/compes/hmwdx9/botanica-liliaceae-aloe-vera-sp-aloe-barbadensis-miller-hmwdx9.jpg',
-    caracteristicas_fisicas: `Esta planta es xerófila, o sea, se adapta a vivir en áreas de poca disponibilidad de agua y se caracteriza por poseer tejidos para el almacenamiento de agua (6,7).
+    title_cientifico: 'VALERIANA OFFICINALIS',
+    image: 'valeriana.jpg',
+    imageURL: 'https://c8.alamy.com/compes/fj6b8e/valeriana-comun-sanar-jardin-heliotrope-jardin-valeriana-valeriana-officinalis-floreciendo-alemania-fj6b8e.jpg',
+    caracteristicas_fisicas: `Es una planta vivaz cuya morfología es muy variable; Forma un fuerte rizoma con enormes raíces laterales de cortas ramificaciones; El tallo es hasta 1 metro de altura, es cilíndrico, estriado, erecto y algo ramificado en el extremo. Se agrupan en corimbos en el extremo del tallo.  `,
+    propiedades:`
+La valeriana actúa como un agente sedante, relajando el sistema nervioso y el cerebro. Al contrario que sucede con otros tranquilizantes, esta planta no agota ni debilita a quienes la consumen, por lo que se suele recomendar su toma principalmente en personas que tengan problemas para conciliar el sueño.
+También se recomienda para aquellas afecciones relacionadas con el estrés y la ansiedad que cursan con otras reacciones tales como la histeria, dolores de cabeza y migrañas, dolores estomacales o hipocondría.
+Del mismo modo, alivia los síntomas de angustia, emotividad o tristeza, así como el nerviosismo. A la vez que ayuda a estabilizar el ritmo cardíaco, por lo que su ingesta puede estar recomendada para aquellas personas que padecen arritmias.`,
+  },
+ {
+    id: 'romero',
+    title: 'Romero',
+    publisher: 'Medicinal',
+    title_cientifico: 'ROSMARINUS OFFICINALIS L',
+    image: 'romero.jpg',
+    imageURL: 'https://img.fotocommunity.com/romero-rosmarinus-officinalis-l-1e8195f8-b698-40ca-a53a-8d628edfa09d.jpg?height=1080',
+    caracteristicas_fisicas: `Romero puede tratar enfermedades como la hipertensión arterial, la diabetes, la caída del pelo, problemas respiratorios, problemas estomacales, dolor de cabeza, dolor premenstrual, depresión y previene enfermedades degenerativas al poseer propiedades antioxidantes.
 
-  `,
+   `,
     propiedades:`
-En cosmética se usa cada vez más. La mayoría de los fabricantes responsables extraen y purifican los extractos, evitando el látex de la planta, conocido como aloína; Contiene vitaminas a, del grupo b, c, mucílagos, minerales, taninos, aceites, ácidos grasos (oleico y linoleico), aminoácidos, tiene la propiedad de regenerar las células de la piel, tiene acción digestiva, tiene efecto depurativo, favorece la regeneración de tejidos interno, elimina hongos y virus, regenera las células de la piel, tiene efecto analgésico, protege el sistema inmunitario y posee acción antiinflamatoria.`,
+El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
+
+`,
+
   },
-{
-    id: 'diente-de-leon',
-    title: 'Diente León',
-    publisher: 'Medicinal',
-    title_cientifico: 'TARAXACUM OFFICINALE',
-    image: 'diente-de-leon.jpg',
-    imageURL: 'https://pflanzio.com/shop/wp-content/uploads/sites/2/2018/04/Taraxacum-officinale-6.jpg',
-    caracteristicas_fisicas: `Planta perenne con raíz primaria larga y roseta basal, suele alcanzar 40 cm de altura; Tiene hojas alternas lanceoladas con una nervadura central, sin pecíolo diferenciado, pinnatipartidas con lóbulos en forma triangular de márgenes dentados y agudos, a veces presenta microvellosidades; El tallo permanece siempre en un estado extremadamente acortado, es por esto que se denominan plantas acaulescentes; Las flores hermafroditas de color amarillo dorado fácilmente identificable; Corola en lígulas terminada en cinco pequeños dientes, florece desde fines de invierno hasta fines de verano; El fruto es un "aquenio" (cipsela) con largo pico y vilano.
-  `,
-    propiedades:`
-La planta es ampliamente utilizada en los casos donde se presentan trastornos digestivos o gástricos; También es uno de los aliados ideales para mejorar la digestión.
-El diente de león es un depurativo natural para el hígado; En caso de padecer de hígado graso, también es frecuente el uso de esta planta; Su consumo aumenta la secreción en la bilis, actúa como preventivo contra posibles hemorragias en este órgano, mientras que por otro lado mejora la pureza de la sangre.
-De igual forma, actúa como un efectivo remedio laxante y se ha demostrado su poder en el tratamiento de los cálculos renales; Tiene efectos contra el estreñimiento y ayuda a eliminar el colesterol del organismo.`,
-  },
+
+
+
+
 {
     id: 'incienso',
     title: 'Incienso',
@@ -642,8 +652,77 @@ La planta posee varias propiedades que pueden resultar muy beneficiosas para el 
     propiedades:`
 Los usos medicinales de esta planta, al igual que los tratamientos a base de alguna de sus partes, no se han quedado en el pasado; A día de hoy, el hipérico se sigue utilizando para aplicaciones terapéuticas, tanto en su faceta casera como en la industria farmacéutica. En su formato más casero la hierba de san juan se utiliza para acelerar la cicatrización de las heridas, aplicándolo de forma tópica.`,
   },
+{
+    id: 'geranio',
+    title: 'Geranio',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Pelargonium spp',
+    image: 'geranio.jpg',
+    imageURL: 'https://i.pinimg.com/474x/3a/1d/c3/3a1dc3562bddb36546311456ec2ad658.jpg',
+    caracteristicas_fisicas: `Los geranios son plantas de exterior con flores de colores vivos.
+Florecen durante el verano y son bastante resistentes. Se suelen cultivar en el jardín, en la
+terraza o el balcón. También se pueden mantener en el interior, siempre y cuando se
+coloque en un lugar muy luminoso alejados de la calefacción.
+Hay muchas variedades distintas de geranios y cada año aparecen nuevas especies. Las
+más populares son: el geranio común, la gitanilla o geranio de hojas de hiedra (porte
+colgante), el pelargonio de pensamiento (el mejor para cultivar en interior) y los geranios
+con hojas aromáticas.`,
 
+    propiedades:`
+Tiene propiedades antimicrobianas por lo que es efectiva contra el acné. Es
+descongestionante y suavizante por ello se usa en pieles quemadas por el sol o que sufren
+irritaciones o quemaduras de todo tipo; También es un poderoso remedio contra las
+estrías y los eccemas.
+    `,
 
+  },
+{
+    id: 'espada-de-bolivar',
+    title: 'Espada de Bolívar',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Sansevieria trifasciata',
+    image: 'espada-de-bolivar.jpg',
+    imageURL: 'https://www.elicriso.it/es/como_cultivar/sansevieria/sansevieria_trifasciata_laurentii_P1020829.jpg',
+    caracteristicas_fisicas: `Es originaria de África Occidental. Presenta hojas carnosas, sésiles,
+sin pecíolo, estrechas y largas, jaspeadas de verde y de blanco, con el borde amarillo; Su
+crecimiento se extiende a lo largo de una red de rizomas que emiten brotes o rosetas de
+hojas verticales que alcanza más de 1 m de altura. Es una especie fácil de cultivar que se
+adapta a diversos tipos de suelo y condiciones ambientales con excepción de climas fríos y
+heladas recurrentes.`,
 
+    propiedades:`
+La presencia de diversos metabolitos secundarios en hojas y rizomas le
+aporta diversas propiedades medicinales y terapéuticas. La ingesta regular de cocimientos
+de Espada de Bolívar o Sansevieria trifasciata actúa como analgésico, antialérgico,
+antibacteriano, antidiabético, antihelmíntico y antipirético.
+Estudios clínicos han permitido ratificar su efecto como tónico antiinflamatorio para el
+hígado y el bazo, tanto en infantes como en adultos. A pesar de su sabor amargo, el zumo
+obtenido del prensado de sus hojas es inodoro.
+    `,
 
+  },
+{
+    id: 'corazon-de-jesus',
+    title: 'Corazón de Jesús',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Caladium bicolor',
+    image: 'corazon-de-jesus.jpg',
+    imageURL: 'https://media.karousell.com/media/photos/products/2020/9/9/caladium_bicolor_1599639477_68dc9a68.jpg',
+    caracteristicas_fisicas: `El tamaño de las hojas varía según el ejemplar, pueden llegar a
+tener unas medidas realmente considerables. De esta especie se encuentran numerosos cruces que han dado lugar a multitud de híbridos. Todos ellos son originarios de América
+del Sur y las Antillas. Pertenecen a la familia Araceae. El Corazón de Jesús o Caladium es
+una planta de difícil cultivo por su alta necesidad de humedad ambiental constante.
+Las hojas es mejor no mojarlas, lo adecuado es humedecer el sustrato con agua libre de
+cal y templarla ligeramente antes de regar. El riego del sustrato debe hacerse de forma que
+esté siempre húmedo pero sin llegar a ser excesivo porque puede pudrirse las raíces con
+gran facilidad.`,
+
+    propiedades:`
+El Corazón de Jesús o Caladium es una planta ideal para cultivar en jardines
+de clima cálido, tropicales y subtropicales. En zonas de clima frío requieren de una
+ubicación en interiores iluminados en las ventanas en invernaderos o en jardines de
+invierno con humedad ambiental.
+    `,
+
+  },
 ]
