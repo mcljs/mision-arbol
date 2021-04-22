@@ -695,8 +695,6 @@ diuréticos tiazídicos (por la posible potenciación del efecto cardiotónico).
 evitar su uso y recurrir a digitálicos estandarizados.
     `,
   },
-
-
   {
     id: 'corazon-de-jesus',
     title: 'Corazón de Jesús',
@@ -925,6 +923,7 @@ Esta planta, Palma Areca, puede ser utilizada para ambientes donde
 necesitemos humedecer el ambiente por distintas razones. Además quita toxinas
 ambientales y tolera ambientes de interior. Desde luego una buena alternativa natural
 para esos lugares donde necesitamos de un humificador.   `,
+},
 {
     id: 'margarina',
     title: 'Margarina',
