@@ -23,9 +23,9 @@ const isSSR = typeof window === "undefined"
       <span className="text-white text-2xl xl:text-2xl" >Cuenta Oficial Del Presidente de La República Nicolás Maduro Moros</span>
       <TwitterTimeNico />
     </div>
-    <div className="w-full mt-10 xl:mt-0 xl:col-start-6 xl:col-end-11 xl:ml-6">
+    <div className="w-full mt-10 xl:mt-9 xl:col-start-6 xl:col-end-11 xl:ml-6">
       <span className="text-white text-2xl xl:text-2xl ">Cuenta Oficial Fundación Misión Árbol</span>
-    <TwitterTimelineEmbed className="xl:mt-9" source Type="misionarbolven"
+    <TwitterTimelineEmbed source Type="misionarbolven"
   screenName="misionarbolven"
   options={{height: 400}}/>
     </div>
