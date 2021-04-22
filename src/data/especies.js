@@ -830,30 +830,36 @@ obtenido del prensado de sus hojas es inodoro.
     `,
 
   },
-{
-    id: 'millonaria',
-    title: 'Millonaria',
+  {
+    id: 'algodoncillo',
+    title: 'Algodoncillo',
     publisher: 'Ornamentales',
-    title_cientifico: 'Plectranthus verticillatus',
-    image: 'millonaria.jpg',
-    imageURL: 'https://garden.org/pics/2012-08-21/ShadyGreenThumb/81f4f8.jpg',
-    caracteristicas_fisicas: `Se trata de una planta semisuculenta perenne. Tiene un follaje muy
-atractivo y sus flores muestran una forma delicada y un color blanco-malva. Se distingue
-como una hierba aromática suave y mide de 100 mm a 305 mm de altura y su extensión
-puede ser de hasta 600 mm aproximadamente.
-Los tallos son cortos, estriados y tienen una pubescencia compuesta por tricomas de corta
-longitud y ásperos que se orientan en la misma dirección.`,
+    title_cientifico: 'Asclepias',
+    image: 'algodoncillo.jpg',
+    imageURL: 'https://www.infojardin.com/jardineria/flores-vivaces-perennes-anuales/rgh1370723682d.jpg',
+    caracteristicas_fisicas: `Las plantas típicas son subarbustos perennes que crecen hasta 1 m
+de altura, tienen tallos grises pálidos.
+Tiene hojas opuestas, lanceoladas u oblongo-lanceoladas y en las extremidades
+acuminadas o agudas. Las flores surgen en cimas terminales con 10 a 20 flores cada una.
+Las corolas pueden ser de color púrpura o rojo y los lóbulos de la corona amarillos o
+naranja por lo que también se la llama bandera española.
+Frutos fusiformes de 5 a 10 cm de longitud, llamados folículos. Los folículos contienen
+semillas ovales oscuras de 6 a 7 mm de largo, éstas poseen pelos sedosos que les permiten
+flotar en corrientes de aire cuando los folículos se abren. ​ Las plantas florecen casi todo el
+año. Las plantas contienen una savia lechosa como la mayoría de los miembros del género.`,
 
     propiedades:`
-Es una planta fácil de cultivar y se destina como cobertor del suelo o como
-planta colgante desde macetas o cestas ornamentales. Igualmente se usa para producir
-sombra parcial o ligera debajo de los árboles.
-También se tiende a usar en los jardines o áreas forestales como especie que atrae
-insectos y aves insectívoras. Además, es una planta que hospeda a muchas mariposas.
-Esta planta es conocida también como filtro purificador del aire. En cuanto a sus
-propiedades medicinales es un antiviral muy efectivo, antiinflamatorio y antibacteriano.
-    `,
+Esta planta es conocida como quiebra muelas o revienta muelas entre otros
+nombres en alusión a una de sus propiedades medicinales. En algunos estados del centro y
+sur de México se reporta útil para el tratamiento de problemas dentales: las caries o
+muelas picadas con su empleo se busca por un lado calmar el dolor y por otro extraer la
+pieza afectada mediante su fragmentación. El tratamiento generalmente consiste en la
+aplicación del látex, ya sea de manera directa o en un algodón bien impregnado, sobre la
+pieza que causa la molestia; se espera con ello romperla, aliviando así el dolor y facilitando
+su extracción. En Tabasco además del procedimiento descrito, usan también la semilla
+sobre el diente que duele para eliminar la molestia.   `,
   },
+
 {
     id: 'cayena',
     title: 'Cayena',
@@ -954,34 +960,30 @@ Tallos y hojas sirven de forraje para el ganado. A las hojas también se les uti
 tipo de empaque natural para envolver comidas típicas como los tamales.   `,
   },
   {
-    id: 'algodoncillo',
-    title: 'Algodoncillo',
+    id: 'millonaria',
+    title: 'Millonaria',
     publisher: 'Ornamentales',
-    title_cientifico: 'Asclepias',
-    image: 'algodoncillo.jpg',
-    imageURL: 'https://www.infojardin.com/jardineria/flores-vivaces-perennes-anuales/rgh1370723682d.jpg',
-    caracteristicas_fisicas: `Las plantas típicas son subarbustos perennes que crecen hasta 1 m
-de altura, tienen tallos grises pálidos.
-Tiene hojas opuestas, lanceoladas u oblongo-lanceoladas y en las extremidades
-acuminadas o agudas. Las flores surgen en cimas terminales con 10 a 20 flores cada una.
-Las corolas pueden ser de color púrpura o rojo y los lóbulos de la corona amarillos o
-naranja por lo que también se la llama bandera española.
-Frutos fusiformes de 5 a 10 cm de longitud, llamados folículos. Los folículos contienen
-semillas ovales oscuras de 6 a 7 mm de largo, éstas poseen pelos sedosos que les permiten
-flotar en corrientes de aire cuando los folículos se abren. ​ Las plantas florecen casi todo el
-año. Las plantas contienen una savia lechosa como la mayoría de los miembros del género.`,
+    title_cientifico: 'Plectranthus verticillatus',
+    image: 'millonaria.jpg',
+    imageURL: 'https://garden.org/pics/2012-08-21/ShadyGreenThumb/81f4f8.jpg',
+    caracteristicas_fisicas: `Se trata de una planta semisuculenta perenne. Tiene un follaje muy
+atractivo y sus flores muestran una forma delicada y un color blanco-malva. Se distingue
+como una hierba aromática suave y mide de 100 mm a 305 mm de altura y su extensión
+puede ser de hasta 600 mm aproximadamente.
+Los tallos son cortos, estriados y tienen una pubescencia compuesta por tricomas de corta
+longitud y ásperos que se orientan en la misma dirección.`,
 
     propiedades:`
-Esta planta es conocida como quiebra muelas o revienta muelas entre otros
-nombres en alusión a una de sus propiedades medicinales. En algunos estados del centro y
-sur de México se reporta útil para el tratamiento de problemas dentales: las caries o
-muelas picadas con su empleo se busca por un lado calmar el dolor y por otro extraer la
-pieza afectada mediante su fragmentación. El tratamiento generalmente consiste en la
-aplicación del látex, ya sea de manera directa o en un algodón bien impregnado, sobre la
-pieza que causa la molestia; se espera con ello romperla, aliviando así el dolor y facilitando
-su extracción. En Tabasco además del procedimiento descrito, usan también la semilla
-sobre el diente que duele para eliminar la molestia.   `,
+Es una planta fácil de cultivar y se destina como cobertor del suelo o como
+planta colgante desde macetas o cestas ornamentales. Igualmente se usa para producir
+sombra parcial o ligera debajo de los árboles.
+También se tiende a usar en los jardines o áreas forestales como especie que atrae
+insectos y aves insectívoras. Además, es una planta que hospeda a muchas mariposas.
+Esta planta es conocida también como filtro purificador del aire. En cuanto a sus
+propiedades medicinales es un antiviral muy efectivo, antiinflamatorio y antibacteriano.
+    `,
   },
+
     {
     id: 'ave-del-paraiso',
     title: 'Ave del Paraíso',
@@ -1010,7 +1012,7 @@ su néctar.  `,
     title: 'Botón de Oro',
     publisher: 'Ornamentales',
     title_cientifico: 'Tithonia diversifolia',
-    image: 'boton-de-oro.jpg',
+    image: 'boto-de-oro.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Tithonia_diversifolia%2C_a_Mexican_Sunflower_in_Africa._%289439108054%29.jpg',
     caracteristicas_fisicas: `El botón de oro es una planta herbácea muy ramificada que alcanza
 alturas hasta de cinco metros; se reconoce fácilmente por sus grandes flores amarillas con
@@ -1050,6 +1052,151 @@ esquejes.`,
     propiedades:`
 Utilizado comúnmente como planta de ornamentación, generalmente se
 encuentran en las fincas y no reporta información acerca de otros usos.  `,
+  },
+      {
+    id: 'caracuey',
+    title: 'Caracuey',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Bromelia humilis',
+    image: 'caracuey.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bromelias_sobre_un_tronco_seco.jpg/240px-Bromelias_sobre_un_tronco_seco.jpg',
+    caracteristicas_fisicas: `En Centroamérica crece en las tierras áridas costeñas. Posee
+un tallo muy corto y numerosas hojas que parten de una gran roseta, pudiendo alcanzar 1
+metro de diámetro. Las hojas son largas con numerosas espinas marginales y
+generalmente las que están en la parte superior son de color rojizo. La inflorescencia se
+encuentra en el centro de la roseta en forma de una panícula pequeña en el centro de la
+roseta con pétalos morados y bordes blancos.`,
+
+    propiedades:`
+Esta especie es utilizada contra la erosión para proteger los taludes de las
+carreteras y autopistas recién construidas para amortiguar el impacto de las torrenciales
+lluvias tropicales. `,
+  },
+       {
+    id: 'girasol',
+    title: 'Girasol',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Helianthus annuus',
+    image: 'girasol.jpg',
+    imageURL: 'https://www.chilternseeds.co.uk/images/products/zoom/img_915_10398.jpg',
+    caracteristicas_fisicas: `Es una hierba robusta pero anual. Mide más de 1 metro de
+alto con flores en cabezuelas grandes de colores amarillos las exteriores y las interiores
+son de café. Los frutos tienen la forma típica del girasol. Las hojas y el tallo son muy
+ásperos al tacto.`,
+
+    propiedades:`
+Es un alimento muy completo al ofrecer vitaminas, minerales, fibra. Así
+como también proteína y grasas saludables. La semilla de girasol es rica en vitamina E que
+es un poderoso antioxidante. Su efecto antioxidante protege de diversas enfermedades,
+incluyendo cardiovasculares y algunos tipos de cáncer y complicaciones por diabetes. `,
+  },
+    {
+    id: 'frailejon',
+    title: 'Frailejón',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Espeletia schultzii',
+    image: 'frailejon.jpg',
+    imageURL: 'https://previews.agefotostock.com/previewimage/medibigoff/ab59214e3c65aebf583c2e41343d0e1a/fwr-eu-0175.jpg',
+    caracteristicas_fisicas: `Es una planta caulescente que habita en los páramos de
+Colombia, Venezuela y Ecuador y gracias a su importancia para el medio ambiente.
+Tienen un proceso lento de crecimiento. Cada frailejón tarda en crecer un centímetro por
+año, alcanzando una altura de dos a tres metros con tallo monopódico grueso. Las hojas
+entre 20-40 cm de largo por 3-6 de ancho, se disponen de forma alterna en los tallos
+formando una roseta. Esto significa que pueden tener unos 200 a 300 años por eso son
+considerados los “abuelitos del Páramo”.`,
+
+    propiedades:`
+Sus flores se utilizan para la producción de miel. Las hojas preparadas en
+infusión calman las afecciones renales y en decocción las pulmonares. La resina es la
+materia para la fabricación de jarabes contra la tos. También se usa como ungüento y el té
+o cataplasma preparado con las hojas combate el asma y otras enfermedades de las vías
+respiratorias. `,
+  },
+      {
+    id: 'frangipani',
+    title: 'Frangipani',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Plúmeria',
+    image: 'frangipani.jpg',
+    imageURL: 'https://static.vecteezy.com/system/resources/previews/000/910/943/large_2x/bouquet-of-pink-plumeria-or-frangipani-flower-photo.jpg',
+    caracteristicas_fisicas: `Es un arbusto grande o arbolillo de 5 a 8 metros (puede
+alcanzar hasta 25) de hoja caduca con tronco recto, escasa ramificación y copa abierta e
+irregular. Las hojas de haz verde brillante y más pálido en el envés, se disponen en espiral
+en los ápices de las ramas. Son simples de 15 a 30 cm de largo por 4 a 8 cm de ancho,
+lanceoladas o elípticas y de margen entero. Las flores hermafroditas surgen
+en panículas en las axilas de las hojas nuevas. Miden entre 15 a 30 cm
+con sépalos verdosos y pétalos blancos con el centro amarillo pálido.`,
+
+    propiedades:`
+Además del uso ornamental que se les da a estos arbustos. La intensa y
+agradable fragancia de las flores hace que se utilicen en la elaboración de aromatizantes
+en forma de inciensos, perfumes y aceites esenciales. Por el mismo motivo, se utilizan para
+la confección de guirnaldas. `,
+  },
+        {
+    id: 'helicona',
+    title: 'Heliconia Arco iris',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Plúmeria',
+    image: 'helicona.jpg',
+    imageURL: 'https://i.pinimg.com/originals/21/c4/c6/21c4c6acdee3db23c3a261f871ca1a18.jpg',
+    caracteristicas_fisicas: `Sus colores más frecuentes son el azul-violeta y el naranja. Su
+altura promedio es de 1.5 metros, la Heliconia Arco Iris o Heliconia wagneriana quedará
+estupenda en tiestos o directamente en la tierra. Sus brácteas son rojizas, exceptuando su
+ápice que es pajizo con motas verdes.`,
+
+    propiedades:`
+Una de los usos que tiene la heliconia es que sus flores sostenidas por
+brácteas escarlatas y amarillas brotan varias veces al año y funcionan como un potente
+imán para los colibríes que llegan atraídos por el néctar que ellas almacenan y son su
+principal medio de polinización. `,
+  },
+         {
+    id: 'lirio',
+    title: 'Lirio',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Lilium',
+    image: 'lirio.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Lilium_longiflorum.jpg',
+    caracteristicas_fisicas: `Los lirios son flores pertenecientes al género Lilium, familia de
+las Liliáceas, del orden de las Liliales. En algunas partes del mundo se les conoce como
+Azucenas, nombre que hace referencia a sus más de 110 especies. Los lirios se encuentran
+en el grupo de las plantas perennes y pueden alcanzar fácilmente un metro de alto. Sus
+tallos frondosos forman bulbos subterráneos que permiten a la flor guardar nutrientes y
+sobrevivir el invierno sin problemas por eso se conocen como flores altamente resistentes.
+Si bien la mayoría de las especies de lirios pierden su follaje durante las partes más frías
+del año, este periodo de inactividad les permite alistarse para su florecimiento. Sus colores
+varían dependiendo de la especie, aunque los lirios blancos se encuentran entre los más
+cotizados.`,
+
+    propiedades:`
+Los lirios son flores muy aromáticas y es común verlas en los regalos, arreglos florales y
+también adornando jardines. Además, sus propiedades medicinales han sido largamente
+documentadas desde la antigüedad y está presente en los emblemas de varias
+instituciones, países y casas debido a su elegancia. Sus patrones de germinación a través
+de semillas son diferentes y dependen también del hábitat y del clima en donde se
+encuentran. Los lirios se caracterizan por tener mucha fragancia por lo que son usados en
+la fabricación de perfumes.`,
+  },
+   {
+    id: 'rosa',
+    title: 'Rosa',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Glandinflora',
+    image: 'rosa.jpg',
+    imageURL: 'https://s3.amazonaws.com/cdn.edmundsroses.com/images/popup/23748.jpg',
+    caracteristicas_fisicas: `Crecen a una altura de 91 a 152 cm y producen entre seis y
+cincuenta y cinco retoños en un grupo en cada tallo en forma similar a un candelabro.
+Las rosas grandifloras florecen con mayor frecuencia que los híbridos y requieren
+protección en el invierno. Son más susceptibles a los insectos y las enfermedades por lo
+que deben ser revisadas con frecuencia para estos problemas.`,
+
+    propiedades:`
+Su uso fundamental es el decorativo, es capaz de llenar de color y de vida
+un jardín complementándolo con una suave y constante fragancia.
+Muchas de sus variedades han sido galardonadas y laureadas en concursos
+internacionales.
+También se usa como flores de corte para decoración de ramos o de interior.`,
   },
 ]
 
