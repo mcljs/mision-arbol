@@ -5,15 +5,15 @@ const useInstagram = () => {
 
  const data = useStaticQuery(graphql`
     {
-      instagram:  allInstagramContent(sort: { fields: timestamp, order: DESC }, limit: 30) {
+      instagram:  allInstagramContent(sort: { fields: timestamp, order: DESC }, limit: 20) {
         nodes {
           caption
           id
           timestamp(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
           localImage {
             childImageSharp {
-              fluid(quality: 100, maxWidth: 600, maxHeight: 600) {
-                ...GatsbyImageSharpFluid_withWebp
+              fluid(quality: 70, maxWidth: 600, maxHeight: 600) {
+                ...GatsbyImageSharpFluid_withWebp_tracedSVG
               }
             }
           }
