@@ -4,13 +4,13 @@ tags: ["MINEC", "Ministro Oswaldo Barbera"]
 title: Biografía Oswaldo Rafael Barbera Gutiérrez
 description: Nació en Valencia, en el año 1967. Fue un ingeniero en Recursos Naturales Renovables de la Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora (UNELLEZ), su formación lo llevó a servirle a su Universidad de una manera honorable
 twitter_text: Biografía Oswaldo Rafael Barbera Gutiérrez
-image: ./EzDRoNeWgAMmH3x.jpeg
-cover: ./EzDRoNeWgAMmH3x.jpeg
+image: ./ministro.jpeg
+cover: ./ministro.jpeg
 timeToRead: 4
 ---
 
 
-![Mision-Arbol](./EzDRoNeWgAMmH3x.jpeg)
+![Mision-Arbol](./ministro.jpeg)
 
 
 Oswaldo Rafael Barbera Gutiérrez, nació en Valencia, en el año 1967. Fue un ingeniero en Recursos Naturales Renovables de la Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora (UNELLEZ), su formación lo llevó a servirle a su Universidad de una manera honorable y digna como docente, investigador y extensionista, donde ocupó cargos importantes en los diversos Programas y Subprogramas del área de Ciencias del Agro y Mar.
