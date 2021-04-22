@@ -11,7 +11,6 @@ flags: {
   },
 
   plugins: [
-
 {
      resolve: `gatsby-source-instagram-all`,
      options: {
