@@ -674,32 +674,28 @@ utilizadas como un insecticida natural contra pulgas y plagas.
     `,
 
   },
-
 {
-    id: 'espada-de-bolivar',
-    title: 'Espada de Bolívar',
+    id: 'reina-de-la-noche',
+    title: 'Reina de la noche',
     publisher: 'Ornamentales',
-    title_cientifico: 'Sansevieria trifasciata',
-    image: 'espada-de-bolivar.jpg',
-    imageURL: 'https://www.elicriso.it/es/como_cultivar/sansevieria/sansevieria_trifasciata_laurentii_P1020829.jpg',
-    caracteristicas_fisicas: `Es originaria de África Occidental. Presenta hojas carnosas, sésiles,
-sin pecíolo, estrechas y largas, jaspeadas de verde y de blanco, con el borde amarillo; Su
-crecimiento se extiende a lo largo de una red de rizomas que emiten brotes o rosetas de
-hojas verticales que alcanza más de 1 m de altura. Es una especie fácil de cultivar que se
-adapta a diversos tipos de suelo y condiciones ambientales con excepción de climas fríos y
-heladas recurrentes.`,
+    title_cientifico: 'Selenicereus grandiflorus',
+    image: 'reina-de-la-noche.jpg',
+    imageURL: 'https://i.pinimg.com/736x/a6/ac/73/a6ac73c5b7cb58253e0a5db17693f2fd.jpg',
+    caracteristicas_fisicas: `Es una planta perenne carnosa expansiva con los tallos armados de
+espinas, de color verde y con las flores de color blanco. Aunque no lo parezca, la dama de
+noche es un cactus, ya que pertenece a la familia de las cactáceas. La Reina de noche da
+sus flores por la noche y duran una sola noche.`,
 
     propiedades:`
-La presencia de diversos metabolitos secundarios en hojas y rizomas le
-aporta diversas propiedades medicinales y terapéuticas. La ingesta regular de cocimientos
-de Espada de Bolívar o Sansevieria trifasciata actúa como analgésico, antialérgico,
-antibacteriano, antidiabético, antihelmíntico y antipirético.
-Estudios clínicos han permitido ratificar su efecto como tónico antiinflamatorio para el
-hígado y el bazo, tanto en infantes como en adultos. A pesar de su sabor amargo, el zumo
-obtenido del prensado de sus hojas es inodoro.
+La cactina tiene una acción pseudo-digitálica sin riesgo de
+acumulación por lo que se usó como cardiotónico. Antiguamente usado en el tratamiento
+de la angina de pecho, coronaritis, palpitaciones, insuficiencia cardíaca congestiva.
+Contraindicado con otras medicaciones cardiotónicas, quinidina, laxantes antraquinónicos,
+diuréticos tiazídicos (por la posible potenciación del efecto cardiotónico). Se recomienda
+evitar su uso y recurrir a digitálicos estandarizados.
     `,
-
   },
+
 
   {
     id: 'corazon-de-jesus',
@@ -834,25 +830,29 @@ antiespasmódico, contra erupciones cutáneas y especialmente en la epilepsia.
     `,
   },
 {
-    id: 'reina-de-la-noche',
-    title: 'Reina de la noche',
+    id: 'espada-de-bolivar',
+    title: 'Espada de Bolívar',
     publisher: 'Ornamentales',
-    title_cientifico: 'Selenicereus grandiflorus',
-    image: 'reina-de-la-noche.jpg',
-    imageURL: 'https://i.pinimg.com/736x/a6/ac/73/a6ac73c5b7cb58253e0a5db17693f2fd.jpg',
-    caracteristicas_fisicas: `Es una planta perenne carnosa expansiva con los tallos armados de
-espinas, de color verde y con las flores de color blanco. Aunque no lo parezca, la dama de
-noche es un cactus, ya que pertenece a la familia de las cactáceas. La Reina de noche da
-sus flores por la noche y duran una sola noche.`,
+    title_cientifico: 'Sansevieria trifasciata',
+    image: 'espada-de-bolivar.jpg',
+    imageURL: 'https://www.elicriso.it/es/como_cultivar/sansevieria/sansevieria_trifasciata_laurentii_P1020829.jpg',
+    caracteristicas_fisicas: `Es originaria de África Occidental. Presenta hojas carnosas, sésiles,
+sin pecíolo, estrechas y largas, jaspeadas de verde y de blanco, con el borde amarillo; Su
+crecimiento se extiende a lo largo de una red de rizomas que emiten brotes o rosetas de
+hojas verticales que alcanza más de 1 m de altura. Es una especie fácil de cultivar que se
+adapta a diversos tipos de suelo y condiciones ambientales con excepción de climas fríos y
+heladas recurrentes.`,
 
     propiedades:`
-La cactina tiene una acción pseudo-digitálica sin riesgo de
-acumulación por lo que se usó como cardiotónico. Antiguamente usado en el tratamiento
-de la angina de pecho, coronaritis, palpitaciones, insuficiencia cardíaca congestiva.
-Contraindicado con otras medicaciones cardiotónicas, quinidina, laxantes antraquinónicos,
-diuréticos tiazídicos (por la posible potenciación del efecto cardiotónico). Se recomienda
-evitar su uso y recurrir a digitálicos estandarizados.
+La presencia de diversos metabolitos secundarios en hojas y rizomas le
+aporta diversas propiedades medicinales y terapéuticas. La ingesta regular de cocimientos
+de Espada de Bolívar o Sansevieria trifasciata actúa como analgésico, antialérgico,
+antibacteriano, antidiabético, antihelmíntico y antipirético.
+Estudios clínicos han permitido ratificar su efecto como tónico antiinflamatorio para el
+hígado y el bazo, tanto en infantes como en adultos. A pesar de su sabor amargo, el zumo
+obtenido del prensado de sus hojas es inodoro.
     `,
+
   },
 {
     id: 'millonaria',
@@ -925,8 +925,28 @@ Esta planta, Palma Areca, puede ser utilizada para ambientes donde
 necesitemos humedecer el ambiente por distintas razones. Además quita toxinas
 ambientales y tolera ambientes de interior. Desde luego una buena alternativa natural
 para esos lugares donde necesitamos de un humificador.   `,
-  },
+{
+    id: 'margarina',
+    title: 'Margarina',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Bellis perennis',
+    image: 'margarina.jpg',
+    imageURL: 'https://images-na.ssl-images-amazon.com/images/I/51z3-iUAPdL._AC_.jpg',
+    caracteristicas_fisicas: `A la Palma Areca también se la conoce con el nombre palmera
+amarilla, ya que los pecíolos de sus hojas poseen una característica coloración en tonos
+amarillos verdosos.
+De la misma mata salen varios tallos tipo cañas, coronados por hojas de gran tamaño
+finamente divididas en múltiples foliolos también de una coloración amarillo verdosa muy
+atractiva.
+Es originaria de Madagascar donde alcanza gran tamaño, pero ha demostrado tener una
+magnífica adaptación al crecimiento en interiores.`,
 
+    propiedades:`
+Esta planta, Palma Areca, puede ser utilizada para ambientes donde
+necesitemos humedecer el ambiente por distintas razones. Además quita toxinas
+ambientales y tolera ambientes de interior. Desde luego una buena alternativa natural
+para esos lugares donde necesitamos de un humificador.   `,
+  },
 
 ]
 
