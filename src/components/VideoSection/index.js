@@ -13,7 +13,7 @@ const VideoSection = (  ) => (
     </div>
     <div className="video-content space-y-2 mb-28">
       <h1 className="text-6xl font-black leading-tight text-white">Misión <span className="text-yellow-1100">Árbol</span></h1>
-        <h2 className="font-bold text-white text-2xl">   "Comencemos salvando los bosques, salvando las agua, nuestra madre naturaleza"</h2>
+        <h2 className="font-bold text-white text-2xl">   "Comencemos salvando los bosques, salvando las aguas, nuestra madre naturaleza"</h2>
     <h2 className="font-light text-white text-2xl">Comandante Hugo Chavéz</h2>
   <div className="inline-block mr-2 mt-2">
     <Link to="https://www.facebook.com/Fundamiarbolven" aria-label='Facebook'>

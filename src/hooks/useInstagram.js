@@ -5,7 +5,7 @@ const useInstagram = () => {
 
  const data = useStaticQuery(graphql`
     {
-      instagram:  allInstagramContent(sort: { fields: timestamp, order: DESC }, limit: 11) {
+      instagram:  allInstagramContent(sort: { fields: timestamp, order: DESC }, limit: 1) {
         nodes {
           caption
           id
