@@ -1,6 +1,6 @@
 ---
 date: 2021-04-23 20:32:21
-tags: ["MINEC", "Batalla de Carabobo" "Bicentenario"]
+tags: ["MINEC", "Batalla de Carabobo", "Bicentenario"]
 title: Caracas se prepara para celebrar el Bicentenario de la Batalla de Carabobo
 description: En el marco del Plan Bicentenario Carabobo el Ministerio del Poder Popular para el Ecosocialismo conjuntamente con la Misión Árbol, desarrollaron jornada de limpieza, desinfección y embellecimiento en la parroquia Antímano.
 twitter_text: Caracas se prepara para celebrar el Bicentenario de la Batalla de Carabobo
