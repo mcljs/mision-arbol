@@ -3,7 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 const useInstagram = () => {
   
 
- const data = useStaticQuery(graphql`
+/* const data = useStaticQuery(graphql`
     {
       instagram:  allInstagramContent(sort: { fields: timestamp, order: DESC }, limit: 3) {
         nodes {
@@ -23,7 +23,7 @@ const useInstagram = () => {
   `)
 
   return data.instagram.nodes
-
+  */
 
   /*
  const data = useStaticQuery(graphql`

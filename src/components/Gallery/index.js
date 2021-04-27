@@ -1,15 +1,15 @@
 import React from "react"
-import Img from "gatsby-image"
-import useInstagram from "../../hooks/useInstagram"
+//import Img from "gatsby-image"
+//import useInstagram from "../../hooks/useInstagram"
 import Heart from "./heart"
 import "./style.css"
 
 const Instagram = () => {
 
-const nodes = useInstagram();
+//const nodes = useInstagram();
 return (
    
-    <div className="instagram-grid container mx-auto px-4 pb-12">
+  {/*<div className="instagram-grid container mx-auto px-4 pb-12">
       {nodes.map((post) => {
         const title = post.caption ? post.caption.split(`#`)[0] : ``
       
@@ -32,7 +32,7 @@ return (
       })}
 
     </div>
-
+    */}
         
   )
 

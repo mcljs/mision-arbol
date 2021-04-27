@@ -703,7 +703,8 @@ evitar su uso y recurrir a digitálicos estandarizados.
     image: 'corazon-de-jesus.jpg',
     imageURL: 'https://media.karousell.com/media/photos/products/2020/9/9/caladium_bicolor_1599639477_68dc9a68.jpg',
     caracteristicas_fisicas: `El tamaño de las hojas varía según el ejemplar, pueden llegar a
-tener unas medidas realmente considerables. De esta especie se encuentran numerosos cruces que han dado lugar a multitud de híbridos. Todos ellos son originarios de América
+tener unas medidas realmente considerables. De esta especie se encuentran numerosos
+cruces que han dado lugar a multitud de híbridos. Todos ellos son originarios de América
 del Sur y las Antillas. Pertenecen a la familia Araceae. El Corazón de Jesús o Caladium es
 una planta de difícil cultivo por su alta necesidad de humedad ambiental constante.
 Las hojas es mejor no mojarlas, lo adecuado es humedecer el sustrato con agua libre de
@@ -730,14 +731,14 @@ invierno con humedad ambiental.
 metros de altura. El fuste es recto, recubierto de corteza muy lisa de color pardo grisáceo.
 En las ramificaciones de la copa muestra pubescencias amarronadas. Su follaje es perenne;
 las hojas grandes y ligeramente lobuladas, son de color verde oscuro en el envés y
-pardorrojizas en el revés. Penden de pecíolos de entre 8 y 10 centímetros de largo.`,
+pardorrojizas en el revés. Penden de pecíolos de entre 8 y 10 centímetros de largo.
+Es marcadamente fitófilo. Resiste bien las bajas temperaturas (hasta 5°C) y la sequía; es
+susceptible a la verticiliosis causada por el hongo Verticillium dahliae.`,
 
     propiedades:`
-Es marcadamente fitófilo. Resiste bien las bajas temperaturas (hasta 5°C) y la
-sequía; es susceptible a la verticiliosis causada por el hongo Verticillium dahliae.
-Las raíces superficiales lo hacen poco apto para usos decorativos, pero los aztecas
-utilizaban la decocción de hojas y semillas como febrífugo, analgésico y antiinflamatorio.
-Su uso farmacológico en época moderna está aún en fase de investigación.
+Las raíces superficiales lo hacen poco apto para usos decorativos, pero
+los aztecas utilizaban la decocción de hojas y semillas como febrífugo, analgésico y
+antiinflamatorio. Su uso farmacológico en época moderna está aún en fase de investigación.
     `,
 
   },
@@ -1197,6 +1198,108 @@ un jardín complementándolo con una suave y constante fragancia.
 Muchas de sus variedades han sido galardonadas y laureadas en concursos
 internacionales.
 También se usa como flores de corte para decoración de ramos o de interior.`,
+  },
+     {
+    id: 'trinitaria',
+    title: 'Trinitaria',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Bougainvillea spectabilis',
+    image: 'trinitaria.jpg',
+    imageURL: 'https://images.fineartamerica.com/images-medium-large-5/1-bougainvillea-spectabilis-tony-woodscience-photo-library.jpg',
+    caracteristicas_fisicas: `Es un arbusto trepador de hojas perennes que puede alcanzar una altura entre 1 y 12 metros. Su tronco es espinoso, ramificado y de rápido crecimiento. Este arbusto no se trepa, sino que se apoya de otra planta o elemento que lo sustente.`,
+
+    propiedades:`
+Sirve para acelerar la cicatrización, lo cual es necesario embeber la
+herida en una infusión fría con sus flores. Disminuye la tos seca. Es antipiretica y el
+efecto es prácticamente instantáneo. También ayuda a bajar la fiebre. Igualmente se usa
+para equilibrar el sistema digestivo, en este caso no son las flores sino las raíces y las
+hojas las que toman protagonismo. En el caso de las raíces, éstas tienen un efecto
+laxante, mientras que las hojas provocan estreñimiento. Según sea la afección, podemos
+optar por una u otra opción. Asimismo ayuda a eliminar la mucosidad alojada en las vías
+respiratorias altas (laringe, faringe, bronquios). Esta planta es reconocida por sus
+propiedades antisépticas, especialmente sobre la piel, por lo que ayuda a combatir el
+acné, las infecciones y la descamación.`,
+  },
+       {
+    id: 'stapelia',
+    title: 'Stapelia',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Orbea variegata',
+    image: 'stapelia.jpg',
+    imageURL: 'https://keyserver.lucidcentral.org/weeds/data/media/Images/orbea_variegata/242663382ffeb1eddb1o.jpg',
+    caracteristicas_fisicas: `Se trata de una planta con tallos suculentos erguidos que brotan
+desde casi a ras del suelo. Éstos son delgados, de entre los 2 y los 3cm de grosor y de
+unos 20 hasta los 40cm de altura dependiendo de la especie. Las flores son simples,
+peludas y están formadas por cinco pétalos. Suelen brotar en verano, y desprenden un
+olor muy desagradable, similar al de la carne en descomposición.`,
+
+    propiedades:`
+El principal uso es el ornamental por ello varias especies se cultivan con
+este fin. Es muy cultivada y frecuentemente las personas aficionadas a las plantas las
+tienen en sus colecciones.`,
+  },
+    {
+    id: 'geranio-comun',
+    title: 'Geranio Comùn',
+    publisher: 'Ornamentales',
+    title_cientifico: 'pelargonium zonale',
+    image: 'geranio-comun.jpg',
+    imageURL: 'http://2.bp.blogspot.com/-yZiYmDPdaEo/T9ewcsgRFdI/AAAAAAAAEiE/q0qC56GIwqU/s1600/pelargonium_zonale_x_Hortorum_Frank_Headley.jpg',
+    caracteristicas_fisicas: `Alcanza una altura de unos 30-40 cm de altura, aunque a
+veces la supera. Sus flores simples o dobles, están reunidas en umbelas, que surgen
+ininterrumpidamente desde la primavera hasta el otoño, según la variedad podemos
+encontrar flores coloreadas de rojo, blanco, rosa, salmón, crema.`,
+
+    propiedades:`
+Se cultiva en jardinería en grandes grupos en parques y jardines, aunque su empleo más común es en macetas en patios y balcones.`,
+  },
+      {
+    id: 'coqueta',
+    title: 'Coqueta',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Catharanthus roseus',
+    image: 'coqueta.jpg',
+    imageURL: 'http://www.houseplantsguru.com/wp-content/uploads/2011/04/Madagascar-Periwinkle-Catharanthus-roseus.jpg',
+    caracteristicas_fisicas: `Es un arbusto o planta herbácea siempre verde, que alcanza
+una altura de 1 m. Las hojas son de ovales a oblongas, de 2,5 a 9 cm de longitud y de 1 a
+3.5 cm de anchura, de color verde brillante, sin pelos, con un nervio central pálido y un
+corto peciolo de 1 a 1,8 cm de longitud; se disponen en pares opuestos. Las flores
+constan de una corola de hasta 5 centímetros de diámetro formada por cinco pétalos,
+unidos en su base a un tubo que puede ser tan largo como el diámetro corolino. El cáliz
+está formado por cinco sépalos lineares, cortos, de menos de 1 cm de longitud. En las
+plantas silvestres la corola es de color rosado claro, más raramente blancas, con la base
+de los pétalos más oscura. Las variedades ornamentales pueden mostrar tonos más
+intensos de rosa o combinaciones de tonos.`,
+
+    propiedades:`
+Se le atribuyen propiedades antibióticas tanto en infecciones internas
+como en la piel, para bajar la presión arterial, el colesterol y curar la malaria. También es
+útil en casos de laringitis, faringitis y dolor de muelas. Esta planta contiene alcaloides
+como la vincristina y la vinblastina que poseen potentes propiedades contra tumores
+benignos y malignos, cuyo uso está plenamente reconocido por la práctica médica y se
+emplean para elaborar medicamentos, especialmente contra la leucemia, cáncer de
+seno, cáncer testicular, neuroblastoma, enfermedad de Hodgkin y otros linfomas.`,
+  },
+     {
+    id: 'chaguaramo',
+    title: 'Chaguaramo',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Roystonea oleracea',
+    image: 'chaguaramo.jpg',
+    imageURL: 'https://www.rarepalmseeds.com/image/cache/data/r/roystonea-oleracea-2_0_3_800x1600_38f67.jpg',
+    caracteristicas_fisicas: `Es la segunda especie de palma más cultivada en Venezuela y es
+una especie nativa, su altura puede llegar hasta los cinco metros cuando el suelo es rico
+en nutrientes y profundidad. En condiciones diferentes puede llegar a menos de tres
+metros y de estar en maceta hasta metro y medio de altura como máximo. Se caracteriza
+por tener una base gruesa de color blancuzco para terminar en un cogollo de hojas
+verde claro de un brillo muy vivo.`,
+
+    propiedades:`
+Es bastante cultivada en jardinería. Los beneficios medicinales de está
+planta son a través del rizoma o raíz cocido, mediante infusiones como té para ser
+tomado como diurético con el fin determinado para la expulsión de piedras, alojadas en
+los conductos urinarios. También se usa para tratar los padecimientos de diabetes.
+Asimismo es un calmante nervioso.`,
   },
 ]
 
