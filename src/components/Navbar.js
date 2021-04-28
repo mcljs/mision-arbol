@@ -54,13 +54,13 @@ const Navbar = (  ) => {
 
 
           <nav className={` ${!click && 'hidden' } px-2 pt-2 pb-4 sm:flex sm:p-0 md:static md:w-auto absolute top-full w-full bg-gray-900 `}>
-      <Link to="/" className="text-sm block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">INICIO</Link>
-      <Link to="/blog" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOTICIAS</Link>
-      <Link to="/nosotros" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOSOTROS</Link>
+            <Link to="/" className="lg:text-xs text-sm block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">INICIO</Link>
+      <Link to="/blog" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOTICIAS</Link>
+      <Link to="/nosotros" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOSOTROS</Link>
             {/*  <Link to="/gallery" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Galería</Link>*/}
-  <Link to="/guide" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">GUÍA DE ESPECIES</Link>
-  <Link to="https://map-mision-arbol.vercel.app/" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SITIOS RECUPERADOS</Link>
-  <Link to="/contact" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SOLICITUDES</Link>
+  <Link to="/guide" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">GUÍA DE ESPECIES</Link>
+  <Link to="https://map-mision-arbol.vercel.app/" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SITIOS RECUPERADOS</Link>
+  <Link to="/contact" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SOLICITUDES</Link>
 
     </nav>
 
