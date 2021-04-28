@@ -35,6 +35,7 @@ flags: {
       options: {
         trackingIds: [
           "G-SG8RM3MQST", // Google Analytics
+          "ca-pub-1521598787281144", // Google Ads / Adwords / AW
         ],
         pluginConfig: {
           // Puts tracking script in the head instead of the body
