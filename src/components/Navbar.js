@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
-//import { StaticImage} from 'gatsby-plugin-image'
+import { StaticImage} from 'gatsby-plugin-image'
 import Link from './link'
 import banner from '../images/banner2.png'
 const Navbar = (  ) => {
@@ -27,11 +27,12 @@ const Navbar = (  ) => {
 
   return (
     <>
-      
-        <div className="h-24 w-full bg-cover bg-[#70b72b]" style={{backgroundImage: `url(${banner})`}}>
+ 
+      <StaticImage  placeholder="tracedSVG" src='../images/banner2.png' width={1931} height={145} />
 
-        </div>
-       <nav className='flex items-center flex-wrap bg-[#ee5c33] p-1 '>
+
+
+       <nav className='flex items-center flex-wrap bg-[#ee5c33] -mt-2'>
       
         <button  onClick={handleClick} className=' inline-flex p-3  rounded lg:hidden text-white ml-auto hover:text-white outline-none'>
         {
