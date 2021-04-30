@@ -28,7 +28,7 @@ const Navbar = (  ) => {
   return (
     <>
       
-        <div className="h-28 w-full bg-cover bg-[#70b72b]" style={{backgroundImage: `url(${banner})`}}>
+        <div className="h-24 w-full bg-cover bg-[#70b72b]" style={{backgroundImage: `url(${banner})`}}>
 
         </div>
        <nav className='flex items-center flex-wrap bg-[#ee5c33] p-1 '>
