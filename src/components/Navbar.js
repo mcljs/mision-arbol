@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import { StaticImage} from 'gatsby-plugin-image'
 import Link from './link'
-import banner from '../images/banner.png'
+import banner from '../images/banner2.png'
 const Navbar = (  ) => {
 
 
@@ -52,14 +52,14 @@ const Navbar = (  ) => {
  
 
 
-          <nav className={` ${!click && 'hidden' } px-2 pt-2 pb-4 sm:flex sm:p-0 md:static md:w-auto absolute top-full w-full bg-[#ee5c33] `}>
-            <Link to="/" className="lg:text-xs text-sm block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">INICIO</Link>
-      <Link to="/blog" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOTICIAS</Link>
-      <Link to="/nosotros" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOSOTROS</Link>
+          <nav className={` ${!click && 'hidden' } px-4 pt-2 pb-4 sm:flex sm:p-0 md:static md:w-auto absolute top-full w-full bg-[#ee5c33] `}>
+            <Link to="/" className="lg:text-xs text-sm block px-6 py-1 text-white font-semibold rounded hover:bg-yellow-1100">INICIO</Link>
+      <Link to="/blog" className="lg:text-xs  text-sm mt-1 block px-6 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOTICIAS</Link>
+      <Link to="/nosotros" className="lg:text-xs  text-sm mt-1 block px-6 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOSOTROS</Link>
             {/*  <Link to="/gallery" className="text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">Galería</Link>*/}
-  <Link to="/guide" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">GUÍA DE ESPECIES</Link>
-  <Link to="https://map-mision-arbol.vercel.app/" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SITIOS RECUPERADOS</Link>
-  <Link to="/contact" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SOLICITUDES</Link>
+  <Link to="/guide" className="lg:text-xs  text-sm mt-1 block px-6 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">GUÍA DE ESPECIES</Link>
+  <Link to="https://map-mision-arbol.vercel.app/" className="lg:text-xs  text-sm mt-1 block px-6 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SITIOS RECUPERADOS</Link>
+  <Link to="/contact" className="lg:text-xs  text-sm mt-1 block px-6 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">SOLICITUDES</Link>
 
     </nav>
 
