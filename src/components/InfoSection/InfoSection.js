@@ -9,7 +9,7 @@ const Section = styled.section`
   height: 100%;
   padding: 4rem 0rem;
 background-color: #fff2f2;
-margin-top: -85px;
+margin-top: -15px;
 
 `;
 

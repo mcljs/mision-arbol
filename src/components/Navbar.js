@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import { StaticImage} from 'gatsby-plugin-image'
 import Link from './link'
+import banner from '../images/banner.png'
 const Navbar = (  ) => {
 
 
@@ -26,16 +27,14 @@ const Navbar = (  ) => {
 
   return (
     <>
-      <Nav scrollNav={scrollNav}  >
-        <header   className="border-b border-yellow-1100 bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-2 border-b border-gray-800">
+      
+        <div className="h-[130px] w-full bg-cover bg-[#70b72b]" style={{backgroundImage: `url(${banner})`}}>
+
+        </div>
+        <header   className="border-t border-[#ee5c33] bg-[#ee5c33] sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-2 border-b border-[#ee5c33]">
     <div className="flex items-center justify-between px-4 py-3 sm:p-0">
       <Link to="/">
-      <StaticImage 
-        className='flex items-center w-9 ml-3'  
-        src='https://res.cloudinary.com/dk5bvgq20/image/upload/q_18/v1616806926/assets/Imagen4_trecro-min_okm9fr.webp' 
-        alt="logo" 
-        placeholder="blurred"
-        width={100}/>
+
         </Link>
 
       <div className="sm:hidden">
@@ -53,7 +52,7 @@ const Navbar = (  ) => {
  
 
 
-          <nav className={` ${!click && 'hidden' } px-2 pt-2 pb-4 sm:flex sm:p-0 md:static md:w-auto absolute top-full w-full bg-gray-900 `}>
+          <nav className={` ${!click && 'hidden' } px-2 pt-2 pb-4 sm:flex sm:p-0 md:static md:w-auto absolute top-full w-full bg-[#ee5c33] `}>
             <Link to="/" className="lg:text-xs text-sm block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100">INICIO</Link>
       <Link to="/blog" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOTICIAS</Link>
       <Link to="/nosotros" className="lg:text-xs  text-sm mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-yellow-1100 sm:mt-0 sm:ml-2">NOSOTROS</Link>
@@ -68,8 +67,6 @@ const Navbar = (  ) => {
   
  
     </header>
-</Nav>
-
   </>
   );
 };

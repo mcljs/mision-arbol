@@ -8,7 +8,7 @@
 
 import React from 'react';
 import Navbar from '../components/Navbar'
-import Footer from './Footer/Footer';
+//import Footer from './Footer/Footer';
 import {fonts} from '../lib/typography'
 import {Global,css} from '@emotion/react'
 import {bpMaxSM} from '../lib/breakpoints'
@@ -125,7 +125,7 @@ const Layout = ({ children }) => {
      <Navbar  />
         <main>{children}</main>
       <Footer1 />
-        <Footer />
+
    
     </>
   )

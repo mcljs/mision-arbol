@@ -1,11 +1,14 @@
 import React from 'react'
+import {Image} from '../components/Gallery/Images';
+
 //import Instagram from '../components/Gallery'
 import Layout from '../components/layout';
 import SEO from '../components/Seo'
 
 
 const Gallery = (  ) => {
-  
+
+ 
     return(
   <Layout>
     <SEO title="Galería de Imagenes" />
@@ -18,6 +21,7 @@ const Gallery = (  ) => {
       </h1>
     </header>
       {/*<Instagram />*/}
+      <Image />
 </div>
        </Layout>
   );
