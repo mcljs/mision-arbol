@@ -28,7 +28,7 @@ const Navbar = (  ) => {
   return (
     <>
       
-        <div className="h-[140px] w-full bg-cover bg-[#70b72b]" style={{backgroundImage: `url(${banner})`}}>
+        <div className="h-28 w-full bg-cover bg-[#70b72b]" style={{backgroundImage: `url(${banner})`}}>
 
         </div>
        <nav className='flex items-center flex-wrap bg-[#ee5c33] p-1 '>
@@ -72,22 +72,22 @@ const Navbar = (  ) => {
           }   w-full lg:inline-flex lg:flex-grow lg:w-auto`}
         >
           <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto'>
-            <Link to='/' className='lg:inline-flex lg:w-auto w-full lg:px-16 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white '>
+            <Link to='/' className='lg:inline-flex lg:w-auto w-full lg:px-12 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white '>
                 INICIO
             </Link>
-            <Link to='/blog' className='lg:inline-flex lg:w-auto w-full lg:px-16 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/blog' className='lg:inline-flex lg:w-auto w-full lg:px-12 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
                 NOTICIAS
             </Link>
-            <Link to='/nosotros' className='lg:inline-flex lg:w-auto w-full lg:px-16 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/nosotros' className='lg:inline-flex lg:w-auto w-full lg:px-12 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
                 NOSOTROS
             </Link>
-            <Link to='/guide' className='lg:inline-flex lg:w-auto w-full lg:px-16 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/guide' className='lg:inline-flex lg:w-auto w-full lg:px-12 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
                 GUÍA DE ESPECIES
             </Link>
-            <Link to='https://map-mision-arbol.vercel.app/' className='lg:inline-flex lg:w-auto w-full  lg:px-16 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='https://map-mision-arbol.vercel.app/' className='lg:inline-flex lg:w-auto w-full  lg:px-12 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
                 SITIOS RECUPERADOS
             </Link>
-            <Link to='/contact' className='lg:inline-flex lg:w-auto w-full  lg:px-16 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/contact' className='lg:inline-flex lg:w-auto w-full  lg:px-12 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
                 SOLICITUDES
             </Link>
           </div>
