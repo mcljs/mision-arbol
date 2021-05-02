@@ -14,6 +14,7 @@ import {Global,css} from '@emotion/react'
 import {bpMaxSM} from '../lib/breakpoints'
 import reset from '../lib/reset'
 import Footer1 from './Footer';
+import ScrollToTop from './ScrollButton';
 //import "./layout.css"
 export const globalStyles = css`
    ${bpMaxSM} {
@@ -123,7 +124,9 @@ const Layout = ({ children }) => {
     <>
   <Global styles={globalStyles}/>
      <Navbar  />
+
         <main>{children}</main>
+      <ScrollToTop />
       <Footer1 />
 
    

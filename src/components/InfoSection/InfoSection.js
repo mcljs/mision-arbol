@@ -108,7 +108,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
 
 
 
-             <Button target="_blank" to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing" primary='true'>Descargar</Button>
+             <Button to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing" primary='true'>Descargar</Button>
           
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
