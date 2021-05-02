@@ -10,13 +10,13 @@ const Vertices = (  ) => {
         <section className="mt-32">
           <h2 className="md:text-xl text-lg sm:font-semibold font-bold mb-3 dark:text-white text-center">CONOCE LOS VÉRTICES DE ACCIÓN DE LA MISIÓN ÁRBOL</h2>
     <div className="w-full">
-      <ul className="grid sm:grid-cols-3 md:grid-cols-6 grid-cols-2 sm:gap-5 md:gap-3 lg:gap-6 gap-4">
+      <ul className="grid sm:grid-cols-3 md:grid-cols-6 grid-cols-1 sm:gap-5 md:gap-3 lg:gap-6 gap-4">
         <li>
           <Link to="/vertice/reforesta-tu-casa" className="w-full scale-100 hover:bg-yellow-1100  transition-all ease-in-out duration-150 rounded-md py-2 px-3 space-x-1 text-base hover:text-white tracking-tight font-bold leading-tight flex items-center">
             
               <div className="w-full flex flex-col items-center justify-center px-3 py-8 space-y-4">
               <StaticImage src="../../images/Vértice_Reforesta_tu_Casa[1].png" />
-              <h2 className="sm:text-base md:text-sm text-center lg:text-base">REFORESTA TU CASA</h2>
+              <h2 className="sm:text-xs md:text-sm text-center lg:text-base">REFORESTA TU CASA</h2>
             </div>
               
           </Link>
@@ -26,7 +26,7 @@ const Vertices = (  ) => {
           <Link to="/vertice/la-agroforesteria" className="w-full scale-100 hover:bg-yellow-1100  transition-all ease-in-out duration-150 rounded-md py-2 px-3 space-x-1 text-base hover:text-white tracking-tight font-bold leading-tight flex items-center"> 
             <div className="w-full flex flex-col items-center justify-center px-3 py-8 space-y-4">
               <StaticImage src="../../../static/assets/Vértice_Agroforestería[1].png" />
-              <h2 className="sm:text-base md:text-sm text-center lg:text-base">LA AGROFORESTERÍA</h2>
+              <h2 className="sm:text-xs md:text-sm text-center lg:text-base">LA AGROFORESTERÍA</h2>
             </div>
           </Link>
         </li>
@@ -60,10 +60,10 @@ const Vertices = (  ) => {
         </li>
 
  <li>
-          <Link to="/vertice/forestales" className="w-full scale-100 hover:bg-yellow-1100  transition-all ease-in-out duration-150 rounded-md py-2 px-3 space-x-1 text-base hover:text-white tracking-tight font-bold leading-tight flex items-center"> 
-            <div className="w-full flex flex-col items-center justify-center px-3 py-8 space-y-4">
+          <Link to="/vertice/forestales" className="w-full scale-100 hover:bg-yellow-1100  transition-all ease-in-out duration-150 rounded-md py-2 px-3 space-x-1  hover:text-white tracking-tight font-bold leading-tight flex items-center"> 
+            <div className="w-full flex flex-col items-center justify-center  px-3 py-8 space-y-4">
               <StaticImage src="../../../static/assets/Vértice_Reforestaciones_Forestales[1].png" />
-              <h2 className="sm:text-base md:text-sm text-center lg:text-base">REFORESTACIONES FORESTALES</h2>
+              <h2 className="sm:text-base md:text-sm text-center lg:text-base" >REFORESTACIONES FORESTALES</h2>
             </div>
           </Link>
         </li>

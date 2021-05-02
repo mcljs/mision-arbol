@@ -21,6 +21,8 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
+    padding-top: 13rem;
+    padding-bottom: 5rem;
     margin-top: 44px;
   }
 `;
@@ -58,7 +60,7 @@ const ColumnRight = styled.div`
 background-color: #fffbec;
 
   @media screen and (max-width: 768px) {
-  margin-top: -100px;
+  margin-top: 19rem;
     order: ${({reverse}) =>(reverse ? '1':'2')};
   }
 
