@@ -6,7 +6,7 @@ import SEO from "../components/Seo"
 
 const NotiArbol = (  ) => (
   <Layout>
- <SEO title="NotiArbol" />
+ <SEO title="NOTIÁRBOL" />
     <Periodico />
    </Layout>
 

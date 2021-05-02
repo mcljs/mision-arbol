@@ -6,7 +6,7 @@ const Banner = (  ) => (
   
 <div className="pt-6 pb-12 bg-gray-100">  
   <div id="card" className="">
-    <h2 className="text-center   text-4xl xl:text-5xl">Ultima Publicación - NotiÁrbol</h2>
+    <h2 className="text-center   text-4xl xl:text-5xl">Ultima Publicación - NOTIÁRBOL</h2>
 
     <div className="container w-100 lg:w-4/5 mx-auto flex flex-col">
          <div v-for="card in cards" className="flex flex-col md:flex-row overflow-hidden

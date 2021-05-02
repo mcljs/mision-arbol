@@ -151,7 +151,7 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
                                       />
 </div>
                   <div className="sm:p-8 p-0 sm:mt-0 mt-4 text-center">
-                    <h1 className="font-bold text-xl">Wilmer Vásquez</h1>
+                    <h1 className="font-bold text-xl">Wilmer Vásquez Mateus</h1>
                     <h2 className="my-3 uppercase tracking-wider text-xs text-yellow-1100">PRESIDENTE DE LA FUNDACIÓN MISIÓN ÁRBOL</h2>
      <Link to="https://twitter.com/wilmervasquezm?lang=es"> 
                       <button
