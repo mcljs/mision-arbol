@@ -15,7 +15,7 @@ export const Image = () => {
         node {
           base
           childImageSharp {
-            gatsbyImageData(height:600,width:600)
+            gatsbyImageData(height:600,width:600,placeholder:TRACED_SVG)
           }
         }
       }

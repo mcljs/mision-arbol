@@ -28,7 +28,7 @@ const Navbar = (  ) => {
   return (
     <>
  
-      <StaticImage  placeholder="tracedSVG" src='../images/banner2.png' width={1931} height={145} />
+      <StaticImage className="bg-[#ee5c33]" layout="constrained"  placeholder="tracedSVG" src='../images/banner2.png' width={1931} height={145} />
 
 
 
