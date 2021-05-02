@@ -29,7 +29,7 @@ El periódico NotiÁrbol, en su edición Nº 003, tercera del año 2021, resalta
                 
 <div className="inline-block mr-2 mt-2">
  
-    <Link target="_blank" to="https://drive.google.com/file/d/1JI8BdSLoZskHUtcmigE2ygiKMduHZyWV/view?usp=sharing" >
+    <Link target="_blank" rel="noopener"  to="https://drive.google.com/file/d/1JI8BdSLoZskHUtcmigE2ygiKMduHZyWV/view?usp=sharing" >
       <button type="button" className="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-blue-600 hover:bg-blue-500 hover:shadow-lg flex items-center">
                        <svg className="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
                         Descargar

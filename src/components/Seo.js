@@ -33,7 +33,7 @@ function SEO({ description, lang, meta,image, title }) {
   
 
   const ogImage = 
-    image || 'https://mision-arbol.netlify.app/static/682c4dfb4d5442c930e62265fc36b09a/logo.jpeg'
+    image || 'https://mision-arbol.vercel.app/static/682c4dfb4d5442c930e62265fc36b09a/logo.jpeg'
 
 
 

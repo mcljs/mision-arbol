@@ -19,7 +19,7 @@ import TagPill from '../components/TagPill'
       <SEO title={post.frontmatter.title}
         description={post.frontmatter.description}
         //image={post.frontmatter.image}
-        image={`https://mision-arbol.netlify.app${post.frontmatter.image?.publicURL}`}
+        image={`https://mision-arbol.vercel.app${post.frontmatter.image?.publicURL}`}
         />
 
         <div className="mt-10 sm:mt-24">
@@ -45,7 +45,7 @@ import TagPill from '../components/TagPill'
 <img src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366412/assets/Eslogan_de_Misi%C3%B3n_%C3%81rbol_PNG_jcegjs.png" alt="Eslogan" className="mx-auto pt-7 w-24"/ >
 
  <Share
-          url={`https://mision-arbol.netlify.app${post.fields.slug}`}
+          url={`https://mision-arbol.ml${post.fields.slug}`}
 title={title}
       twitterHandle={twitterHandle}
         />
