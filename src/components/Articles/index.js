@@ -7,7 +7,7 @@ const Articles = (  ) => {
     
     return(
       <>
-  <h3 className=" py-2 bg-yellow-1100 text-white  text-4xl text-center font-bold">Actualidad</h3>
+  <h3 className=" py-2 bg-yellow-1100 text-white  text-4xl text-center font-bold">ACTUALIDAD</h3>
     <section className="px-12 py-4">
   
       
