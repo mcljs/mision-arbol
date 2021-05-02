@@ -143,8 +143,9 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
       <li className="overflow-hidden rounden-lg flex flex-col items-center">
                 <div className="overflow-hidden rounded-lg sm:w-64 w-48">
 <StaticImage
-                    alt="..."
-                     src="https://pbs.twimg.com/profile_images/1037101550571806722/zYacZcEJ_400x400.jpg"
+  alt="..."
+
+  src="../images/wilmer.jpg"
                     className="w-full h-full bg-gray-100"
                     style={{position: 'relative', overflow: 'hidden'}}
                                       />
@@ -164,9 +165,10 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
 
      <li className="overflow-hidden rounden-lg flex flex-col items-center">
                 <div className="overflow-hidden rounded-lg sm:w-64 w-48">
-<StaticImage
-                    alt="..."
-                     src="https://pbs.twimg.com/media/Ezl14mMWYAEe3JL?format=jpg&name=medium"
+                <StaticImage
+                  alt="..."
+
+                  src="../images/9812.jpeg"
                     className="w-full h-full bg-gray-100"
                     style={{position: 'relative', overflow: 'hidden'}}
                                       />

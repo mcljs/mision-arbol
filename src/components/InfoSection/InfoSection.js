@@ -9,7 +9,7 @@ const Section = styled.section`
   height: 100%;
   padding: 4rem 0rem;
 background-color: #fff2f2;
-margin-top: -15px;
+
 
 `;
 
@@ -21,7 +21,7 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
-    margin-top: -10px;
+    margin-top: 44px;
   }
 `;
 
@@ -82,18 +82,31 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
         <Container>
           <ColumnLeft>
             <h1 >Calendario Ecosocialista</h1>
-            <h3><strong>ABRIL 2021</strong></h3> 
-            <h3><strong>07.-</strong>Día Mundial de la Salud</h3>
-            <h3><strong>20.-</strong>Día del Caimán del Orinoco</h3>
-            <h3><strong>22.-</strong>Día Mundial de la tierra</h3>
-            <h3><strong>24.-</strong>Día internacional de la Concientización respecto al Ruido</h3>
+            <h3><strong>MAYO 2021</strong></h3> 
+            <h3><strong>01.-</strong>Día Internacional de los Trabajadores</h3>
+            <h3><strong>04.-</strong>Día Internacional del Combatiente de Incendios Forestales</h3>
+            <h3><strong>09.-</strong>Día Mundial de las Aves Migratorias</h3>
+            <h3><strong>15.-</strong>Día Mundial de la Acción Climática</h3>
+            <h3><strong>17.-</strong>Día Mundial del Reciclaje</h3>
+            <h3><strong>22.-</strong>Día Internacional de la Diversidad Biológica</h3>
+            <h3><strong>23.-</strong>Día Nacional del Turpial y de la Orquídea</h3>
+            <h3><strong>29.-</strong>Declaración del Araguaney como Árbol Nacional de Venezuela</h3>
+            <h3><strong>30.-</strong>Día Nacional del Árbol</h3>
+            <h3><strong>31.-</strong>Día Mundial Sin Tabaco</h3>
 
 
 
 
 
 
-             <Button src={Descarga} primary='true'>Descargar</Button>
+
+
+
+
+
+
+
+             <Button target="_blank" to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing" primary='true'>Descargar</Button>
           
           </ColumnLeft>
           <ColumnRight reverse={reverse}>
