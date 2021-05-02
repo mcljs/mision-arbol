@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import {Button} from './Button'
 import { StaticImage} from 'gatsby-plugin-image'
-import Descarga from '../../../static/assets/calendario-2021.pdf'
+
 
 const Section = styled.section`
   width:100;

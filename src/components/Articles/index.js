@@ -27,7 +27,7 @@ const Articles = (  ) => {
         cover {
           childImageSharp {
             fluid(maxHeight: 300, maxWidth: 600, quality: 100, cropFocus: ATTENTION) {
-            ...GatsbyImageSharpFluid_withWebp_noBase64            }
+            ...GatsbyImageSharpFluid            }
           }
         }
       }
@@ -44,7 +44,7 @@ const Articles = (  ) => {
         image {
           childImageSharp {
             fluid(maxHeight: 250, maxWidth: 350, quality: 100, cropFocus: ATTENTION) {
-            ...GatsbyImageSharpFluid_withWebp_noBase64            }
+            ...GatsbyImageSharpFluid            }
           }
         }
       }

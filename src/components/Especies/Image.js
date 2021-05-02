@@ -15,7 +15,7 @@ const Image = props => (
               relativePath
               name
               childImageSharp {
-                gatsbyImageData(layout: CONSTRAINED,placeholder:TRACED_SVG)
+                gatsbyImageData(layout: CONSTRAINED)
               }
             }
           }

@@ -2,6 +2,7 @@ import React from "react"
 import {Image} from "../components/Gallery/Images"
 import SEO from '../components/Seo'
 import DelayedFallback from "../components/Tweet/DelayedFallback"
+import Vertices from "../components/Vertices"
 
 const Articles = React.lazy(() => import("../components/Articles")) 
 const Carousel = React.lazy(() => import("../components/Carousel")) 
@@ -42,11 +43,10 @@ const isSSR = typeof window === "undefined"
     <Carousel />
   <Banner /> 
 <Image />
-
+    <Vertices />
  <Tweet />
     <InfoSection {...InfoData}/>  
    
-
     <Email />  
   </Layout>
  </React.Suspense>
