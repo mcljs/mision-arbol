@@ -7,7 +7,7 @@ import {FaTwitter} from '@react-icons/all-files/fa/FaTwitter'
 
 
 const Footer1 = (  ) => (
- <footer className="bg-[#ef5b33]">	
+ <footer className="bg-[#be4928]">	
 		<div className="container max-w-6xl mx-auto flex items-center px-7 py-8">
 
 			<div className="w-full mx-auto flex flex-wrap items-center">

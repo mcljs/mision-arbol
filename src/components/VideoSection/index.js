@@ -16,16 +16,16 @@ const VideoSection = (  ) => (
       <h2 className="font-bold text-white text-md sm:text-2xl">   "Comencemos salvando los bosques, salvando las aguas, nuestra madre naturaleza"</h2>
       <h2 className="font-light text-white text-md sm:text-2xl">Comandante Hugo Chavéz</h2>
       <div className="inline-block grid grid-cols-3 xl:px-72 lg:px-72 md:px-46 px-4 gap-1">
-    <Link to="https://www.facebook.com/Fundamiarbolven" aria-label='Facebook'>
-      <div className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold  xl:mr-2 "> <FaFacebook className="w-4 sm:w-6 h-6" />
-</div></Link>
+    <Link to="https://www.facebook.com/Fundamiarbolven" >
+      <button  className="px-5 sm:px-7 py-2 rounded-full   text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold" aria-label='Facebook'> <FaFacebook className="w-4 sm:w-6 h-6 text-center" />
+</button></Link>
     
- <Link to='https://twitter.com/misionarbolven' aria-label='Twitter'>
-      <div className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold ">   <FaTwitter className="w-4 sm:w-6 h-6"/></div></Link>
+ <Link to='https://twitter.com/misionarbolven' >
+      <button  className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold " aria-label='Twitter'>   <FaTwitter className="w-4 sm:w-6 h-6"/></button></Link>
 
- <Link to='https://www.instagram.com/fundamiarbolven/' aria-label='Instagram'>
-      <div className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold  "><FaInstagram  className="w-4 sm:w-6 h-6"/>
-</div></Link>
+ <Link to='https://www.instagram.com/fundamiarbolven/' >
+      <button className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold" aria-label='Instagram'><FaInstagram  className="w-4 sm:w-6 h-6"/>
+</button></Link>
 
                 </div>
     </div>
