@@ -15,7 +15,7 @@ flags: {
 {
   resolve: `gatsby-source-instagram-all`,
   options: {
-    access_token: "IGQVJYN0JUaXhra25kcjZAnUU9NODEyTkJuQ0p0YktFMlltbGhleGEyWENnR3lHRy1YejkxZAzFOcUtxZAXVBMzBPSFJTbmY5cHNDa1B1SzV2YnUxRXRZAcjBpTmJFS19tR2dKTlV0Szg3azZAvSVI3VnRkTQZDZD"
+    access_token: "IGQVJXeVZA1RDA4UXB6LTdZANzVDWWM5V2UydVlKclFZAaUxCYl8zRUFYa1JSRXhISlc0bnVrRDk1RXl2NExCVWR5a0JVWVRRTUxzV2RyRzRKNzdTeEM3b2hUZAUVBMmtxS1I1Nk15bEl3RERMdmUzYi05cgZDZD"
   },
 },
 */
