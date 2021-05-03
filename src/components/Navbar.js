@@ -28,11 +28,11 @@ const Navbar = (  ) => {
   return (
     <>
  
-      <StaticImage className="bg-[#ee5c33]" layout="constrained"  placeholder="tracedSVG" src='../images/banner2.png' width={1931} height={145} />
+      <StaticImage className="bg-[#d6522d]" layout="constrained"  placeholder="tracedSVG" src='../images/banner2.png' width={1931} height={145} />
 
 
 
-       <nav className='flex items-center flex-wrap bg-[#ee5c33] -mt-2'>
+       <nav className='flex items-center flex-wrap bg-[#d6522d] -mt-2'>
       
         <button  onClick={handleClick} className=' inline-flex p-3  rounded lg:hidden text-white ml-auto hover:text-white outline-none'>
         {
