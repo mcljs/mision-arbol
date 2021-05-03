@@ -17,15 +17,15 @@ const VideoSection = (  ) => (
       <h2 className="font-light text-white text-md sm:text-2xl">Comandante Hugo Chavéz</h2>
       <div className="inline-block grid grid-cols-3 xl:px-72 lg:px-72 md:px-46 px-4 gap-1">
     <Link to="https://www.facebook.com/Fundamiarbolven" aria-label='Facebook'>
-      <button className="px-5 sm:px-7 py-2 rounded-full text-white bg-green-800 hover:bg-green-600 font-semibold  xl:mr-2 "> <FaFacebook className="w-4 sm:w-6 h-6" />
-</button></Link>
+      <div className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold  xl:mr-2 "> <FaFacebook className="w-4 sm:w-6 h-6" />
+</div></Link>
     
  <Link to='https://twitter.com/misionarbolven' aria-label='Twitter'>
-      <button className="px-5 sm:px-7 py-2 rounded-full text-white bg-green-800 hover:bg-green-600 font-semibold ">   <FaTwitter className="w-4 sm:w-6 h-6"/></button></Link>
+      <div className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold ">   <FaTwitter className="w-4 sm:w-6 h-6"/></div></Link>
 
  <Link to='https://www.instagram.com/fundamiarbolven/' aria-label='Instagram'>
-      <button className="px-5 sm:px-7 py-2 rounded-full text-white bg-green-800 hover:bg-green-600 font-semibold  "><FaInstagram  className="w-4 sm:w-6 h-6"/>
-</button></Link>
+      <div className="px-5 sm:px-7 py-2 rounded-full text-[#03091e] bg-[#98ca3f] hover:bg-[#c1df8b] font-semibold  "><FaInstagram  className="w-4 sm:w-6 h-6"/>
+</div></Link>
 
                 </div>
     </div>
