@@ -34,7 +34,7 @@ const Navbar = (  ) => {
 
        <nav className='flex items-center flex-wrap bg-[#be4928] -mt-2'>
       
-        <button  onClick={handleClick} className=' inline-flex p-3  rounded lg:hidden text-white ml-auto hover:text-white outline-none'>
+        <button  onClick={handleClick} className=' inline-flex p-3  rounded lg:hidden text-white ml-auto hover:text-white outline-none'  aria-label='Menu'>
         {
           click?
           <svg
