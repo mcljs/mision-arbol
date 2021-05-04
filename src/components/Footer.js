@@ -13,8 +13,8 @@ const Footer1 = (  ) => (
 			<div className="w-full mx-auto flex flex-wrap items-center">
 				<div className="flex w-full md:w-1/2 justify-center md:justify-start text-white font-extrabold">
 					<Link className="text-gray-900 no-underline hover:text-gray-900 hover:no-underline" to="/">
-            <h3 className="text-base sm:text-left text-center text-gray-200 "> Fundación  <strong>Misión Árbol</strong></h3>
-  <h3 className="text-base text-gray-200 "> Ministerio del Poder Popular para el  <strong>Ecosocialismo</strong></h3>
+            <h3 className="text-base sm:text-left text-center text-white "> Fundación  <strong>Misión Árbol</strong></h3>
+  <h3 className="text-base text-white "> Ministerio del Poder Popular para el  <strong>Ecosocialismo</strong></h3>
 					</Link>
 
 				</div>

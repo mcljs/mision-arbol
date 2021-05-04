@@ -83,8 +83,7 @@ const InfoSection = ({paragrpahOne,paragrpahTwo,paragrpahThree, buttonLabel,reve
       <Section>
         <Container>
           <ColumnLeft>
-            <h1 >Calendario Ecosocialista</h1>
-            <h3><strong>MAYO 2021</strong></h3> 
+            <h1 >Calendario Ecosocialista Mayo 2021</h1>
             <h3><strong>01.-</strong>Día Internacional de los Trabajadores</h3>
             <h3><strong>04.-</strong>Día Internacional del Combatiente de Incendios Forestales</h3>
             <h3><strong>09.-</strong>Día Mundial de las Aves Migratorias</h3>
