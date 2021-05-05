@@ -1,6 +1,6 @@
 import React from "react"
 //import Img from "gatsby-image"
-//import useInstagram from "../../hooks/useInstagram"
+import useInstagram from "../../hooks/useInstagram"
 import Heart from "./heart"
 import "./style.css"
 
