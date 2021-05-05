@@ -79,9 +79,6 @@ const Navbar = (  ) => {
             <Link to='/blog' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
                 NOTICIAS
             </Link>
-            <Link to='/gallery' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
-                GALERIA
-            </Link>
             <Link to='/nosotros' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
                 NOSOTROS
             </Link>

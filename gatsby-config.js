@@ -11,14 +11,14 @@ flags: {
   },
 
   plugins: [
-
+/*
 {
   resolve: `gatsby-source-instagram-all`,
   options: {
     access_token: `IGQVJVZAHg2d2d4MzdoRFlVUEdTRVRaSnZASakppSHJZAYlBLNUhPTDF6ak15MnNOTXpDOTlwQ0M4al9ITm0zeG9mT0RtY2pTVmNEbXpQbzhHMzAtb1FvaHRiNnF3RVE5UWwxZA3p5b0JBcTFwVlNyZAUEzNAZDZD`
   },
 },
-
+*/
     `gatsby-plugin-remove-serviceworker`,
     `gatsby-mdx`,
 `gatsby-plugin-twitter`,

@@ -20,7 +20,7 @@ const Gallery = (  ) => {
         <hr className="nt-8 border-t-2 w-20 mx-auto"/>
       </h1>
     </header>
-      <Instagram />
+
       <Image />
 </div>
        </Layout>
