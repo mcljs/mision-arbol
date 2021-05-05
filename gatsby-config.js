@@ -77,8 +77,8 @@ flags: {
   {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `Forestale`,
-        path: `${__dirname}/content/forestale`,
+        name: `biblioteca`,
+        path: `${__dirname}/content/biblioteca`,
       },
     },
   {

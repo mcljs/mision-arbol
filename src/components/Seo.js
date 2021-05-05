@@ -31,6 +31,7 @@ function SEO({ description, lang, meta,image, title }) {
   const metaDescription = description || site.siteMetadata.description
 
   
+  const imageUrl = `https://mision-arbol.vercel.app${image}`
 
   const ogImage = 
     image || 'https://mision-arbol.vercel.app/static/682c4dfb4d5442c930e62265fc36b09a/logo.jpeg'
@@ -89,7 +90,38 @@ function SEO({ description, lang, meta,image, title }) {
           name: `twitter:description`,
           content: metaDescription
         }
-      ].concat(meta)}    />
+      ]  .concat(
+          image
+            ? [
+                {
+                  name: `og:image`,
+                  content: imageUrl,
+                },
+                {
+                  name: `og:image:alt`,
+                  content:  title,
+                },
+                {
+                  name: `twitter:image`,
+                  content: imageUrl,
+                },
+                {
+                  name: `twitter:image:alt`,
+                  content:  title,
+                },
+                {
+                  name: `twitter:card`,
+                  content: `summary_large_image`,
+                },
+              ]
+            : [
+                {
+                  name: "twitter:card",
+                  content: "summary",
+                },
+              ]
+        )
+        .concat(meta)}    />
   )
 }
 
