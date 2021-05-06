@@ -4,14 +4,14 @@ tags: ["MINEC", "Plan Caracas Patriota y Segura"]
 title: Misión Árbol en conjunto con Minec desarrollan la jornada número 55 de limpieza, desinfección y embellecimiento en la parroquia Antímano como antesala a los cuatrocientos (400) años de la Parroquia
 description: En el marco del Plan Caracas Patriota Bella y Segura que ha venido desplegándose en todas las parroquias de la capital, el Ministerio del Poder Popular para el Ecosocialismo conjuntamente con la Fundación “Misión Árbol” desarrollaron una jornada de limpieza, desinfección y embellecimiento en la parroquia Antímano.
 twitter_text: Misión Árbol en conjunto con Minec desarrollan la jornada número 55 de limpieza, desinfección y embellecimiento en la parroquia Antímano como antesala a los cuatrocientos (400) años de la Parroquia
-image: ./Picture1.png
-cover: ./Picture1.png
+image: ./Picture20210506.png
+cover: ./Picture20210506.png
 timeToRead: 4
 ---
 
 En el marco del Plan Caracas Patriota Bella y Segura que ha venido desplegándose en todas las parroquias de la capital, el Ministerio del Poder Popular para el Ecosocialismo conjuntamente con la Fundación “Misión Árbol” desarrollaron una jornada de limpieza, desinfección y embellecimiento en la parroquia Antímano.
 
-![Mision-Arbol](./Picture1.png)
+![Mision-Arbol](./Picture20210506.png)
 
 La actividad contó con la participación del Ministro del Poder Popular para el Ecosocialismo, Josué Lorca.El presidente de la Misión Árbol, Wilmer Vásquez. El Concejal de la parroquia Antímano, Jimmy Gudiño, y con el apoyo de la Alcaldía de Caracas, Supra Caracas, Inparques, los Bomberos Forestales, el PSUV, la JPSUV, la Policía Nacional Bolivariana  y  miembros de las distintas organizaciones sociales del sector.
 
