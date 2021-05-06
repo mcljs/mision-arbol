@@ -4,15 +4,15 @@ import Link from '../link'
 import Img from "gatsby-image";
 
 const Articles = (  ) => {
-  
+ 
 
-    return(
+  return(
       <>
   <h3 className=" py-2 bg-gradient-to-br from-[#95ca3e] to-[#85c638] text-white  text-4xl text-center font-bold">ACTUALIDAD</h3>
     <section className="px-12 py-4">
   
       
-    
+          
 
       <StaticQuery
         query={graphql`

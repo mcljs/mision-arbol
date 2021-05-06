@@ -2,7 +2,7 @@ import React from 'react'
 import './style.css'
 import {StaticImage} from 'gatsby-plugin-image'
 import Link from '../link'
-const Banner = (  ) => 
+const Banner = (  ) => (
 <div className="pt-6 pb-12 bg-gray-100">  
   <div id="card" className="">
     <h2 className="text-center   text-4xl xl:text-5xl">Ultima Publicación - NOTIÁRBOL</h2>
