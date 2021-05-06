@@ -89,11 +89,8 @@ const Articles = (  ) => {
                     className="rounded"
                   />
 
-                  <h5 className="text-xl  py-4 text-gray-600">
-                    {" "}
-                    {post.frontmatter.category}
-                  </h5>
-                  <p className="text-2xl font-semibold">
+
+                  <p className="text-2xl mt-4 font-semibold">
                     {post.frontmatter.title}
                   </p>
                   <p className="text-lg text-gray-500 py-4">
