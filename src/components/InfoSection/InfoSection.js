@@ -1,17 +1,14 @@
-import React from 'react'
-import styled from 'styled-components'
-import {Button} from './Button'
-import { StaticImage} from 'gatsby-plugin-image'
-
+import React from "react"
+import styled from "styled-components"
+import { Button } from "./Button"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Section = styled.section`
-  width:100;
+  width: 100;
   height: 100%;
   padding: 4rem 0rem;
-background-color: #fff2f2;
-
-
-`;
+  background-color: #fff2f2;
+`
 
 const Container = styled.div`
   padding: 3rem calc((100vw-1300px) / 2);
@@ -25,7 +22,7 @@ const Container = styled.div`
     padding-bottom: 5rem;
     margin-top: 44px;
   }
-`;
+`
 
 const ColumnLeft = styled.div`
   display: flex;
@@ -34,85 +31,98 @@ const ColumnLeft = styled.div`
   align-items: flex-start;
 
   padding: 1rem 2rem;
-  order: ${({reverse}) =>(reverse ? '1':'2')};
+  order: ${({ reverse }) => (reverse ? "1" : "2")};
 
-  h1{
+  h1 {
     margin-bottom: 1rem;
     font-weight: 600;
     font-size: clamp(1.4rem, 6vw, 2rem);
   }
-
 `
 
 const ColumnRight = styled.div`
   padding: 1rem 2rem;
-  order: ${({reverse}) => (reverse ? '2' : '1')};
+  order: ${({ reverse }) => (reverse ? "2" : "1")};
   display: flex;
   justify-content: center;
   align-items: center;
-background-color: #fffbec;
+  background-color: #fffbec;
 
   @media screen and (max-width: 768px) {
-  margin-top: 19rem;
-    order: ${({reverse}) =>(reverse ? '1':'2')};
+    margin-top: 19rem;
+    order: ${({ reverse }) => (reverse ? "1" : "2")};
   }
 
-  img{
+  img {
     width: 100%;
     height: 100%;
-    object-fit:cover;
+    object-fit: cover;
 
-    @media screen and (max-width: 768px){
+    @media screen and (max-width: 768px) {
       width: 90%;
       height: 90%;
     }
   }
 `
 
-const InfoSection = ({reverse,}) => {
-   
+const InfoSection = ({ reverse }) => {
+  return (
+    <Section>
+      <Container>
+        <ColumnLeft>
+          <h1>Calendario Ecosocialista Mayo 2021</h1>
+          <section>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>01.-</strong>Día Internacional de los Trabajadores
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>04.-</strong>Día Internacional del Combatiente de
+              Incendios Forestales
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>09.-</strong>Día Mundial de las Aves Migratorias
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>15.-</strong>Día Mundial de la Acción Climática
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>17.-</strong>Día Mundial del Reciclaje
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>22.-</strong>Día Internacional de la Diversidad Biológica
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>23.-</strong>Día Nacional del Turpial y de la Orquídea
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>29.-</strong>Declaración del Araguaney como Árbol Nacional
+              de Venezuela
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>30.-</strong>Día Nacional del Árbol
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
+              <strong>31.-</strong>Día Mundial Sin Tabaco
+            </h2>
+          </section>
 
-    return(
-      <Section>
-        <Container>
-          <ColumnLeft>
-            <h1 >Calendario Ecosocialista Mayo 2021</h1>
-            <h4 className="text-2xl font-bold mb-2"><strong>01.-</strong>Día Internacional de los Trabajadores</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>04.-</strong>Día Internacional del Combatiente de Incendios Forestales</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>09.-</strong>Día Mundial de las Aves Migratorias</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>15.-</strong>Día Mundial de la Acción Climática</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>17.-</strong>Día Mundial del Reciclaje</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>22.-</strong>Día Internacional de la Diversidad Biológica</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>23.-</strong>Día Nacional del Turpial y de la Orquídea</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>29.-</strong>Declaración del Araguaney como Árbol Nacional de Venezuela</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>30.-</strong>Día Nacional del Árbol</h4>
-            <h4 className="text-2xl font-bold mb-2"><strong>31.-</strong>Día Mundial Sin Tabaco</h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-             <Button to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing" primary='true'>Descargar</Button>
-          
-          </ColumnLeft>
-          <ColumnRight reverse={reverse}>
-            <StaticImage 
-            src="../../assets/calendario-img.png" 
-              alt="home"
-              placeholder="tracedSVG"
+          <Button
+            to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing"
+            primary="true"
+          >
+            Descargar
+          </Button>
+        </ColumnLeft>
+        <ColumnRight reverse={reverse}>
+          <StaticImage
+            src="../../assets/calendario-img.png"
+            alt="home"
+            placeholder="tracedSVG"
             width={550}
-            /> 
-          </ColumnRight>
-        </Container>
-      </Section>
-  );
+          />
+        </ColumnRight>
+      </Container>
+    </Section>
+  )
 }
 export default InfoSection
