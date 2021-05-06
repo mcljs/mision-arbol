@@ -4,8 +4,6 @@ import Image from './Image';
 
 const Book = ({id,title,title_cientifico,caracteristicas_fisicas,image}) => {
     
-
-
     return(
        
  

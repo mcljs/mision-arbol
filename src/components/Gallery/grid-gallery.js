@@ -6,6 +6,7 @@ export default function GridGallery({ images }) {
     Array(images.length).fill(false)
   );
 
+  
   const imageVisibleChange = (index, isVisible) => {
     if (isVisible) {
       setImagesShownArray((currentImagesShownArray) => {

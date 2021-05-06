@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 
 
+
 const InstaStyles = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
