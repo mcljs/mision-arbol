@@ -77,7 +77,7 @@ const InfoSection = ({reverse,}) => {
         <Container>
           <ColumnLeft>
             <h1 >Calendario Ecosocialista Mayo 2021</h1>
-            <h4 className="text-2xl font-medium mb-2"><strong>01.-</strong>Día Internacional de los Trabajadores</h4>
+            <h4 className="text-2xl font-bold mb-2"><strong>01.-</strong>Día Internacional de los Trabajadores</h4>
             <h4 className="text-2xl font-bold mb-2"><strong>04.-</strong>Día Internacional del Combatiente de Incendios Forestales</h4>
             <h4 className="text-2xl font-bold mb-2"><strong>09.-</strong>Día Mundial de las Aves Migratorias</h4>
             <h4 className="text-2xl font-bold mb-2"><strong>15.-</strong>Día Mundial de la Acción Climática</h4>
