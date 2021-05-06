@@ -28,7 +28,7 @@ const Book = ({id,title,title_cientifico,caracteristicas_fisicas,image}) => {
                     {caracteristicas_fisicas}
                 </p>
                 <div className="flex flex-wrap items-center ">
-                  <Link className="inline-flex items-center text-yellow-1100 md:mb-2 lg:mb-0" to={`/guide/${id}`}>
+                  <Link className="inline-flex items-center text-green-800 md:mb-2 lg:mb-0" to={`/guide/${id}`}>
                     Leer Mas
                     <svg
                       className="w-4 h-4 ml-2"

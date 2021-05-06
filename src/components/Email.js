@@ -5,7 +5,7 @@ const Email = () => {
   return (
     <section
       id="call-to-action"
-      className=" relative overflow-hidden bg-yellow-1100 focus:bg-indigo-600 bg-opacity-90 call-to-action"
+      className=" relative overflow-hidden bg-gradient-to-br from-[#95ca3e] to-[#85c638] bg-opacity-90 call-to-action"
     >
       <div className="flex absolute top-0 left-0 w-1/2 h-full call-action-image   lg:visible invisible">
         <StaticImage

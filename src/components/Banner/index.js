@@ -40,7 +40,7 @@ El periódico NotiÁrbol, en su edición Nº 004, cuarta del año 2021, resalta 
         </div>
            
       </div> 
- <Link to="/noti-arbol" className="items-center justify-center cursor-pointer mt-4 inline-flex py-2 px-4 rounded-md bg-[#98ca3f]  transition-all ease-in-out duration-100 font-semibold leading-8 transform hover:scale-105">
+ <Link to="/noti-arbol" className="items-center justify-center cursor-pointer mt-4 inline-flex py-2 px-4 rounded-md bg-gradient-to-br from-[#95ca3e] to-[#85c638]  transition-all ease-in-out duration-100 font-semibold leading-8 transform hover:scale-105">
               <p className="text-white ">Ver Mas →</p>
 
             </Link>
