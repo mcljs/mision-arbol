@@ -148,12 +148,13 @@ flags: {
 'gatsby-plugin-emotion',
     `gatsby-plugin-image`,
 `gatsby-plugin-styled-components`,
-   {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/lib/typography`,
-      },
-    },
+
+ //  {
+//      resolve: `gatsby-plugin-typography`,
+  //    options: {
+ //       pathToConfigModule: `src/lib/typography`,
+   //   },
+ //   },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
