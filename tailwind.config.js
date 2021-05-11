@@ -5,6 +5,12 @@
     darkMode: false, // or 'media' or 'class'
     theme: {
       extend: {
+        fontFamily: {
+          sans: ['Roboto', 'sans-serif', 'system-ui', '"Apple Color Emoji"',
+          '"Segoe UI Emoji"',
+          '"Segoe UI Symbol"',
+          '"Noto Color Emoji"',]
+           },
         colors:{
           yellow:{
             1050: '#2D1406',

@@ -122,8 +122,8 @@ const Layout = ({ children }) => {
 
   return (
     <>
-  <Global styles={globalStyles}/>
-     <Navbar  />
+      {/*<Global styles={globalStyles}/>*/}    
+      <Navbar  />
 
         <main>{children}</main>
       <ScrollToTop />
