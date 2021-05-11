@@ -22,7 +22,7 @@ Josué Lorca, Ministro del Poder Popular para el Ecosocialismo expresó que: “
 
 Asimismo, señaló que se van a establecer árboles de ciclo largo que permitan a la comunidad obtener provechos de ellos posteriormente, “la comunidad tenía plantados cultivos de ciclo corto, estos van a ser trasladados bajo apoyo y asesoramiento del Ministerio de Agricultura Urbana y de las Comunas para ubicarlos en otros espacios. De esto se trata la Revolución Bolivariana, de unificar al pueblo, proteger nuestra naturaleza y avanzar hacia la construcción de una Venezuela ecosocialista”.
 
-![Mision-Arbol-2]https://res.cloudinary.com/dk5bvgq20/image/upload/v1620708367/Blog/2021-05-10/IMG-20210508-WA0045_umq38b.webp)
+![Mision-Arbol-2](https://res.cloudinary.com/dk5bvgq20/image/upload/v1620708367/Blog/2021-05-10/IMG-20210508-WA0045_umq38b.webp)
 
 # Comunidad, Universidad y Gobierno se unen para preservar el pulmón vegetal
 
