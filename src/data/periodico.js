@@ -2,6 +2,12 @@ import noticia01 from '../../static/assets/notiarbol/notiarbol001.pdf'
 
 export const periodicoData = [
 {
+    title: 'Edición 005 del periódico NOTIÁRBOL resalta el desarrollo de la jornada de reforestación en los espacios del Jardín Botánico junto al MINEC, MPPEY y MPPCPS.',
+    title2: 'El periódico NOTIÁRBOL, en su edición Nº 004, cuarta del año 2021, resalta la producción de ocumo, plátanos y lechosa por la unidad "Mi Querencia" en Birongo. Ademas de donativos por Misión Árbol del Estado Bolívar de plantas ornamentales para el peaje de Guayana.',
+    fecha: '10/05/2021',
+    ruta: `https://drive.google.com/file/d/15aUNXShur31dVNwIyHFdc0mqGYcrPkwh/view?usp=sharing`, 
+  },
+{
     title: 'Edición 004 del periódico NOTIÁRBOL resalta la producción de ocumo, plátanos y lechosa por la unidad "Mi Querencia" en Birongo.',
     title2: 'El periódico NOTIÁRBOL, en su edición Nº 004, cuarta del año 2021, resalta la producción de ocumo, plátanos y lechosa por la unidad "Mi Querencia" en Birongo. Ademas de donativos por Misión Árbol del Estado Bolívar de plantas ornamentales para el peaje de Guayana.',
     fecha: '03/05/2021',
