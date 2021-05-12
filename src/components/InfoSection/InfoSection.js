@@ -72,38 +72,38 @@ const InfoSection = ({ reverse }) => {
         <ColumnLeft>
           <h1>Calendario Ecosocialista Mayo 2021</h1>
           <section>
-            <h4 className="text-2xl font-bold mb-2">
+            <h2 className="text-2xl font-bold mb-2">
               <strong>01.-</strong>Día Internacional de los Trabajadores
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>04.-</strong>Día Internacional del Combatiente de
               Incendios Forestales
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>09.-</strong>Día Mundial de las Aves Migratorias
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>15.-</strong>Día Mundial de la Acción Climática
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>17.-</strong>Día Mundial del Reciclaje
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>22.-</strong>Día Internacional de la Diversidad Biológica
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>23.-</strong>Día Nacional del Turpial y de la Orquídea
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>29.-</strong>Declaración del Araguaney como Árbol Nacional
               de Venezuela
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>30.-</strong>Día Nacional del Árbol
-            </h4>
-            <h4 className="text-2xl font-bold mb-2">
+            </h2>
+            <h2 className="text-2xl font-bold mb-2">
               <strong>31.-</strong>Día Mundial Sin Tabaco
-            </h4>
+            </h2>
           </section>
 
           <Button
