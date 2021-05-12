@@ -38,7 +38,7 @@ const Nosotros = () => (
                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
                 Misión
                 </h3>
-                <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
+                <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-800">
                  Somos el ente encargado de contribuir
 con la construcción de un nuevo modelo
 de desarrollo, fundamentado en la
@@ -106,7 +106,7 @@ ambientalistas.
                   <h3 className="text-3xl font-semibold">
                      Visión
                   </h3>
-                  <p className="mt-4 text-lg leading-relaxed text-gray-600">
+                  <p className="mt-4 text-lg leading-relaxed text-gray-700">
                      Ser el ente rector de las políticas públicas
 destinadas a incentivar la conciencia
 colectiva ecológica sobre la importancia

@@ -18,7 +18,7 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
-    padding-top: 13rem;
+    padding-top: 3rem;
     padding-bottom: 5rem;
     margin-top: 44px;
   }
@@ -49,7 +49,7 @@ const ColumnRight = styled.div`
   background-color: #fffbec;
 
   @media screen and (max-width: 768px) {
-    margin-top: 19rem;
+    margin-top: 7rem;
     order: ${({ reverse }) => (reverse ? "1" : "2")};
   }
 
@@ -72,38 +72,38 @@ const InfoSection = ({ reverse }) => {
         <ColumnLeft>
           <h1>Calendario Ecosocialista Mayo 2021</h1>
           <section>
-            <h2 className="text-2xl font-bold mb-2">
+            <h4 className="text-2xl font-bold mb-2">
               <strong>01.-</strong>Día Internacional de los Trabajadores
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>04.-</strong>Día Internacional del Combatiente de
               Incendios Forestales
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>09.-</strong>Día Mundial de las Aves Migratorias
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>15.-</strong>Día Mundial de la Acción Climática
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>17.-</strong>Día Mundial del Reciclaje
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>22.-</strong>Día Internacional de la Diversidad Biológica
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>23.-</strong>Día Nacional del Turpial y de la Orquídea
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>29.-</strong>Declaración del Araguaney como Árbol Nacional
               de Venezuela
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>30.-</strong>Día Nacional del Árbol
-            </h2>
-            <h2 className="text-2xl font-bold mb-2">
+            </h4>
+            <h4 className="text-2xl font-bold mb-2">
               <strong>31.-</strong>Día Mundial Sin Tabaco
-            </h2>
+            </h4>
           </section>
 
           <Button

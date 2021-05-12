@@ -70,7 +70,7 @@ const Articles = (  ) => {
                 <h2 className="text-2xl font-semibold">
                   {featuredPost.nodes[0].frontmatter.title}
                 </h2>
-                <p className="text-lg text-gray-500 py-4">
+                <p className="text-lg text-gray-600 py-4">
                   {featuredPost.nodes[0].frontmatter.description}
                 </p>
                 <button className=" border-b-2 pt-4 pb-1 text-lg hover:border-b-2 focus:border-b-2 hover:text-green-700 hover:border-green-700">
@@ -94,7 +94,7 @@ const Articles = (  ) => {
                   <p className="text-2xl mt-4 font-semibold">
                     {post.frontmatter.title}
                   </p>
-                  <p className="text-lg text-gray-500 py-4">
+                  <p className="text-lg text-gray-600 py-4">
                     {post.frontmatter.description}
                   </p>
                   <button className="pt-4 pb-1 text-lg border-b-2 hover:text-green-700 hover:border-green-700">
