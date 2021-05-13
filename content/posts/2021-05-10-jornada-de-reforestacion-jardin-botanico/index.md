@@ -4,6 +4,7 @@ tags: ["MINEC", "Jardín Botánico","Universidad Central de Venezuela (UCV)" , "
 title: Ministerios desarrollan Jornada de Reforestación en los espacios del Jardín Botánico
 description: Durante la actividad se logró establecer aproximadamente 130 plantas forestales, entre las especies Caña Fistolas, Para Para, Yagrumo, Apamate, Macuteno, Flanboyan, Jacaranda, Casco de Vaca, Leucaena y Pilón. 
 twitter_text: Ministerios desarrollan Jornada de Reforestación en los espacios del Jardín Botánico
+image: ./IMG-20210508-WA0044.jpg
 cover: ./IMG-20210508-WA0044.jpg
 timeToRead: 4
 ---

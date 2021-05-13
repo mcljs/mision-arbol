@@ -94,7 +94,7 @@ const Articles = (  ) => {
                   <p className="text-2xl mt-4 font-semibold">
                     {post.frontmatter.title}
                   </p>
-                  <p className="text-lg text-gray-600 py-4 line-clamp-3">
+                  <p className="text-lg text-gray-600 py-4 line-clamp-4">
                     {post.frontmatter.description}
                   </p>
                   <button className="pt-4 pb-1 text-lg border-b-2 hover:text-green-700 hover:border-green-700">
