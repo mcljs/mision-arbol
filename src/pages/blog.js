@@ -42,10 +42,10 @@ const postList = allMarkdownRemark.edges
     <HeaderLayout 
       heading="Noticias"
       image="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616367497/assets/noticia-min_cvatoc.jpg" />
-    <section className="sm:py-10 py-22 max-w-screen-lg mx-auto px-8">
+    <section className="sm:py-10   mx-auto px-8 dark:bg-[#03091e]">
  
    
-  <ul className="grid md:grid-cols-2 grid-cols-1 sm:gap-8 gap-5">
+  <ul className="grid md:grid-cols-2 grid-cols-1 sm:gap-8 gap-5 dark:bg-[#03091e]">
 {postList.map(
         ({
           node: {

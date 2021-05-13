@@ -4,7 +4,7 @@ import Link from '../link'
 
 
 const RecommendedPosts = ({ next, previous }) => (
-  <section className="mx-auto max-w-5xl px-6 md:px-0 flex-1 w-full md:w-5/6 mb-4">
+  <section className="mx-auto max-w-5xl px-6 md:px-0 flex-1 w-full md:w-5/6 mb-4 dark:text-white ">
    <hr className="my-4 w-2/3 mx-auto sm:w-full sm:my-6 bg-gray-100" />
 
   <ul className="flex">
@@ -15,7 +15,7 @@ const RecommendedPosts = ({ next, previous }) => (
          <Link
         to={previous.fields.slug}
        
-           className="block py-2 font-semibold mr-12 hover:no-underline hover:text-accent-3 hover:text-green-800"
+           className="block py-2 font-semibold mr-12 hover:no-underline hover:text-accent-3 hover:text-green-800 dark:hover:text-gray-300"
       >
         {previous.frontmatter.title}
       </Link>
@@ -29,7 +29,7 @@ const RecommendedPosts = ({ next, previous }) => (
          <Link
         to={next.fields.slug}
    
-        className="block py-2 ml-8 font-semibold hover:no-underline hover:text-accent-3 hover:text-green-800"
+        className="block py-2 ml-8 font-semibold hover:no-underline hover:text-accent-3 hover:text-green-800 dark:hover:text-gray-300"
       >
         {next.frontmatter.title}
         </Link>

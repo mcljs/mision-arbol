@@ -67,42 +67,42 @@ const ColumnRight = styled.div`
 
 const InfoSection = ({ reverse }) => {
   return (
-    <Section>
-      <Container>
+    <Section className="dark:bg-[#121f3d]">
+      <Container >
         <ColumnLeft>
-          <h1>Calendario Ecosocialista Mayo 2021</h1>
+          <h1 className="dark:text-white">Calendario Ecosocialista Mayo 2021</h1>
           <section>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>01.-</strong>Día Internacional de los Trabajadores
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">01.-</strong>Día Internacional de los Trabajadores
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>04.-</strong>Día Internacional del Combatiente de
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">04.-</strong>Día Internacional del Combatiente de
               Incendios Forestales
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>09.-</strong>Día Mundial de las Aves Migratorias
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">09.-</strong>Día Mundial de las Aves Migratorias
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>15.-</strong>Día Mundial de la Acción Climática
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">15.-</strong>Día Mundial de la Acción Climática
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>17.-</strong>Día Mundial del Reciclaje
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">17.-</strong>Día Mundial del Reciclaje
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>22.-</strong>Día Internacional de la Diversidad Biológica
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">22.-</strong>Día Internacional de la Diversidad Biológica
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>23.-</strong>Día Nacional del Turpial y de la Orquídea
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">23.-</strong>Día Nacional del Turpial y de la Orquídea
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>29.-</strong>Declaración del Araguaney como Árbol Nacional
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">29.-</strong>Declaración del Araguaney como Árbol Nacional
               de Venezuela
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>30.-</strong>Día Nacional del Árbol
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">30.-</strong>Día Nacional del Árbol
             </h2>
-            <h2 className="text-2xl font-bold mb-2">
-              <strong>31.-</strong>Día Mundial Sin Tabaco
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">31.-</strong>Día Mundial Sin Tabaco
             </h2>
           </section>
 
@@ -113,7 +113,7 @@ const InfoSection = ({ reverse }) => {
             Descargar
           </Button>
         </ColumnLeft>
-        <ColumnRight reverse={reverse}>
+        <ColumnRight reverse={reverse} className="dark:bg-[#121f3d]">
           <StaticImage
             src="../../assets/calendario-img.png"
             alt="home"

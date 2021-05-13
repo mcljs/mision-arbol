@@ -24,8 +24,8 @@ export const Image = () => {
   ` )
 
   return ( 
-  <div className="image-container">
-        <h1 className="text-center  font-bold  text-4xl xl:text-5xl">Galería</h1>
+  <div className="image-container dark:bg-[#121f3d]">
+        <h1 className="text-center  font-bold  text-4xl xl:text-5xl dark:text-white">Galería</h1>
         <div className="image-grid">
             {data.allFile.edges.map((image,key) =>(
                 <GatsbyImage key={key}

@@ -28,11 +28,11 @@ const Navbar = (  ) => {
   return (
     <>
  
-      <StaticImage className="bg-[#be4928]" layout="constrained"  placeholder="tracedSVG" src='../images/banner2.png' width={1931} height={145} />
+      <StaticImage className="bg-[#be4928] dark:bg-[#0e182a]" layout="constrained"  placeholder="tracedSVG" src='../images/banner2.png' width={1931} height={145} />
 
 
 
-       <nav className='flex items-center flex-wrap bg-[#be4928] -mt-2'>
+       <nav className='flex items-center flex-wrap bg-[#be4928] dark:bg-[#0e182a] -mt-2'>
       
         <button  onClick={handleClick} className=' inline-flex p-3  rounded lg:hidden text-white ml-auto hover:text-white outline-none'  aria-label='Menu'>
         {
@@ -72,26 +72,26 @@ const Navbar = (  ) => {
             click ? '' : 'hidden'
           }   w-full lg:inline-flex lg:flex-grow lg:w-auto`}
         >
-          <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto'>
-            <Link to='/' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white '>
+          <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto '>
+            <Link to='/' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 INICIO
             </Link>
-            <Link to='/blog' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/blog' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 NOTICIAS
             </Link>
-            <Link to='/nosotros' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/nosotros' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 NOSOTROS
             </Link>
-            <Link to='/biblioteca' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/biblioteca' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 BIBLIOTECA
             </Link>
-            <Link to='/guide' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/guide' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 GUÍA DE ESPECIES
             </Link>
-            <Link to='https://map-mision-arbol.vercel.app/' className='lg:inline-flex lg:w-auto w-full  lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='https://map-mision-arbol.vercel.app/' className='lg:inline-flex lg:w-auto w-full  lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 SITIOS RECUPERADOS
             </Link>
-            <Link to='/contact' className='lg:inline-flex lg:w-auto w-full  lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white'>
+            <Link to='/contact' className='lg:inline-flex lg:w-auto w-full  lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 SOLICITUDES
             </Link>
           </div>

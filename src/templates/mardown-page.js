@@ -2,13 +2,19 @@ import * as React from 'react'
 
 import Layout from '../components/layout'
 import '../styles/mardown.css'
+import * as S from '../components/styles/base'
 
 function MarkdownPage({children}) {
   return (
     <>
-      <Layout>
-        <div className="markdown prose prose-indigo md:prose-lg pb-8">{children}</div>
-
+      <Layout >
+      <div className="pb-8">
+        <div className="markdown pt-8 dark:text-white">
+ <S.MainContent> 
+        {children}
+  </S.MainContent>
+  </div>
+  </div>
       </Layout>
     </>
   )

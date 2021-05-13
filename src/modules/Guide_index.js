@@ -24,8 +24,8 @@ const Guide = () => {
   return (
     <Layout >
  <SEO title="Guía de Especie" />
-       <div className="text-center max-w-xl mx-auto">
-      <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600">Guía de Especies</h1>
+       <div className="text-center max-w-xl mx-auto pt-4">
+      <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600 dark:text-white">Guía de Especies</h1>
       
 <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md bg-yellow-600 shadow">
@@ -39,11 +39,11 @@ const Guide = () => {
 
           <Tabs>
 
-              <Tab onClick={handleTabSwitch} activeTab={activeTab === 0} id={0}>Forestales</Tab>
+              <Tab className="dark:bg-[#24385b] dark:hover:bg-[#24385b] dark:text-white" onClick={handleTabSwitch} activeTab={activeTab === 0} id={0}>Forestales</Tab>
 
-              <Tab onClick={handleTabSwitch} activeTab={activeTab === 1} id={1}>Medicinales</Tab>
+              <Tab className="dark:bg-[#24385b] dark:hover:bg-[#24385b] dark:text-white" onClick={handleTabSwitch} activeTab={activeTab === 1} id={1}>Medicinales</Tab>
 
-              <Tab onClick={handleTabSwitch} activeTab={activeTab === 2} id={2}>Ornamentales</Tab>
+              <Tab className="dark:bg-[#24385b] dark:hover:bg-[#24385b] dark:text-white" onClick={handleTabSwitch} activeTab={activeTab === 2} id={2}>Ornamentales</Tab>
 
               
 

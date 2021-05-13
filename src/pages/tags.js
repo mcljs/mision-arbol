@@ -35,8 +35,8 @@ const TagIndex = () => {
   return (
     <Layout>
       <SEO title="Etiquetas Generales" />
-<div className="mx-auto max-w-5xl px-6 md:px-0 mb-16 flex-1 w-full md:w-5/6">
- <h2 className="text-3xl font-bold mb-6 mt-16 text-center">Etiquetas Generales</h2>
+<div className="mx-auto max-w-5xl px-6 md:px-0 flex-1 w-full md:w-5/6 pt-4 pb-16">
+ <h2 className="text-3xl font-bold mb-6 mt-16 text-center dark:text-white">Etiquetas Generales</h2>
       <div className="mb-4 md:mb-6 lg:px-12 flex flex-wrap">
         {tagGroups.map((group) => (
           <div key={group.tag}>
@@ -51,7 +51,7 @@ const TagIndex = () => {
         const tagId = group.tag.replace(/ /g, ``)
         return (
           <div key={group.tag} id={tagId} className="mb-5">
-            <h2 className="font-semibold text-xl">{group.tag}</h2>
+            <h2 className="font-semibold text-xl dark:text-white">{group.tag}</h2>
             <div className="italic text-gray-500 text-sm">
               {group.totalCount} post{group.totalCount === 1 ? `` : `s`}
             </div>
@@ -59,7 +59,7 @@ const TagIndex = () => {
               <div key={post.id} className="mb-1">
                 <Link
                   to={post.fields.slug}
-                  className="hover:text-accent-3 hover:text-green-700"              >
+                  className="hover:text-accent-3 hover:text-green-700 dark:text-[#becde3]"              >
                   {post.frontmatter.title}
                   {` `}
                 </Link>

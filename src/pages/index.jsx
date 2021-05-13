@@ -3,6 +3,7 @@ import {Image} from "../components/Gallery/Images"
 import SEO from '../components/Seo'
 import DelayedFallback from "../components/Tweet/DelayedFallback"
 import Vertices from "../components/Vertices"
+import useDarkMode from "../hooks/useDarkMode"
 
 const Articles = React.lazy(() => import("../components/Articles")) 
 const Banner = React.lazy(() => import('../components/Banner'))
@@ -26,7 +27,7 @@ const Tweet = React.lazy(()=> import('../components/Tweet/index'))
 
 const IndexPage = () => {
 
-
+useDarkMode()
 const isSSR = typeof window === "undefined"
 
   return (

@@ -29,22 +29,22 @@ const SearchScreen = ({navigate}) => {
 
     return(
   <Layout>
- <div className="main">
+ <div className="main pb-4">
     <div className="px-4 sm:px-8 lg:px-16 xl:px-20 mx-auto">
 
        
         <div className="hero">
             
             <div className="hero-headline flex flex-col items-center justify-center pt-24 text-center">
-                <h1 className=" font-bold text-3xl text-gray-900">Buscador de Guia de Especies</h1>
-                <p className=" font-base text-base text-gray-600">Si no encuentras la especie que buscas, puedes solicitarnos su inclusión en la guía.</p>
+                <h1 className=" font-bold text-3xl text-gray-900 dark:text-white">Buscador de Guia de Especies</h1>
+                <p className=" font-base text-base text-gray-600 dark:text-white">Si no encuentras la especie que buscas, puedes solicitarnos su inclusión en la guía.</p>
             </div>
 
            
             <div className="box pt-6">
                 <div className="box-wrapper">
 
-                    <form onSubmit={handleSearch} className=" bg-white rounded flex items-center w-full p-3 shadow-sm border border-gray-200">
+                    <form onSubmit={handleSearch} className=" bg-white rounded flex items-center w-full p-3 shadow-sm border border-gray-200 dark:bg-gray-900 dark:text-white">
                        
                         <button className="outline focus:outline-none"  aria-label="Mute volume"><FiSearch className="mr-2" role="button"/></button>
 
@@ -125,7 +125,7 @@ const SearchScreen = ({navigate}) => {
                 {
                     especiesFiltered.map(esp =>(
                         <>
-         <h2 className="text-2xl ">Resultado</h2>
+         <h2 className="text-2xl dark:text-white">Resultado</h2>
                         <ul>
                             <Book 
                             key={esp.id}

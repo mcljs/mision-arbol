@@ -8,8 +8,8 @@ const Articles = (  ) => {
 
   return(
       <>
-  <h3 className=" py-2 bg-gradient-to-br from-[#95ca3e] to-[#85c638] text-white  text-4xl text-center font-bold">ACTUALIDAD</h3>
-    <section className="px-12 py-4">
+        <h3 className=" py-2 bg-gradient-to-br from-[#95ca3e] to-[#85c638] text-white  text-4xl text-center font-bold dark:bg-[#98ca3f] dark:text-[#03091e]">ACTUALIDAD</h3>
+        <section className="px-12 py-4 dark:bg-[#121f3d]">
   
       
           
@@ -67,13 +67,13 @@ const Articles = (  ) => {
               />
 
               <div>
-                <h2 className="text-2xl font-semibold">
+                <h2 className="text-2xl font-semibold dark:text-white">
                   {featuredPost.nodes[0].frontmatter.title}
                 </h2>
-                <p className="text-lg text-gray-600 py-4">
+                <p className="text-lg text-gray-600 py-4 dark:text-[#becde3]">
                   {featuredPost.nodes[0].frontmatter.description}
                 </p>
-                <button className=" border-b-2 pt-4 pb-1 text-lg hover:border-b-2 focus:border-b-2 hover:text-green-700 hover:border-green-700">
+                <button className=" border-b-2 pt-4 pb-1 text-lg hover:border-b-2 focus:border-b-2 hover:text-green-700 hover:border-green-700 dark:text-white hover:border-yellow-1100">
                   <Link to={featuredPost.nodes[0].fields.slug}>
                     Leer Articulo
                   </Link>
@@ -91,13 +91,13 @@ const Articles = (  ) => {
                   />
 
 
-                  <p className="text-2xl mt-4 font-semibold">
+                  <p className="text-2xl mt-4 font-semibold dark:text-white">
                     {post.frontmatter.title}
                   </p>
-                  <p className="text-lg text-gray-600 py-4 ">
+                  <p className="text-lg text-gray-600 py-4 dark:text-[#becde3]">
                     {post.frontmatter.description}
                   </p>
-                  <button className="pt-4 pb-1 text-lg border-b-2 hover:text-green-700 hover:border-green-700">
+                  <button className="pt-4 pb-1 text-lg border-b-2 hover:text-green-700 hover:border-green-700 dark:text-white dark:hover:border-yellow-1100">
                     <Link to={post.fields.slug}>Leer Articulo</Link>
                   </button>
                 </div>

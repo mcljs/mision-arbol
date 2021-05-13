@@ -16,22 +16,23 @@ import TagPill from '../components/TagPill'
 
      return (
       <Layout>
+      <div className="dark:bg-[#121f3d] pt-8 pb-4">
       <SEO title={post.frontmatter.title}
         description={post.frontmatter.description}
         //image={post.frontmatter.image}
         image={`https://mision-arbol.vercel.app${post.frontmatter.image?.publicURL}`}
         />
 
-        <div className="mt-10 sm:mt-24">
-          <p className="px-4 lg:px-2 mb-5 italic text-gray-500 max-w-screen-md mx-auto text-lg leading-relaxed
+        <div className="mt-10 sm:mt-24 ">
+          <p className="px-4 lg:px-2 mb-5 italic text-gray-500 max-w-screen-md mx-auto text-lg leading-relaxed dark:text-[#becde3] 
 
 ">
           {post.frontmatter.date} 
         </p>
        
-        <h1 className="post-title">{post.frontmatter.title}</h1>
+        <h1 className="post-title dark:text-white">{post.frontmatter.title}</h1>
       </div>
-      <div className="markdown">
+      <div className="markdown dark:text-white">
         <S.MainContent> 
           <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
        </S.MainContent>
@@ -50,6 +51,7 @@ title={title}
       twitterHandle={twitterHandle}
         />
       <RecommendedPosts next={next} previous={previous} />
+      </div>
          </Layout>
      )
  }
