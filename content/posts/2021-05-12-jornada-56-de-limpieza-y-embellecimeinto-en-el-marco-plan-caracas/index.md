@@ -2,7 +2,7 @@
 date: 2021-05-12 21:32:21
 tags: ["MINEC", "Plan Caracas Patriota y Segura","Parroquia Antímano"]
 title: Jornada Nº 56 de limpieza, embellecimiento y desinfección en el marco del Plan Caracas, Patriota Bella y Segura
-description: La actividad contó con la participación del Presidente de la Misión Árbol, Wilmer Vásquez; el Coordinador del PSUV de la parroquia Antímano, Jimmy Gudiño; la responsable de la parroquia Antímano, Janeth Andrade y miembros de las distintas organizaciones sociales del sector,
+description: La actividad contó con la participación del Presidente de la Misión Árbol, Wilmer Vásquez; el Coordinador del PSUV de la parroquia Antímano, Jimmy Gudiño, la responsable de la parroquia Antímano, Janeth Andrade y miembros de las distintas organizaciones sociales del sector,
 twitter_text: Jornada Nº 56 de limpieza, embellecimiento y desinfección en el marco del Plan Caracas, Patriota Bella y Segura
 image: ./IMG-20210512-WA0040.jpg
 cover: ./IMG-20210512-WA0040.jpg
