@@ -44,7 +44,7 @@ export default function ScrollToTop() {
         </div>
       )}
     </div>
-    {/*
+    
  <div className="fixed bg-pink bottom-3 right-3  cursor-pointer">
     
         <div
@@ -62,7 +62,7 @@ export default function ScrollToTop() {
  ) }
         </div>
       
-    </div>*/}
+    </div>
  </>
 
   );
