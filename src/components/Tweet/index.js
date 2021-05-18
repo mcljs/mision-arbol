@@ -20,7 +20,7 @@ const isSSR = typeof window === "undefined"
    
    
        <div className="text-center">
-         <span className="text-white text-center text-2xl xl:text-2xl" >Cuenta Oficial Del Presidente de la República Nicolás Maduro Moros</span>
+         <span className="text-white text-center text-2xl xl:text-2xl" >Cuenta Oficial del Presidente de la República Nicolás Maduro Moros</span>
       <TwitterTimeNico />
     </div>
 

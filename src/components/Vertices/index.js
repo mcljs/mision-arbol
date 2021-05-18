@@ -26,7 +26,7 @@ const Vertices = (  ) => {
           <Link to="/vertice/la-agroforesteria" className="w-full scale-100 hover:bg-yellow-1100  transition-all ease-in-out duration-150 rounded-md py-2 px-3 space-x-1 text-base hover:text-white tracking-tight font-bold leading-tight flex items-center"> 
             <div className="w-full flex flex-col items-center justify-center px-3 py-8 space-y-4">
               <StaticImage src="../../../static/assets/Vértice_Agroforestería[1].png" />
-              <h2 className="sm:text-xs md:text-sm text-center lg:text-base">LA AGROFORESTERÍA</h2>
+              <h2 className="sm:text-xs md:text-sm text-center lg:text-base">AGROFORESTERÍA</h2>
             </div>
           </Link>
         </li>

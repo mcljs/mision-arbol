@@ -23,7 +23,7 @@ const Email = () => {
                 Revista Apamate
               </h2>
               <p className="mb-6 sm:mr-6 text-white dark:text-[#03091e]">
-                Suscribete mantente al dia con nuestra revista!
+                Suscribete y mantente al dia con nuestra revista!
               </p>
               <form className="relative w-5/6 mx-auto md:w-2/3 call-newsletter ">
                 <i className="absolute top-0 left-0 pt-3 pl-5 text-xl text-green-900 lni-envelope ">

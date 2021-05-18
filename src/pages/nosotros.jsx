@@ -94,16 +94,9 @@ ambientalistas.
           <div className="container mx-auto px-4">
             <div className="items-center flex flex-wrap">
               <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
-                <StaticImage
-                  alt="..."
-                  className="max-w-full rounded-lg shadow-lg"
-                  src="https://images.pexels.com/photos/4207909/pexels-photo-4207909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                />
-              </div>
-              <div className="w-full md:w-5/12 ml-auto mr-auto px-4 mt-16 sm:mt-0">
-                <div className="md:pr-12">
-                 
-                  <h3 className="text-3xl font-semibold dark:text-white">
+              
+
+<h3 className="text-3xl font-semibold dark:text-white">
                      Visión
                   </h3>
                   <p className="mt-4 text-lg leading-relaxed text-gray-700 dark:text-[#becde3]">
@@ -119,6 +112,15 @@ vida de la población venezolana, el rescate
 y la protección de la flora, así como saldar
 la deuda histórica que la población que tiene con nuestro ecosistema.     
                   </p>
+              </div>
+              <div className="w-full md:w-5/12 ml-auto mr-auto px-4 mt-16 sm:mt-0">
+                <div className="md:pr-12">
+                 
+                    <StaticImage
+                  alt="..."
+                  className="max-w-full rounded-lg shadow-lg"
+                  src="https://images.pexels.com/photos/4207909/pexels-photo-4207909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                />
                   
                 </div>
               </div>
@@ -145,7 +147,7 @@ la deuda histórica que la población que tiene con nuestro ecosistema.
 <StaticImage
   alt="..."
 
-  src="../images/wilmer.jpg"
+  src="https://pbs.twimg.com/profile_images/1037101550571806722/zYacZcEJ_400x400.jpg"
                     className="w-full h-full bg-gray-100"
                     style={{position: 'relative', overflow: 'hidden'}}
                                       />
