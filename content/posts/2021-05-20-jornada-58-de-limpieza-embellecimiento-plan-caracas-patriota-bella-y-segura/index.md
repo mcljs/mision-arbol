@@ -1,5 +1,5 @@
 ---
-date: 2021-05-12 20:32:21
+date: 2021-05-20 20:32:21
 tags: ["MINEC", "Plan Caracas Patriota y Segura","Carapita"]
 title: Jornada N 58 de limpieza, embellecimiento y desinfección en el marco del Plan Caracas, Patriota Bella y Segura
 description: La actividad contó con la participación del Presidente de la Misión Árbol, Wilmer Vásquez; el Gerente General de la Corporación Socialista de Cemento, Oscar Scola la responsable de la parroquia Antímano, Janeth Andrade, Andrade, y con el apoyo de Inparques, los Bomberos Forestales, Supra Caracas, y el Poder Popular.
