@@ -28,7 +28,7 @@ const Navbar = (  ) => {
   return (
     <>
  
-      <img className="dark:bg-[#0e182a] bg-[#be4928] bg-cover bg-center mb-2 w-full h-full sm:h-36" src={Banner}  />
+      <img className="dark:bg-[#0e182a] bg-[#be4928] bg-cover bg-center mb-2 w-[1350px] h-full sm:h-[144px]" alt={Banner} src={Banner}  />
 
 
       
