@@ -5,6 +5,7 @@ import Img from "gatsby-image";
 
 const Articles = (  ) => {
  
+  
 
   return(
       <>
@@ -51,7 +52,6 @@ const Articles = (  ) => {
       }
     }
   }
-
           }
         `}
         render={({ featuredPost, allPosts }) => (

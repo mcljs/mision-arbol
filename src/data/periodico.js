@@ -8,6 +8,12 @@ export const periodicoData = [
     ruta: `https://drive.google.com/file/d/19-NDdXuzYG7SQ9S4rgLhc0d1AHDOrCb6/view?usp=sharing`, 
   },
 {
+    title: 'Edición 006 del periódico NOTIÁRBOL resalta jornada N°56 de limpieza y embellecimiento en el marco del plan Caracas .',
+    title2: 'El periódico NotiÁrbol, en su edición Nº 006, sexta del año 2021, jornada N°56 de limpieza y embellecimiento en el marco del plan Caracas..',
+    fecha: '17/05/2021',
+    ruta: `https://drive.google.com/file/d/1NqqZBkija6KhDb34wfYsk3A1jUjGqTQD/view?usp=sharing`, 
+  },
+{
     title: 'Edición 005 del periódico NOTIÁRBOL resalta el desarrollo de la jornada de reforestación en los espacios del Jardín Botánico junto al MINEC, MPPEY y MPPCPS.',
     title2: 'El periódico NOTIÁRBOL, en su edición Nº 004, cuarta del año 2021, resalta la producción de ocumo, plátanos y lechosa por la unidad "Mi Querencia" en Birongo. Ademas de donativos por Misión Árbol del Estado Bolívar de plantas ornamentales para el peaje de Guayana.',
     fecha: '10/05/2021',
