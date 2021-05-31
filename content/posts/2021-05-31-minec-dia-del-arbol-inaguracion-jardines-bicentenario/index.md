@@ -1,5 +1,5 @@
 ---
-date: 2021-05-20 20:32:21
+date: 2021-05-31 15:32:21
 tags: ["MINEC", "Día del Árbol"]
 title: MINEC en el Marco de la Celebración del Día del Árbol Inauguró Jardines Bicentenarios en todo el país
 description: Durante la jornada el ministro Lorca destacó que la Misión Árbol en 15 años de gestión, ha sembrado 31 millones de árboles y ha reforestado 28 mil hectáreas degradas por incendios forestales en todo el país
