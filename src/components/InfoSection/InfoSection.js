@@ -70,40 +70,31 @@ const InfoSection = ({ reverse }) => {
     <Section className="dark:bg-[#121f3d]">
       <Container >
         <ColumnLeft>
-          <h1 className="dark:text-white">Calendario Ecosocialista Mayo 2021</h1>
+          <h1 className="dark:text-white">Calendario Ecosocialista Junio 2021</h1>
           <section>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">01.-</strong>Día Internacional de los Trabajadores
+              <strong className="font-bold">04.-</strong>Aniversario de la Misión Árbol
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">04.-</strong>Día Internacional del Combatiente de
-              Incendios Forestales
+              <strong className="font-bold">05.-</strong>Día Mundial del Ambiente            </h2>
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">08.-</strong>Día Mundial de los Océanos
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">09.-</strong>Día Mundial de las Aves Migratorias
+              <strong className="font-bold">16.-</strong>Día de las Tortugas Marinas
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">15.-</strong>Día Mundial de la Acción Climática
+              <strong className="font-bold">17.-</strong>Día Mundial Contra la Desertificación y Sequía
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">17.-</strong>Día Mundial del Reciclaje
+              <strong className="font-bold">18.-</strong>Día Mundial Contra la Incineración            </h2>
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">22.-</strong>Día Mundial del Suelo y la Tierra Fértil
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">22.-</strong>Día Internacional de la Diversidad Biológica
-            </h2>
+              <strong className="font-bold">26.-</strong>Día Internacional de los Bosques Tropicales            </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">23.-</strong>Día Nacional del Turpial y de la Orquídea
-            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">29.-</strong>Declaración del Araguaney como Árbol Nacional
-              de Venezuela
-            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">30.-</strong>Día Nacional del Árbol
-            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">31.-</strong>Día Mundial Sin Tabaco
-            </h2>
+              <strong className="font-bold">28.-</strong>Día Mundial del Árbol            </h2>
           </section>
 
           <Button
