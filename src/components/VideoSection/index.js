@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import Video from '../../video/LA MISIÓN ÁRBOL (online-video-cutter.com).mp4';
+import Video from '../../video/VID-20210603-WA0135.mp4';
 import {FaFacebook} from '@react-icons/all-files/fa/FaFacebook'
 import {FaInstagram} from '@react-icons/all-files/fa/FaInstagram'
 import {FaTwitter} from '@react-icons/all-files/fa/FaTwitter'
