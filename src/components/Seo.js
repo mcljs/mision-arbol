@@ -31,10 +31,10 @@ function SEO({ description, lang, meta,image, title }) {
   const metaDescription = description || site.siteMetadata.description
 
   
-  const imageUrl = `https://mision-arbol.vercel.app${image}`
+  const imageUrl = `http://misionarbol.minec.gob.ve${image}`
 
   const ogImage = 
-    image || 'https://mision-arbol.vercel.app/static/682c4dfb4d5442c930e62265fc36b09a/logo.jpeg'
+    image || 'http://misionarbol.minec.gob.ve/static/682c4dfb4d5442c930e62265fc36b09a/logo.jpeg'
 
 
 

@@ -46,7 +46,7 @@ import TagPill from '../components/TagPill'
 <img src="https://res.cloudinary.com/dk5bvgq20/image/upload/v1616366412/assets/Eslogan_de_Misi%C3%B3n_%C3%81rbol_PNG_jcegjs.png" alt="Eslogan" className="mx-auto pt-7 w-24"/ >
 
  <Share
-          url={`https://mision-arbol.ml${post.fields.slug}`}
+          url={`http://misionarbol.minec.gob.ve/${post.fields.slug}`}
 title={title}
       twitterHandle={twitterHandle}
         />
