@@ -6,17 +6,13 @@ export const especies = [
     title_cientifico: 'BULNESIA ARBÓREA',
     image: 'vera-1.jpg',
     imageURL: 'https://images.nieuwkoop-europe.com/images/4BUARRS02.png',
-    caracteristicas_fisicas: `Es un árbol de gran parte del norte de sudamérica, en la región de las guayanas, de venezuela, colombia, guyana. a veces en el mercado internacional se lo nombra como paraguay lignum vitae ya que sus propiedades y usos son similares al guayacán, árbol del género guaiacum.
+    caracteristicas_fisicas: `Es un árbol de gran parte del norte de Sudamérica en la región de las Guayanas de Venezuela, Colombia y Guyana. 
+crece en bordes de carreteras, caminos y ríos.  igual se reproduce en el interior de bosques secos, subxerofíticos y espinosos.
 
-Crece en bordes de carreteras, caminos y ríos, y en el interior de bosques secos, subxerofíticos y espinosos.    `,
+Muy usado en construcciones civiles y en navales, tornería, elaboración de durmientes y de ferrocarril, es una planta ornamental en jardinería, la madera debe utilizarse recién cortada, puesto que al secarse se pone extremadamente dura y ya no es aprovechable, igualmente se emplea para grabados y cuando se necesita una madera durable.    `,
     propiedades:`
-Muy usado en construcciones civiles y en navales, tornería, elaboración de durmientes de ferrocarril. es planta ornamental en jardinería. la madera debe utilizarse recién cortada, puesto que al secarse se pone extremadamente dura y ya no es aprovechable.
-
-La vera se emplea para grabados y cuando se necesita una madera durable. de su madera se extrae el aceite de guaiac (o guayacol) para ingrediente de perfumes. su resina puede obtenerse con solventes orgánicos, empleada para hacer barniz y pinturas oscuras.
-
-Es apreciado por sus propiedades protectoras de la piel humana con su esencia. da un buen carbón y vigas de alta calidad. igniciona fácilmente, y produce un humo fragante.
-
-Las dos especies más conocidas son la bulnesia arbórea y la bulnesia sarmientoi.
+De su madera se extrae el aceite de guaiac (o guayacol) que sirve para ingrediente de perfumes y de su resina puede obtenerse con solventes orgánicos. también se utiliza para hacer barniz y pinturas oscuras.
+el vera es apreciado por sus propiedades protectoras de la piel humana con su esencia. produce un buen carbón y vigas de alta calidad, igniciona fácilmente y produce un humo fragante.
     `,
 
   },
