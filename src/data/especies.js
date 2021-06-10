@@ -61,11 +61,9 @@ células, actuando sobre la piel como un potente antiinflamatorio.
     title_cientifico: 'HANDROANTHUS SERRATIFOLIUS',
     image: 'curari.jpg',
     imageURL: 'https://live.staticflickr.com/8171/8018342446_fbf9f0df13_b.jpg',
-    caracteristicas_fisicas: `Es un árbol de 8-10 m de altura. las hojas de 10-15 cm de largo, palmado-compuestas con foliolos elípticos. las flores, grandes y amarillas de 8 cm de diámetro. el fruto que alcanza los 25 cm de largo tiene semillas aladas de color blanco. la característica que define la especie es la de sus hojas aserradas (de ahí el nombre de serratifolia).   `,
+    caracteristicas_fisicas: `Se trata de un árbol de 8-10 m de altura. Las hojas de 10-15 cm de largo, palmado, compuestas con foliolos elípticos. Sus flores son grandes y amarillas de 8 cm de diámetro. El fruto alcanza los 25 cm de largo, tiene semillas aladas de color blanco. La característica que define a esta especie es la de sus hojas aserradas (de ahí el nombre de serratifolia). `,
     propiedades:`
-Se trata de una madera apreciada en el mercado que destaca por su extrema dureza y resistencia al fuego y a las plagas. a veces se comercializa como un "palo de hierro ", o simplemente como" ipê "(todo el género tabebuia ), o como el lapacho (correctamente tabebuia serratifolia ).
-
-Medicinal: la corteza de tabebuia serratifolia contiene más de 20 compuestos activos incluyendo lapachol, quercetina y otros flavonoides. su corteza interna se utiliza como un té de hierbas, para el tratamiento de infecciones fúngicas; se ha recomendado contra el cáncer.    `,
+La corteza de handroanthus serratifolia o curarí, contiene mas de 20 compuestos activos incluyendo lepachol, quercetina y otros flavonoides, Por lo cual su corteza interna se utiliza como un té de hierbas, para el tratamiento de infecciones fúngicas.    `,
 
   },
  {
@@ -76,14 +74,9 @@ Medicinal: la corteza de tabebuia serratifolia contiene más de 20 compuestos ac
     image: 'cedro-americano.jpg',
     imageURL: 'https://i.pinimg.com/originals/15/ab/02/15ab02028e2fdf78b78b4b50132f11ec.jpg',
     caracteristicas_fisicas: `
-El cedro amargo tiene un fuste que puede alcanzar los 40 m de altura; el tronco es recto, naciendo sus ramas, van más arriba de la mitad de su altura y con diámetros en los árboles adultos de 1 a 2 m; a veces, en su parte baja presenta contrafuertes o aletones que ayudan a afianzar el árbol, ya que tiene un sistema radical bastante superficial.
-
-La corteza, que puede llegar a espesores de 2 cm, es de color gris-claro en los árboles jóvenes y apenas dividida en placas por leves hendiduras, mientras que los árboles adultos tienen la corteza profundamente fisurada. la corteza interna es rosada, fibrosa y de sabor amargo.`,
+Tiene un fuste importante que puede alcanzar los 40 metros de altura. El tronco es recto, naciendo sus ramas más arriba de la mitad de su altura y con diámetros en los árboles adultos de 1 a 2 metros. A veces, en su parte baja, presenta contrafuertes o aletones que ayudan a afianzar el árbol, ya que tiene un sistema radical bastante superficial. La corteza puede llegar a espesores de 2 cm, es de color gris-claro en los árboles jóvenes y apenas dividida en placas por leves hendiduras, mientras que los árboles adultos tienen la corteza profundamente fisurada.`,
     propiedades:`
-Esta planta es de uso ritual en las limpias, tanto en la huasteca potosina como en la veracruzana.
-
-Además, se le atribuyen propiedades medicinales en problemas respiratorios como bronquitis y asma, para lo cual se bebe un cocimiento de la corteza. Para calmar el dolor de las heridas se aprovechan las ramas; como abortivo y para el dolor de estómago, se prepara un té con el tallo de esta planta y la corteza de macuilis (sp n/r). Como relajante muscular, antihemorrágico vaginal se administra la infusión de la madera, por vía oral y en baños.
-
+Esta especie, es el árbol emblemático del estado barinas. Su fina madera aromática es repelente de los insectos y ligera. Igual es apreciada en trabajos de carpintería para la fabricación de muebles, gabinetes, construcciones.  También se utiliza en decoración de interiores, viviendas, chapillas decorativas. Igualmente como en tallas, para esculpir, ebanistería.  Como componentes de madera para la construcción de barcos, botes y en la industria aeronáutica. La madera del cedro es astringente, es considerada como febrifuga y tónica, al igual que sus hojas.
 El cocimiento de la corteza se usa en baños para bajar la calentura y contra el "susto"; también se refiere útil en casos de diarrea, bilis, reumatismo, dolor de muelas y hemorragia nasal. `,
 
   },
@@ -95,11 +88,9 @@ El cocimiento de la corteza se usa en baños para bajar la calentura y contra el
     image: 'apamate.jpg',
     imageURL: 'https://i.pinimg.com/originals/7f/48/85/7f4885a2f54da8243ad5492c51cb249e.jpg',
     caracteristicas_fisicas: `
-Es un árbol de la familia de las bignonáceas, es nativo de méxico, guatemala, el salvador y otras regiones de centroamérica, llegando a colombia, venezuela y perú.
-
-Árbol de 6 a 10 m de altura, aunque en su hábitat nativo puede superar los 25 m. tronco corto de corteza grisácea, algo fisurada; hojas palmadas, compuestas de 3-5 foliolos elípticos a oblongos grandes (hasta 34 cm de largos), las inflorescencias surgen en panículas terminales, las flores tienen cáliz acampanado y bilabiado con pétalos rosa, lavanda o magenta, el fruto es una cápsula linear, cilíndrica de 22-35 cm de longitud con 7 a 10 semillas aladas, estas alas son asimétricas e irregulares, con el fin de poder dispersarse a cierta distancia del árbol original; el cuerpo de la semilla está formado por dos pequeños discos lenticulares soldados entre sí, también asimétricos para favorecer la dispersión con el viento.  `,
+Es un árbol de 20-35 metros de altura, su tronco llega a tener 70 cm de diámetro y a veces suele estar ligeramente acanalado, tiene pocas ramas gruesas horizontales y ramificación simpódica con la copa estratificada. Presenta en su corteza escamas entre pardo grisáceos a amarillentas. Su sistema radical es profundo y requiere suelos húmedos, la vida del apamate es bastante larga, las flores presentan una gama de colores que van desde el amarillento hasta el morado, todas muy vistosas y llamativas, igualmente suelen estar presentes cuando el árbol está desprovisto de hojas, sus frutos son capsulares de 25-35 cm de largo con semillas comprimidas tenuemente y aladas.  `,
     propiedades:`
-La madera es utilizada en diseño de interiores de muebles finos, pisos, gabinetes, chapas decorativas, construcción de botes, ebanistería, ruedas para carretas, artesanías, cajas y embalajes. es utilizada como ornamental, en parques, jardines y linderos de propiedades; asimismo, es utilizada como planta de sombra de cultivos en las zonas bajas de la región tropical.   `,
+Entre sus propiedades medicinales están: la infusión de las hojas que se utiliza como febrífugo y la corteza cocida que sirve para la diabetes, paludismo, tifoidea y parásitos.mo planta de sombra de cultivos en las zonas bajas de la región tropical.   `,
 
   },
   {
@@ -123,13 +114,11 @@ Como uso medicinal se encontró que en las regiones del orinoco a partir del coc
     image: 'caoba.jpg',
     imageURL: 'https://www.asklepios-seeds.de/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/s/w/swietenia-macrophylla.jpg',
     caracteristicas_fisicas: `
-Es una especie de árboles originaria de la zona intertropical americana perteneciente a la familia de las meliaceae; su nombre común principal es el de caoba de honduras o caoba (o caobo) de hoja grande. otros nombres autóctonos son: 'aguano' y 'zopilote'.
+La caoba es un árbol de gran porte que a menudo alcanza los 20-40 metros de altura y 150-350 cm de diámetro, se caracteriza por el fuste cubierto de una corteza hendida y áspera de color gris y hojas verdes pinnadas y compuestas.'.
 
 `,
     propiedades:`
-No obstante, su glamur, la caoba también posee propiedades medicinales; las semillas, hojas y raíces contienen alcaloides como teobromina y cafeína, los cuales tienen propiedades estimulantes, energizantes, diuréticas y vasodilatadoras; en la raíz y corteza se ha encontrado actividad antitumoral.
-
-La grasa que contienen las semillas se emplea en farmacia como emoliente, para fabricar ungüentos y pomadas utilizadas contra la resequedad en la piel, quemaduras, caspa, sarampión, mordeduras de serpiente.  `,
+De este árbol se obtiene una madera de finos acabados, trabajabilidad y durabilidad, siendo considerada la mejor madera para ebanistería, Es empleada en la fabricación de muebles, instrumentos musicales, decoración de interiores, Así como también en molduras, chapas, paneles y ebanistería en general.  `,
 
   },
   {
@@ -175,9 +164,10 @@ Los caribes usaban las flechas envenenadas con el látex, 6 la madera, llamada "
     image: 'arbol-de-caucho.jpg',
     imageURL: 'https://previews.123rf.com/images/hasnuddin/hasnuddin1303/hasnuddin130300014/18404924-milky-latex-extracted-from-rubber-tree-hevea-brasiliensis-as-a-source-of-natural-rubber.jpg',
     caracteristicas_fisicas: `
-Es un árbol de la familia de las euforbiáceas de 20 a 30 m de altura (excepcionalmente 45 m); el tronco es recto y cilíndrico de 30 a 60 cm de diámetro, de madera blanca y liviana. Sus hojas son compuestas trifoliadas, alternas, de 16 cm de longitud, por 6 a 7 cm de ancho; deja caer parcialmente las hojas durante la estación seca, antes de lo cual las hojas de la copa del árbol se tornan de color rojizo; las flores son pequeñas y reunidas en amplias panículas. Frutos: produce desde los 4 años, cada uno de los cuales es una gran cápsula de 4 cm de diámetro que se abre en valvas, con semillas ricas en aceite. `,
+Cuenta con una madera blanca y sus extremidades son altas. Esta planta bien cuidada fácilmente puede llegar alcanzar los 40 metros de alto sin ningún problema, aunque su altura mínima se ubica alrededor de los 15 o 20.
+Este árbol tiene una gran superficie de corteza. Ésta es la parte que principalmente es usada para extraer un líquido lechoso color blanco que surge al realizarle un corte. En cuanto al tronco, crece de forma completamente recta y cilíndrica, lo normal es que tenga entre 30 y 60 cm de diámetro. `,
     propiedades:`
-Su látex es blanco o amarillento y abundante hasta los 25 años de edad del árbol; de él se fabrica el caucho, después de "sangrar" el tronco mediante incisiones angulares en v; este látex contiene 30 a 36% de hidrocarburo del caucho, 0,5% de cenizas, 1,5% de proteínas, 2% de resina y 0,5% de quebrachitol; el caucho también puede obtenerse del látex de otros árboles del género hevea (v,G. H Guianensis aubl 1775 y H Pauciflora müll Arg 1865); este árbol es originario de la cuenca hidrográfica del río amazonas, donde existía en abundancia y con exclusividad, características que generaron el auge o fiebre del caucho, periodo de la historia sudamericana de mucha riqueza y pujanza para empresarios que se asentaron en la región amazónica y a la vez de desastre para la población indígena que sufrió exterminios y esclavitud, hasta que los ingleses se apoderaron del lucrativo negocio, al sacar el botánico henry A Wickham ilegalmente de brasil semillas de este árbol, en 1876, para establecer plantaciones en malasia, birmania, ceilán y áfrica subsahariana; hacia 1914 la cantidad de caucho obtenido de plantaciones ya superaba la extraída de árboles silvestres. `,
+El potencial de esta planta es tan alto, que fácilmente logró sustituir la principal fuente de producción de caucho natural. Actualmente sigue estando en la primera posición y puede que no solo se deba a este interesante dato, sino también a las características propias de la planta. `,
 
   },
   {
@@ -297,9 +287,9 @@ Según la escala de janka es una de las maderas más blandas que existen con un 
     image: 'ceiba.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Ceiba_pentandra_madeira_hg.jpg',
     caracteristicas_fisicas: `
-Árbol de gran envergadura que puede superar los 60 a 70 metros de altura, con tronco recto, grueso (3 m de diámetro) y normalmente sin ramificar formando una gran copa con ramas extendidas horizontalmente; las raíces tabulares de varios metros de altura y extendidas por encima y por debajo del suelo funcionan como contrafuertes. El tronco y muchas de sus ramas jóvenes están poblados de gruesas espinas cónicas; las hojas palmadas se dividen en 5 a 9 folíolos más pequeños, cada hoja sobrepasa los 20 cm. Flores axilares, solitarias o en fascículos (hasta 15) con 5 pétalos de color blanco, rosa o amarillo. Los frutos son cápsulas dehiscentes de unos 15 cm (a veces mal llamadas vainas, que es otro fruto diferente) que contienen numerosas semillas de unos 6 mm, marrones, de forma más o menos esférica rodeadas por una fibra amarillenta de aspecto algodonoso, mezcla de lignina y de celulosa`,
+Árbol decíduo de copas redondeadas hasta 40 metros de alto, Frecuentemente con grandes aguijones en los troncos sobre todo en árboles jóvenes aunque hay variedades sin aguijones, Estos árboles con el tiempo pueden desarrollar raíces tabulares en forma de aletones en la base y engrosar el tronco a modo de barriga y perder los aguijones, Las ramas de estos árboles son notablemente robustas quedando a veces con aguijones solamente en esta porción de la planta.`,
     propiedades:`
-En análisis fitoquímicos se revela la presencia de flavonoides y leucoantocianidinas, taninos y lactonas terpénicas. Compuestos estos que le atribuyen usos medicinales importante como antiinflamatorio para heridas, tratamiento de granos, reumatismo, antiespasmódico, vomitivo astringente, antitérmico, antiespasmódico y diurético. ​puede ayudar a controlar hemorragias, diarrea, disentería, congestión bronquial y alivia migrañas, torceduras y heridas abiertas. Las semillas son tóxicas, se usan la corteza, las hojas y la resina; con la corteza se hacen decocciones, las hojas frescas se usan en cataplasmas e infusiones; el exudado de la corteza viva es tenido como abortivo. `,
+La madera de este árbol es blanca y blanda se utiliza en carpintería para empaques y cajas de madera. También se ha utilizado para fabricar canoas. La decocción de las hojas se utiliza para afecciones de la piel, granos y picaduras infectadas de insectos. De las semillas se obtienen aceite, el cual es utilizado para la elaboración de jabones y como combustible para lámparas de aceite. Igualmente de la lana que envuelve las semillas frutos se obtiene el kapok que sirve de relleno para la fabricación de almohadas antialérgicas, colchones, rellenos y aislantes térmicos para aparatos de refrigeración, por esta razón se cultivan en países tropicales asiáticos `,
 
   },
   {
@@ -324,16 +314,13 @@ Se utiliza para reforestaciones, para parques o grandes extensiones verdes, se d
     image: 'jacaranda.jpg',
     imageURL: 'https://thumbs.dreamstime.com/z/jacaranda-mimosifolia-floreciendo-en-m%C3%A9xico-clima-c%C3%A1lido-el-%C3%A1rbol-florece-la-ciudad-de-abril-170104563.jpg',
     caracteristicas_fisicas: `
-El árbol adulto alcanza una altura de 12 a 15 metros,hasta 20 metros en condiciones favorables.
-Las raíces, de desarrollo oblicuo, iguales y fasciculadas no son invasoras, por lo que cuando se presenta un periodo de escasez de agua el árbol se ve muy mal.
-La copa del jacarandá no tiene una forma uniforme: algunas veces en forma de una sombrilla, algunas veces de forma piramidal, pero nunca densa.
-El tronco principal tiene una forma algo torcida y tiene una altura de 6 a 9 m y un diámetro de 4 a 7.
-Las hojas son grandes, de 3 a 5 dm de longitud; son completas, opuestas, bipinnadas, con hojuelas de 25 a 30 con pares de folíolos pequeños de forma oval-oblonga, apiculados, de color verde claro y textura de su superficie lisa pubescente. 
-Las flores, de 4 a 5 cm, están agrupadas en panículas terminales erectas, de 20 a 30 cm y son de color azul violeta.
+La jacaranda es un árbol frondoso que puede llegar a los 20 metros de altura en edad adulta. Sus ramas son onduladas, abiertas, ascendentes, con suaves e irregulares quiebres.
 `,
     propiedades:`
-La infusión y tintura de flores, hojas y corteza se usa por vía oral para el tratamiento de la disentería amebiana y otras afecciones gastrointestinales agudas; se le atribuye también propiedades antisépticas, antitumoral y espasmolítica.
-La madera es excelente para trabajos de carpintería en interiores. De color claro, vetas cortas y bien marcadas, dibujo parecido al fresno europeo, es liviana (aprox. 450 kg/m³) y muy trabajable. `,
+Los frutos son utilizados en floristería y en artesanía para confeccionar llaveros, monederos, pendientes o collares.
+El color de su madera, de tono crema y rosado, es algo dura, pesada y resistente, aromática, fácil de trabajar y de buen acabado, por lo cual que se usa en ebanistería y carpintería, especialmente para realizar laminados, muebles y decoraciones de interiores de coches de lujo.
+En cuanto a sus propiedades medicinales, las semillas pulverizadas se han utilizado para curar llagas, Las hojas son astringentes y diuréticas.
+ `,
 
   },
  {
@@ -343,10 +330,10 @@ La madera es excelente para trabajos de carpintería en interiores. De color cla
     title_cientifico: 'ZINGIBER OFFICINALE',
     image: 'jengibre.png',
     imageURL: 'https://www.bambooland.com.au/assets/full/ZINOFF.jpg?20210309030952',
-    caracteristicas_fisicas: `Esta planta pertenece a la familia de las zingiberáceas, cuyo tallo subterráneo es un rizoma horizontal muy apreciado por su aroma y sabor picante; La planta llega a tener 90 cm de altura con largas hojas de 20 cm. 
+    caracteristicas_fisicas: `Planta herbácea vivaz rizomatosa hasta de 1 metro de altura, de gran porte y con hojas envainantes lanceoladas. Las flores son irregulares, verdosas con labelo de color púrpura, agrupadas en espigas densas.  Fruto en cápsula. Rizoma de olor aromático y sabor picante muy característico. 
    `,
     propiedades:`
-El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
+Es un antiinflamatorio natural que ayuda a combatir enfermedades respiratorias, artrosis, diabetes y problemas digestivos y además se utiliza para adelgazar.
 
 `,
 
@@ -429,14 +416,12 @@ Las principales propiedades de esta hierba son antiinflamatorias, antialérgicas
     title_cientifico: 'THYMUS VULGARIS',
     image: 'tomillo.jpg',
     imageURL: 'https://www.mullerseeds.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/thymus_vulgaris_winter_thyme.jpg',
-    caracteristicas_fisicas: `Los tallos son erguidos, cuadrangulares, leñosos y muy ramificados; Las hojas son pequeñas y ovales de bordes enrollados y tomentosos por el envés; Las flores son pequeñas de color rosa y producido en corimbos; El tomillo tiene un penetrante olor aromático.   `,
+    caracteristicas_fisicas: `Se trata de un arbusto muy ramificado y de tendencia completamente rastrera por lo general, no pasan de unos cuantos centímetros de altura. Sus hojas son numerosas y diminutas además de redondeadas que se disponen para cubrir los tallos de la planta en su totalidad durante todo el año.
+En el extremo de este tallo del que hemos hablado, se encuentran las flores que es lo que expone el detalle perfecto para cuando el único interés que tenemos en el tomillo es puramente ornamental. El olor de éstas es muy agradable por lo que la hace perfecta para los espacios interiores dónde buscamos un aroma fresco y que no sea artificial.   `,
     propiedades:`
-Antitusiva: alivia la tos.
-Expectorante: expulsa moco y flemas de los bronquios.
-Mesolítica: disuelve los mocos.
-Antibacteriana y antivírica: combate infecciones bacterianas y virus.
-Antiinflamatoria: disminuye la inflamación.
-Analgésica: calma el dolor.
+Además del sabor agradable que aporta a las comidas, el tomillo es una hierba rica en nutrientes. Contiene un alto aporte en fibra, que ayuda a combatir el estreñimiento y regula el tránsito intestinal.
+Por otra parte, aunque el calcio de los vegetales no se absorbe igual de bien que otros como el de la leche, el tomillo cuenta con un alto contenido en calcio y fósforo, necesarios para el mantenimiento de huesos y dientes.
+El tomillo también se puede tomar como infusión para combatir problemas como dolores de estómago, diarreas, o como diurético, eliminando toxinas a través de la orina. También es aconsejable en casos de asma, dolor de garganta y tos. Asimismo, su jugo se emplea como bactericida para enjuagues bucales.
 `,
   },
   {
@@ -534,12 +519,11 @@ Se puede utilizar como tópicos en la piel, preparando un ungüento para tratar 
     title_cientifico: 'PLECTRANTHUS ORNATUS CODD',
     image: 'acetaminofen.jpg',
     imageURL: 'https://www.luontoportti.com/suomi/images/13542.jpg',
-    caracteristicas_fisicas: `Es un árbol de mediano tamaño, perteneciente a la familia monimiaceae, puede superar los quince metros de altura; de muy lento crecimiento, tardando varias decenas de años para alcanzar un tamaño adulto; Es de follaje perenne, con hojas opuestas, ovoides, de 3 a 7 cm de longitud al cabo de un corto pecíolo, de color verde brillante; el envés es más pálido y muestra pubescencias.
-Florece entre agosto y septiembre en su hábitat nativo; Las inflorescencias se presentan en pequeños racimos de unas doce flores pequeñas de color blanquecino; Las flores muestran por lo general siete pétalos, de alrededor de 1 cm de largo; las masculinas se distinguen por los numerosos estambres curvados; El boldo o acetaminofén es dioico, es decir, las flores son unisexuadas y cada espécimen las presenta de sólo un sexo; es necesaria la proximidad de ejemplares masculinos y femeninos para que la polinización —llevada a cabo habitualmente por insectos— se produzca; Los frutos son drupas de pequeño tamaño (alrededor de 2 cm de diámetro), color verde y sabor agradable. 
+    caracteristicas_fisicas: `Las hojas de acetaminofén tienen el margen liso hasta la mitad y hacia la punta es un poco ondulado con un tamaño promedio entre 30cm y 35cm de alto. 
 
 `,
     propiedades:`
-El acetaminofén o boldo se ha convertido en una planta que posee múltiples propiedades beneficiosas para el organismo; Es una hierba muy útil, particularmente para el sistema digestivo porque tiene diversas cualidades que la han convertido en una herramienta de cabecera en la medicina natural; Enfermedades del hígado (hepatitis, cólicos, estreñimiento), fiebre, trastornos estomacales, indigestión, distensión abdominal, apatía, insomnio, cálculos biliares, resacas, reumatismo y amebas.`,
+El acetaminofén se ha convertido en una planta que posee múltiples propiedades beneficiosas para el organismo. Tal es así, que es una hierba muy útil, particularmente para el sistema digestivo y también tiene diversas cualidades, que la han convertido en una herramienta de cabecera en la medicina natural. Enfermedades del hígado (hepatitis, cólicos, estreñimiento), fiebre, trastornos estomacales, indigestión, distensión abdominal, estreñimiento, apatía, insomnio, cálculos biliares, resacas, reumatismo y amebas.`,
   },
 {
     id: 'ajo',
@@ -575,12 +559,11 @@ El eucalipto es usado como remedio natural para combatir afecciones en las vías
     title_cientifico: 'COSTUS ALLENII MAAS',
     image: 'caña-la-india.jpg',
     imageURL: 'https://www.bambooland.com.au/assets/thumbL/COSPUL.jpg?20210309031518',
-    caracteristicas_fisicas: `Esta planta tiene tallos gruesos con hojas verdes y grandes. Crece a una altura media de 1,21 m y produce gruesos racimos de color rojo brillante; Es también considerada como una planta de jardín o planta de interior. 
+    caracteristicas_fisicas: `Hierba carnosa, de 1 a 2 metros de altura. Hojas alternas, oblongas u ovobado-oblongas, de 30 a 40 cm, Flores blancas en conos terminales de color marrón. 
 
 `,
     propiedades:`
-Es una planta que puede ser utilizada como medicina alternativa para sanar el cuerpo humano ya que tiene propiedades cicatrizantes, antiséptico.
-Y muy importante sus propiedades diuréticas; para tratar infecciones de orina, cistitis, piedra o arenillas en los riñones, y ayuda a orinar.`,
+Su grueso culmo, contiene un jugo agridulce pe se puede extraer manualmente o prensándolos en trapiche, este jugo es refrescante, eficaz para la limpieza del hígado, inflamaciones intestinales, y tomando una taza en ayunas es ligeramente purgante muy descongestionante, la decocción del tallo tiene propiedades hipoglucemianes llegando a estabilizar los niveles de azúcar en la sangre durante algunos días después de su consumo; aunque no se le han hecho estudios fitoquímicos, es de suponer por los estudios a especies relacionadas que contienen ácidos orgánicos, flavonoides, saponinas y en especial una diosgenina de gran actividad farmacológica`,
   },
 {
     id: 'escoba-amarga',
@@ -589,10 +572,9 @@ Y muy importante sus propiedades diuréticas; para tratar infecciones de orina, 
     title_cientifico: 'PARTHENIUM HYSTEROPHORUS',
     image: 'escoba-amarga.jpg',
     imageURL: 'https://thumbs.dreamstime.com/z/parthenium-hysterophorus-y-weed-128750959.jpg',
-    caracteristicas_fisicas: `Es una planta herbácea de hábito caducifolio, con aspecto velludo y muy ramificada, alcanza entre 30 a 70 cm de altura; las hojas son alternas, ovadas y pinnadas con segmentos lanceolados, la inflorescencia se encuentra en corimbos o panículas muy numerosas, las corolas están divididas en cinco segmentos y la semilla es un aquenio.  `,
+    caracteristicas_fisicas: `Hierba pubescente, comúnmente muy ramificada, de hasta 80 cm de altura, Hojas aovadas u oblongas, 1 o 2 pinnatifidas, de hasta 10 cm de largo y 5 cm de ancho, Capítulos florales dispuestos en panojas de hasta 10 cm de diámetro.  `,
     propiedades:`
-Los usos medicinales más frecuentes de esta especie se indican para los padecimientos digestivos, principalmente para la bilis y el dolor de estómago, así como para la fiebre intestinal, empacho o como antihelmíntico.
-Otras enfermedades para las que se recomienda son las de la piel: infecciones cutáneas, granos, ronchas, herpes, sarna, aljorra, lepra o contra la caída del cabello; Se recomienda como emenagogo, correctivo menstrual o para los flujos, aunque puede ser útil para la calentura en el dolor de cuerpo, como antiinflamatorio y en crisis convulsivas; En el reumatismo y heridas o en enfermedades respiratorias como antitusivo, o para la diabetes. Además, se utiliza para fríos o paludismo.`,
+La escoba amarga se usa popularmente en la preparación de infusiones para bajar la fiebre y como antiparasitaria. También se emplea en maceraciones para uso tópico con la finalidad de aliviar trastornos inflamatorios articulares, como analgésico y en baños contra enfermedades de la piel.`,
   },
 {
     id: 'toronjil',
@@ -630,11 +612,10 @@ Macerar sus flores en aceite de oliva es un remedio para muchas personas del cam
     title_cientifico: 'ERYSIMUM CHEIRI',
     image: 'alheli-amarillo.jpg',
     imageURL: 'https://thumbs.dreamstime.com/z/flores-erysimum-cheiri-cheiranthus-o-wallflower-en-el-jard%C3%ADn-de-primavera-sobre-fondo-borroso-flor-dorada-amarilla-con-bokeh-165524553.jpg',
-    caracteristicas_fisicas: `Es una planta herbácea bienal o perenne con uno o más tallos que alcanzan los 15 a 80 centímetros, las hojas son generalmente estrechas y punteadas y pueden alcanzar los 20 cm de longitud; En la cima del tallo se encuentra una inflorescencia de flores con los sépalos de color púrpura-verdoso rodeado de pétalos de dos o tres cm de color amarillo brillante a rojo y púrpura; Al caer las flores quedan unos frutos largos y estrechos o silicuas peludas de varios cm de longitud. Son populares como planta ornamental.
+    caracteristicas_fisicas: `Es una planta herbal con tallo semileñoso en la base, bienal (es decir, en el primer año se forma una roseta de hojas que constituye reservas alimenticias para el desarrollo y al año siguiente aparece la flor), Tiene flores pequeñas de cuatro pétalos, terminales, simples o dobles, de suave perfume y de colores variados.
   `,
     propiedades:`
-Tienen propiedades diuréticas y cardiotónicas; La flor de alelí se ha hecho popular por ser una planta de uso generalmente ornamental, la cual destila un agradable aroma que habitualmente es utilizado para perfumar algunos espacios.
-La planta posee varias propiedades que pueden resultar muy beneficiosas para el ser humano; Sus propiedades se aprovechan mediante infusión, la cual le elabora utilizando para ello sus hojas con agua hirviendo a manera de té.`,
+La infusión hecha con flores de alhelí amarillo o blanco ayuda a calmar dolores de cabeza y estimulan el sistema nervioso. En el caso de las hojas, es necesario desecarlas antes de utilizarlas como remedio, A una taza de agua hirviendo se agregan unas dos o tres hojas desecadas, se retira del fuego y se deja reposar tapada por unos 10 minutos, Luego se cuela y se bebe lentamente para lograr efectos diuréticos, depurativos y antiespasmódicos, No deben ingerirse más de dos tazas por día.`,
   },
 {
     id: 'hierba-de-san-juan',
@@ -643,10 +624,9 @@ La planta posee varias propiedades que pueden resultar muy beneficiosas para el 
     title_cientifico: 'HYPERICUM PERFORATUM',
     image: 'hierba-de-san-juan.jpg',
     imageURL: 'https://swbiodiversity.org/imglib/seinet/midwest/Hypericaceae/202003/Hypericum_perforatum_habit_er_1584187568.jpg',
-    caracteristicas_fisicas: `Es una planta vivaz perteneciente a la familia de las hipericáceas (hypericaceae); Puede alcanzar los 80 centímetros de altura, si bien la mayoría de ocasiones no suele pasar de los 40 cm; Sí lo hace cuando las condiciones son realmente buenas; La hierba de san juan tiene unas raíces leñosas y poco ramificadas; Su tallo, de color rojizo (de hecho, su savia es anaranjada- rojiza, lo que potencia esa coloración) se ramifica en la parte superior y lo hace en dos ramas diferentes; En este punto es en el cual crecen las hojas; ¿y cómo son estas últimas? Pues son opuestas, ovaladas y cuentan con un haz de color verde oscuro con diminutas glándulas secretoras transparentes.
-`,
+    caracteristicas_fisicas: `Es una planta vivaz, de la familia de las hipericáceas, con raíces leñosas pardo amarillentas y un poco ramificadas. Sus tallos erectos son rojizos y pueden medir de 50 a 80 cm. Se ramifican en la parte superior de la planta y en dos ramas longitudinales, características de este tipo de hipérico.`,
     propiedades:`
-Los usos medicinales de esta planta, al igual que los tratamientos a base de alguna de sus partes, no se han quedado en el pasado; A día de hoy, el hipérico se sigue utilizando para aplicaciones terapéuticas, tanto en su faceta casera como en la industria farmacéutica. En su formato más casero la hierba de san juan se utiliza para acelerar la cicatrización de las heridas, aplicándolo de forma tópica.`,
+Durante décadas se ha utilizado en la medicina tradicional por vía externa como astringente, antiséptica y cicatrizante y por vía oral como tratamiento de las alteraciones del sueño y la depresión. El mecanismo de acción de esta planta no está totalmente aclarado, pero parece asociarse a la presencia de hipericina, una naftodiantrona, en la composición de la misma. En los ensayos clínicos realizados comparando la eficacia de la hierba de san juan como tratamiento de la depresión leve-moderada frente a placebo y antidepresivos estándares, los resultados son superiores frente al primero y similares frente al segundo, No obstante, el número de ensayos clínicos es todavía insuficiente para concluir definitivamente su grado de eficacia, Su administración es bien tolerada y las reacciones adversas más comunes son problemas de tipo gastrointestinal, fatiga, confusión y sedación.`,
   },
         {
     id: 'helacho',
@@ -677,18 +657,10 @@ utilizadas como un insecticida natural contra pulgas y plagas.
     title_cientifico: 'Selenicereus grandiflorus',
     image: 'reina-de-la-noche.jpg',
     imageURL: 'https://i.pinimg.com/736x/a6/ac/73/a6ac73c5b7cb58253e0a5db17693f2fd.jpg',
-    caracteristicas_fisicas: `Es una planta perenne carnosa expansiva con los tallos armados de
-espinas, de color verde y con las flores de color blanco. Aunque no lo parezca, la dama de
-noche es un cactus, ya que pertenece a la familia de las cactáceas. La Reina de noche da
-sus flores por la noche y duran una sola noche.`,
+    caracteristicas_fisicas: `Es una planta suculenta con tallos ramificados perfumados, trepadores o extendidos, que a veces se enredan, produciendo raíces aéreas y rígidas, de hasta 10 m de largo o más y de 15–25 (–30) mm de espesor. Tiene nervaduras en las ramas menores que en las ramas más viejas, separadas por amplios intervalos redondeados, de levemente ondulados a fuertemente nudosos; presencia de pequeñas areolas, blanco lana o blanco grisáceo y entrenudos de (6–) 12–20 mm.`,
 
     propiedades:`
-La cactina tiene una acción pseudo-digitálica sin riesgo de
-acumulación por lo que se usó como cardiotónico. Antiguamente usado en el tratamiento
-de la angina de pecho, coronaritis, palpitaciones, insuficiencia cardíaca congestiva.
-Contraindicado con otras medicaciones cardiotónicas, quinidina, laxantes antraquinónicos,
-diuréticos tiazídicos (por la posible potenciación del efecto cardiotónico). Se recomienda
-evitar su uso y recurrir a digitálicos estandarizados.
+Contiene cactina (hordenina), cacticina, narcisina. La cactina tiene una acción pseudo–digitálica sin riesgo de acumulación, por lo que se usó como cardiotónico, Antiguamente usado en el tratamiento de la angina de pecho, coronaritis, palpitaciones, insuficiencia cardíaca congestiva.
     `,
   },
   {
@@ -718,23 +690,15 @@ invierno con humedad ambiental.
   },
     {
     id: 'manito',
-    title: 'Manito',
+    title: 'Manito de Dios',
     publisher: 'Ornamentales',
-    title_cientifico: 'Chiranthodendron',
+    title_cientifico: 'Xiphideum Caeruleum',
     image: 'manito.jpg',
     imageURL: 'https://images.squarespace-cdn.com/content/v1/5a5f182cbe42d619379891ca/1560805360569-VJ4UELN1C7VH6LBCJEPH/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Chiranthodendron+flower+red.jpg',
-    caracteristicas_fisicas: `El árbol manito es de tamaño mediano y puede alcanzar hasta 30
-metros de altura. El fuste es recto, recubierto de corteza muy lisa de color pardo grisáceo.
-En las ramificaciones de la copa muestra pubescencias amarronadas. Su follaje es perenne;
-las hojas grandes y ligeramente lobuladas, son de color verde oscuro en el envés y
-pardorrojizas en el revés. Penden de pecíolos de entre 8 y 10 centímetros de largo.
-Es marcadamente fitófilo. Resiste bien las bajas temperaturas (hasta 5°C) y la sequía; es
-susceptible a la verticiliosis causada por el hongo Verticillium dahliae.`,
+    caracteristicas_fisicas: `Hierba terrestre, crece en sotobosque, barrancas o a orillas de carreteras y riachuelos. Hojas lineales, alternas, equidistantes, limbo de 55 cm de largo, por 3 cm de ancho en la parte media, peciolo en vaina; Flores de color blanco. Frutos de color verde-amarillento, rojizo al madurar.`,
 
     propiedades:`
-Las raíces superficiales lo hacen poco apto para usos decorativos, pero
-los aztecas utilizaban la decocción de hojas y semillas como febrífugo, analgésico y
-antiinflamatorio. Su uso farmacológico en época moderna está aún en fase de investigación.
+La planta entera en decocción o maceración se usa en bebidas y bañas contra morderas de serpientes. Otros usos en medicina tradicional son: contra la dismenorrea, analgésico, antianémico y para curar trastornos de la piel.
     `,
 
   },
@@ -787,19 +751,13 @@ cortada, bien sea sola o junto a otras flores.
     id: 'dama-de-noche',
     title: 'Dama de noche',
     publisher: 'Ornamentales',
-    title_cientifico: 'Cestrum nocturnum',
+    title_cientifico: 'Epiphyllum Oxypetalum',
     image: 'dama-de-noche.jpg',
     imageURL: 'hhttps://i.ebayimg.com/images/g/EgIAAOSwx7hepHaL/s-l640.jpg',
-    caracteristicas_fisicas: `Es un arbusto de hasta cinco metros de alto con hojas ovaladas y
-unos pecíolos largos. Sus inflorescencias de color blanco, amarillo o verdoso, se presentan
-en forma de racimos cortos de flor abundante que se caracterizan por su fragancia
-nocturna. Su fruto, una baya globosa, es de color blanco y contiene las semillas de su
-reproducción. El galán de noche florece desde finales de primavera a verano y se puede
-plantar de forma aislada o en jardines.`,
+    caracteristicas_fisicas: `Es un género de unas 15 especies de plantas epífitas de la familia de las cactáceas, nativas de la américa tropical y subtropical; Las flores son impresionantes en tamaño, color y fragancia; Como todas las cactáceas, las epiphyllums tienen tallos, pero no hojas; A menudo se cultivan en cestas colgantes para acomodar sus tallos con forma de hoja, pero también pueden crecer en contenedores; En la naturaleza, el epiphyllum crece entre las ramas de los árboles y en las grietas de las rocas.`,
 
     propiedades:`
-El extracto de la planta se ha utilizado por la población como
-antiespasmódico, contra erupciones cutáneas y especialmente en la epilepsia.
+Perfecto para poner en el balcón, o en el jardín junto al tronco de un árbol; Carece de espinas, lo cual la convierte en una especie completamente segura para niños y animales domésticos, y no es muy exigente
     `,
   },
 {
@@ -1094,20 +1052,10 @@ incluyendo cardiovasculares y algunos tipos de cáncer y complicaciones por diab
     title_cientifico: 'Espeletia schultzii',
     image: 'frailejon.jpg',
     imageURL: 'https://previews.agefotostock.com/previewimage/medibigoff/ab59214e3c65aebf583c2e41343d0e1a/fwr-eu-0175.jpg',
-    caracteristicas_fisicas: `Es una planta caulescente que habita en los páramos de
-Colombia, Venezuela y Ecuador y gracias a su importancia para el medio ambiente.
-Tienen un proceso lento de crecimiento. Cada frailejón tarda en crecer un centímetro por
-año, alcanzando una altura de dos a tres metros con tallo monopódico grueso. Las hojas
-entre 20-40 cm de largo por 3-6 de ancho, se disponen de forma alterna en los tallos
-formando una roseta. Esto significa que pueden tener unos 200 a 300 años por eso son
-considerados los “abuelitos del Páramo”.`,
+    caracteristicas_fisicas: `Se caracterizan por ser plantas leñosas, con dos formas de vida: la caulirrosula, que es un tallo (subterráneo o de hasta 12 m de altura) con hojas agrupadas en forma de roseta al final del tallo; y la arbórea con hojas agrupadas al final de las ramas.`,
 
     propiedades:`
-Sus flores se utilizan para la producción de miel. Las hojas preparadas en
-infusión calman las afecciones renales y en decocción las pulmonares. La resina es la
-materia para la fabricación de jarabes contra la tos. También se usa como ungüento y el té
-o cataplasma preparado con las hojas combate el asma y otras enfermedades de las vías
-respiratorias. `,
+Las hojas en infusión sirven para casos de reumatismo y afecciones renales; en decocción, se usa para afecciones pulmonares; la resina del frailejón se utiliza como jarabe para combatir el asma y otras enfermedades de las vías respiratorias. Para calmar la tos se hierve durante 10 minutos, 2 tazas de agua con dos hojas grandes de frailejón, tres clavitos de especie y una astilla de canela; se deja reposar, se cuela en tela o lienzo y se endulza con miel de abeja; luego se toma esta infusión hasta que desaparezca la tos. También para la tos se usa la tintura de frailejón; se llena un frasco de boca ancha con hojas de frailejón bien lavadas, se cubren con aguardiente de caña, se tapa bien y se deja macerar al sol y al sereno por 15 días, se filtra con una gasa y se envasa en un recipiente de vidrio. Se toma esta preparación en la proporción de una cucharadita en media taza de agua 3 veces al día; la resina del frailejón se utiliza para encuadernar. `,
   },
       {
     id: 'frangipani',
@@ -1297,5 +1245,18 @@ tomado como diurético con el fin determinado para la expulsión de piedras, alo
 los conductos urinarios. También se usa para tratar los padecimientos de diabetes.
 Asimismo es un calmante nervioso.`,
   },
+   {
+    id: 'madre-perla',
+    title: 'Madre Perla',
+    publisher: 'Ornamentales',
+    title_cientifico: 'Graptopetalum Paraguayense',
+    image: 'madre-perla.jpg',
+    imageURL: 'https://previews.123rf.com/images/mmadrigal70/mmadrigal701609/mmadrigal70160900185/64525968-planta-de-jard%C3%ADn-suculenta-graptopetalum-paraguayense-.jpg',
+    caracteristicas_fisicas: `Dispone de unas hojas carnosas, de forma obovada, pero acabadas en punta. ¡tranquilo, no te pincharán! El color dominante es el gris o el verde azulado; aunque en su ápice tienden al rosa. Están todas ellas cubiertas por una especie de cera que no hay que quitar, las protege del sol directo. Se agrupan formando vistosas rosetas, como la echeveria. Pero, a diferencia de ésta, se muestran menos apretadas y sujetas por unos largos tallos, muchas veces colgantes. Al final del invierno comienza a armar sus panículas florales, que no se abrirán hasta principios de la primavera. Serán unas pequeñas flores blancas de pétalos triangulares, similares a estrellas de cinco puntas.`,
+
+    propiedades:`
+Gracias a sus tallos postrados, la planta madreperla quedará fantástica en cualquiera de tus macetas; Al crecer las rosetas colgarán por los bordes como una cascada.`,
+  },
+
 ]
 
