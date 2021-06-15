@@ -7,7 +7,7 @@ const Censo = (  ) => {
  
     return(
   <Layout>
-    <SEO title="Galería de Imagenes" />
+    <SEO title="Censo Nacional de Viveros" />
     <div className="py-6 px-6 sm:px-8">
       <header>
       <h1 className="flex flex-col items-center">
