@@ -21,7 +21,8 @@ const Gallery = (  ) => {
       </h1>
     </header>
 
-      <Image />
+
+
 </div>
        </Layout>
   );

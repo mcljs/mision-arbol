@@ -14,7 +14,7 @@ const Email = React.lazy(()=> import('../components/Email'))
 const {InfoData} = React.lazy(()=> import('../data/InfoData'))
 const VideoSection = React.lazy(()=> import('../components/VideoSection'))
 const Tweet = React.lazy(()=> import('../components/Tweet/index'))
-
+const BannerCenso = React.lazy(()=> import('../components/Banner/CensoNacional'))
 
 //import Testimonials from "../components/Header/Arbol"
 //import InfoSection from "../components/InfoSection/InfoSection"
@@ -40,6 +40,7 @@ const isSSR = typeof window === "undefined"
   
       <VideoSection />
     <Articles />
+    <BannerCenso />
   <Banner />
    <Vertices />
 <Image />
