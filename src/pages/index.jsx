@@ -43,7 +43,6 @@ const isSSR = typeof window === "undefined"
     <BannerCenso />
   <Banner />
    <Vertices />
-<Image />
     <InfoSection {...InfoData}/>  
  <Tweet />
     <Email />  

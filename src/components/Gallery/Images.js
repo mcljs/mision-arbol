@@ -1,7 +1,7 @@
 import React from "react"
 import './style.css'
 import { useStaticQuery, graphql } from "gatsby"
-import {GatsbyImage} from "gatsby-plugin-image";
+import Img from "gatsby-image";
 
 export const Image = () => {
  
@@ -14,9 +14,11 @@ export const Image = () => {
       edges {
         node {
           base
-          childImageSharp {
-            gatsbyImageData(height:600,width:600,placeholder:TRACED_SVG)
-          }
+         childImageSharp {
+            fluid(maxHeight: 600, maxWidth: 600) {
+              ...GatsbyImageSharpFluid
+            }
+          }        
         }
       }
     }
@@ -25,14 +27,14 @@ export const Image = () => {
 
   return ( 
   <div className="image-container dark:bg-[#121f3d]">
-        <h1 className="text-center  font-bold  text-4xl xl:text-5xl dark:text-white">Galería</h1>
+      
         <div className="image-grid">
             {data.allFile.edges.map((image,key) =>(
-                <GatsbyImage key={key}
+                <Img key={key}
                 className="image-item"
-                image={image.node.childImageSharp.gatsbyImageData}
-                alt={image.node.base.split('.'[0])}
-                />
+                fluid={image.node.childImageSharp.fluid}
+                alt={image.node.base.split('.'[0])}          
+              />
             ))} 
 
         </div>

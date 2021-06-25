@@ -323,6 +323,152 @@ En cuanto a sus propiedades medicinales, las semillas pulverizadas se han utiliz
  `,
 
   },
+  {
+    id: 'copaiba',
+    title: 'Copaiba',
+    publisher: 'Forestales',
+    title_cientifico: 'Copaifera officinalis',
+    image: 'copaiba.jpg',
+    imageURL: 'https://static.inaturalist.org/photos/5504047/large.jpg?1479003872',
+    caracteristicas_fisicas: `
+Es un árbol que alcanza los 20 metros de altura con tronco de 50 cm de diámetro y poco ramificado. Sus hojas son de color verde y pinnadas a pares, presentan un par de foliolos en c.Officinalis y dos o tres en c. Pubiflora. Las flores son de color blanco que se agrupan en racimos terminales. El fruto es una legumbre con una sola semilla.
+`,
+    propiedades:`
+Produce una gran cantidad de hidrocarburos de su madera y hojas. Un árbol puede producir de 30 a 53 litros de hidrocarburos por año, en masa que producen 10.000 - 12.000 litros / hectárea / año, que es increíblemente alta. El compuesto principal en el aceite es de copaiba, una oleorresina que es útil en la producción de productos derivados del petróleo, tales como lacas y puede ser utilizado como biodiésel. El árbol es también la principal fuente de copaeno, otro terpeno. `,
+
+  },
+    {
+    id: 'nogal',
+    title: 'Nogal',
+    publisher: 'Forestales',
+    title_cientifico: 'JUGLANS REGIA',
+    image: 'nogal.jpg',
+    imageURL: 'https://www.paramountplants.co.uk/images/shop/main/juglans-regia-english-walnut.jpg',
+    caracteristicas_fisicas: `
+Es un árbol caducifolio que llega a los 25 m de altura con un tronco que puede superar los 2 m de diámetro. De este tronco, que es corto y robusto y de color blanquecino o gris claro, salen gruesas y vigorosas ramas para formar una copa grande y redondeada.`,
+    propiedades:`
+Es cultivado extensivamente para la comercialización de sus frutos, las nueces, las cuales se consumen de diversas formas, desde frescas, cocinadas o en repostería. También se utilizan para extraer aceite.
+Es un fruto seco de alto valor nutritivo: rico en proteínas, vitaminas del grupo b, vitamina c, oligoelementos, aceites vegetales, lecitina y ácidos grasos omega 3 (poliinsaturados). `,
+
+  },
+    {
+    id: 'saman',
+    title: 'Samán',
+    publisher: 'Forestales',
+    title_cientifico: 'SAMANEA SAMAN',
+    image: 'saman.jpg',
+    imageURL: 'https://previews.123rf.com/images/augusthalem/augusthalem1701/augusthalem170100216/70157745-tronco-del-%C3%A1rbol-de-lluvia-gigante-samanea-saman-jacq-merr-con-rama.jpg',
+    caracteristicas_fisicas: `
+Es un árbol de gran porte con una copa ancha y densa, su tronco es gruso y sin espinas. Sus hojas son bipinnadas con 2 a 6 pinnas cada una de las cuales hay de 2 a 8 folíolos algo oblongos y obovados. Tiene flores en grandes umbelas blancas y rosadas. Especie de gran desarrollo que necesitan de mucho espacio. No tolera el frío. Requiere riegos cuando joven, siendo más resistente a la sequía de adulto.`,
+    propiedades:`
+El fruto sirve de alimento para el ganado. La madera de los árboles jóvenes es buena de trabajar, no así la de los árboles adultos.`,
+
+  },
+    {
+    id: 'guayacan',
+    title: 'Guayacán',
+    publisher: 'Forestales',
+    title_cientifico: 'GUAIACUM OFFICINALE',
+    image: 'guayacan.jpg',
+    imageURL: 'https://images.engormix.com/profile_photos/ph-20191111_173139-S-13299-guai.jpg',
+    caracteristicas_fisicas: `
+Es una especie arbustiva perenne de porte bajo a medio de crecimiento lento que alcanza los 8-15 m de altura. El tallo generalmente sinuoso posee ramas nudosas con la corteza lisa y surcos poco profundos, su madera es extremadamente dura.`,
+    propiedades:`
+Del tronco del guaiacum officinale se obtiene la madera denominada «lignum vitae» muy dura y pesada que contiene una resina de propiedades medicinales. La corona presenta un follaje denso y frondoso de forma redondeada, por lo que es usado frecuentemente para proveer sombra en lugares soleados.`,
+
+  },
+    {
+    id: 'pino-laso',
+    title: 'Pino Laso',
+    publisher: 'Forestales',
+    title_cientifico: 'DECUSSOCARPUS ROSPIGLIOSII',
+    image: 'pino-laso.jpg',
+    imageURL: 'https://catalogofloravalleaburra.eia.edu.co/storage/images/bfc0437bf2ef67d1b954415b496b3eefdaf2e1bb.jpg',
+    caracteristicas_fisicas: `
+Es un árbol grande, de hasta 45 m de alto, con un tronco recto. Las hojas son simples, de hasta 23 mm de largo y 6 mm de ancho, opuestas, se disponen en dos series, en un solo plano.`,
+    propiedades:`
+Tiene uso maderable. Pertenece a un grupo de coníferas que se distribuyen en el hemisferio sur. Ha sido explotado intensivamente y quedan pocos remanentes de este bosque natural en venezuela, uno de los más espectaculares el bosque de san eusebio perteneciente a la universidad de los andes en la vía de la azulita. `,
+
+  },
+    {
+    id: 'merecure',
+    title: 'Merecure',
+    publisher: 'Forestales',
+    title_cientifico: 'LICANIA PYRIFOLIA',
+    image: 'merecure.jpg',
+    imageURL: 'https://pbs.twimg.com/media/Dolf4jgW4AA2Kos.jpg',
+    caracteristicas_fisicas: `
+Es un árbol de porte medio y puede alcanzar una altura de entre 10 y 15 metros. Si bien es de tronco corto, su copa es globosa o redondeada, muy frondosa; por la sombra que brinda.`,
+    propiedades:`
+Su madera se utiliza cerca de las viviendas del campo y en los potreros. Sus frutos ovalados contienen una sustancia harinosa que es comestible y de sabor agradable, en la actualidad son aprovechados principalmente por el ganado y la fauna silvestre; por ello figura entre los árboles forrajeros de los llanos venezolanos. `,
+
+  },
+    {
+    id: 'sarrapia',
+    title: 'Sarrapia',
+    publisher: 'Forestales',
+    title_cientifico: 'DIPTERYX ODORATA',
+    image: 'sarrapia.jpeg',
+    imageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBphIJaZixBi_fNAR6xyw58dScGnIcMRPFQ&usqp=CAU',
+    caracteristicas_fisicas: `
+Árbol de 8 hasta 30 m de alto. Hojas compuestas con 4 a 6 foliolos aovados a oblongos, brevemente acuminados en el ápice, coriáceos, glabros, con puntos translúcidos, de 6 a 15 cm de largo por 3 a 6 cm de ancho.`,
+    propiedades:`
+De las semillas se extrae la cumarina que se utiliza para aromatizar. El uso de las semillas, como talismán fue común entre los indígenas del amazonas, quienes confeccionaban collares y brazaletes con ellas. Como árbol ornamental se puede utilizar en las zonas cálidas y sería muy valioso debido a la frondosidad de su copa y a su tronco recto. `,
+
+  },
+    {
+    id: 'camoruco',
+    title: 'Camoruco',
+    publisher: 'Forestales',
+    title_cientifico: 'STERCULIA APETALA',
+    image: 'camoruco.jpg',
+    imageURL: 'https://i.pinimg.com/originals/14/1c/7d/141c7d436a22a18071466cf272854fa2.jpg',
+    caracteristicas_fisicas: `
+Se reproduce por semilla. Durante el período de crecimiento requiere de sombra para su desarrollo. Es un árbol exigente en cuanto a suelos, sus raíces son profundas y tiene vida larga. El tronco es recto y desarrolla a menudo, sobre todo cuando es de gran tamaño, unos contrafuertes que le sirven del apoyo y soporte necesarios por su corpulencia, ya que llega a medir de 25 hasta unos 50 m de altura.`,
+    propiedades:`
+La madera es suave y sirve solo como formaletas para la construcción. Las flores, de suave olor parecido al del saúco, se usan como expectorantes. Algunas personas comen sus frutos, parecidos a las semillas del maní. El sabor es excelente, similar a los pistachos, y es una lástima que no ha habido programas para mejoramiento para la comercialización de esta nuez, puesto que el tamaño de las semillas y su cantidad de producción varía mucho.`,
+
+  },
+    {
+    id: 'mangle-rojo',
+    title: 'Mangle Rojo',
+    publisher: 'Forestales',
+    title_cientifico: ' RHIZOPHORA MANGLE',
+    image: 'mangle-rojo.jpg',
+    imageURL: 'https://c8.alamy.com/compes/x7j4dx/el-mangle-rojo-rhizophora-mangle-raices-de-sosten-cuba-x7j4dx.jpg',
+    caracteristicas_fisicas: `
+Los árboles de rhizophora mangle son de 4 a 10 metros de alto, su forma es de árbol o arbusto perennifolio, halófilo, en el tronco se encuentran apoyadas numerosas raíces aéreas simples o dicotómicamente ramificadas con numerosas lenticelas, la corteza es de color olivo pálido con manchas grises, sin embargo en el interior es de color rojizo, su textura es de lisa a levemente rugosa con apariencia fibrosa. Las hojas son simples, opuestas, pecioladas, de hoja redondeada, elípticas a oblongas, estas se aglomeran en las puntas de las ramas, su color es verde oscuro en el haz y amarillentas en el envés.`,
+    propiedades:`
+El mangle colorado es usado como fuente de carbón de buena calidad de la madera en la mayoría de los costeros de américa tropical y áfrica occidental, igualmente es utilizado para elaborar construcciones e instrumentos rústicos como juguetes, postes para cercas, estaquillas, postes eléctricos y traviesas de ferrocarril. La madera es adecuada para la producción de pulpa disolvente a pesar de que su uso como una fuente de papel parece verse excluido debido al gran grosor de las paredes celulares. Uno de los usos principales de este árbol es para la extracción de taninos a partir de su corteza.`,
+  },
+    {
+    id: 'cujiyaque',
+    title: 'Cujiyaque',
+    publisher: 'Forestales',
+    title_cientifico: 'RHIZOPHORA MANGLE',
+    image: 'cujiyaque.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Starr_080530-4653_Prosopis_juliflora.jpg',
+    caracteristicas_fisicas: `
+Es un árbol espinoso, nativo del caribe. Fue introducido en asia y australia. De comportamiento caducifolio. Bajo condiciones favorables de suelo crece hasta alcanzar una altura de 20 metros.`,
+    propiedades:`
+Ayuda a fijar el nitrógeno al suelo, además de ayudar a disminuir la acidez y salinidad de los suelos y controlar la erosión eólica, de esas zonas áridas.
+Dado que son una importante fuente de proteína y energía, las vainas y las semillas molidas son convertidas en harina que se utilizan como complemento en la elaboración de alimentos tales como pan, chicha, cerveza y miel.
+Así mismo su follaje y sus frutos son utilizados como forraje para el ganado. De su tronco, se obtiene madera resistente que es utilizada en la carpintería para fabricar muebles, cercas, herramientas y también en las construcciones, además puede ser usado como leña. Mientras que los exudados de sus hojas, corteza y flores raíz y flor son usadas con fines medicinales en diversas afecciones.`,
+
+  },
+    {
+    id: 'semeruco',
+    title: 'Semeruco',
+    publisher: 'Forestales',
+    title_cientifico: 'MALPIGHIA EMARGINATA',
+    image: 'semeruco.jpg',
+    imageURL: 'https://c8.alamy.com/comp/PFW9N3/acerola-in-the-branch-malpighia-emarginata-PFW9N3.jpg',
+    caracteristicas_fisicas: `
+Es un arbusto que mide entre 3 y 5 m de altura, de corteza obscura; tiene numerosas ramas, generalmente dirigidas hacia arriba, frágiles y cortas, que en estado silvestre poseen espinas (las especies cultivadas carecen de espinas). Las hojas son simples, enteras y opuestas, cuneiformes en la base que se dividen luego en tres o cinco lóbulos dentados o enteros; pubescentes de color verde obscuro.`,
+    propiedades:`
+Ademas de su consumo como mermelada y jugos  es utilizada en la medicina tradicional para facilitar la recuperación de astenias o de estados de mucha debilidad (por ejemplo los derivados de una hambruna), también se usa para coadyuvar en el tratamiento de diarreas y problemas hepáticos.`,
+
+  },
  {
     id: 'jeginbre',
     title: 'El Jengibre o Kion',

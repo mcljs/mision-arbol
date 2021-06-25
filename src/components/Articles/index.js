@@ -96,10 +96,10 @@ const Articles = (  ) => {
                   <p className="text-2xl mt-4 font-semibold dark:text-white">
                     {post.frontmatter.title}
                   </p>
-                  <p className="text-lg text-gray-600 py-4 dark:text-[#becde3]">
+                  <p className="pt-2 text-lg text-gray-600  dark:text-[#becde3] line-clamp-3 ">
                     {post.frontmatter.description}
                   </p>
-                  <button className="pt-4 pb-1 text-lg border-b-2 hover:text-green-700 hover:border-green-700 dark:text-white dark:hover:border-yellow-1100">
+                  <button className="pt-6 pb-1 text-lg border-b-2 hover:text-green-700 hover:border-green-700 dark:text-white dark:hover:border-yellow-1100">
                     <Link to={post.fields.slug}>Leer Articulo</Link>
                   </button>
                 </div>

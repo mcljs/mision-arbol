@@ -89,6 +89,9 @@ const Navbar = (  ) => {
             <Link to='/biblioteca' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 BIBLIOTECA
             </Link>
+      <Link to='/gallery' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
+                GALERIA
+            </Link>
             <Link to='/guide' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 GUÍA DE ESPECIES
             </Link>
