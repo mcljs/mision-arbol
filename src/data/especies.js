@@ -774,6 +774,87 @@ La infusión hecha con flores de alhelí amarillo o blanco ayuda a calmar dolore
     propiedades:`
 Durante décadas se ha utilizado en la medicina tradicional por vía externa como astringente, antiséptica y cicatrizante y por vía oral como tratamiento de las alteraciones del sueño y la depresión. El mecanismo de acción de esta planta no está totalmente aclarado, pero parece asociarse a la presencia de hipericina, una naftodiantrona, en la composición de la misma. En los ensayos clínicos realizados comparando la eficacia de la hierba de san juan como tratamiento de la depresión leve-moderada frente a placebo y antidepresivos estándares, los resultados son superiores frente al primero y similares frente al segundo, No obstante, el número de ensayos clínicos es todavía insuficiente para concluir definitivamente su grado de eficacia, Su administración es bien tolerada y las reacciones adversas más comunes son problemas de tipo gastrointestinal, fatiga, confusión y sedación.`,
   },
+{
+    id: 'anis',
+    title: 'Anís',
+    publisher: 'Medicinal',
+    title_cientifico: 'PIMPINELLA ANISUM',
+    image: 'anis.jpeg',
+    imageURL: 'https://www.fitoterapia.net/archivos/201911/pimpinella-anisum-anis-750x858x80xX.jpg?3',
+    caracteristicas_fisicas: `El anís es una planta anual aromática de hasta 60 cm, de altura, de hojas filicíneas, verde brillante y umbelas de minúsculas flores blancas a mediados del verano. Las semillas son utilizadas para sazonar dulces, pan, licores, entre otros. Los frutos, gris verdoso en forma de peras y velloso, están compuestos de 2 elementos marcados de estrías claras. Toda la planta huele a anís. La floración tiene lugar en julio y agosto.`,
+    propiedades:`
+Laboratorio bioforce utiliza el aceite esencial de anís que se obtiene por destilación al vapor de agua de los frutos maduros del anís. A menudo los frutos son utilizados para infusiones que se utilizan principalmente para la fabricación de licores y de especias para la pastelería.`,
+  },
+{
+    id: 'lavanda',
+    title: 'Lavanda',
+    publisher: 'Medicinal',
+    title_cientifico: 'LAVANDULA ANGUSTIFOLIA',
+    image: 'lavanda.jpg',
+    imageURL: 'https://fairweathers.co.uk/wp-content/uploads/2019/12/Lavandula-angustifolia-Havana-close.jpg',
+    caracteristicas_fisicas: `Es una especie arbustiva que alcanza 1-1,5 m de altura de tallo cuadrangular, ligeramente piloso y ángulos curvados. El tallo sufrútice de color grisáceo presenta textura leñosa en la base lo que le da un aspecto entre hierba y arbusto.
+Las hojas son lanceoladas y lineares, de 10 cm de longitud, a veces agudas y de color verde con bordes revolutos. Las pequeñas flores de tonalidades azul-violáceas presentan cáliz tubular ligeramente actinomorfo con una extensión romboidal en la parte superior.`,
+    propiedades:`
+Con fines medicinales el cocimiento de algunas flores o trozos de tallos en agua se emplean para aliviar dolores reumáticos o lumbares. Así mismo, aplicaciones tópicas actúan como analgésicos de dolores de cabeza y pies, tortícolis, cortes y heridas, y como antiséptico en quemaduras.`,
+  },
+{
+    id: 'ortiga-verde',
+    title: 'Ortiga Verde',
+    publisher: 'Medicinal',
+    title_cientifico: 'URTICA DIOCA',
+    image: 'ortiga.jpg',
+    imageURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Br%C3%A4nn%C3%A4ssla_%28Urtica_Dioica%29.jpg/1200px-Br%C3%A4nn%C3%A4ssla_%28Urtica_Dioica%29.jpg',
+    caracteristicas_fisicas: `La ortiga es una planta arbustiva perenne, dioica de aspecto tosco y que puede alcanzar hasta 1,5 m de altura.
+Es característico de esta planta el poseer unos pelos urticantes que tienen la forma de pequeñísimas ampollas llenas de un líquido irritante que al contacto con la piel producen una lesión y vierten su contenido (ácido fórmico, resina, histamina y una sustancia proteínica desconocida) sobre ella, provocando ronchas, escozor y prurito. Este picor se debe a la acción del ácido fórmico, compuesto del que contiene una gran cantidad. Estos pelos son muy duros y frágiles en la punta, por lo que es suficiente el roce para provocar su rotura.`,
+    propiedades:`
+Esta planta se le atribuyen propiedades diuréticas proporcionadas por la clorofila y los ácidos orgánicos que contiene. Presenta acciones bactericidas y efectos positivos en el tratamiento de afecciones cutáneas.
+La ortiga también posee una sustancia llamada secretina, que es uno de los mejores estimulantes de las secreciones estomacales del páncreas y de la bilis, así como de los movimientos peristálticos del intestino.`,
+   },
+
+  {
+    id: 'stevia',
+    title: 'Stevia',
+    publisher: 'Medicinal',
+    title_cientifico: 'STEVIA REBAUDIANA BERTONI',
+    image: 'stevia.jpg',
+    imageURL: 'https://c8.alamy.com/compes/ffxaj9/planta-hierba-dulce-natural-de-las-hojas-de-la-planta-nombre-comun-planta-de-azucar-stevia-rebaudiana-bertoni-compuesto-nombre-botanico-ffxaj9.jpg',
+    caracteristicas_fisicas: `Pertenece a la familia asteraceae. Es una planta herbácea perenne de tallo erecto, subleñoso, pubescente. Durante su desarrollo inicial no posee ramificaciones, tornándose multicaule después del primer ciclo vegetativo, llegando a producir hasta 20 tallos en tres a cuatro años. Puede alcanzar hasta 90 cm de altura en su hábitat natural y en los trópicos puede llegar a tener alturas superiores a 100 cm. La raíz es pivotante, filiforme y no profundiza, distribuyéndose cerca de la superficie.`,
+    propiedades:`
+Beneficia a personas con hipertensión, la stevia actúa como hipotensor y cardiotónico, es decir, regula la tensión arterial y estimula los latidos del corazón. La stevia es vasodilatadora, lo que significa que aumenta el diámetro de los vasos sanguíneos, por consecuencia mejora la circulación y es de gran ayuda para personas que padecen enfermedades de origen vascular. Esta planta es ideal para los diabéticos, pues su composición permite que pueda ser un sustituto bastante saludable del azúcar. La stevia tiene propiedades antibióticas, las hojas de esta planta brindan protección antibacterial contra bacterias de la mucosa bucal y hongos, como la candidiasis vaginal. Adicionalmente, este se usa en dentífricos y chicles porque su uso ayuda a prevenir las caries. Además las persona que consumen stevia son menos propensas a refriados y gripes. Inclusive, también se utiliza como cicatrizante y antiséptico en heridas y quemaduras. Previene e inhibe la reproducción de bacterias y organismos infecciosos. Es más aconsejable para uso alimentario o para cocinar ya que a altas temperaturas, es más estable que el resto de edulcorantes`,
+   },
+{
+    id: 'hierva-mora',
+    title: 'Hierva Mora',
+    publisher: 'Medicinal',
+    title_cientifico: ' SOLANUM NIGRESCENS MART & GAL.',
+    image: 'hierba-mora.jpg',
+    imageURL: 'https://lh3.googleusercontent.com/proxy/-Uf4oZgyg2a8bH6YBn37RaqVgummwSELJ00MmiN2ys_DR1SPgH4wqKypACjyqSg-FN7_8l9e_VbvU_Ch_qa-Uk0e7liWsSFEFBhxGID6MRcIqlu8DQt5JXenLOz0uTEIqA_39Z6l4MeKz4kT3B80AwOsS--_i7smpPoTZqkqPETT1o0',
+    caracteristicas_fisicas: `Tallos cortamente pubescentes o glabros. Peciolos de 12 a 50 mm de largo. Hojas a menudo en pares en su mayoría aovadas, enteras o sinuado-dentadas de 5 a 10 cm de largo y 1 a 5 cm de ancho. Inflorescencias laterales, paucifloras y con los pedúnculos ascendentes o extendidos. Tiene el cáliz corto con 5 dientes. Corola blanca con 5 lóbulos agudos. Fruto carnoso, globoso y negro al madurar. `,
+    propiedades:`
+Cicatrizante, calmante, narcótica, antiherpética, antihemorroidal, analgésica, antipirética, antiséptica y pediculicida. Se utiliza para lavados vaginales y en el tratamiento de las afecciones de la piel y los ojos.`,
+   },
+{
+    id: 'mapurito',
+    title: 'Mapurito',
+    publisher: 'Medicinal',
+    title_cientifico: 'PETIVERIA ALLIACEA',
+    image: 'mapurito.jpg',
+    imageURL: 'https://lh3.googleusercontent.com/proxy/3DpGalpLE-WdBbWaJFKj5BguIWGR7Eez5OFLbuoC7XGX99NDj0t-8WFmmGTqZbJ6YTs-uC2hIvhuo7A8SyIU24FRZzA4IuQpzKUYY2vpEK4t-47hSnPEjJQpkStXfPXkpmMIuF9EWgwTp1brlPRGWis6jOib',
+    caracteristicas_fisicas: `Es una planta herbácea de unos 10 cm de altura de origen sudamericano con un olor parecido al ajo especialmente en las raíces.`,
+    propiedades:`
+Estimula y refuerza la contracción cardíaca con lo que previene frente a infarto de miocardio y arritmias. Mantiene concentraciones adecuadas de la aldosterona, hormona encargada junto con la vasopresina de regular el equilibrio hídrico del organismo. Regula la glucemia, de manera que evitamos los picos hiperglucémicos característico de la diabetes tipo i. Indirectamente regula la concentración de hormonas sexuales principalmente testosterona y androstenediona que favorece la aparición de caracteres sexuales secundarios como son la aparición de vello, el aumento de glóbulos rojos y el desarrollo del sistema óseo. Estimula el desarrollo cognitivo previniendo frente a enfermedades como el alzheimer, el parkinson o la corea de huntington.`,
+   },
+{
+    id: 'menta',
+    title: 'Menta',
+    publisher: 'Medicinal',
+    title_cientifico: 'MENTHA × PIPERITA',
+    image: 'menta.jpg',
+    imageURL: 'https://sc04.alicdn.com/kf/HTB1jtDWKFXXXXcMXXXXq6xXFXXXJ.jpg',
+    caracteristicas_fisicas: `Son plantas aromáticas que alcanzan una altura máxima de 120 cm aproximadamente. Las hojas, a menudo ligeramente pubescentes, se disponen en pares opuestos, simples y de forma oblonga a lanceolada a menudo con margen dentado. Las flores son de colores blanco o púrpura, surgen en espigas terminales son bilabiadas con cuatro lóbulos desiguales. El fruto es una cápsula con hasta cuatro semillas.`,
+    propiedades:`
+ELa menta tiene propiedades antiinflamatorias, expectorantes, antisépticas, analgésicas, antibacterianas o antitusivas, entre otras, pues la lista es mucho más extensa. Además, está compuesta principalmente por agua, fibra, minerales como el calcio, el potasio, el cobre o el magnesio y vitaminas a, b, c y d.`,
+   },
         {
     id: 'helacho',
     title: 'Helecho',
@@ -782,7 +863,7 @@ Durante décadas se ha utilizado en la medicina tradicional por vía externa com
     image: 'helacho.jpg',
     imageURL: 'https://c8.alamy.com/compes/rr0y3y/cercana-de-verdes-hojas-tracheophyta-rr0y3y.jpg',
     caracteristicas_fisicas: `Los helechos son plantas fotosintéticas en su mayoría, los cuales
-prefieren un alto grado de humedad y pueden ser de diversos tipos, como terrestres,
+prefieren un alto grado de humedad y pueden ser de diversos  tipos, como terrestres,
 rupícolas, epífitos, acuáticos y paludícolas. Además son plantas vasculares, es decir,
 cuentan con vasos conductores que le permiten transportar los nutrientes y agua a cada
 parte de la planta.`,
