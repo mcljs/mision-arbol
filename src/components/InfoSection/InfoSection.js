@@ -70,32 +70,21 @@ const InfoSection = ({ reverse }) => {
     <Section className="dark:bg-[#121f3d]">
       <Container >
         <ColumnLeft>
-          <h1 className="dark:text-white">Calendario Ecosocialista Junio 2021</h1>
+          <h1 className="dark:text-white">Calendario Ecosocialista Julio 2021</h1>
           <section>
+                      <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">03.-</strong>Día Mundial Sin Bolsas Plásticas            </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">04.-</strong>Aniversario de la Misión Árbol
+              <strong className="font-bold">04.-</strong>Día de la Constitución Mundial Ambiente    </h2>
+            <h2 className="text-2xl font-light mb-2 dark:text-white">
+              <strong className="font-bold">07.-</strong>Día Internacional de la Conservación del Suelo
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">05.-</strong>Día Mundial del Ambiente            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">08.-</strong>Día Mundial de los Océanos
+              <strong className="font-bold">11.-</strong>Día Mundial de la Población
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">16.-</strong>Día de las Tortugas Marinas
-            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">17.-</strong>Día Mundial Contra la Desertificación y Sequía
-            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">18.-</strong>Día Mundial Contra la Incineración            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">22.-</strong>Día Mundial del Suelo y la Tierra Fértil
-            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">26.-</strong>Día Internacional de los Bosques Tropicales            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">28.-</strong>Día Mundial del Árbol            </h2>
-          </section>
+              <strong className="font-bold">26.-</strong>Día Internacional para la Defensa del Manglar            </h2>
+                   </section>
 
           <Button
             to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing"
