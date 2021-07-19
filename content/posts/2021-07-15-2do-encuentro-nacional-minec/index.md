@@ -4,8 +4,8 @@ tags: ["MINEC", "PDVSA", "Ministro Josué Lorca"]
 title: Segundo Encuentro Nacional del MINEC.
 description: El pasado fin de semana se llevó a cabo el 2do Encuentro Nacional del Ministerio del Poder Popular para el Ecosocialismo, el cuál conto con la participacion demás de 200 personas de las direcciones regionales, equipos de gestión Ecosocialista y entes adscritos de la institución.
 twitter_text: Segundo Encuentro Nacional del MINEC
-image: ./20210715_215817.jpg
-cover: ./20210715_215817.jpg
+image: ./20210715_215745.jpg
+cover: ./20210715_215745.jpg
 timeToRead: 4
 ---
 
