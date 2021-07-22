@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import { StaticImage} from 'gatsby-plugin-image'
 import Link from './link'
-import Banner from '../images/banner2.png'
+import Banner from '../images/banner-new.png'
 const Navbar = (  ) => {
 
 
@@ -28,7 +28,7 @@ const Navbar = (  ) => {
   return (
     <>
  
-      <img className="dark:bg-[#0e182a] bg-[#be4928] bg-cover bg-center mb-2 w-full h-full sm:h-[144px]" alt={Banner} src={Banner}  />
+      <img className="dark:bg-[#0e182a] bg-[#98b63e] bg-cover bg-center mb-2 w-full h-full sm:h-[144px]" alt={Banner} src={Banner}  />
 
 
       
