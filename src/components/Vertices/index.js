@@ -10,7 +10,7 @@ const Vertices = (  ) => {
         <section className="pt-32 dark:bg-[#121f3d]">
           <h2 className="md:text-xl text-lg sm:font-semibold font-bold mb-3 dark:text-white text-center">CONOCE LOS VÉRTICES DE ACCIÓN DE LA MISIÓN ÁRBOL</h2>
     <div className="w-full">
-      <ul className="grid sm:grid-cols-3 md:grid-cols-6 grid-cols-1 sm:gap-5 md:gap-3 lg:gap-6 gap-4 dark:text-white">
+      <ul className="grid sm:grid-cols-3 md:grid-cols-3 grid-cols-1 sm:gap-5 md:gap-3 lg:gap-6 gap-4 dark:text-white">
         <li>
           <Link to="/vertice/territorializacion" className="w-full scale-100 hover:bg-yellow-1100  transition-all ease-in-out duration-150 rounded-md py-2 px-3 space-x-1 text-base hover:text-white tracking-tight font-bold leading-tight flex items-center">
             
