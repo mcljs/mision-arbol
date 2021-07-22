@@ -13,7 +13,7 @@ const Nosotros = () => (
     <SEO title="Nosotros" />
   <HeaderLayout 
     heading="Nosotros"
-    image="../images/vertice-2.jpg" />
+    image="https://res.cloudinary.com/dk5bvgq20/image/upload/v1626942315/assets/vertice-2_gagutx.webp" />
    
 <section className="pb-20 bg-gray-100 -mt-24">
           <div className="container mx-auto px-4 dark:bg-[#0791e6]">
