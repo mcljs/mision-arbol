@@ -12,8 +12,8 @@ const Nosotros = () => (
   <Layout>
     <SEO title="Nosotros" />
   <HeaderLayout 
-      heading="Nosotros"
-      image="https://res.cloudinary.com/dk5bvgq20/image/upload/q_30/v1616785408/assets/EtWvLINWQAADJ_I_b3peur.webp" />
+    heading="Nosotros"
+    image="../images/vertice-2.jpg" />
    
 <section className="pb-20 bg-gray-100 -mt-24">
           <div className="container mx-auto px-4 dark:bg-[#0791e6]">
