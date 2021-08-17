@@ -1,9 +1,9 @@
 ---
 date: 2021-07-28 15:32:21
 tags: ["Martes Formativo", "Misión Árbol"]
-title: Misión Árbol Estrena sus Martes Formativo.
+title: Misión Árbol Estrena sus Martes Formativos.
 description: Este lunes 26 de julio Misión Árbol realizó su 1er En vivo por la plataforma de Instagram cumpliendo con el cronograma de los Martes Formativos, impulsado por la Dirección Nacional de formación donde el tema que desarrollamos fue Bioinsumos, Potencialidades y Desafíos
-twitter_text: Misión Árbol Estrena sus Martes Formativo.
+twitter_text: Misión Árbol Estrena sus Martes Formativos.
 image: ./IMG-20210727-WA0066.jpg
 cover: ./IMG-20210727-WA0066.jpg
 timeToRead: 4
