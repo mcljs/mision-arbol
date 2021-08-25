@@ -70,20 +70,19 @@ const InfoSection = ({ reverse }) => {
     <Section className="dark:bg-[#121f3d]">
       <Container >
         <ColumnLeft>
-          <h1 className="dark:text-white">Calendario Ecosocialista Julio 2021</h1>
+          <h1 className="dark:text-white">Calendario Ecosocialista Agosto 2021</h1>
           <section>
                       <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">03.-</strong>Día Mundial Sin Bolsas Plásticas            </h2>
+              <strong className="font-bold">01.-</strong>Día Mundial de la Pachamama            </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">04.-</strong>Día de la Constitución Mundial Ambiente    </h2>
+              <strong className="font-bold">09.-</strong>Día Internacional de las Poblaciones Indígenas    </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">07.-</strong>Día Internacional de la Conservación del Suelo
+              <strong className="font-bold">14.-</strong>Día Interamericano de la Calidad del Aire
             </h2>
             <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">11.-</strong>Día Mundial de la Población
+              <strong className="font-bold">24.-</strong>Día Internacional de los Parques Nacionales
             </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">26.-</strong>Día Internacional para la Defensa del Manglar            </h2>
+          
                    </section>
 
           <Button
