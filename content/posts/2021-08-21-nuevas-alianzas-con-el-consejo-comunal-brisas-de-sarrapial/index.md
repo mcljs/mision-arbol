@@ -2,7 +2,7 @@
 date: 2021-08-21 19:32:21
 tags: ["Wilmer Vásquez", "Consejo Comunal Brisas de Sarrapial"]
 title: El presidente de la misión árbol Wilmer Vásquez realiza nuevas alianzas con el Consejo Comunal Brisas de Sarrapial para la reforestación de espacios comunitarios.
-description:El presidente de la Misión Árbol, Wilmer Vásquez, visitó este sábado 21 de agosto a la entidad oriental para concretar la firma del convenio, que además establece la reforestación de los espacios comunitarios 
+description: El presidente de la Misión Árbol, Wilmer Vásquez, visitó este sábado 21 de agosto a la entidad oriental para concretar la firma del convenio, que además establece la reforestación de los espacios comunitarios 
 twitter_text: El presidente de la misión árbol Wilmer Vásquez realiza nuevas alianzas con el Consejo Comunal Brisas de Sarrapial para la reforestación de espacios comunitarios.
 image: ./2021-08-1.jpg
 cover: ./2021-08-1.jpg
@@ -25,7 +25,7 @@ Destacó que los protagonistas de este proyecto son las 203 familias que integra
 
 A su vez, Heberto Solarte, director regional del Minec, dijo que este consejo comunal ha demostrado un amplio compromiso con el rescate y  la preservación de los espacios naturales en su comunidad, por ello fueron seleccionados para ser partícipes de este primer vivero en la entidad.
 
-[Mision-Arbol-3](./2021-08-3.jpg)
+
 
 Así mismo, Magalis Barreto, integrante del consejo comunal, agradeció la oportunidad que se le brinda en este momento donde se requiere un mayor compromiso al ser garantes de espacios para el bienestar, no solo de la comunidad, sino del pueblo venezolano en general.
 

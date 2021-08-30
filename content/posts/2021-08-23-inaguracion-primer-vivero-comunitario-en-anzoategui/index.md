@@ -21,7 +21,7 @@ Solis, en representación del Minec Nivel Central, declaró que esta inauguraci�
 
 afirmó el funcionario, quien añadió que este vivero tendrá la tarea de producir dos mil plantas frutales, ornamentales y medicinales, que estarán a disposición de la comuna.
 
-![Mision-Arbol-2](./IMG-2021-08-21412312.jpg)
+![Mision-Arbol-2](./IMG-3215141231231312412.jpg)
 
 
 Por su parte, el presidente de la Misión Árbol, Wilmer Vásquez, recordó que cada ejemplar que se establezca en el territorio de la comuna, será uno más de los millones que se deben establecer en el mundo para mitigar los efectos del cambio climático.
