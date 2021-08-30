@@ -2,6 +2,12 @@ import noticia01 from '../../static/assets/notiarbol/notiarbol001.pdf'
 
 export const periodicoData = [
 {
+    title: 'Edición 011 del periódico NOTIÁRBOL resalta nuevas alianzas con el consejo comunal Brisas de Sarrapial para la reforestacón de espaciones comunitarios  .',
+    title2: 'El periódico NotiÁrbol, en su edición Nº 011, decima primera año 2021, resalta en convenio con el consejo comunal Brisas de Sarrapial se instaló el primer vivreo comunitario en el estado Monagas.',
+    fecha: '27/08/2021',
+    ruta: `https://drive.google.com/file/d/1kCaVJrdO0eiBsuy3g9CaTLnMCsjev7sF/view?usp=sharing`, 
+  },
+{
     title: 'Edición 007 del periódico NOTIÁRBOL resalta al general en jefe Jorge Luis García Carneiro soldado patriota ejemplo de lealtad y valentia en la Revolución Bolivariana .',
     title2: 'El periódico NotiÁrbol, en su edición Nº 007, septima del año 2021, resalta al general en jefe Jorge Luis García Carneiro soldado patriota ejemplo de lealtad y valentia en la Revolución Bolivariana.',
     fecha: '24/05/2021',

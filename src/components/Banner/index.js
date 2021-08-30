@@ -16,19 +16,19 @@ const Banner = (  ) => (
         </div>
                <div className="w-full py-10 px-6 text-gray-800 flex flex-col justify-between">
 
-          <h3 className="font-semibold text-lg leading-tight dark:text-white"> Edición 007 del periódico NOTIÁRBOL resalta al general en jefe Jorge Luis García Carneiro soldado patriota ejemplo de lealtad y valentia en la Revolución Bolivariana .</h3>
+          <h3 className="font-semibold text-lg leading-tight dark:text-white"> Edición 011 del periódico NOTIÁRBOL resalta nuevas alianzas con el consejo comunal Brisas de Sarrapial para la reforestacón de espaciones comunitarios .</h3>
           <p className="mt-2 dark:text-white">
            
-El periódico NotiÁrbol, en su edición Nº 007, septima del año 2021, resalta al general en jefe Jorge Luis García Carneiro soldado patriota ejemplo de lealtad y valentia en la Revolución Bolivariana.
+El periódico NotiÁrbol, en su edición Nº 011, decima primera año 2021, resalta en convenio con el consejo comunal Brisas de Sarrapial se instaló el primer vivreo comunitario en el estado Monagas.
 
           </p>
           <p className="text-sm text-gray-700 uppercase tracking-wide font-semibold mt-2 dark:text-[#0791e6]">
-            Caracas &bull; 24 de Mayo de 2021
+            Caracas &bull; 27 de Agosto de 2021
           </p>
                 
 <div className="inline-block mr-2 mt-2">
  
-    <Link to="https://drive.google.com/file/d/19-NDdXuzYG7SQ9S4rgLhc0d1AHDOrCb6/view?usp=sharing" >
+    <Link to="https://drive.google.com/file/d/1kCaVJrdO0eiBsuy3g9CaTLnMCsjev7sF/view?usp=sharing" target={"_blank"}>
       <button type="button" className="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-blue-600 hover:bg-blue-500 hover:shadow-lg flex items-center ">
                        <svg className="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
                         Descargar

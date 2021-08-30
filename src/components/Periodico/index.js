@@ -26,7 +26,7 @@ const Periodico = (  ) => {
             
               <span className="block mb-4 font-medium text-green-500 text-lg">({item.fecha})</span>
               <p className="text-gray-700 text-sm dark:text-[#becde3]">{item.title2}</p>
-            <DownloadLink src={item.ruta}  className="items-center justify-center cursor-pointer mt-4 inline-flex py-2 px-4 rounded-md bg-green-500 hover:bg-green-600 transition-all ease-in-out duration-100 font-semibold leading-8 transform hover:scale-105">
+            <DownloadLink src={item.ruta} target={"_blank"}  className="items-center justify-center cursor-pointer mt-4 inline-flex py-2 px-4 rounded-md bg-green-500 hover:bg-green-600 transition-all ease-in-out duration-100 font-semibold leading-8 transform hover:scale-105">
               <IoMdDownload className="mr-1 text-white"/> <p className="text-white ">Descargar</p>
 
             </DownloadLink>
