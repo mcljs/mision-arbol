@@ -6,13 +6,13 @@ export const especies = [
     title_cientifico: 'BULNESIA ARBÓREA',
     image: 'vera-1.jpg',
     imageURL: 'https://images.nieuwkoop-europe.com/images/4BUARRS02.png',
-    caracteristicas_fisicas: `Es un árbol de gran parte del norte de Sudamérica en la región de las Guayanas de Venezuela, Colombia y Guyana. 
-crece en bordes de carreteras, caminos y ríos.  igual se reproduce en el interior de bosques secos, subxerofíticos y espinosos.
+    caracteristicas_fisicas: `Es un árbol que se encuentra en gran parte del norte de Suramérica en la región de Guayana en Venezuela, Colombia y Guyana. 
+Crece en bordes de carreteras, caminos y ríos, igual se reproduce en el interior de bosques secos, subxerofíticos y espinosos.
 
 Muy usado en construcciones civiles y en navales, tornería, elaboración de durmientes y de ferrocarril, es una planta ornamental en jardinería, la madera debe utilizarse recién cortada, puesto que al secarse se pone extremadamente dura y ya no es aprovechable, igualmente se emplea para grabados y cuando se necesita una madera durable.    `,
     propiedades:`
-De su madera se extrae el aceite de guaiac (o guayacol) que sirve para ingrediente de perfumes y de su resina puede obtenerse con solventes orgánicos. también se utiliza para hacer barniz y pinturas oscuras.
-el vera es apreciado por sus propiedades protectoras de la piel humana con su esencia. produce un buen carbón y vigas de alta calidad, igniciona fácilmente y produce un humo fragante.
+De su madera se extrae el aceite de guaiac (o guayacol) que sirve para ingrediente de perfumes y de su resina puede obtenerse con solventes orgánicos. También se utiliza para hacer barniz y pinturas oscuras.
+El verá es apreciado por sus propiedades protectoras de la piel humana con su esencia. Produce (mayúscula) un buen carbón y vigas de alta calidad, igniciona fácilmente así como también produce  humo fragante.
     `,
 
   },
@@ -76,7 +76,7 @@ La corteza de handroanthus serratifolia o curarí, contiene mas de 20 compuestos
     caracteristicas_fisicas: `
 Tiene un fuste importante que puede alcanzar los 40 metros de altura. El tronco es recto, naciendo sus ramas más arriba de la mitad de su altura y con diámetros en los árboles adultos de 1 a 2 metros. A veces, en su parte baja, presenta contrafuertes o aletones que ayudan a afianzar el árbol, ya que tiene un sistema radical bastante superficial. La corteza puede llegar a espesores de 2 cm, es de color gris-claro en los árboles jóvenes y apenas dividida en placas por leves hendiduras, mientras que los árboles adultos tienen la corteza profundamente fisurada.`,
     propiedades:`
-Esta especie, es el árbol emblemático del estado barinas. Su fina madera aromática es repelente de los insectos y ligera. Igual es apreciada en trabajos de carpintería para la fabricación de muebles, gabinetes, construcciones.  También se utiliza en decoración de interiores, viviendas, chapillas decorativas. Igualmente como en tallas, para esculpir, ebanistería.  Como componentes de madera para la construcción de barcos, botes y en la industria aeronáutica. La madera del cedro es astringente, es considerada como febrifuga y tónica, al igual que sus hojas.
+Esta especie, es el árbol emblemático del estado Barinas, su fina madera aromática es repelente de los insectos y ligera, de igual forma es apreciada en trabajos de carpintería para la fabricación de muebles, gabinetes, construcciones.  También se utiliza en decoración de interiores, viviendas, chapillas decorativas. Igualmente como en tallas, para esculpir, ebanistería.  Como componentes de madera para la construcción de barcos, botes y en la industria aeronáutica. La madera del cedro es astringente, es considerada como febrifuga y tónica, al igual que sus hojas.
 El cocimiento de la corteza se usa en baños para bajar la calentura y contra el "susto"; también se refiere útil en casos de diarrea, bilis, reumatismo, dolor de muelas y hemorragia nasal. `,
 
   },
@@ -90,7 +90,7 @@ El cocimiento de la corteza se usa en baños para bajar la calentura y contra el
     caracteristicas_fisicas: `
 Es un árbol de 20-35 metros de altura, su tronco llega a tener 70 cm de diámetro y a veces suele estar ligeramente acanalado, tiene pocas ramas gruesas horizontales y ramificación simpódica con la copa estratificada. Presenta en su corteza escamas entre pardo grisáceos a amarillentas. Su sistema radical es profundo y requiere suelos húmedos, la vida del apamate es bastante larga, las flores presentan una gama de colores que van desde el amarillento hasta el morado, todas muy vistosas y llamativas, igualmente suelen estar presentes cuando el árbol está desprovisto de hojas, sus frutos son capsulares de 25-35 cm de largo con semillas comprimidas tenuemente y aladas.  `,
     propiedades:`
-Entre sus propiedades medicinales están: la infusión de las hojas que se utiliza como febrífugo y la corteza cocida que sirve para la diabetes, paludismo, tifoidea y parásitos.mo planta de sombra de cultivos en las zonas bajas de la región tropical.   `,
+Entre sus propiedades medicinales están: la infusión de las hojas que se utiliza como febrífugo y la corteza cocida que sirve para la diabetes, paludismo, tifoidea y parásitos como planta de sombra de cultivos en las zonas bajas de la región tropical.   `,
 
   },
   {
@@ -103,7 +103,7 @@ Entre sus propiedades medicinales están: la infusión de las hojas que se utili
     caracteristicas_fisicas: `
 Son árboles de tamaño mediano a grande, que alcanzan alturas de hasta 25 m de alto y 60 cm de ancho, corteza exterior café o gris, frecuentemente áspera con crestas longitudinales, proyecciones espinosas suberosas frecuentemente presentes, corteza interna rosado-anaranjada, tricomas blancos, generalmente rectos, erectos, hasta 0.2 mm de largo, hojas 18–43 cm de largo, 7–15-folioladas; folíolos estrechamente oblongos, a veces estrechamente ovados, lanceolados o elípticos, algo falcados, asimétricos, 6–15 cm de largo y 3–5 cm de ancho, ápice acuminado u ocasionalmente agudo, base truncada u obtusa, oblicua, margen entero o a veces subentero (en las plántulas, los primeros folíolos ensanchados crenados a serrados), haz glabra, envés glabro excepto los nervios principal y secundarios a veces pubescentes, cartáceos u ocasionalmente subcoriáceos, nervio principal apenas prominente en la haz, prominente en el envés, nervios secundarios 8–20 pares, apenas prominentes a ligeramente impresos en la haz, prominentes en el envés; pecíolo 4–13,5 cm de largo, glabro a pubescente, raquis 7,1–25 cm de largo, escasamente pubescente, peciólulos glabros o pubescentes, los laterales 3–10 mm de largo, el terminal 14–40 mm de largo.   `,
     propiedades:`
-Como uso medicinal se encontró que en las regiones del orinoco a partir del cocimiento de la corteza se hacen baños el cual es útil para cicatrizar heridas. se data que en 1579 los indígenas de la provincia de maracaibo, con el cocimiento de las hojas, los usaban para curar llagas y heridas; los indígenas tikuna de la región amazónica de colombia tomaban la decocción de las hojas y la corteza en raciones para los fuertes dolores del parto, en baños para la curación de heridas, como anticonceptivo tomaban una taza al día durante la menstruación; si la mujer tikuna se toma esta decocción al día siguiente del alumbramiento de su hijo quedará estéril, también usan la decocción de la corteza para los pies cansados.   `,
+Como uso medicinal se encontró que en las regiones del Orinoco a partir del cocimiento de la corteza se hacen baños el cual es útil para cicatrizar heridas. se data que en 1579 los indígenas de la Provincia de Maracaibo, con el cocimiento de las hojas, los usaban para curar llagas y heridas; los indígenas Tikuna de la región amazónica de Colombia tomaban la decocción de las hojas y la corteza en raciones para los fuertes dolores del parto, en baños para la curación de heridas, como anticonceptivo tomaban una taza al día durante la menstruación; si la mujer tikuna se toma esta decocción al día siguiente del alumbramiento de su hijo quedará estéril, también usan la decocción de la corteza para los pies cansados.   `,
 
   },
   {
@@ -114,11 +114,11 @@ Como uso medicinal se encontró que en las regiones del orinoco a partir del coc
     image: 'caoba.jpg',
     imageURL: 'https://www.asklepios-seeds.de/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/s/w/swietenia-macrophylla.jpg',
     caracteristicas_fisicas: `
-La caoba es un árbol de gran porte que a menudo alcanza los 20-40 metros de altura y 150-350 cm de diámetro, se caracteriza por el fuste cubierto de una corteza hendida y áspera de color gris y hojas verdes pinnadas y compuestas.'.
+La caoba es un árbol de gran porte que a menudo alcanza los 20-40 metros de altura y 150-350 cm de diámetro, se caracteriza por el fuste cubierto de una corteza hendida y áspera de color gris y hojas verdes pinnadas y compuestas.
 
 `,
     propiedades:`
-De este árbol se obtiene una madera de finos acabados, trabajabilidad y durabilidad, siendo considerada la mejor madera para ebanistería, Es empleada en la fabricación de muebles, instrumentos musicales, decoración de interiores, Así como también en molduras, chapas, paneles y ebanistería en general.  `,
+De este árbol se obtiene una madera de finos acabados, trabajabilidad y durabilidad, siendo considerada la mejor madera para ebanistería, es así empleada en la fabricación de muebles, instrumentos musicales, decoración de interiores, Así como también en molduras, chapas, paneles y ebanistería en general.  `,
 
   },
   {
@@ -129,7 +129,7 @@ De este árbol se obtiene una madera de finos acabados, trabajabilidad y durabil
     image: 'pinus.jpg',
     imageURL: 'http://upload.wikimedia.org/wikipedia/commons/e/eb/Pinus_merkusii_Toba.jpg',
     caracteristicas_fisicas: `
-La copa puede ser piramidal o redondeada y, en los árboles adultos, ancha y deprimida; los macroblastos presentan hojas escuamiformes sin clorofila, mientras que los braquiblastos son muy cortos, con una vaina membranosa de escamas y están terminados por dos a cinco hojas lineares o acículas, con dos o más canales resiníferos cada una; los conos masculinos se desarrollan en la base de los brotes anuales. los estróbilos presentan escamas persistentes, siendo las tectrices rudimentarias e inclusas y las seminíferas suele presentar una protuberancia u ombligo en su parte externa (apófosis); maduran bienal o trienalmente; las semillas, de forma, color y tamaño variables, son ápteras o con alas articuladas o íntimamente soldadas con su testa más o menos lignificada. `,
+La copa puede ser piramidal o redondeada y en los árboles adultos, ancha y deprimida; los macroblastos presentan hojas escuamiformes sin clorofila, mientras que los braquiblastos son muy cortos, con una vaina membranosa de escamas y están terminados por dos a cinco hojas lineares o acículas, con dos o más canales resiníferos cada una; los conos masculinos se desarrollan en la base de los brotes anuales. Los estróbilos presentan escamas persistentes, siendo las tectrices rudimentarias e inclusas y las seminíferas suele presentar una protuberancia u ombligo en su parte externa (apófosis); maduran bienal o trienalmente; las semillas, de forma, color y tamaño variables, son ápteras o con alas articuladas o íntimamente soldadas con su testa más o menos lignificada. `,
     propiedades:`
 Se considera antiviral, febrífugo e inmunoestimulante.
 
@@ -143,17 +143,17 @@ Los remedios con pino albar se destinan básicamente a aliviar afecciones respir
     title_cientifico: 'HURA CREPITANS',
     image: 'jabillo.jpg',
     imageURL: 'https://thumbs.dreamstime.com/b/crepitans-asombrosos-de-hura-del-%C3%A1rbol-con-las-espinas-en-la-selva-tropical-amazonas-110575011.jpg',
-    caracteristicas_fisicas: `Es un árbol venenoso para los seres humanos, de la familia de las euforbiáceas, por su gran tamaño, constituye una especie maderable de gran valor económico, es nativa de las regiones intertropicales americanas, tanto en américa del norte y central como en américa del sur, especialmente en las cuencas del orinoco y del amazonas. en méxico se la conoce con los nombres de haba de indio y haba de san ignacio.
+    caracteristicas_fisicas: `Es un árbol venenoso para los seres humanos, de la familia de las euforbiáceas, por su gran tamaño, constituye una especie maderable de gran valor económico, es nativa de las regiones intertropicales americanas, tanto en América del Norte y Central como en América del Sur, especialmente en las cuencas del Orinoco y del Amazonas, en México se la conoce con los nombres de Haba de Indio y Haba de San Ignacio.
 
 Árbol perennifolio que puede alcanzar los 60 m de altura,  su madera es pesada y compacta y sus raíces son bastante superficiales y con contrafuertes, como las de muchas especies forestales de la zona intertropical. el tronco está cubierto de espinas, probablemente desarrolladas como mecanismo de defensa.
 
-Las hojas ovadas y coriáceas alcanzan los 60 cm de ancho, es una especie monoica, con flores rojas sin pétalos, las masculinas surgen en largos racimos, mientras las femeninas surgen solitarias, el fruto es una cápsula similar a una pequeña calabaza de unos 5 a 8 cm de diámetro con dehiscencia explosiva, los 16 carpelos radiales contienen semillas aplanadas de unos 2 cm de diámetro, encerradas entre dos pequeñas valvas curvas de madera muy dura. estas semillas maduran al llegar la época de lluvias y al mojarse estallan, produciendo un ruido muy fuerte, este estallido las puede catapultar a una velocidad de 70 m por segundo; 4 según una fuente pueden alcanzar una distancia de 100 m,5 según otra, unos 45 m del árbol, con una moda de 30 m^2.  `,
+Las hojas ovadas y coriáceas alcanzan los 60 cm de ancho, es una especie monoica, con flores rojas sin pétalos, las masculinas surgen en largos racimos, mientras las femeninas surgen solitarias, el fruto es una cápsula similar a una pequeña calabaza de unos 5 a 8 cm de diámetro con dehiscencia explosiva, los 16 carpelos radiales contienen semillas aplanadas de unos 2 cm de diámetro, encerradas entre dos pequeñas valvas curvas de madera muy dura. Estas semillas maduran al llegar la época de lluvias y al mojarse estallan, produciendo un ruido muy fuerte, este estallido las puede catapultar a una velocidad de 70 m por segundo; según una fuente pueden alcanzar una distancia de 100 m,5 según otra, unos 45 m del árbol, con una moda de 30 m^2.  `,
     propiedades:`
-Los frutos pueden consumirse tostados en pequeñas cantidades, pero crudos son 'muy peligrosos por el látex de propiedades purgantes como la pichoga.
+Los frutos pueden consumirse tostados en pequeñas cantidades, pero crudos son muy peligrosos por el látex de propiedades purgantes como la pichoga.
 
-Su látex tóxico afecta a los peces adormeciéndolos, por lo que se utiliza para atraparlos. sin embargo, hay aves (loros, por ejemplo) y monos que se alimentan de sus frutos y semillas, especialmente tiernos.
+Su látex tóxico afecta a los peces adormeciéndolos, por lo que se utiliza para atraparlos. Sin embargo, hay aves (loros, por ejemplo) y monos que se alimentan de sus frutos y semillas, especialmente tiernos.
 
-Los caribes usaban las flechas envenenadas con el látex, 6 la madera, llamada "hura" se utiliza para trabajos menores de construcción.    `,
+Los caribes usaban las flechas envenenadas con el látex, la madera, llamada "hura" se utiliza para trabajos menores de construcción.    `,
 
   },
   {
