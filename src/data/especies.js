@@ -37,20 +37,12 @@ Es más famosa por su uso en el alivio de problemas estomacales. Carminativo y a
     title_cientifico: 'Orchidaceae',
     image: 'orquidea.jpg',
     imageURL: 'https://i.pinimg.com/originals/07/76/b9/0776b9943fc39c1f17ee8259a24f41d5.jpg',
-    caracteristicas_fisicas: `Las orquídeas son plantas herbáceas, perennes, raramente anuales,
-terrestres o epífitas; Ocasionalmente trepadoras. Algunas especies carecen de clorofila y
-son micoheterotróficas; Con respecto a las orquídeas epífitas, se dice que pueden llegar a
-ser eternas; De hecho en la naturaleza, su supervivencia está ligada a la vida del árbol que
-las sostiene.
-Los tallos son rizomas o cormos en las especies terrestres; En las especies epífitas las hojas
-se hallan engrosadas en la base formando pseudobulbos que sirven para almacenar agua y
-nutrientes cumpliendo la función de órgano reservante y por lo general, están recubiertos
-por las vainas foliares membranosas que se secan con la edad.`,
+    caracteristicas_fisicas: `Las orquídeas son plantas herbáceas, perennes, raramente anuales, terrestres o epífitas; Ocasionalmente trepadoras. Algunas especies carecen de clorofila y son micoheterotróficas; Con respecto a las orquídeas epífitas, se dice que pueden llegar a ser eternas; de hecho en la naturaleza, su supervivencia está ligada a la vida del árbol que las sostiene.
+
+    Los tallos son rizomas o cormos en las especies terrestres; En las especies epífitas las hojas se hallan engrosadas en la base formando pseudobulbos que sirven para almacenar agua y nutrientes cumpliendo la función de órgano reservante y por lo general, están recubiertos por las vainas foliares membranosas que se secan con la edad.`,
     propiedades:`
-La orquídea es una flor que no sólo puede hacer gala de su exótica belleza,
-sino que también de un gran poder rejuvenecedor.
-Esta planta posee una molécula de longevidad que aumenta la resistencia natural de las
-células, actuando sobre la piel como un potente antiinflamatorio.
+La orquídea es una flor que no sólo puede hacer gala de su exótica belleza, sino que también de un gran poder rejuvenecedor.
+Esta planta posee una molécula de longevidad que aumenta la resistencia natural de las células, actuando sobre la piel como un potente antiinflamatorio.
     `,
 
   },
@@ -164,8 +156,8 @@ Los caribes usaban las flechas envenenadas con el látex, la madera, llamada "hu
     image: 'arbol-de-caucho.jpg',
     imageURL: 'https://previews.123rf.com/images/hasnuddin/hasnuddin1303/hasnuddin130300014/18404924-milky-latex-extracted-from-rubber-tree-hevea-brasiliensis-as-a-source-of-natural-rubber.jpg',
     caracteristicas_fisicas: `
-Cuenta con una madera blanca y sus extremidades son altas. Esta planta bien cuidada fácilmente puede llegar alcanzar los 40 metros de alto sin ningún problema, aunque su altura mínima se ubica alrededor de los 15 o 20.
-Este árbol tiene una gran superficie de corteza. Ésta es la parte que principalmente es usada para extraer un líquido lechoso color blanco que surge al realizarle un corte. En cuanto al tronco, crece de forma completamente recta y cilíndrica, lo normal es que tenga entre 30 y 60 cm de diámetro. `,
+Cuenta con una madera blanca y sus extremidades son altas. Esta planta bien cuidada fácilmente puede llegar alcanzar los 40 metros de alto sin ningún problema, aunque su altura mínima se ubica alrededor de los 15 o 20 metros.
+Este árbol tiene una gran superficie de corteza, principalmente es usada para extraer un líquido lechoso color blanco que surge al realizarle un corte. En cuanto al tronco, crece de forma completamente recta y cilíndrica, lo normal es que tenga entre 30 y 60 cm de diámetro. `,
     propiedades:`
 El potencial de esta planta es tan alto, que fácilmente logró sustituir la principal fuente de producción de caucho natural. Actualmente sigue estando en la primera posición y puede que no solo se deba a este interesante dato, sino también a las características propias de la planta. `,
 
@@ -206,10 +198,10 @@ En Cuba se usa la raíz en cocimiento como diurético, para expulsar piedras en 
     image: 'fruto-de-burro.jpg',
     imageURL: 'https://live.staticflickr.com/7883/46118076605_0cda9323e9_b.jpg',
     caracteristicas_fisicas: `
-Es un árbol nativo de la vegetación de pastizales cerrado, especialmente en los estados de goiás y minas gerais, en el este de brasil; también se halla en venezuela, hacia el sur del estado monagas.
+Es un árbol nativo de la vegetación de pastizales cerrado, especialmente en los estados de Goiás y minas gerais, en el este de Brasil; también se halla en Venezuela, hacia el sur del estado Monagas.
 Mide entre 15 a 25 m de altura, su corteza es lisa y es fácil de desprender en forma de guasca, sus hojas elípticas son simples y alternas, posee flores agrupadas en inflorescencias axilares, sus flores poseen seis pétalos y fuerte olor, los frutos están agrupados en fascículos de unas 20 unidades.`,
     propiedades:`
-En Colombia la infusión de la planta entera es usada por los indios witoto como un diurético fuerte (schultes, 1980), sus frutos se utilizan como tónico uterino para corregir la dismenorrea (garcía barriga, 1974); en brasil los frutos secos se utilizan como sustituto de la pimienta y; la decocción de las hojas secas se usa como un diurético fuerte, para reducir el edema de los miembros inferiores; (fournier, et al, 1994). `,
+En Colombia la infusión de la planta entera es usada por los indios Witoto como un diurético fuerte (Schultes, 1980), sus frutos se utilizan como tónico uterino para corregir la dismenorrea (García Barriga, 1974); en Brasil los frutos secos se utilizan como sustituto de la pimienta y la decocción de las hojas secas se usa como un diurético fuerte, para reducir el edema de los miembros inferiores; (Fournier, Etal, 1994). `,
 
   },
   {
@@ -237,7 +229,7 @@ Los frutos aparecen en las copas de estas palmas que pueden tener hasta 3 o 5 me
     caracteristicas_fisicas: `
 El merey en realidad es el fruto del árbol del merey; el fruto fresco es verde; la nuez tiene forma parecida al frijol y alcanza, aproximadamente, 2,5 centímetros (1 pulgada) de largo; el merey tiene dos capas de cáscara, entre estas capas hay un aceite fuerte que puede producir ampollas en la piel.`,
     propiedades:`
-La nuez del merey se puede hervir, asar o tostar y se come como bocadillo en muchas partes del mundo; también se muele para hacer mantequilla de nuez o se utilizan en distintos caramelos y otros dulces; en india y en asia sudoccidental, a menudo se incorpora merey en diversos platos de comida; la nuez es rica en proteínas y grasas. `,
+La nuez del merey se puede hervir, asar o tostar y se come como bocadillo en muchas partes del mundo; también se muele para hacer mantequilla de nuez o se utilizan en distintos caramelos y otros dulces; en India y en Asia Sudoccidental, a menudo se incorpora merey en diversos platos de comida; la nuez es rica en proteínas y grasas. `,
 
   },
   {
@@ -287,7 +279,7 @@ Según la escala de janka es una de las maderas más blandas que existen con un 
     image: 'ceiba.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Ceiba_pentandra_madeira_hg.jpg',
     caracteristicas_fisicas: `
-Árbol decíduo de copas redondeadas hasta 40 metros de alto, Frecuentemente con grandes aguijones en los troncos sobre todo en árboles jóvenes aunque hay variedades sin aguijones, Estos árboles con el tiempo pueden desarrollar raíces tabulares en forma de aletones en la base y engrosar el tronco a modo de barriga y perder los aguijones, Las ramas de estos árboles son notablemente robustas quedando a veces con aguijones solamente en esta porción de la planta.`,
+Árbol decíduo de copas redondeadas hasta 40 metros de alto, frecuentemente con grandes aguijones en los troncos sobre todo en árboles jóvenes aunque hay variedades sin aguijones, estos árboles con el tiempo pueden desarrollar raíces tabulares en forma de aletones en la base y engrosar el tronco a modo de barriga y perder los aguijones, las ramas de estos árboles son notablemente robustas quedando a veces con aguijones solamente en esta porción de la planta.`,
     propiedades:`
 La madera de este árbol es blanca y blanda se utiliza en carpintería para empaques y cajas de madera. También se ha utilizado para fabricar canoas. La decocción de las hojas se utiliza para afecciones de la piel, granos y picaduras infectadas de insectos. De las semillas se obtienen aceite, el cual es utilizado para la elaboración de jabones y como combustible para lámparas de aceite. Igualmente de la lana que envuelve las semillas frutos se obtiene el kapok que sirve de relleno para la fabricación de almohadas antialérgicas, colchones, rellenos y aislantes térmicos para aparatos de refrigeración, por esta razón se cultivan en países tropicales asiáticos `,
 
@@ -348,7 +340,7 @@ Produce una gran cantidad de hidrocarburos de su madera y hojas. Un árbol pue
 Es un árbol caducifolio que llega a los 25 m de altura con un tronco que puede superar los 2 m de diámetro. De este tronco, que es corto y robusto y de color blanquecino o gris claro, salen gruesas y vigorosas ramas para formar una copa grande y redondeada.`,
     propiedades:`
 Es cultivado extensivamente para la comercialización de sus frutos, las nueces, las cuales se consumen de diversas formas, desde frescas, cocinadas o en repostería. También se utilizan para extraer aceite.
-Es un fruto seco de alto valor nutritivo: rico en proteínas, vitaminas del grupo b, vitamina c, oligoelementos, aceites vegetales, lecitina y ácidos grasos omega 3 (poliinsaturados). `,
+Es un fruto seco de alto valor nutritivo: rico en proteínas, vitaminas del grupo B, vitamina C, oligoelementos, aceites vegetales, lecitina y ácidos grasos omega 3 (poliinsaturados). `,
 
   },
     {
@@ -387,7 +379,7 @@ Del tronco del guaiacum officinale se obtiene la madera denominada «lignum vi
     caracteristicas_fisicas: `
 Es un árbol grande, de hasta 45 m de alto, con un tronco recto. Las hojas son simples, de hasta 23 mm de largo y 6 mm de ancho, opuestas, se disponen en dos series, en un solo plano.`,
     propiedades:`
-Tiene uso maderable. Pertenece a un grupo de coníferas que se distribuyen en el hemisferio sur. Ha sido explotado intensivamente y quedan pocos remanentes de este bosque natural en venezuela, uno de los más espectaculares el bosque de san eusebio perteneciente a la universidad de los andes en la vía de la azulita. `,
+Tiene uso maderable. Pertenece a un grupo de coníferas que se distribuyen en el hemisferio sur. Ha sido explotado intensivamente y quedan pocos remanentes de este bosque natural en Venezuela, uno de los más espectaculares el bosque de San Eusebio perteneciente a la Universidad de los Andes en la vía de la Azulita. `,
 
   },
     {
@@ -413,7 +405,7 @@ Su madera se utiliza cerca de las viviendas del campo y en los potreros. Sus fru
     caracteristicas_fisicas: `
 Árbol de 8 hasta 30 m de alto. Hojas compuestas con 4 a 6 foliolos aovados a oblongos, brevemente acuminados en el ápice, coriáceos, glabros, con puntos translúcidos, de 6 a 15 cm de largo por 3 a 6 cm de ancho.`,
     propiedades:`
-De las semillas se extrae la cumarina que se utiliza para aromatizar. El uso de las semillas, como talismán fue común entre los indígenas del amazonas, quienes confeccionaban collares y brazaletes con ellas. Como árbol ornamental se puede utilizar en las zonas cálidas y sería muy valioso debido a la frondosidad de su copa y a su tronco recto. `,
+De las semillas se extrae la cumarina que se utiliza para aromatizar. El uso de las semillas, como talismán fue común entre los indígenas del Amazonas, quienes confeccionaban collares y brazaletes con ellas. Como árbol ornamental se puede utilizar en las zonas cálidas y sería muy valioso debido a la frondosidad de su copa y a su tronco recto. `,
 
   },
     {
@@ -439,7 +431,7 @@ La madera es suave y sirve solo como formaletas para la construcción. Las flore
     caracteristicas_fisicas: `
 Los árboles de rhizophora mangle son de 4 a 10 metros de alto, su forma es de árbol o arbusto perennifolio, halófilo, en el tronco se encuentran apoyadas numerosas raíces aéreas simples o dicotómicamente ramificadas con numerosas lenticelas, la corteza es de color olivo pálido con manchas grises, sin embargo en el interior es de color rojizo, su textura es de lisa a levemente rugosa con apariencia fibrosa. Las hojas son simples, opuestas, pecioladas, de hoja redondeada, elípticas a oblongas, estas se aglomeran en las puntas de las ramas, su color es verde oscuro en el haz y amarillentas en el envés.`,
     propiedades:`
-El mangle colorado es usado como fuente de carbón de buena calidad de la madera en la mayoría de los costeros de américa tropical y áfrica occidental, igualmente es utilizado para elaborar construcciones e instrumentos rústicos como juguetes, postes para cercas, estaquillas, postes eléctricos y traviesas de ferrocarril. La madera es adecuada para la producción de pulpa disolvente a pesar de que su uso como una fuente de papel parece verse excluido debido al gran grosor de las paredes celulares. Uno de los usos principales de este árbol es para la extracción de taninos a partir de su corteza.`,
+El mangle colorado es usado como fuente de carbón de buena calidad de la madera en la mayoría de los costeros de América tropical y África occidental, igualmente es utilizado para elaborar construcciones e instrumentos rústicos como juguetes, postes para cercas, estaquillas, postes eléctricos y traviesas de ferrocarril. La madera es adecuada para la producción de pulpa disolvente a pesar de que su uso como una fuente de papel parece verse excluido debido al gran grosor de las paredes celulares. Uno de los usos principales de este árbol es para la extracción de taninos a partir de su corteza.`,
   },
     {
     id: 'cujiyaque',
@@ -449,7 +441,7 @@ El mangle colorado es usado como fuente de carbón de buena calidad de la madera
     image: 'cujiyaque.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Starr_080530-4653_Prosopis_juliflora.jpg',
     caracteristicas_fisicas: `
-Es un árbol espinoso, nativo del caribe. Fue introducido en asia y australia. De comportamiento caducifolio. Bajo condiciones favorables de suelo crece hasta alcanzar una altura de 20 metros.`,
+Es un árbol espinoso, nativo del caribe. Fue introducido en Asia y Australia. De comportamiento caducifolio. Bajo condiciones favorables de suelo crece hasta alcanzar una altura de 20 metros.`,
     propiedades:`
 Ayuda a fijar el nitrógeno al suelo, además de ayudar a disminuir la acidez y salinidad de los suelos y controlar la erosión eólica, de esas zonas áridas.
 Dado que son una importante fuente de proteína y energía, las vainas y las semillas molidas son convertidas en harina que se utilizan como complemento en la elaboración de alimentos tales como pan, chicha, cerveza y miel.
@@ -474,7 +466,7 @@ Ademas de su consumo como mermelada y jugos  es utilizada en la medicina tradic
     title: 'El Jengibre o Kion',
     publisher: 'Medicinal',
     title_cientifico: 'ZINGIBER OFFICINALE',
-    image: 'jengibre.png',
+    image: 'jengibre.jpg',
     imageURL: 'https://www.bambooland.com.au/assets/full/ZINOFF.jpg?20210309030952',
     caracteristicas_fisicas: `Planta herbácea vivaz rizomatosa hasta de 1 metro de altura, de gran porte y con hojas envainantes lanceoladas. Las flores son irregulares, verdosas con labelo de color púrpura, agrupadas en espigas densas.  Fruto en cápsula. Rizoma de olor aromático y sabor picante muy característico. 
    `,
@@ -491,11 +483,11 @@ Es un antiinflamatorio natural que ayuda a combatir enfermedades respiratorias, 
     title_cientifico: 'ALOE BARBADENSIS MILLER',
     image: 'aloe-vera.jpg',
     imageURL: 'https://c8.alamy.com/compes/hmwdx9/botanica-liliaceae-aloe-vera-sp-aloe-barbadensis-miller-hmwdx9.jpg',
-    caracteristicas_fisicas: `Esta planta es xerófila, o sea, se adapta a vivir en áreas de poca disponibilidad de agua y se caracteriza por poseer tejidos para el almacenamiento de agua (6,7).
+    caracteristicas_fisicas: `Esta planta es xerófila, o sea, se adapta a vivir en áreas de poca disponibilidad de agua y se caracteriza por poseer tejidos para el almacenamiento de agua.
 
   `,
     propiedades:`
-En cosmética se usa cada vez más. La mayoría de los fabricantes responsables extraen y purifican los extractos, evitando el látex de la planta, conocido como aloína; Contiene vitaminas a, del grupo b, c, mucílagos, minerales, taninos, aceites, ácidos grasos (oleico y linoleico), aminoácidos, tiene la propiedad de regenerar las células de la piel, tiene acción digestiva, tiene efecto depurativo, favorece la regeneración de tejidos interno, elimina hongos y virus, regenera las células de la piel, tiene efecto analgésico, protege el sistema inmunitario y posee acción antiinflamatoria.`,
+En cosmética se usa cada vez más. La mayoría de los fabricantes responsables extraen y purifican los extractos, evitando el látex de la planta, conocido como aloína; contiene vitaminas A, del grupo B, C, mucílagos, minerales, taninos, aceites, ácidos grasos (oleico y linoleico), aminoácidos, tiene la propiedad de regenerar las células de la piel, tiene acción digestiva, tiene efecto depurativo, favorece la regeneración de tejidos interno, elimina hongos y virus, regenera las células de la piel, tiene efecto analgésico, protege el sistema inmunitario y posee acción antiinflamatoria.`,
   },
  {
     id: 'cola-de-caballo',
@@ -504,7 +496,7 @@ En cosmética se usa cada vez más. La mayoría de los fabricantes responsables 
     title_cientifico: 'EQUISETUM ARVENSE',
     image: 'cola-de-caballo.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Equisetopsida.jpg',
-    caracteristicas_fisicas: `Es una especie de arbusto perteneciente a la familia de las equisetáceas, planta vivaz con un rizoma rastrero del que nacen raíces secundarias; Crece en el transcurso del año de dos formas diferentes: en marzo-abril se desarrollan tallos fértiles de color marrón rojizo o amarillo de unos 20 cm; De altura, con hojas marrones.
+    caracteristicas_fisicas: `Es una especie de arbusto perteneciente a la familia de las equisetáceas, planta vivaz con un rizoma rastrero del que nacen raíces secundarias; crece en el transcurso del año de dos formas diferentes: en marzo-abril se desarrollan tallos fértiles de color marrón rojizo o amarillo de unos 20 cm; de altura, con hojas marrones.
 
    `,
     propiedades:`
@@ -519,12 +511,12 @@ La cola de caballo es una planta que se utiliza para disminuir la "retención de
     title_cientifico: 'AZAFRÁN DEL POBRE O PALILLO',
     image: 'curcuma.jpg',
     imageURL: 'https://img3.exportersindia.com/product_images/bc-full/dir_172/5136938/turmeric-plant-1513924659-3536456.jpg',
-    caracteristicas_fisicas: `Es una planta herbácea de la familia de las zingiberáceas esta planta es originaria de los territorios del sudeste asiático, en los cuales resulta altamente conocida desde la antigüedad, y al contrario que otras no se reproduce mediante semillas sino mediante el uso de esquejes; La parte de la cúrcuma que más se suele emplear es el rizoma o tallo subterráneo, del cual parten las raíces.
+    caracteristicas_fisicas: `Es una planta herbácea de la familia de las zingiberáceas esta planta es originaria de los territorios del sudeste asiático, en los cuales resulta altamente conocida desde la antigüedad, y al contrario que otras no se reproduce mediante semillas sino mediante el uso de esquejes; la parte de la cúrcuma que más se suele emplear es el rizoma o tallo subterráneo, del cual parten las raíces.
    `,
     propiedades:`
 Posee propiedades antiinflamatorias.
-Efecto antitumoral; Un interesante antioxidante.
-Hipoglucemiante y de ayuda contra la diabetes; Protege el intestino y el hígado, cicatrizante; Protege el corazón, reduce el colesterol y previene enfermedades cardíacas; Mejora las alergias y el asma.`,
+Efecto antitumoral; un interesante antioxidante.
+Hipoglucemiante y de ayuda contra la diabetes; Protege el intestino y el hígado, cicatrizante; protege el corazón, reduce el colesterol y previene enfermedades cardíacas; mejora las alergias y el asma.`,
 
   },
  {
@@ -548,10 +540,10 @@ Ayuda a aliviar congestión, tos, síntomas asociados a infecciones respiratoria
     title_cientifico: 'CAMOMILA',
     image: 'manzanilla.jpg',
     imageURL: 'https://www.munayherbal.com/wp-content/uploads/2020/05/Manzanilla-1.jpg',
-    caracteristicas_fisicas: `Tal y como te adelantábamos, la manzanilla (o camomila), es una planta de porte herbáceo, anual y aromática. Presenta un tallo erguido, ramoso y puede llegar a alcanzar una altura de 50 cm (aproximadamente); Sus hojas son pinnadas, alternas, segmentadas y tienen una ligera capa de vello.
+    caracteristicas_fisicas: `La manzanilla (o camomila), es una planta de porte herbáceo, anual y aromática. Presenta un tallo erguido, ramoso y puede llegar a alcanzar una altura de 50 cm (aproximadamente); sus hojas son pinnadas, alternas, segmentadas y tienen una ligera capa de vello.
    `,
     propiedades:`
-Las principales propiedades de esta hierba son antiinflamatorias, antialérgicas, antibacterianas y sedantes; Además, posee buenas ventajas digestivas por lo que se recomienda beber una taza de té de manzanilla después de comer para aliviar dolores, calmar la pesadez y hasta en casos de úlceras o gastritis.
+Las principales propiedades de esta hierba son antiinflamatorias, antialérgicas, antibacterianas y sedantes; además, posee buenas ventajas digestivas por lo que se recomienda beber una taza de té de manzanilla después de comer para aliviar dolores, calmar la pesadez y hasta en casos de úlceras o gastritis.
 
 `,
   },
@@ -577,12 +569,12 @@ El tomillo también se puede tomar como infusión para combatir problemas como d
     title_cientifico: 'TARAXACUM OFFICINALE',
     image: 'diente-de-leon.jpg',
     imageURL: 'https://pflanzio.com/shop/wp-content/uploads/sites/2/2018/04/Taraxacum-officinale-6.jpg',
-    caracteristicas_fisicas: `Planta perenne con raíz primaria larga y roseta basal, suele alcanzar 40 cm de altura; Tiene hojas alternas lanceoladas con una nervadura central, sin pecíolo diferenciado, pinnatipartidas con lóbulos en forma triangular de márgenes dentados y agudos, a veces presenta microvellosidades; El tallo permanece siempre en un estado extremadamente acortado, es por esto que se denominan plantas acaulescentes; Las flores hermafroditas de color amarillo dorado fácilmente identificable; Corola en lígulas terminada en cinco pequeños dientes, florece desde fines de invierno hasta fines de verano; El fruto es un "aquenio" (cipsela) con largo pico y vilano.
+    caracteristicas_fisicas: `Planta perenne con raíz primaria larga y roseta basal, suele alcanzar 40 cm de altura; tiene hojas alternas lanceoladas con una nervadura central, sin pecíolo diferenciado, pinnatipartidas con lóbulos en forma triangular de márgenes dentados y agudos, a veces presenta microvellosidades; el tallo permanece siempre en un estado extremadamente acortado, es por esto que se denominan plantas acaulescentes; las flores hermafroditas de color amarillo dorado fácilmente identificable; Corola en lígulas terminada en cinco pequeños dientes, florece desde fines de invierno hasta fines de verano; El fruto es un "aquenio" (cipsela) con largo pico y vilano.
   `,
     propiedades:`
-La planta es ampliamente utilizada en los casos donde se presentan trastornos digestivos o gástricos; También es uno de los aliados ideales para mejorar la digestión.
-El diente de león es un depurativo natural para el hígado; En caso de padecer de hígado graso, también es frecuente el uso de esta planta; Su consumo aumenta la secreción en la bilis, actúa como preventivo contra posibles hemorragias en este órgano, mientras que por otro lado mejora la pureza de la sangre.
-De igual forma, actúa como un efectivo remedio laxante y se ha demostrado su poder en el tratamiento de los cálculos renales; Tiene efectos contra el estreñimiento y ayuda a eliminar el colesterol del organismo.`,
+La planta es ampliamente utilizada en los casos donde se presentan trastornos digestivos o gástricos; también es uno de los aliados ideales para mejorar la digestión.
+El diente de león es un depurativo natural para el hígado; en caso de padecer de hígado graso, también es frecuente el uso de esta planta; su consumo aumenta la secreción en la bilis, actúa como preventivo contra posibles hemorragias en este órgano, mientras que por otro lado mejora la pureza de la sangre.
+De igual forma, actúa como un efectivo remedio laxante y se ha demostrado su poder en el tratamiento de los cálculos renales; tiene efectos contra el estreñimiento y ayuda a eliminar el colesterol del organismo.`,
   },
 {
     id: 'flor-de-jamaica',
@@ -591,7 +583,7 @@ De igual forma, actúa como un efectivo remedio laxante y se ha demostrado su po
     title_cientifico: 'HIBISCUS SABDARIFFA',
     image: 'flor-de-jamaica-1.png',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flor_de_Jamaica.jpg',
-    caracteristicas_fisicas: `Es una planta herbácea que puede alcanzar de 3 a 5 metros de altura. Es propia de climas secos subtropicales, montanos, de matorral espinoso. Esta es una planta originaria del áfrica y tiene grandes propiedades medicinales
+    caracteristicas_fisicas: `Es una planta herbácea que puede alcanzar de 3 a 5 metros de altura. Es propia de climas secos subtropicales, montanos, de matorral espinoso. Esta es una planta originaria del África y tiene grandes propiedades medicinales
   `,
     propiedades:`
 Suele ser reconocida por sus propiedades terapéuticas o medicinales. Esto se debe a que, como la mayoría de las plantas, concentra múltiples vitaminas, minerales y compuestos bioactivos llamados fitoquímicos, con diversas propiedades antioxidantes, antiinflamatorias e antihipertensivas.
@@ -605,10 +597,10 @@ La flor de jamaica es particularmente rica en hierro y calcio, dos minerales re
     title_cientifico: 'PETROSELINUM CRISPUM',
     image: 'perejil.jpg',
     imageURL: 'https://thumbs.dreamstime.com/b/parsley-leaves-flower-petroselinum-crispum-21782852.jpg',
-    caracteristicas_fisicas: `Es una planta herbácea de la familia apiaceae nativa de la zona central de la región mediterránea e introducida y naturalizada en el resto de europa y distribuida ampliamente por todo el mundo. Se cultiva generalmente como condimento.
+    caracteristicas_fisicas: `Es una planta herbácea de la familia apiaceae nativa de la zona central de la región mediterránea e introducida y naturalizada en el resto de Europa y distribuida ampliamente por todo el mundo. Se cultiva generalmente como condimento.
   `,
     propiedades:`
-Es una planta herbácea medicinal muy utilizada para el tratamiento de la retención de líquidos, enfermedades renales como infecciones urinarias y piedras en los riñones y en algunos problemas gastrointestinales, como estreñimiento y gases; También puede aportarnos: proteínas, fibra, calcio, hierro, potasio, vitamina a, folatos tiamina, flavonoides, miristicina y apiol; Destaca su contenido en vitamina a; Asimismo contiene otras sustancias no nutritivas tales como los flavonoides y aceite esencial (apiol y miristicina).`,
+Es una planta herbácea medicinal muy utilizada para el tratamiento de la retención de líquidos, enfermedades renales como infecciones urinarias y piedras en los riñones y en algunos problemas gastrointestinales, como estreñimiento y gases; También puede aportarnos: proteínas, fibra, calcio, hierro, potasio, vitamina A, folatos tiamina, flavonoides, miristicina y apiol; Destaca su contenido en vitamina A; asimismo contiene otras sustancias no nutritivas tales como los flavonoides y aceite esencial (apiol y miristicina).`,
   },
  {
     id: 'valeriana',
@@ -616,8 +608,8 @@ Es una planta herbácea medicinal muy utilizada para el tratamiento de la rete
     publisher: 'Medicinal',
     title_cientifico: 'VALERIANA OFFICINALIS',
     image: 'valeriana.jpg',
-    imageURL: 'https://c8.alamy.com/compes/fj6b8e/valeriana-comun-sanar-jardin-heliotrope-jardin-valeriana-valeriana-officinalis-floreciendo-alemania-fj6b8e.jpg',
-    caracteristicas_fisicas: `Es una planta vivaz cuya morfología es muy variable; Forma un fuerte rizoma con enormes raíces laterales de cortas ramificaciones; El tallo es hasta 1 metro de altura, es cilíndrico, estriado, erecto y algo ramificado en el extremo. Se agrupan en corimbos en el extremo del tallo.  `,
+    imageURL: 'https://3.bp.blogspot.com/-N7DGEUp6JU0/W9iDvIdLgMI/AAAAAAAAE0Y/Q8a9YxeV2OwqyMxXRc3Tb7curk89994BQCLcBGAs/s1600/valeriana.jpg',
+    caracteristicas_fisicas: `Es una planta vivaz cuya morfología es muy variable; forma un fuerte rizoma con enormes raíces laterales de cortas ramificaciones; el tallo es hasta 1 metro de altura, es cilíndrico, estriado, erecto y algo ramificado en el extremo. Se agrupan en corimbos en el extremo del tallo.  `,
     propiedades:`
 La valeriana actúa como un agente sedante, relajando el sistema nervioso y el cerebro. Al contrario que sucede con otros tranquilizantes, esta planta no agota ni debilita a quienes la consumen, por lo que se suele recomendar su toma principalmente en personas que tengan problemas para conciliar el sueño.
 También se recomienda para aquellas afecciones relacionadas con el estrés y la ansiedad que cursan con otras reacciones tales como la histeria, dolores de cabeza y migrañas, dolores estomacales o hipocondría.
@@ -634,7 +626,13 @@ Del mismo modo, alivia los síntomas de angustia, emotividad o tristeza, así c
 
    `,
     propiedades:`
-El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de utilidad para dolencias del aparato respiratorio, como infecciones, bronquitis, tos, gripe. Posee propiedades antiinflamatorias y analgésicas, por lo que es perfecto contra la artritis.
+La actividad principal del romero está íntimamente vinculada al sistema digestivo por estimular y favorecer las secreciones y la producción de jugos gastrointestinales. También sorprende en otros efectos no tan vinculados. A continuación, los destacamos:
+
+- Efecto carminativo: favorece la disminución de la generación de gases en el tubo digestivo y con ello disminuyen las flatulencias y cólicos.
+- Facilita la expulsión de la bilis retenida en la vesícula biliar.
+- Efecto diurético como la cola de caballo, antiinflamatorio, antiulcerogénico y antioxidante.
+- Efecto antibactericida, antiséptico, fungicida y balsámico.
+- Efecto rubefaciente y cicatrizante aumenta el flujo de sangre en la zona localizada aliviando dolores de afectaciones osteomusculares.
 
 `,
 
@@ -650,12 +648,12 @@ El jengibre tiene propiedades antivirales y ayuda a combatir los virus. Es de ut
     title_cientifico: 'BOSWELLIA SACRA',
     image: 'incienso.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flor_de_Jamaica.jpg',
-    caracteristicas_fisicas: `Árbol pequeño de hojas caducas (hoja no perenne), que alcanza una altura de 2 a 8 metros, con uno o varios troncos. Su corteza tiene la textura del papel y se extrae fácilmente; Las hojas compuestas e impares (número impar de foliolos crecen a lo largo de las ramas en forma opuesta; Sus diminutas flores, de un blanco amarillento, aparecen reunidas en racimos axilares; están compuestas de cinco pétalos de diez estambres y un cáliz de cinco dientes; El fruto es una cápsula de, aproximadamente, 1 cm; De largo, las hojas nuevas están recubiertas por un fino plumón.
+    caracteristicas_fisicas: `Árbol pequeño de hojas caducas (hoja no perenne), que alcanza una altura de 2 a 8 metros, con uno o varios troncos. Su corteza tiene la textura del papel y se extrae fácilmente; las hojas compuestas e impares (número impar de foliolos crecen a lo largo de las ramas en forma opuesta; sus diminutas flores, de un blanco amarillento, aparecen reunidas en racimos axilares; están compuestas de cinco pétalos de diez estambres y un cáliz de cinco dientes; el fruto es una cápsula de, aproximadamente, 1 cm; de largo, las hojas nuevas están recubiertas por un fino plumón.
 Los individuos que crecen en las pendientes escarpadas desarrollan un muñón, en forma de cojín, en la base del tronco que se adhiere a la roca y le asegura una cierta estabilidad.  
 
 `,
     propiedades:`
-Se puede utilizar como tópicos en la piel, preparando un ungüento para tratar zonas con edemas, hinchadas, lastimadas o quemadas; Los tés se pueden consumir como estimulantes y limpiadores de la piel. El té liviano en compresas puede usarse para tratar varios problemas oftalmológicos; La resina se suele masticar para mejorar la salud bucal en general ayuda a tener dientes y encías más fuertes; El té ayuda a cuidar el sistema digestivo, evitando los dolores de estómago; También es un poderoso expectorante y por ende ayuda a curar resfriados, gripes y otras enfermedades del tracto respiratorio. El incienso ayuda a mejorar la memoria y disipa el letargo; Ayuda a aliviar los dolores de cabeza; Funciona bien como repelente ya que ahuyenta a los mosquitos. También se lo utiliza para los dolores musculares, dolores por el reuma y la artritis. Durante el embarazo, puede aliviar las náuseas y ayudar en el momento del parto.
+Se puede utilizar como tópicos en la piel, preparando un ungüento para tratar zonas con edemas, hinchadas, lastimadas o quemadas; los tés se pueden consumir como estimulantes y limpiadores de la piel. El té liviano en compresas puede susarse para tratar varios problemas oftalmológicos; la resina se suele masticar para mejorar la salud bucal en general ayuda a tener dientes y encías más fuertes; el té ayuda a cuidar el sistema digestivo, evitando los dolores de estómago; también es un poderoso expectorante y por ende ayuda a curar resfriados, gripes y otras enfermedades del tracto respiratorio. El incienso ayuda a mejorar la memoria y disipa el letargo; ayuda a aliviar los dolores de cabeza; funciona bien como repelente ya que ahuyenta a los mosquitos. También se lo utiliza para los dolores musculares, dolores por el reuma y la artritis. Durante el embarazo, puede aliviar las náuseas y ayudar en el momento del parto.
 `,
   },
 {
@@ -678,7 +676,7 @@ El acetaminofén se ha convertido en una planta que posee múltiples propiedades
     title_cientifico: 'ALLIUM SATIVUM',
     image: 'ajo.jpg',
     imageURL: 'https://3.bp.blogspot.com/-4X3tlk6ZEBk/WgLvUm2iSxI/AAAAAAAABDs/A_RKjdRu0ns3xeelgDtzsKiPlQp5P3jpwCLcBGAs/s1600/phoca_thumb_l_allium_sativum_2.jpg',
-    caracteristicas_fisicas: `Es una planta perenne con hojas planas y delgadas; Mide hasta 30 cm de longitud. Las raíces alcanzan fácilmente profundidades de 50 cm o más; El bulbo es de piel blanca y forma una cabeza dividida en gajos que comúnmente son llamados dientes; Cada cabeza puede contener de 6 a 12 dientes, cada uno de los cuales se encuentra envuelto en una delgada capa de color blanco o rojizo y éstos puede dar origen a una nueva planta de ajo, ya que poseen en su base una yema terminal que es capaz de germinar incluso sin necesidad de plantarse previamente. Este brote comienza a aparecer después de los tres meses de cosechado, dependiendo de la variedad y condiciones de conservación; Las flores son blancas y en algunas especies el tallo también produce pequeños bulbos o hijuelos. 
+    caracteristicas_fisicas: `Es una planta perenne con hojas planas y delgadas; mide hasta 30 cm de longitud. Las raíces alcanzan fácilmente profundidades de 50 cm o más; el bulbo es de piel blanca y forma una cabeza dividida en gajos que comúnmente son llamados dientes; cada cabeza puede contener de 6 a 12 dientes, cada uno de los cuales se encuentra envuelto en una delgada capa de color blanco o rojizo y éstos puede dar origen a una nueva planta de ajo, ya que poseen en su base una yema terminal que es capaz de germinar incluso sin necesidad de plantarse previamente. Este brote comienza a aparecer después de los tres meses de cosechado, dependiendo de la variedad y condiciones de conservación; las flores son blancas y en algunas especies el tallo también produce pequeños bulbos o hijuelos. 
 
 `,
     propiedades:`
@@ -691,12 +689,12 @@ Se ha utilizado como hierba medicinal desde hace más de 5.000 años y se sabe q
     title_cientifico: 'EUCALYPTUS',
     image: 'eucalipto.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Starr_051123-5467_Eucalyptus_globulus.jpg/250px-Starr_051123-5467_Eucalyptus_globulus.jpg',
-    caracteristicas_fisicas: `Es un árbol de gran porte que puede llegar a medir hasta 70 metros de altura; Su tallo es recto y la corteza que lo cubre se desgaja y se separa del tronco; El color de la corteza es de un característico gris azulado; Las raíces del eucalipto pueden ser muy poderosas y agresivas.
-Las hojas adultas del eucalipto son alternas, lanceoladas y llegan a medir hasta 30 centímetros de longitud. Son hojas pecioladas, con un marcado nervio central; Es de color verde oscuro brillante y de una fuerte textura endurecida; Por su parte, las hojas jóvenes carecen de pecíolo, abrazan directamente el tallo y son opuestas; Su color es de un verde claro, grisáceo; Esta característica de presentar hojas marcadamente diferenciadas entre jóvenes y adultas, se la conoce como heterofilia. 
+    caracteristicas_fisicas: `Es un árbol de gran porte que puede llegar a medir hasta 70 metros de altura; su tallo es recto y la corteza que lo cubre se desgaja y se separa del tronco; el color de la corteza es de un característico gris azulado; las raíces del eucalipto pueden ser muy poderosas y agresivas.
+Las hojas adultas del eucalipto son alternas, lanceoladas y llegan a medir hasta 30 centímetros de longitud. Son hojas pecioladas, con un marcado nervio central; es de color verde oscuro brillante y de una fuerte textura endurecida; por su parte, las hojas jóvenes carecen de pecíolo, abrazan directamente el tallo y son opuestas; su color es de un verde claro, grisáceo; esta característica de presentar hojas marcadamente diferenciadas entre jóvenes y adultas, se la conoce como heterofilia. 
 
 `,
     propiedades:`
-El eucalipto es usado como remedio natural para combatir afecciones en las vías respiratorias; También para hacer papel, madera, construir y en la obtención de productos químicos; Además se usa en la aromaterapia, como repelente natural y para absorber el agua.`,
+El eucalipto es usado como remedio natural para combatir afecciones en las vías respiratorias; también para hacer papel, madera, construir y en la obtención de productos químicos; además se usa en la aromaterapia, como repelente natural y para absorber el agua.`,
   },
 {
     id: 'caña-la-india',
@@ -705,7 +703,7 @@ El eucalipto es usado como remedio natural para combatir afecciones en las vías
     title_cientifico: 'COSTUS ALLENII MAAS',
     image: 'caña-la-india.jpg',
     imageURL: 'https://www.bambooland.com.au/assets/thumbL/COSPUL.jpg?20210309031518',
-    caracteristicas_fisicas: `Hierba carnosa, de 1 a 2 metros de altura. Hojas alternas, oblongas u ovobado-oblongas, de 30 a 40 cm, Flores blancas en conos terminales de color marrón. 
+    caracteristicas_fisicas: `Hierba carnosa, de 1 a 2 metros de altura. Hojas alternas, oblongas u ovobado-oblongas, de 30 a 40 cm, flores blancas en conos terminales de color marrón. 
 
 `,
     propiedades:`
@@ -718,7 +716,7 @@ Su grueso culmo, contiene un jugo agridulce pe se puede extraer manualmente o pr
     title_cientifico: 'PARTHENIUM HYSTEROPHORUS',
     image: 'escoba-amarga.jpg',
     imageURL: 'https://thumbs.dreamstime.com/z/parthenium-hysterophorus-y-weed-128750959.jpg',
-    caracteristicas_fisicas: `Hierba pubescente, comúnmente muy ramificada, de hasta 80 cm de altura, Hojas aovadas u oblongas, 1 o 2 pinnatifidas, de hasta 10 cm de largo y 5 cm de ancho, Capítulos florales dispuestos en panojas de hasta 10 cm de diámetro.  `,
+    caracteristicas_fisicas: `Hierba pubescente, comúnmente muy ramificada, de hasta 80 cm de altura, hojas aovadas u oblongas, 1 o 2 pinnatifidas, de hasta 10 cm de largo y 5 cm de ancho, capítulos florales dispuestos en panojas de hasta 10 cm de diámetro.  `,
     propiedades:`
 La escoba amarga se usa popularmente en la preparación de infusiones para bajar la fiebre y como antiparasitaria. También se emplea en maceraciones para uso tópico con la finalidad de aliviar trastornos inflamatorios articulares, como analgésico y en baños contra enfermedades de la piel.`,
   },
@@ -729,11 +727,11 @@ La escoba amarga se usa popularmente en la preparación de infusiones para bajar
     title_cientifico: 'MELISSA OFFICINALIS',
     image: 'toronjil.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/02014_Melissa_officinalis.JPG/220px-02014_Melissa_officinalis.JPG',
-    caracteristicas_fisicas: `Hierba perenne de entre 20 y 30 cm de altura con el follaje verde claro y característico olor a cítrico; Los finos tallos son cuadrangulares y pelosos, en los que se disponen las hojas en pares opuestos que a su vez se caracterizan por ser aovadas y por tener el borde crenado.
+    caracteristicas_fisicas: `Hierba perenne de entre 20 y 30 cm de altura con el follaje verde claro y característico olor a cítrico; los finos tallos son cuadrangulares y pelosos, en los que se disponen las hojas en pares opuestos que a su vez se caracterizan por ser aovadas y por tener el borde crenado.
   `,
     propiedades:`
-El toronjil posee una serie de propiedades beneficiosas para la salud y para el tratamiento de ciertas molestias, las cuales proceden de su composición química (es rico en eugenol, cariofileno o germacreno además de citral o citronela; Algunas de sus propiedades y usos más conocidos se indican a continuación.
-Una de las propiedades más relevantes del toronjil es su efecto sedante y relajante, contribuyendo a rebajar estados de ánimo alterados o de agitación, como la depresión o la ansiedad; Asimismo contribuye a favorecer el sueño, algo útil en casos de insomnio.
+El toronjil posee una serie de propiedades beneficiosas para la salud y para el tratamiento de ciertas molestias, las cuales proceden de su composición química (es rico en eugenol, cariofileno o germacreno además de citral o citronela; algunas de sus propiedades y usos más conocidos se indican a continuación.
+Una de las propiedades más relevantes del toronjil es su efecto sedante y relajante, contribuyendo a rebajar estados de ánimo alterados o de agitación, como la depresión o la ansiedad; asimismo contribuye a favorecer el sueño, algo útil en casos de insomnio.
 
 `,
   },
@@ -744,10 +742,10 @@ Una de las propiedades más relevantes del toronjil es su efecto sedante y relaj
     title_cientifico: 'ÁRNICA MONTANA',
     image: 'arnica.jpg',
     imageURL: 'https://i.pinimg.com/474x/c7/58/4e/c7584e44ba53070c2eaefc4060cca323.jpg',
-    caracteristicas_fisicas: `El toronjil posee una serie de propiedades beneficiosas para la salud y para el tratamiento de ciertas molestias, las cuales proceden de su composición química (es rico en eugenol, cariofileno o germacreno además de citral o citronela; Algunas de sus propiedades y usos más conocidos se indican a continuación.
+    caracteristicas_fisicas: `Planta de unos 20-60 cm de altura, con tallos erectos simples o algo ramificados, un poco pubescente glandulosa. Tiene las hojas basales en roseta y las caulinares escasas, opuestas, ovaladas-lanceoladas enteras o con dientes obtusos y prácticamente glabras.
   `,
     propiedades:`
-Su uso medicinal, como el de estimular el sistema nervioso y el cerebro no está comprobado; Si se ha demostrado cierta utilidad en el tratamiento de la artrosis; Sin embargo sus preparados homeopáticos en la mayoría de los casos no muestran utilidad, en los casos en los que el preparado homeopático muestra utilidad, es solo para tratar el dolor aunque la referencia no indica si este efecto es superior al efecto placebo.
+Su uso medicinal, como el de estimular el sistema nervioso y el cerebro no está comprobado; si se ha demostrado cierta utilidad en el tratamiento de la artrosis; sin embargo sus preparados homeopáticos en la mayoría de los casos no muestran utilidad, en los casos en los que el preparado homeopático muestra utilidad, es solo para tratar el dolor aunque la referencia no indica si este efecto es superior al efecto placebo.
 Macerar sus flores en aceite de oliva es un remedio para muchas personas del campo contra los golpes con hematoma o torcedura.
 `,
   },
@@ -758,10 +756,10 @@ Macerar sus flores en aceite de oliva es un remedio para muchas personas del cam
     title_cientifico: 'ERYSIMUM CHEIRI',
     image: 'alheli-amarillo.jpg',
     imageURL: 'https://thumbs.dreamstime.com/z/flores-erysimum-cheiri-cheiranthus-o-wallflower-en-el-jard%C3%ADn-de-primavera-sobre-fondo-borroso-flor-dorada-amarilla-con-bokeh-165524553.jpg',
-    caracteristicas_fisicas: `Es una planta herbal con tallo semileñoso en la base, bienal (es decir, en el primer año se forma una roseta de hojas que constituye reservas alimenticias para el desarrollo y al año siguiente aparece la flor), Tiene flores pequeñas de cuatro pétalos, terminales, simples o dobles, de suave perfume y de colores variados.
+    caracteristicas_fisicas: `Es una planta herbal con tallo semileñoso en la base, bienal (es decir, en el primer año se forma una roseta de hojas que constituye reservas alimenticias para el desarrollo y al año siguiente aparece la flor), tiene flores pequeñas de cuatro pétalos, terminales, simples o dobles, de suave perfume y de colores variados.
   `,
     propiedades:`
-La infusión hecha con flores de alhelí amarillo o blanco ayuda a calmar dolores de cabeza y estimulan el sistema nervioso. En el caso de las hojas, es necesario desecarlas antes de utilizarlas como remedio, A una taza de agua hirviendo se agregan unas dos o tres hojas desecadas, se retira del fuego y se deja reposar tapada por unos 10 minutos, Luego se cuela y se bebe lentamente para lograr efectos diuréticos, depurativos y antiespasmódicos, No deben ingerirse más de dos tazas por día.`,
+La infusión hecha con flores de alhelí amarillo o blanco ayuda a calmar dolores de cabeza y estimulan el sistema nervioso. En el caso de las hojas, es necesario desecarlas antes de utilizarlas como remedio, a una taza de agua hirviendo se agregan unas dos o tres hojas desecadas, se retira del fuego y se deja reposar tapada por unos 10 minutos, luego se cuela y se bebe lentamente para lograr efectos diuréticos, depurativos y antiespasmódicos, no deben ingerirse más de dos tazas por día.`,
   },
 {
     id: 'hierba-de-san-juan',
@@ -772,7 +770,7 @@ La infusión hecha con flores de alhelí amarillo o blanco ayuda a calmar dolore
     imageURL: 'https://swbiodiversity.org/imglib/seinet/midwest/Hypericaceae/202003/Hypericum_perforatum_habit_er_1584187568.jpg',
     caracteristicas_fisicas: `Es una planta vivaz, de la familia de las hipericáceas, con raíces leñosas pardo amarillentas y un poco ramificadas. Sus tallos erectos son rojizos y pueden medir de 50 a 80 cm. Se ramifican en la parte superior de la planta y en dos ramas longitudinales, características de este tipo de hipérico.`,
     propiedades:`
-Durante décadas se ha utilizado en la medicina tradicional por vía externa como astringente, antiséptica y cicatrizante y por vía oral como tratamiento de las alteraciones del sueño y la depresión. El mecanismo de acción de esta planta no está totalmente aclarado, pero parece asociarse a la presencia de hipericina, una naftodiantrona, en la composición de la misma. En los ensayos clínicos realizados comparando la eficacia de la hierba de san juan como tratamiento de la depresión leve-moderada frente a placebo y antidepresivos estándares, los resultados son superiores frente al primero y similares frente al segundo, No obstante, el número de ensayos clínicos es todavía insuficiente para concluir definitivamente su grado de eficacia, Su administración es bien tolerada y las reacciones adversas más comunes son problemas de tipo gastrointestinal, fatiga, confusión y sedación.`,
+Durante décadas se ha utilizado en la medicina tradicional por vía externa como astringente, antiséptica y cicatrizante y por vía oral como tratamiento de las alteraciones del sueño y la depresión. El mecanismo de acción de esta planta es incierto, pero parece asociarse a la presencia de hipericina, una naftodiantrona, en la composición de la misma. En los ensayos clínicos realizados comparando la eficacia de la hierba de san juan como tratamiento de la depresión leve-moderada frente a placebo y antidepresivos estándares, los resultados son superiores frente al primero y similares frente al segundo, no obstante, el número de ensayos clínicos es todavía insuficiente para concluir definitivamente su grado de eficacia, su administración es bien tolerada y las reacciones adversas más comunes son problemas de tipo gastrointestinal, fatiga, confusión y sedación.`,
   },
 {
     id: 'anis',
@@ -829,7 +827,7 @@ Beneficia a personas con hipertensión, la stevia actúa como hipotensor y cardi
     title_cientifico: ' SOLANUM NIGRESCENS MART & GAL.',
     image: 'hierba-mora.jpg',
     imageURL: 'https://lh3.googleusercontent.com/proxy/-Uf4oZgyg2a8bH6YBn37RaqVgummwSELJ00MmiN2ys_DR1SPgH4wqKypACjyqSg-FN7_8l9e_VbvU_Ch_qa-Uk0e7liWsSFEFBhxGID6MRcIqlu8DQt5JXenLOz0uTEIqA_39Z6l4MeKz4kT3B80AwOsS--_i7smpPoTZqkqPETT1o0',
-    caracteristicas_fisicas: `Tallos cortamente pubescentes o glabros. Peciolos de 12 a 50 mm de largo. Hojas a menudo en pares en su mayoría aovadas, enteras o sinuado-dentadas de 5 a 10 cm de largo y 1 a 5 cm de ancho. Inflorescencias laterales, paucifloras y con los pedúnculos ascendentes o extendidos. Tiene el cáliz corto con 5 dientes. Corola blanca con 5 lóbulos agudos. Fruto carnoso, globoso y negro al madurar. `,
+    caracteristicas_fisicas: `Tallos cortamente pubescentes o glabros. Peciolos de 12 a 50 mm de largo,a menudo suelen tener hojas en pares en su mayoría aovadas, enteras o sinuado-dentadas de 5 a 10 cm de largo y 1 a 5 cm de ancho. Inflorescencias laterales, paucifloras y con los pedúnculos ascendentes o extendidos. Tiene el cáliz corto con 5 dientes. Corola blanca con 5 lóbulos agudos. Fruto carnoso, globoso y negro al madurar. `,
     propiedades:`
 Cicatrizante, calmante, narcótica, antiherpética, antihemorroidal, analgésica, antipirética, antiséptica y pediculicida. Se utiliza para lavados vaginales y en el tratamiento de las afecciones de la piel y los ojos.`,
    },
@@ -842,7 +840,7 @@ Cicatrizante, calmante, narcótica, antiherpética, antihemorroidal, analgésica
     imageURL: 'https://lh3.googleusercontent.com/proxy/3DpGalpLE-WdBbWaJFKj5BguIWGR7Eez5OFLbuoC7XGX99NDj0t-8WFmmGTqZbJ6YTs-uC2hIvhuo7A8SyIU24FRZzA4IuQpzKUYY2vpEK4t-47hSnPEjJQpkStXfPXkpmMIuF9EWgwTp1brlPRGWis6jOib',
     caracteristicas_fisicas: `Es una planta herbácea de unos 10 cm de altura de origen sudamericano con un olor parecido al ajo especialmente en las raíces.`,
     propiedades:`
-Estimula y refuerza la contracción cardíaca con lo que previene frente a infarto de miocardio y arritmias. Mantiene concentraciones adecuadas de la aldosterona, hormona encargada junto con la vasopresina de regular el equilibrio hídrico del organismo. Regula la glucemia, de manera que evitamos los picos hiperglucémicos característico de la diabetes tipo i. Indirectamente regula la concentración de hormonas sexuales principalmente testosterona y androstenediona que favorece la aparición de caracteres sexuales secundarios como son la aparición de vello, el aumento de glóbulos rojos y el desarrollo del sistema óseo. Estimula el desarrollo cognitivo previniendo frente a enfermedades como el alzheimer, el parkinson o la corea de huntington.`,
+Estimula y refuerza la contracción cardíaca con lo que previene frente a infarto de miocardio y arritmias. Mantiene concentraciones adecuadas de la aldosterona, hormona encargada junto con la vasopresina de regular el equilibrio hídrico del organismo. Regula la glucemia, de manera que evitamos los picos hiperglucémicos característico de la diabetes tipo I. Indirectamente regula la concentración de hormonas sexuales principalmente testosterona y androstenediona que favorece la aparición de caracteres sexuales secundarios como son la aparición de vello, el aumento de glóbulos rojos y el desarrollo del sistema óseo. Estimula el desarrollo cognitivo previniendo frente a enfermedades como el alzheimer, el parkinson o la corea de huntington.`,
    },
 {
     id: 'menta',
@@ -853,7 +851,7 @@ Estimula y refuerza la contracción cardíaca con lo que previene frente a infar
     imageURL: 'https://sc04.alicdn.com/kf/HTB1jtDWKFXXXXcMXXXXq6xXFXXXJ.jpg',
     caracteristicas_fisicas: `Son plantas aromáticas que alcanzan una altura máxima de 120 cm aproximadamente. Las hojas, a menudo ligeramente pubescentes, se disponen en pares opuestos, simples y de forma oblonga a lanceolada a menudo con margen dentado. Las flores son de colores blanco o púrpura, surgen en espigas terminales son bilabiadas con cuatro lóbulos desiguales. El fruto es una cápsula con hasta cuatro semillas.`,
     propiedades:`
-ELa menta tiene propiedades antiinflamatorias, expectorantes, antisépticas, analgésicas, antibacterianas o antitusivas, entre otras, pues la lista es mucho más extensa. Además, está compuesta principalmente por agua, fibra, minerales como el calcio, el potasio, el cobre o el magnesio y vitaminas a, b, c y d.`,
+La menta tiene propiedades antiinflamatorias, expectorantes, antisépticas, analgésicas, antibacterianas o antitusivas, entre otras, pues la lista es mucho más extensa. Además, está compuesta principalmente por agua, fibra, minerales como el calcio, el potasio, el cobre o el magnesio y vitaminas A, B, C y D.`,
    },
         {
     id: 'helacho',
@@ -862,18 +860,10 @@ ELa menta tiene propiedades antiinflamatorias, expectorantes, antisépticas, ana
     title_cientifico: 'Tracheophyta',
     image: 'helacho.jpg',
     imageURL: 'https://c8.alamy.com/compes/rr0y3y/cercana-de-verdes-hojas-tracheophyta-rr0y3y.jpg',
-    caracteristicas_fisicas: `Los helechos son plantas fotosintéticas en su mayoría, los cuales
-prefieren un alto grado de humedad y pueden ser de diversos  tipos, como terrestres,
-rupícolas, epífitos, acuáticos y paludícolas. Además son plantas vasculares, es decir,
-cuentan con vasos conductores que le permiten transportar los nutrientes y agua a cada
-parte de la planta.`,
+    caracteristicas_fisicas: `Los helechos son plantas fotosintéticas en su mayoría, los cuales prefieren un alto grado de humedad y pueden ser de diversos  tipos, como terrestres, rupícolas, epífitos, acuáticos y paludícolas. Además son plantas vasculares, es decir, cuentan con vasos conductores que le permiten transportar los nutrientes y agua a cada parte de la planta.`,
 
     propiedades:`
-La infusión que se hace con las hojas del helecho común se puede emplear
-para bajar la presión arterial, el tallo se puede utilizar como diurético y en las quemaduras
-como uso tópico. Y los implantes de las hojas como tratamiento de golpes musculares,
-tiene usos veterinarios para curar las heridas de los animales, las hojas frescas pueden ser
-utilizadas como un insecticida natural contra pulgas y plagas.
+La infusión que se hace con las hojas del helecho común se puede emplear para bajar la presión arterial, el tallo se puede utilizar como diurético y en las quemaduras como uso tópico. Y los implantes de las hojas como tratamiento de golpes musculares, tiene usos veterinarios para curar las heridas de los animales, las hojas frescas pueden ser utilizadas como un insecticida natural contra pulgas y plagas.
     `,
 
   },
@@ -897,21 +887,12 @@ Contiene cactina (hordenina), cacticina, narcisina. La cactina tiene una acción
     title_cientifico: 'Caladium bicolor',
     image: 'corazon-de-jesus.jpg',
     imageURL: 'https://media.karousell.com/media/photos/products/2020/9/9/caladium_bicolor_1599639477_68dc9a68.jpg',
-    caracteristicas_fisicas: `El tamaño de las hojas varía según el ejemplar, pueden llegar a
-tener unas medidas realmente considerables. De esta especie se encuentran numerosos
-cruces que han dado lugar a multitud de híbridos. Todos ellos son originarios de América
-del Sur y las Antillas. Pertenecen a la familia Araceae. El Corazón de Jesús o Caladium es
-una planta de difícil cultivo por su alta necesidad de humedad ambiental constante.
-Las hojas es mejor no mojarlas, lo adecuado es humedecer el sustrato con agua libre de
-cal y templarla ligeramente antes de regar. El riego del sustrato debe hacerse de forma que
-esté siempre húmedo pero sin llegar a ser excesivo porque puede pudrirse las raíces con
-gran facilidad.`,
+    caracteristicas_fisicas: `El tamaño de las hojas varía según el ejemplar, pueden llegar a tener unas medidas realmente considerables. De esta especie se encuentran numerosos cruces que han dado lugar a multitud de híbridos. Todos ellos son originarios de América del Sur y las Antillas. Pertenecen a la familia Araceae. El Corazón de Jesús o Caladium es una planta de difícil cultivo por su alta necesidad de humedad ambiental constante.
+
+Las hojas es mejor no mojarlas, lo adecuado es humedecer el sustrato con agua libre de cal y templarla ligeramente antes de regar. El riego del sustrato debe hacerse de forma que esté siempre húmedo pero sin llegar a ser excesivo porque puede pudrirse las raíces con gran facilidad.`,
 
     propiedades:`
-El Corazón de Jesús o Caladium es una planta ideal para cultivar en jardines
-de clima cálido, tropicales y subtropicales. En zonas de clima frío requieren de una
-ubicación en interiores iluminados en las ventanas en invernaderos o en jardines de
-invierno con humedad ambiental.
+El Corazón de Jesús o Caladium es una planta ideal para cultivar en jardines de clima cálido, tropicales y subtropicales. En zonas de clima frío requieren de una ubicación en interiores iluminados en las ventanas en invernaderos o en jardines de invierno con humedad ambiental.
     `,
 
   },
@@ -922,10 +903,10 @@ invierno con humedad ambiental.
     title_cientifico: 'Xiphideum Caeruleum',
     image: 'manito.jpg',
     imageURL: 'https://images.squarespace-cdn.com/content/v1/5a5f182cbe42d619379891ca/1560805360569-VJ4UELN1C7VH6LBCJEPH/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Chiranthodendron+flower+red.jpg',
-    caracteristicas_fisicas: `Hierba terrestre, crece en sotobosque, barrancas o a orillas de carreteras y riachuelos. Hojas lineales, alternas, equidistantes, limbo de 55 cm de largo, por 3 cm de ancho en la parte media, peciolo en vaina; Flores de color blanco. Frutos de color verde-amarillento, rojizo al madurar.`,
+    caracteristicas_fisicas: `Hierba terrestre, crece en sotobosque, barrancas o a orillas de carreteras y riachuelos. Hojas lineales, alternas, equidistantes, limbo de 55 cm de largo, por 3 cm de ancho en la parte media, peciolo en vaina; flores de color blanco. Frutos de color verde-amarillento, rojizo al madurar.`,
 
     propiedades:`
-La planta entera en decocción o maceración se usa en bebidas y bañas contra morderas de serpientes. Otros usos en medicina tradicional son: contra la dismenorrea, analgésico, antianémico y para curar trastornos de la piel.
+La planta entera en decocción o maceración se usa en bebidas y bañas contra mordeduras de serpientes. Otros usos en medicina tradicional son: contra la dismenorrea, analgésico, antianémico y para curar trastornos de la piel.
     `,
 
   },
@@ -937,19 +918,11 @@ La planta entera en decocción o maceración se usa en bebidas y bañas contra m
     image: 'geranio.jpg',
     imageURL: 'https://i.pinimg.com/474x/3a/1d/c3/3a1dc3562bddb36546311456ec2ad658.jpg',
     caracteristicas_fisicas: `Los geranios son plantas de exterior con flores de colores vivos.
-Florecen durante el verano y son bastante resistentes. Se suelen cultivar en el jardín, en la
-terraza o el balcón. También se pueden mantener en el interior, siempre y cuando se
-coloque en un lugar muy luminoso alejados de la calefacción.
-Hay muchas variedades distintas de geranios y cada año aparecen nuevas especies. Las
-más populares son: el geranio común, la gitanilla o geranio de hojas de hiedra (porte
-colgante), el pelargonio de pensamiento (el mejor para cultivar en interior) y los geranios
-con hojas aromáticas.`,
+Florecen durante el verano y son bastante resistentes. Se suelen cultivar en el jardín, en la terraza o el balcón. También se pueden mantener en el interior, siempre y cuando se coloque en un lugar muy luminoso alejados de la calefacción.
+Hay muchas variedades distintas de geranios y cada año aparecen nuevas especies. Las más populares son: el geranio común, la gitanilla o geranio de hojas de hiedra (porte colgante), el pelargonio de pensamiento (el mejor para cultivar en interior) y los geranios con hojas aromáticas.`,
 
     propiedades:`
-Tiene propiedades antimicrobianas por lo que es efectiva contra el acné. Es
-descongestionante y suavizante por ello se usa en pieles quemadas por el sol o que sufren
-irritaciones o quemaduras de todo tipo; También es un poderoso remedio contra las
-estrías y los eccemas.
+Tiene propiedades antimicrobianas por lo que es efectiva contra el acné. Es descongestionante y suavizante por ello se usa en pieles quemadas por el sol o que sufren irritaciones o quemaduras de todo tipo; también es un poderoso remedio contra las estrías y los eccemas.
     `,
 
   },
@@ -960,17 +933,11 @@ estrías y los eccemas.
     title_cientifico: 'Zantedeschia aethiopica',
     image: 'cala.jpg',
     imageURL: 'https://images-na.ssl-images-amazon.com/images/I/51tIfhp%2BNjL._AC_SX425_.jpg',
-    caracteristicas_fisicas: `ELa cala es una herbácea del tipo perenne, es decir que se mantiene
-verde durante todo el año. La planta se desarrolla a partir de un rizoma grueso y de forma
-ovalada, desde el cual se desarrollan sus raíces que pueden llegar a medir hasta 15
-centímetros de largo. A partir de su rizoma, parte un tallo carnoso subterráneo desde
-donde la planta se desarrolla hacia afuera. Puede medir hasta 1 metro de alto.`,
+    caracteristicas_fisicas: `La cala es una herbácea del tipo perenne, es decir que se mantiene verde durante todo el año. La planta se desarrolla a partir de un rizoma grueso y de forma ovalada, desde el cual se desarrollan sus raíces que pueden llegar a medir hasta 15 centímetros de largo. A partir de su rizoma, parte un tallo carnoso subterráneo desde donde la planta se desarrolla hacia afuera. Puede medir hasta 1 metro de alto.`,
 
     propiedades:`
-El uso principal de estas flores es por supuesto como ornamental; Es una flor
-elegante que se usa para muchas ocasiones desde matrimonios hasta funerales.
-Es una especie que principalmente se usa para preparar centros decorativos como flor
-cortada, bien sea sola o junto a otras flores.
+El uso principal de estas flores es por supuesto como ornamental; es una flor elegante que se usa para muchas ocasiones desde matrimonios hasta funerales.
+Es una especie que principalmente se usa para preparar centros decorativos como flor cortada, bien sea sola o junto a otras flores.
     `,
 
   },
@@ -981,10 +948,10 @@ cortada, bien sea sola o junto a otras flores.
     title_cientifico: 'Epiphyllum Oxypetalum',
     image: 'dama-de-noche.jpg',
     imageURL: 'hhttps://i.ebayimg.com/images/g/EgIAAOSwx7hepHaL/s-l640.jpg',
-    caracteristicas_fisicas: `Es un género de unas 15 especies de plantas epífitas de la familia de las cactáceas, nativas de la américa tropical y subtropical; Las flores son impresionantes en tamaño, color y fragancia; Como todas las cactáceas, las epiphyllums tienen tallos, pero no hojas; A menudo se cultivan en cestas colgantes para acomodar sus tallos con forma de hoja, pero también pueden crecer en contenedores; En la naturaleza, el epiphyllum crece entre las ramas de los árboles y en las grietas de las rocas.`,
+    caracteristicas_fisicas: `Es un género de unas 15 especies de plantas epífitas de la familia de las cactáceas, nativas de la América tropical y subtropical; las flores son impresionantes en tamaño, color y fragancia; como todas las cactáceas, las epiphyllums tienen tallos, pero no hojas; a menudo se cultivan en cestas colgantes para acomodar sus tallos con forma de hoja, pero también pueden crecer en contenedores; en la naturaleza, el epiphyllum crece entre las ramas de los árboles y en las grietas de las rocas.`,
 
     propiedades:`
-Perfecto para poner en el balcón, o en el jardín junto al tronco de un árbol; Carece de espinas, lo cual la convierte en una especie completamente segura para niños y animales domésticos, y no es muy exigente
+Perfecto para poner en el balcón, o en el jardín junto al tronco de un árbol; carece de espinas, lo cual la convierte en una especie completamente segura para niños y animales domésticos, y no es muy exigente
     `,
   },
 {
@@ -994,21 +961,12 @@ Perfecto para poner en el balcón, o en el jardín junto al tronco de un árbol;
     title_cientifico: 'Sansevieria trifasciata',
     image: 'espada-de-bolivar.jpg',
     imageURL: 'https://www.elicriso.it/es/como_cultivar/sansevieria/sansevieria_trifasciata_laurentii_P1020829.jpg',
-    caracteristicas_fisicas: `Es originaria de África Occidental. Presenta hojas carnosas, sésiles,
-sin pecíolo, estrechas y largas, jaspeadas de verde y de blanco, con el borde amarillo; Su
-crecimiento se extiende a lo largo de una red de rizomas que emiten brotes o rosetas de
-hojas verticales que alcanza más de 1 m de altura. Es una especie fácil de cultivar que se
-adapta a diversos tipos de suelo y condiciones ambientales con excepción de climas fríos y
-heladas recurrentes.`,
+    caracteristicas_fisicas: `Es originaria de África Occidental. Presenta hojas carnosas, sésiles, sin pecíolo, estrechas y largas, jaspeadas de verde y de blanco, con el borde amarillo; su crecimiento se extiende a lo largo de una red de rizomas que emiten brotes o rosetas de hojas verticales que alcanza más de 1 m de altura. Es una especie fácil de cultivar que se adapta a diversos tipos de suelo y condiciones ambientales con excepción de climas fríos y heladas recurrentes.`,
 
     propiedades:`
-La presencia de diversos metabolitos secundarios en hojas y rizomas le
-aporta diversas propiedades medicinales y terapéuticas. La ingesta regular de cocimientos
-de Espada de Bolívar o Sansevieria trifasciata actúa como analgésico, antialérgico,
-antibacteriano, antidiabético, antihelmíntico y antipirético.
-Estudios clínicos han permitido ratificar su efecto como tónico antiinflamatorio para el
-hígado y el bazo, tanto en infantes como en adultos. A pesar de su sabor amargo, el zumo
-obtenido del prensado de sus hojas es inodoro.
+La presencia de diversos metabolitos secundarios en hojas y rizomas le aporta diversas propiedades medicinales y terapéuticas. La ingesta regular de cocimientos de Espada de Bolívar o Sansevieria trifasciata actúa como analgésico, antialérgico, antibacteriano, antidiabético, antihelmíntico y antipirético.
+
+Estudios clínicos han permitido ratificar su efecto como tónico antiinflamatorio para el hígado y el bazo, tanto en infantes como en adultos. A pesar de su sabor amargo, el zumo obtenido del prensado de sus hojas es inodoro.
     `,
 
   },
@@ -1019,27 +977,14 @@ obtenido del prensado de sus hojas es inodoro.
     title_cientifico: 'Asclepias',
     image: 'algodoncillo.jpg',
     imageURL: 'https://www.infojardin.com/jardineria/flores-vivaces-perennes-anuales/rgh1370723682d.jpg',
-    caracteristicas_fisicas: `Las plantas típicas son subarbustos perennes que crecen hasta 1 m
-de altura, tienen tallos grises pálidos.
-Tiene hojas opuestas, lanceoladas u oblongo-lanceoladas y en las extremidades
-acuminadas o agudas. Las flores surgen en cimas terminales con 10 a 20 flores cada una.
-Las corolas pueden ser de color púrpura o rojo y los lóbulos de la corona amarillos o
-naranja por lo que también se la llama bandera española.
-Frutos fusiformes de 5 a 10 cm de longitud, llamados folículos. Los folículos contienen
-semillas ovales oscuras de 6 a 7 mm de largo, éstas poseen pelos sedosos que les permiten
-flotar en corrientes de aire cuando los folículos se abren. ​ Las plantas florecen casi todo el
-año. Las plantas contienen una savia lechosa como la mayoría de los miembros del género.`,
+    caracteristicas_fisicas: `Las plantas típicas son subarbustos perennes que crecen hasta 1 m de altura, tienen tallos grises pálidos.
+Tiene hojas opuestas, lanceoladas u oblongo-lanceoladas y en las extremidades acuminadas o agudas. Las flores surgen en cimas terminales con 10 a 20 flores cada una. Las corolas pueden ser de color púrpura o rojo y los lóbulos de la corona amarillos o naranja por lo que también se la llama bandera española.
+
+Frutos fusiformes de 5 a 10 cm de longitud, llamados folículos. Los folículos contienen semillas ovales oscuras de 6 a 7 mm de largo, éstas poseen pelos sedosos que les permiten flotar en corrientes de aire cuando los folículos se abren. Las plantas florecen casi todo el año. Las plantas contienen una savia lechosa como la mayoría de los miembros del género.`,
 
     propiedades:`
-Esta planta es conocida como quiebra muelas o revienta muelas entre otros
-nombres en alusión a una de sus propiedades medicinales. En algunos estados del centro y
-sur de México se reporta útil para el tratamiento de problemas dentales: las caries o
-muelas picadas con su empleo se busca por un lado calmar el dolor y por otro extraer la
-pieza afectada mediante su fragmentación. El tratamiento generalmente consiste en la
-aplicación del látex, ya sea de manera directa o en un algodón bien impregnado, sobre la
-pieza que causa la molestia; se espera con ello romperla, aliviando así el dolor y facilitando
-su extracción. En Tabasco además del procedimiento descrito, usan también la semilla
-sobre el diente que duele para eliminar la molestia.   `,
+Esta planta es conocida como quiebra muelas o revienta muelas entre otros nombres en alusión a una de sus propiedades medicinales. En algunos estados del centro y sur de México se reporta útil para el tratamiento de problemas dentales: las caries o muelas picadas con su empleo se busca por un lado calmar el dolor y por otro extraer la pieza afectada mediante su fragmentación. El tratamiento generalmente consiste en la
+aplicación del látex, ya sea de manera directa o en un algodón bien impregnado, sobre la pieza que causa la molestia; se espera con ello romperla, aliviando así el dolor y facilitando su extracción. En Tabasco además del procedimiento descrito, usan también la semilla sobre el diente que duele para eliminar la molestia.   `,
   },
 
 {
@@ -1049,24 +994,12 @@ sobre el diente que duele para eliminar la molestia.   `,
     title_cientifico: 'Hibiscus rosa-sinensis',
     image: 'cayena.jpg',
     imageURL: 'https://thumbs.dreamstime.com/b/el-hibisco-rosa-sinensis-conocido-como-chino-china-subi%C3%B3-hawaiano-malva-y-shoeblackplant-color-de-126458805.jpg',
-    caracteristicas_fisicas: `Esta especie forma un arbusto o árbol pequeño de entre 2 a 5 m de
-altura. Las hojas de color verde brillante, color amarillo-dorado en otoño. Sus hojas son
-pecioladas, anchas, entre ovadas a lanceoladas con bordes dentados irregularmente.
-Las flores son grandes con cinco pétalos en las variedades sencillas de 6 a 12 cm de largo.
-Los estambres se disponen en forma columnar sobresaliendo de la corola. Existen
-numerosos cultivares, variedades e híbridos con una amplia gama de colores desde el
-blanco puro, amarillo, naranja, rojo, escarlata y tintes rosados con flores simples o dobles
-(es decir con el doble de pétalos).`,
+    caracteristicas_fisicas: `Esta especie forma un arbusto o árbol pequeño de entre 2 a 5 m de altura. Las hojas de color verde brillante, color amarillo-dorado en otoño. Sus hojas son pecioladas, anchas, entre ovadas a lanceoladas con bordes dentados irregularmente. Las flores son grandes con cinco pétalos en las variedades sencillas de 6 a 12 cm de largo.
+Los estambres se disponen en forma columnar sobresaliendo de la corola. Existen numerosos cultivares, variedades e híbridos con una amplia gama de colores desde el blanco puro, amarillo, naranja, rojo, escarlata y tintes rosados con flores simples o dobles (es decir con el doble de pétalos).`,
 
     propiedades:`
-Se cultiva como planta ornamental en los trópicos y subtrópicos.
-Algunas partes de la planta son comestibles. Las hojas tiernas se pueden usar como
-sustituto de las espinacas, las flores se consumen crudas o cocinadas, también se usan
-como colorante dando un toque púrpura a los platos. La raíz también es comestible,
-aunque de poco sabor, muy fibrosa y de textura mucilaginosa.
-En la medicina china se le atribuyen propiedades antiespasmódicas, analgésicas,
-astringentes, suavemente laxantes, emenagogas, antirritantes. También tiene usos
-cosméticos.    `,
+Se cultiva como planta ornamental en los trópicos y subtrópicos. Algunas partes de la planta son comestibles. Las hojas tiernas se pueden usar como sustituto de las espinacas, las flores se consumen crudas o cocinadas, también se usan como colorante dando un toque púrpura a los platos. La raíz también es comestible, aunque de poco sabor, muy fibrosa y de textura mucilaginosa.
+En la medicina China se le atribuyen propiedades antiespasmódicas, analgésicas, astringentes, suavemente laxantes, emenagogas, antirritantes. También tiene usos cosméticos.    `,
   },
 {
     id: 'palma-areca',
@@ -1075,20 +1008,12 @@ cosméticos.    `,
     title_cientifico: 'Chrysalidocarpus Lutescens',
     image: 'palma-areca.jpg',
     imageURL: 'https://images-na.ssl-images-amazon.com/images/I/51z3-iUAPdL._AC_.jpg',
-    caracteristicas_fisicas: `A la Palma Areca también se la conoce con el nombre palmera
-amarilla, ya que los pecíolos de sus hojas poseen una característica coloración en tonos
-amarillos verdosos.
-De la misma mata salen varios tallos tipo cañas, coronados por hojas de gran tamaño
-finamente divididas en múltiples foliolos también de una coloración amarillo verdosa muy
-atractiva.
-Es originaria de Madagascar donde alcanza gran tamaño, pero ha demostrado tener una
-magnífica adaptación al crecimiento en interiores.`,
+    caracteristicas_fisicas: `A la Palma Areca también se la conoce con el nombre palmera amarilla, ya que los pecíolos de sus hojas poseen una característica coloración en tonos amarillos verdosos.
+De la misma mata salen varios tallos tipo cañas, coronados por hojas de gran tamaño finamente divididas en múltiples foliolos también de una coloración amarillo verdosa muy atractiva.
+Es originaria de Madagascar donde alcanza gran tamaño, pero ha demostrado tener una magnífica adaptación al crecimiento en interiores.`,
 
     propiedades:`
-Esta planta, Palma Areca, puede ser utilizada para ambientes donde
-necesitemos humedecer el ambiente por distintas razones. Además quita toxinas
-ambientales y tolera ambientes de interior. Desde luego una buena alternativa natural
-para esos lugares donde necesitamos de un humificador.   `,
+Esta planta, Palma Areca, puede ser utilizada para ambientes donde necesitemos humedecer el ambiente por distintas razones. Además quita toxinas ambientales y tolera ambientes de interior. Desde luego una buena alternativa natural para esos lugares donde necesitamos de un humificador.   `,
 },
 {
     id: 'margarina',
@@ -1097,23 +1022,11 @@ para esos lugares donde necesitamos de un humificador.   `,
     title_cientifico: 'Bellis perennis',
     image: 'margarina.jpg',
     imageURL: 'https://previews.123rf.com/images/koromyslova/koromyslova1707/koromyslova170700012/81976657-perennial-daisy-lat-bellis-perennis-in-pots-on-the-background-of-the-sedum-lat-sedum-acre-.jpg',
-    caracteristicas_fisicas: `La Margarina también es conocida como margarita enana,
-margarita menor, margarita de los prados o dormilona. Esta alegre planta puede alcanzar
-entre los 20 y 50 cm de altura. Es muy conocida por su forma redondeada y sus pétalos
-finos y alargados de vivaces colores: rosas, fucsias, blancas y amarillas. Gracias a su
-hermosura son muy atractivas para la jardinería pero también son empleadas con fines
-terapéuticos.`,
+    caracteristicas_fisicas: `La Margarina también es conocida como margarita enana, margarita menor, margarita de los prados o dormilona. Esta alegre planta puede alcanzar entre los 20 y 50 cm de altura. Es muy conocida por su forma redondeada y sus pétalos finos y alargados de vivaces colores: rosas, fucsias, blancas y amarillas. Gracias a su hermosura son muy atractivas para la jardinería pero también son empleadas con fines terapéuticos.`,
 
     propiedades:`
-La Margarina también tiene grandes propiedades medicinales. Mejora la
-digestión e incluso ayuda a disminuir la fiebre. Se utiliza en compresas para reducir las
-inflamaciones y es un excelente cicatrizante. Además, la infusión de esta planta es un
-remedio muy efectivo para curar el catarro, estimula el apetito, es diurética y ayuda a
-purificar la sangre.
-En Polonia es sinónimo de belleza y se le conoce como ‘la flor de las mujeres. Se ha hecho
-famosa por sus propiedades cosméticas: Mejora el metabolismo de la piel. Elimina las
-manchas otorgaando una apariencia más fresca y sana. No te preocupes. No tienes que
-estar en Polonia para aprovechar los beneficios que esta planta te ofrece.   `,
+La Margarina también tiene grandes propiedades medicinales. Mejora la digestión e incluso ayuda a disminuir la fiebre. Se utiliza en compresas para reducir las inflamaciones y es un excelente cicatrizante. Además, la infusión de esta planta es un remedio muy efectivo para curar el catarro, estimula el apetito, es diurética y ayuda a purificar la sangre.
+En Polonia es sinónimo de belleza y se le conoce como ‘la flor de las mujeres. Se ha hecho famosa por sus propiedades cosméticas: Mejora el metabolismo de la piel. Elimina las manchas otorgaando una apariencia más fresca y sana. No te preocupes. No tienes que estar en Polonia para aprovechar los beneficios que esta planta te ofrece.   `,
   },
 {
     id: 'achira',
@@ -1122,24 +1035,10 @@ estar en Polonia para aprovechar los beneficios que esta planta te ofrece.   `,
     title_cientifico: 'Canna indica',
     image: 'achira.jpg',
     imageURL: 'https://images-na.ssl-images-amazon.com/images/I/71uD%2BIMtL7L._AC_SL1500_.jpg',
-    caracteristicas_fisicas: `Posee una altura de 0,8-1,5 m. Hay variedades que llegan a 3 m. Es
-de hojas grandes, oblongas, de color verde, púrpura, rojizo o variegado. Las flores se
-agrupan en inflorescencias de colores rojizo, naranja, amarillo o rosa. Su Floración es en el
-verano hasta bien avanzado el otoño. Es una planta con tallos erectos que suele emplearse
-en el jardín para formar bellos grupos aislados. Esta planta está presente en multitud de
-jardines por su magnífico follaje de vivos colores, así como por sus bellas flores que
-recuerdan a las del gladiolo.`,
+    caracteristicas_fisicas: `Posee una altura de 0,8-1,5 m, hay variedades que llegan a 3 m. Es de hojas grandes, oblongas, de color verde, púrpura, rojizo o variegado. Las flores se agrupan en inflorescencias de colores rojizo, naranja, amarillo o rosa. Su Floración es en el verano hasta bien avanzado el otoño. Es una planta con tallos erectos que suele emplearse en el jardín para formar bellos grupos aislados. Esta planta está presente en multitud de jardines por su magnífico follaje de vivos colores, así como por sus bellas flores que recuerdan a las del gladiolo.`,
 
     propiedades:`
-Se cultiva principalmente por sus cormos o rizomas que son de importancia
-para la alimentación humana y la agroindustria. El almidón es de fácil digestión y la harina
-se usa para fabricar panes, bizcochos, galletas, tortas tallarines y fideos. Los cormos de la
-achira se comen también asados o cocidos. Las raíces se usan como diurético y las hojas
-como cicatrizante; el jugo de estas como antiséptico. Las hojas recién cortadas se usaban y
-probablemente todavía se usan sobre las quemaduras para refrescar y disipar el calor de la
-piel quemada. Las semillas se utilizan para confeccionar collares y sonajeros o maracas.
-Tallos y hojas sirven de forraje para el ganado. A las hojas también se les utiliza como un
-tipo de empaque natural para envolver comidas típicas como los tamales.   `,
+Se cultiva principalmente por sus cormos o rizomas que son de importancia para la alimentación humana y la agroindustria. El almidón es de fácil digestión y la harina se usa para fabricar panes, bizcochos, galletas, tortas tallarines y fideos. Los cormos de la achira se comen también asados o cocidos. Las raíces se usan como diurético y las hojas como cicatrizante; el jugo de estas como antiséptico. Las hojas recién cortadas se usaban y probablemente todavía se usan sobre las quemaduras para refrescar y disipar el calor de la piel quemada. Las semillas se utilizan para confeccionar collares y sonajeros o maracas. Tallos y hojas sirven de forraje para el ganado. A las hojas también se les utiliza como un tipo de empaque natural para envolver comidas típicas como los tamales.   `,
   },
   {
     id: 'millonaria',
@@ -1148,21 +1047,14 @@ tipo de empaque natural para envolver comidas típicas como los tamales.   `,
     title_cientifico: 'Plectranthus verticillatus',
     image: 'millonaria.jpg',
     imageURL: 'https://garden.org/pics/2012-08-21/ShadyGreenThumb/81f4f8.jpg',
-    caracteristicas_fisicas: `Se trata de una planta semisuculenta perenne. Tiene un follaje muy
-atractivo y sus flores muestran una forma delicada y un color blanco-malva. Se distingue
-como una hierba aromática suave y mide de 100 mm a 305 mm de altura y su extensión
-puede ser de hasta 600 mm aproximadamente.
-Los tallos son cortos, estriados y tienen una pubescencia compuesta por tricomas de corta
-longitud y ásperos que se orientan en la misma dirección.`,
+    caracteristicas_fisicas: `Se trata de una planta semisuculenta perenne. Tiene un follaje muy atractivo y sus flores muestran una forma delicada y un color blanco-malva. Se distingue como una hierba aromática suave y mide de 100 mm a 305 mm de altura y su extensión puede ser de hasta 600 mm aproximadamente.
+
+Los tallos son cortos, estriados y tienen una pubescencia compuesta por tricomas de corta longitud y ásperos que se orientan en la misma dirección.`,
 
     propiedades:`
-Es una planta fácil de cultivar y se destina como cobertor del suelo o como
-planta colgante desde macetas o cestas ornamentales. Igualmente se usa para producir
-sombra parcial o ligera debajo de los árboles.
-También se tiende a usar en los jardines o áreas forestales como especie que atrae
-insectos y aves insectívoras. Además, es una planta que hospeda a muchas mariposas.
-Esta planta es conocida también como filtro purificador del aire. En cuanto a sus
-propiedades medicinales es un antiviral muy efectivo, antiinflamatorio y antibacteriano.
+Es una planta fácil de cultivar y se destina como cobertor del suelo o como planta colgante desde macetas o cestas ornamentales. Igualmente se usa para producir sombra parcial o ligera debajo de los árboles.
+
+También se tiende a usar en los jardines o áreas forestales como especie que atrae insectos y aves insectívoras. Además, es una planta que hospeda a muchas mariposas. Esta planta es conocida también como filtro purificador del aire. En cuanto a sus propiedades medicinales es un antiviral muy efectivo, antiinflamatorio y antibacteriano.
     `,
   },
 
@@ -1173,21 +1065,11 @@ propiedades medicinales es un antiviral muy efectivo, antiinflamatorio y antibac
     title_cientifico: 'Strelitzia reginae',
     image: 'ave-del-paraiso.jpg',
     imageURL: 'https://cdn.webshopapp.com/shops/30495/files/337833640/strelitzia-nicolai-reginae-narrow-leaved.jpg',
-    caracteristicas_fisicas: `Se trata de una planta de hábitos herbáceos formada por un tallo
-acaule que emerge verticalmente de un rizoma robusto y subterráneo. El tallo está
-formado por las bases envainadoras de los pecíolos que crecen de forma alterna hasta
-alcanzar una altura de 100-150 cm de altura.`,
+    caracteristicas_fisicas: `Se trata de una planta de hábitos herbáceos formada por un tallo acaule que emerge verticalmente de un rizoma robusto y subterráneo. El tallo está formado por las bases envainadoras de los pecíolos que crecen de forma alterna hasta alcanzar una altura de 100-150 cm de altura.`,
 
     propiedades:`
-Es una planta perenne que no tiene tronco, sino varios tallos herbáceos de
-considerable grosor que “nacen” verticalmente de un rizoma grande y subterráneo.
-Las hojas miden entre 50 centímetros de longitud y 30 centímetros de anchura. Son verde
-oscuras, lustrosas y largas.
-De la Ave del Paraíso brotan entre 5 y 8 flores que surgen de una bráctea que recuerda el
-pico o las plumas de un pájaro de allí su nombre “Ave de Paraíso”.
-Sus sépalos naranjas y amarillos en contraste con sus pétalos azules, la convierten en una
-delicia para la vista, especialmente cuando son “abordados” por las aves que disfrutan de
-su néctar.  `,
+Es una planta perenne que no tiene tronco, sino varios tallos herbáceos de considerable grosor que “nacen” verticalmente de un rizoma grande y subterráneo.
+Las hojas miden entre 50 centímetros de longitud y 30 centímetros de anchura. Son verde oscuras, lustrosas y largas. De la Ave del Paraíso brotan entre 5 y 8 flores que surgen de una bráctea que recuerda el pico o las plumas de un pájaro de allí su nombre “Ave de Paraíso”. Sus sépalos naranjas y amarillos en contraste con sus pétalos azules, la convierten en una delicia para la vista, especialmente cuando son “abordados” por las aves que disfrutan de su néctar.  `,
   },
      {
     id: 'boton-de-oro',
@@ -1196,23 +1078,12 @@ su néctar.  `,
     title_cientifico: 'Tithonia diversifolia',
     image: 'boto-de-oro.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Tithonia_diversifolia%2C_a_Mexican_Sunflower_in_Africa._%289439108054%29.jpg',
-    caracteristicas_fisicas: `El botón de oro es una planta herbácea muy ramificada que alcanza
-alturas hasta de cinco metros; se reconoce fácilmente por sus grandes flores amarillas con
-fuerte olor a miel por sus hojas simples y alternas con tres a cinco lóbulos, el central más
-grande que los otros. El botón de oro tiene un gran valor ecológico como fuente de néctar
-y otros recursos para la fauna silvestre.
-Se propaga fácilmente a partir de estacas de 30 a 50 centímetros de longitud cosechadas
-del tercio inferior o intermedio de los tallos. Muy rara vez se propaga a partir de semillas y
-no es fácil obtenerla sexualmente viable. En cierta medida, esta circunstancia es favorable
-porque impide el comportamiento invasor de la planta.`,
+    caracteristicas_fisicas: `El botón de oro es una planta herbácea muy ramificada que alcanza alturas hasta de cinco metros; se reconoce fácilmente por sus grandes flores amarillas con fuerte olor a miel por sus hojas simples y alternas con tres a cinco lóbulos, el central más grande que los otros. El botón de oro tiene un gran valor ecológico como fuente de néctar y otros recursos para la fauna silvestre.
+Se propaga fácilmente a partir de estacas de 30 a 50 centímetros de longitud cosechadas del tercio inferior o intermedio de los tallos. Muy rara vez se propaga a partir de semillas y no es fácil obtenerla sexualmente viable. En cierta medida, esta circunstancia es favorable porque impide el comportamiento invasor de la planta.`,
 
     propiedades:`
-Una de sus más grandes ventajas es que puede crecer en muchas zonas y se
-extiende por los 3 pisos térmicos: cálido, templado y frío. Se distribuye naturalmente por
-el norte de Suramérica y Centroamérica y se puede encontrar en alturas que van desde los
-0 hasta los 2.500 msnm.
-El botón de oro es una excelente fuente de proteína para los bovinos y se puede emplear
-en sistemas silvopastoriles.  `,
+Una de sus más grandes ventajas es que puede crecer en muchas zonas y se extiende por los 3 pisos térmicos: cálido, templado y frío. Se distribuye naturalmente por el norte de Suramérica y Centroamérica y se puede encontrar en alturas que van desde los 0 hasta los 2.500 msnm.
+El botón de oro es una excelente fuente de proteína para los bovinos y se puede emplear en sistemas silvopastoriles.  `,
   },
        {
     id: 'capa-roja-brasilena',
@@ -1221,19 +1092,11 @@ en sistemas silvopastoriles.  `,
     title_cientifico: 'Megaskepasma erythrochlamys',
     image: 'capa-roja.jpg',
     imageURL: 'https://c8.alamy.com/compes/rh30ex/manto-rojo-brasileno-megaskepasma-erythrochlamys-rh30ex.jpg',
-    caracteristicas_fisicas: `Es un arbusto perenne de crecimiento recto y con una floración
-muy vistosa de color rojo, motivo por el cual recibe el nombre de Capa roja brasileña.
-Mide 4 metros de alto. Es nativa de varios países de Centro y Suramérica, además de
-Venezuela, donde se encuentra de forma natural en sus bosques tropicales.
-Es una planta ornamental que se cultiva en suelo para embellecer jardines, sobre todo
-en espacios públicos con un follaje compacto formado por grandes hojas ovaladas de
-color verde intenso. Presenta unas brácteas u hojas modificadas de color rosado rojo
-que protegen a la verdadera flor que es de color blanco. Este arbusto se reproduce por
-esquejes.`,
+    caracteristicas_fisicas: `Es un arbusto perenne de crecimiento recto y con una floración muy vistosa de color rojo, motivo por el cual recibe el nombre de Capa roja Brasileña. Mide 4 metros de alto. Es nativa de varios países de Centro y Suramérica, además de Venezuela, donde se encuentra de forma natural en sus bosques tropicales.
+Es una planta ornamental que se cultiva en suelo para embellecer jardines, sobre todo en espacios públicos con un follaje compacto formado por grandes hojas ovaladas de color verde intenso. Presenta unas brácteas u hojas modificadas de color rosado rojo que protegen a la verdadera flor que es de color blanco. Este arbusto se reproduce por esquejes.`,
 
     propiedades:`
-Utilizado comúnmente como planta de ornamentación, generalmente se
-encuentran en las fincas y no reporta información acerca de otros usos.  `,
+Utilizado comúnmente como planta de ornamentación, generalmente se encuentran en las fincas y no reporta información acerca de otros usos.  `,
   },
       {
     id: 'caracuey',
@@ -1242,17 +1105,10 @@ encuentran en las fincas y no reporta información acerca de otros usos.  `,
     title_cientifico: 'Bromelia humilis',
     image: 'caracuey.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bromelias_sobre_un_tronco_seco.jpg/240px-Bromelias_sobre_un_tronco_seco.jpg',
-    caracteristicas_fisicas: `En Centroamérica crece en las tierras áridas costeñas. Posee
-un tallo muy corto y numerosas hojas que parten de una gran roseta, pudiendo alcanzar 1
-metro de diámetro. Las hojas son largas con numerosas espinas marginales y
-generalmente las que están en la parte superior son de color rojizo. La inflorescencia se
-encuentra en el centro de la roseta en forma de una panícula pequeña en el centro de la
-roseta con pétalos morados y bordes blancos.`,
+    caracteristicas_fisicas: `En Centroamérica crece en las tierras áridas costeñas. Posee un tallo muy corto y numerosas hojas que parten de una gran roseta, pudiendo alcanzar 1 metro de diámetro. Las hojas son largas con numerosas espinas marginales y generalmente las que están en la parte superior son de color rojizo. La inflorescencia se encuentra en el centro de la roseta en forma de una panícula pequeña en el centro de la roseta con pétalos morados y bordes blancos.`,
 
     propiedades:`
-Esta especie es utilizada contra la erosión para proteger los taludes de las
-carreteras y autopistas recién construidas para amortiguar el impacto de las torrenciales
-lluvias tropicales. `,
+Esta especie es utilizada contra la erosión para proteger los taludes de las carreteras y autopistas recién construidas para amortiguar el impacto de las torrenciales lluvias tropicales. `,
   },
        {
     id: 'girasol',
@@ -1261,16 +1117,10 @@ lluvias tropicales. `,
     title_cientifico: 'Helianthus annuus',
     image: 'girasol.jpg',
     imageURL: 'https://www.chilternseeds.co.uk/images/products/zoom/img_915_10398.jpg',
-    caracteristicas_fisicas: `Es una hierba robusta pero anual. Mide más de 1 metro de
-alto con flores en cabezuelas grandes de colores amarillos las exteriores y las interiores
-son de café. Los frutos tienen la forma típica del girasol. Las hojas y el tallo son muy
-ásperos al tacto.`,
+    caracteristicas_fisicas: `Es una hierba robusta pero anual. Mide más de 1 metro de alto con flores en cabezuelas grandes de colores amarillos las exteriores y las interiores son de café. Los frutos tienen la forma típica del girasol. Las hojas y el tallo son muy ásperos al tacto.`,
 
     propiedades:`
-Es un alimento muy completo al ofrecer vitaminas, minerales, fibra. Así
-como también proteína y grasas saludables. La semilla de girasol es rica en vitamina E que
-es un poderoso antioxidante. Su efecto antioxidante protege de diversas enfermedades,
-incluyendo cardiovasculares y algunos tipos de cáncer y complicaciones por diabetes. `,
+Es un alimento muy completo al ofrecer vitaminas, minerales, fibra. Así como también proteína y grasas saludables. La semilla de girasol es rica en vitamina E que es un poderoso antioxidante. Su efecto antioxidante protege de diversas enfermedades, incluyendo cardiovasculares y algunos tipos de cáncer y complicaciones por diabetes. `,
   },
     {
     id: 'frailejon',
@@ -1291,19 +1141,10 @@ Las hojas en infusión sirven para casos de reumatismo y afecciones renales; en 
     title_cientifico: 'Plúmeria',
     image: 'frangipani.jpg',
     imageURL: 'https://static.vecteezy.com/system/resources/previews/000/910/943/large_2x/bouquet-of-pink-plumeria-or-frangipani-flower-photo.jpg',
-    caracteristicas_fisicas: `Es un arbusto grande o arbolillo de 5 a 8 metros (puede
-alcanzar hasta 25) de hoja caduca con tronco recto, escasa ramificación y copa abierta e
-irregular. Las hojas de haz verde brillante y más pálido en el envés, se disponen en espiral
-en los ápices de las ramas. Son simples de 15 a 30 cm de largo por 4 a 8 cm de ancho,
-lanceoladas o elípticas y de margen entero. Las flores hermafroditas surgen
-en panículas en las axilas de las hojas nuevas. Miden entre 15 a 30 cm
-con sépalos verdosos y pétalos blancos con el centro amarillo pálido.`,
+    caracteristicas_fisicas: `Es un arbusto grande o arbolillo de 5 a 8 metros (puede alcanzar hasta 25) de hoja caduca con tronco recto, escasa ramificación y copa abierta e irregular. Las hojas de haz verde brillante y más pálido en el envés, se disponen en espiral en los ápices de las ramas. Son simples de 15 a 30 cm de largo por 4 a 8 cm de ancho, lanceoladas o elípticas y de margen entero. Las flores hermafroditas surgen en panículas en las axilas de las hojas nuevas. Miden entre 15 a 30 cm con sépalos verdosos y pétalos blancos con el centro amarillo pálido.`,
 
     propiedades:`
-Además del uso ornamental que se les da a estos arbustos. La intensa y
-agradable fragancia de las flores hace que se utilicen en la elaboración de aromatizantes
-en forma de inciensos, perfumes y aceites esenciales. Por el mismo motivo, se utilizan para
-la confección de guirnaldas. `,
+Además del uso ornamental que se les da a estos arbustos. La intensa y agradable fragancia de las flores hace que se utilicen en la elaboración de aromatizantes en forma de inciensos, perfumes y aceites esenciales. Por el mismo motivo, se utilizan para la confección de guirnaldas. `,
   },
         {
     id: 'helicona',
@@ -1312,16 +1153,10 @@ la confección de guirnaldas. `,
     title_cientifico: 'Plúmeria',
     image: 'helicona.jpg',
     imageURL: 'https://i.pinimg.com/originals/21/c4/c6/21c4c6acdee3db23c3a261f871ca1a18.jpg',
-    caracteristicas_fisicas: `Sus colores más frecuentes son el azul-violeta y el naranja. Su
-altura promedio es de 1.5 metros, la Heliconia Arco Iris o Heliconia wagneriana quedará
-estupenda en tiestos o directamente en la tierra. Sus brácteas son rojizas, exceptuando su
-ápice que es pajizo con motas verdes.`,
+    caracteristicas_fisicas: `Sus colores más frecuentes son el azul-violeta y el naranja. Su altura promedio es de 1.5 metros, la Heliconia Arco Iris o Heliconia wagneriana quedará estupenda en tiestos o directamente en la tierra. Sus brácteas son rojizas, exceptuando su ápice que es pajizo con motas verdes.`,
 
     propiedades:`
-Una de los usos que tiene la heliconia es que sus flores sostenidas por
-brácteas escarlatas y amarillas brotan varias veces al año y funcionan como un potente
-imán para los colibríes que llegan atraídos por el néctar que ellas almacenan y son su
-principal medio de polinización. `,
+Una de los usos que tiene la heliconia es que sus flores sostenidas por brácteas escarlatas y amarillas brotan varias veces al año y funcionan como un potente imán para los colibríes que llegan atraídos por el néctar que ellas almacenan y son su principal medio de polinización. `,
   },
          {
     id: 'lirio',
@@ -1330,25 +1165,10 @@ principal medio de polinización. `,
     title_cientifico: 'Lilium',
     image: 'lirio.jpg',
     imageURL: 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Lilium_longiflorum.jpg',
-    caracteristicas_fisicas: `Los lirios son flores pertenecientes al género Lilium, familia de
-las Liliáceas, del orden de las Liliales. En algunas partes del mundo se les conoce como
-Azucenas, nombre que hace referencia a sus más de 110 especies. Los lirios se encuentran
-en el grupo de las plantas perennes y pueden alcanzar fácilmente un metro de alto. Sus
-tallos frondosos forman bulbos subterráneos que permiten a la flor guardar nutrientes y
-sobrevivir el invierno sin problemas por eso se conocen como flores altamente resistentes.
-Si bien la mayoría de las especies de lirios pierden su follaje durante las partes más frías
-del año, este periodo de inactividad les permite alistarse para su florecimiento. Sus colores
-varían dependiendo de la especie, aunque los lirios blancos se encuentran entre los más
-cotizados.`,
+    caracteristicas_fisicas: `Los lirios son flores pertenecientes al género Lilium, familia de las Liliáceas, del orden de las Liliales. En algunas partes del mundo se les conoce como Azucenas, nombre que hace referencia a sus más de 110 especies. Los lirios se encuentran en el grupo de las plantas perennes y pueden alcanzar fácilmente un metro de alto. Sus tallos frondosos forman bulbos subterráneos que permiten a la flor guardar nutrientes y sobrevivir el invierno sin problemas por eso se conocen como flores altamente resistentes. Si bien la mayoría de las especies de lirios pierden su follaje durante las partes más frías del año, este periodo de inactividad les permite alistarse para su florecimiento. Sus colores varían dependiendo de la especie, aunque los lirios blancos se encuentran entre los más cotizados.`,
 
     propiedades:`
-Los lirios son flores muy aromáticas y es común verlas en los regalos, arreglos florales y
-también adornando jardines. Además, sus propiedades medicinales han sido largamente
-documentadas desde la antigüedad y está presente en los emblemas de varias
-instituciones, países y casas debido a su elegancia. Sus patrones de germinación a través
-de semillas son diferentes y dependen también del hábitat y del clima en donde se
-encuentran. Los lirios se caracterizan por tener mucha fragancia por lo que son usados en
-la fabricación de perfumes.`,
+Los lirios son flores muy aromáticas y es común verlas en los regalos, arreglos florales y también adornando jardines. Además, sus propiedades medicinales han sido largamente documentadas desde la antigüedad y está presente en los emblemas de varias instituciones, países y casas debido a su elegancia. Sus patrones de germinación a través de semillas son diferentes y dependen también del hábitat y del clima en donde se encuentran. Los lirios se caracterizan por tener mucha fragancia por lo que son usados en la fabricación de perfumes.`,
   },
    {
     id: 'rosa',
@@ -1357,18 +1177,11 @@ la fabricación de perfumes.`,
     title_cientifico: 'Glandinflora',
     image: 'rosa.jpg',
     imageURL: 'https://s3.amazonaws.com/cdn.edmundsroses.com/images/popup/23748.jpg',
-    caracteristicas_fisicas: `Crecen a una altura de 91 a 152 cm y producen entre seis y
-cincuenta y cinco retoños en un grupo en cada tallo en forma similar a un candelabro.
-Las rosas grandifloras florecen con mayor frecuencia que los híbridos y requieren
-protección en el invierno. Son más susceptibles a los insectos y las enfermedades por lo
-que deben ser revisadas con frecuencia para estos problemas.`,
+    caracteristicas_fisicas: `Crecen a una altura de 91 a 152 cm y producen entre seis y cincuenta y cinco retoños en un grupo en cada tallo en forma similar a un candelabro. Las rosas grandifloras florecen con mayor frecuencia que los híbridos y requieren protección en el invierno. Son más susceptibles a los insectos y las enfermedades por lo que deben ser revisadas con frecuencia para estos problemas.`,
 
     propiedades:`
-Su uso fundamental es el decorativo, es capaz de llenar de color y de vida
-un jardín complementándolo con una suave y constante fragancia.
-Muchas de sus variedades han sido galardonadas y laureadas en concursos
-internacionales.
-También se usa como flores de corte para decoración de ramos o de interior.`,
+Su uso fundamental es el decorativo, es capaz de llenar de color y de vida un jardín complementándolo con una suave y constante fragancia.
+Muchas de sus variedades han sido galardonadas y laureadas en concursos internacionales.También se usa como flores de corte para decoración de ramos o de interior.`,
   },
      {
     id: 'trinitaria',
@@ -1380,16 +1193,7 @@ También se usa como flores de corte para decoración de ramos o de interior.`,
     caracteristicas_fisicas: `Es un arbusto trepador de hojas perennes que puede alcanzar una altura entre 1 y 12 metros. Su tronco es espinoso, ramificado y de rápido crecimiento. Este arbusto no se trepa, sino que se apoya de otra planta o elemento que lo sustente.`,
 
     propiedades:`
-Sirve para acelerar la cicatrización, lo cual es necesario embeber la
-herida en una infusión fría con sus flores. Disminuye la tos seca. Es antipiretica y el
-efecto es prácticamente instantáneo. También ayuda a bajar la fiebre. Igualmente se usa
-para equilibrar el sistema digestivo, en este caso no son las flores sino las raíces y las
-hojas las que toman protagonismo. En el caso de las raíces, éstas tienen un efecto
-laxante, mientras que las hojas provocan estreñimiento. Según sea la afección, podemos
-optar por una u otra opción. Asimismo ayuda a eliminar la mucosidad alojada en las vías
-respiratorias altas (laringe, faringe, bronquios). Esta planta es reconocida por sus
-propiedades antisépticas, especialmente sobre la piel, por lo que ayuda a combatir el
-acné, las infecciones y la descamación.`,
+Sirve para acelerar la cicatrización, lo cual es necesario embeber la herida en una infusión fría con sus flores. Disminuye la tos seca. Es antipiretica y el efecto es prácticamente instantáneo. También ayuda a bajar la fiebre. Igualmente se usa para equilibrar el sistema digestivo, en este caso no son las flores sino las raíces y las hojas las que toman protagonismo. En el caso de las raíces, éstas tienen un efecto laxante, mientras que las hojas provocan estreñimiento. Según sea la afección, podemos optar por una u otra opción. Asimismo ayuda a eliminar la mucosidad alojada en las vías respiratorias altas (laringe, faringe, bronquios). Esta planta es reconocida por sus propiedades antisépticas, especialmente sobre la piel, por lo que ayuda a combatir el acné, las infecciones y la descamación.`,
   },
        {
     id: 'stapelia',
@@ -1398,16 +1202,10 @@ acné, las infecciones y la descamación.`,
     title_cientifico: 'Orbea variegata',
     image: 'stapelia.jpg',
     imageURL: 'https://keyserver.lucidcentral.org/weeds/data/media/Images/orbea_variegata/242663382ffeb1eddb1o.jpg',
-    caracteristicas_fisicas: `Se trata de una planta con tallos suculentos erguidos que brotan
-desde casi a ras del suelo. Éstos son delgados, de entre los 2 y los 3cm de grosor y de
-unos 20 hasta los 40cm de altura dependiendo de la especie. Las flores son simples,
-peludas y están formadas por cinco pétalos. Suelen brotar en verano, y desprenden un
-olor muy desagradable, similar al de la carne en descomposición.`,
+    caracteristicas_fisicas: `Se trata de una planta con tallos suculentos erguidos que brotan desde casi a ras del suelo. Éstos son delgados, de entre los 2 y los 3cm de grosor y de unos 20 hasta los 40cm de altura dependiendo de la especie. Las flores son simples, peludas y están formadas por cinco pétalos. Suelen brotar en verano, y desprenden un olor muy desagradable, similar al de la carne en descomposición.`,
 
     propiedades:`
-El principal uso es el ornamental por ello varias especies se cultivan con
-este fin. Es muy cultivada y frecuentemente las personas aficionadas a las plantas las
-tienen en sus colecciones.`,
+El principal uso es el ornamental por ello varias especies se cultivan con este fin. Es muy cultivada y frecuentemente las personas aficionadas a las plantas las tienen en sus colecciones.`,
   },
     {
     id: 'geranio-comun',
@@ -1416,10 +1214,7 @@ tienen en sus colecciones.`,
     title_cientifico: 'pelargonium zonale',
     image: 'geranio-comun.jpg',
     imageURL: 'http://2.bp.blogspot.com/-yZiYmDPdaEo/T9ewcsgRFdI/AAAAAAAAEiE/q0qC56GIwqU/s1600/pelargonium_zonale_x_Hortorum_Frank_Headley.jpg',
-    caracteristicas_fisicas: `Alcanza una altura de unos 30-40 cm de altura, aunque a
-veces la supera. Sus flores simples o dobles, están reunidas en umbelas, que surgen
-ininterrumpidamente desde la primavera hasta el otoño, según la variedad podemos
-encontrar flores coloreadas de rojo, blanco, rosa, salmón, crema.`,
+    caracteristicas_fisicas: `Alcanza una altura de unos 30-40 cm de altura, aunque a veces la supera. Sus flores simples o dobles, están reunidas en umbelas, que surgen ininterrumpidamente desde la primavera hasta el otoño, según la variedad podemos encontrar flores coloreadas de rojo, blanco, rosa, salmón, crema.`,
 
     propiedades:`
 Se cultiva en jardinería en grandes grupos en parques y jardines, aunque su empleo más común es en macetas en patios y balcones.`,
@@ -1431,25 +1226,10 @@ Se cultiva en jardinería en grandes grupos en parques y jardines, aunque su emp
     title_cientifico: 'Catharanthus roseus',
     image: 'coqueta.jpg',
     imageURL: 'http://www.houseplantsguru.com/wp-content/uploads/2011/04/Madagascar-Periwinkle-Catharanthus-roseus.jpg',
-    caracteristicas_fisicas: `Es un arbusto o planta herbácea siempre verde, que alcanza
-una altura de 1 m. Las hojas son de ovales a oblongas, de 2,5 a 9 cm de longitud y de 1 a
-3.5 cm de anchura, de color verde brillante, sin pelos, con un nervio central pálido y un
-corto peciolo de 1 a 1,8 cm de longitud; se disponen en pares opuestos. Las flores
-constan de una corola de hasta 5 centímetros de diámetro formada por cinco pétalos,
-unidos en su base a un tubo que puede ser tan largo como el diámetro corolino. El cáliz
-está formado por cinco sépalos lineares, cortos, de menos de 1 cm de longitud. En las
-plantas silvestres la corola es de color rosado claro, más raramente blancas, con la base
-de los pétalos más oscura. Las variedades ornamentales pueden mostrar tonos más
-intensos de rosa o combinaciones de tonos.`,
+    caracteristicas_fisicas: `Es un arbusto o planta herbácea siempre verde, que alcanza una altura de 1 m. Las hojas son de ovales a oblongas, de 2,5 a 9 cm de longitud y de 1 a 3.5 cm de anchura, de color verde brillante, sin pelos, con un nervio central pálido y un corto peciolo de 1 a 1,8 cm de longitud; se disponen en pares opuestos. Las flores constan de una corola de hasta 5 centímetros de diámetro formada por cinco pétalos, unidos en su base a un tubo que puede ser tan largo como el diámetro corolino. El cáliz está formado por cinco sépalos lineares, cortos, de menos de 1 cm de longitud. En las plantas silvestres la corola es de color rosado claro, más raramente blancas, con la base de los pétalos más oscura. Las variedades ornamentales pueden mostrar tonos más intensos de rosa o combinaciones de tonos.`,
 
     propiedades:`
-Se le atribuyen propiedades antibióticas tanto en infecciones internas
-como en la piel, para bajar la presión arterial, el colesterol y curar la malaria. También es
-útil en casos de laringitis, faringitis y dolor de muelas. Esta planta contiene alcaloides
-como la vincristina y la vinblastina que poseen potentes propiedades contra tumores
-benignos y malignos, cuyo uso está plenamente reconocido por la práctica médica y se
-emplean para elaborar medicamentos, especialmente contra la leucemia, cáncer de
-seno, cáncer testicular, neuroblastoma, enfermedad de Hodgkin y otros linfomas.`,
+Se le atribuyen propiedades antibióticas tanto en infecciones internas como en la piel, para bajar la presión arterial, el colesterol y curar la malaria. También es útil en casos de laringitis, faringitis y dolor de muelas. Esta planta contiene alcaloides como la vincristina y la vinblastina que poseen potentes propiedades contra tumores benignos y malignos, cuyo uso está plenamente reconocido por la práctica médica y se emplean para elaborar medicamentos, especialmente contra la leucemia, cáncer de seno, cáncer testicular, neuroblastoma, enfermedad de Hodgkin y otros linfomas.`,
   },
      {
     id: 'chaguaramo',
@@ -1458,19 +1238,10 @@ seno, cáncer testicular, neuroblastoma, enfermedad de Hodgkin y otros linfomas.
     title_cientifico: 'Roystonea oleracea',
     image: 'chaguaramo.jpg',
     imageURL: 'https://www.rarepalmseeds.com/image/cache/data/r/roystonea-oleracea-2_0_3_800x1600_38f67.jpg',
-    caracteristicas_fisicas: `Es la segunda especie de palma más cultivada en Venezuela y es
-una especie nativa, su altura puede llegar hasta los cinco metros cuando el suelo es rico
-en nutrientes y profundidad. En condiciones diferentes puede llegar a menos de tres
-metros y de estar en maceta hasta metro y medio de altura como máximo. Se caracteriza
-por tener una base gruesa de color blancuzco para terminar en un cogollo de hojas
-verde claro de un brillo muy vivo.`,
+    caracteristicas_fisicas: `Es la segunda especie de palma más cultivada en Venezuela y es una especie nativa, su altura puede llegar hasta los cinco metros cuando el suelo es rico en nutrientes y profundidad. En condiciones diferentes puede llegar a menos de tres metros y de estar en maceta hasta metro y medio de altura como máximo. Se caracteriza por tener una base gruesa de color blancuzco para terminar en un cogollo de hojas verde claro de un brillo muy vivo.`,
 
     propiedades:`
-Es bastante cultivada en jardinería. Los beneficios medicinales de está
-planta son a través del rizoma o raíz cocido, mediante infusiones como té para ser
-tomado como diurético con el fin determinado para la expulsión de piedras, alojadas en
-los conductos urinarios. También se usa para tratar los padecimientos de diabetes.
-Asimismo es un calmante nervioso.`,
+Es bastante cultivada en jardinería. Los beneficios medicinales de está planta son a través del rizoma o raíz cocido, mediante infusiones como té para ser tomado como diurético con el fin determinado para la expulsión de piedras, alojadas en los conductos urinarios. También se usa para tratar los padecimientos de diabetes. Asimismo es un calmante nervioso.`,
   },
    {
     id: 'madre-perla',
@@ -1482,7 +1253,7 @@ Asimismo es un calmante nervioso.`,
     caracteristicas_fisicas: `Dispone de unas hojas carnosas, de forma obovada, pero acabadas en punta. ¡tranquilo, no te pincharán! El color dominante es el gris o el verde azulado; aunque en su ápice tienden al rosa. Están todas ellas cubiertas por una especie de cera que no hay que quitar, las protege del sol directo. Se agrupan formando vistosas rosetas, como la echeveria. Pero, a diferencia de ésta, se muestran menos apretadas y sujetas por unos largos tallos, muchas veces colgantes. Al final del invierno comienza a armar sus panículas florales, que no se abrirán hasta principios de la primavera. Serán unas pequeñas flores blancas de pétalos triangulares, similares a estrellas de cinco puntas.`,
 
     propiedades:`
-Gracias a sus tallos postrados, la planta madreperla quedará fantástica en cualquiera de tus macetas; Al crecer las rosetas colgarán por los bordes como una cascada.`,
+Gracias a sus tallos postrados, la planta madreperla quedará fantástica en cualquiera de tus macetas; al crecer las rosetas colgarán por los bordes como una cascada.`,
   },
 
 ]

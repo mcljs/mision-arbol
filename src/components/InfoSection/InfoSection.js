@@ -70,18 +70,24 @@ const InfoSection = ({ reverse }) => {
     <Section className="dark:bg-[#121f3d]">
       <Container >
         <ColumnLeft>
-          <h1 className="dark:text-white">Calendario Ecosocialista Agosto 2021</h1>
+          <h1 className="dark:text-white">Calendario Ecosocialista Septiembre 2021</h1>
           <section>
-                      <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">01.-</strong>Día Mundial de la Pachamama            </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">09.-</strong>Día Internacional de las Poblaciones Indígenas    </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">14.-</strong>Día Interamericano de la Calidad del Aire
+                      <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">16.-</strong>Día Internacional de la Preservación de la Capa de Ozono           </h2>
+
+            <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">18.-</strong>Día Mundial de las Playas    </h2>
+            <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">21.-</strong>Día Mundial de la Paz
             </h2>
-            <h2 className="text-2xl font-light mb-2 dark:text-white">
-              <strong className="font-bold">24.-</strong>Día Internacional de los Parques Nacionales
+            <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">27.-</strong>Día Mundial del Turismo
             </h2>
+ <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">29.-</strong>Día Mundial de los Mares
+            </h2>
+
+
           
                    </section>
 
