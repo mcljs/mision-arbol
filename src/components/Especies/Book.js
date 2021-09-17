@@ -9,7 +9,7 @@ const Book = ({id,title,title_cientifico,caracteristicas_fisicas,image}) => {
  
 
         
-<div className="overflow-hidden rounded-lg shadow-lg dark:bg-[#24385b]">
+<div className="overflow-hidden rounded-lg shadow-lg bg-white dark:bg-[#24385b]">
 
                 <Link to={`/guide/${id}`}>
                     <Image filename={image}  className="object-cover object-center w-full lg:h-48 md:h-3" alt={title}/>

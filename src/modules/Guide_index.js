@@ -24,6 +24,7 @@ const Guide = () => {
   return (
     <Layout >
  <SEO title="Guía de Especie" />
+      <div className="bg-gray-100">
        <div className="text-center max-w-xl mx-auto pt-4">
       <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600 dark:text-white">Guía de Especies</h1>
       
@@ -76,7 +77,7 @@ const Guide = () => {
           
         </TabContent> 
 
-
+</div>
     </Layout>
   )
 }

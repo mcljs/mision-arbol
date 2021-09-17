@@ -33,7 +33,8 @@ const Image = props => (
       const imageSizes = image.node.childImageSharp.gatsbyImageData
       return (
        
-          <GatsbyImage alt={props.alt} image={imageSizes} />
+          <GatsbyImage alt={props.alt} image={imageSizes} className="flex overflow-hidden block h-64 md:h-42 m-4 md:m-0 object-cover group-hover:shadow-lg group-focus:shadow-lg duration-200 transform group-hover:-translate-y-1 group-focus:-translate-y-1 object-contain"    objectFit="cover"
+  objectPosition="50% 50%"/>
      
       )
     }}
