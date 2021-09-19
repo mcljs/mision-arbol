@@ -1,0 +1,36 @@
+backend:
+  name: github
+  repo: mcljs/mision-arbol
+  branch: master
+  site_domain: misionarbol.minec.gob.ve
+
+local_backend: true
+
+public_mode: editorial_workflow
+media_folder: "content/posts/{{slug}}/"
+public_folder: "posts/{{slug}}/"
+slug:
+  encoding: 'ascii'
+  clean_accents: true
+
+collections:
+  - name: posts
+    label: Posts
+    folder: content/posts
+    path: "{{slug}}/index"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Twitter text', name: 'twitter_text', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string',  required: false }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD hh:mm:ss",
+        }     
+      - { label: 'Tags', name: 'tags', widget: 'list', default: [''],  required: false, }
+      - { label: "image", name: "image", widget: "image" }
+      - { label: "cover", name: "cover", widget: "image" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
