@@ -3,7 +3,7 @@ backend:
   repo: mcljs/mision-arbol
   branch: master
   site_domain: misionarbol.minec.gob.ve
-  base_url: https://netlify-cms.adrianub.vercel.app
+  base_url: https://netlify-cms-oauth-two.vercel.app
 
 local_backend: true
 
