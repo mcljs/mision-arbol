@@ -3,6 +3,7 @@ backend:
   repo: mcljs/mision-arbol
   branch: master
   site_domain: misionarbol.minec.gob.ve
+  base_url: https://your.server.com 
 
 local_backend: true
 
