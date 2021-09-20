@@ -95,7 +95,7 @@ const Navbar = (  ) => {
             <Link to='/guide' className='lg:inline-flex lg:w-auto w-full lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 GUÍA DE ESPECIES
             </Link>
-            <Link to='https://map-mision-arbol.vercel.app/' className='lg:inline-flex lg:w-auto w-full  lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
+            <Link to='/map' className='lg:inline-flex lg:w-auto w-full  lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
                 SITIOS RECUPERADOS
             </Link>
             <Link to='/contact' className='lg:inline-flex lg:w-auto w-full  lg:px-9 px-3 py-2 rounded text-white lg:text-xs text-sm font-bold items-center justify-center hover:bg-yellow-1100 hover:text-white dark:hover:bg-[#98ca3f] dark:hover:text-[#03091e]'>
