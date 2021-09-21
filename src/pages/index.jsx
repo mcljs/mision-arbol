@@ -16,8 +16,6 @@ const VideoSection = React.lazy(()=> import('../components/VideoSection'))
 const Tweet = React.lazy(()=> import('../components/Tweet/index'))
 const BannerCenso = React.lazy(()=> import('../components/Banner/CensoNacional'))
 
-
-
 //import Testimonials from "../components/Header/Arbol"
 //import InfoSection from "../components/InfoSection/InfoSection"
 //import Email from '../components/Email'
