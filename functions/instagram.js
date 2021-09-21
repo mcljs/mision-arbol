@@ -6,8 +6,6 @@ const cache = {
   lastFetch: 0,
   posts: [],
 };
-
-
 async function getPosts() {
   // first see if we have a cache in 30 mins
   const timeSinceLastFetch = Date.now() - cache.lastFetch;
