@@ -41,6 +41,6 @@ La Autoridad Única del Distrito Motor Ciudad Caribia, de Desarrollo, V/A Luis J
 
 Para finalizar, Lorca agradeció a los asistentes y a los que forman parte de Guardianes del Árbol, por ratificar su compromiso con la naturaleza y seguir las instrucciones del presidente Nicolás Maduro, en aras de fortalecer todos los ámbitos relacionados con la Madre Tierra.
 
-*Prensa Ecosocialismo (Minec) / Mareska Piñango*
+**Prensa Ecosocialismo (Minec) / Mareska Piñango**
 
-*Contacto / ecosocialismoprensa@gmail.com*
+**Contacto / ecosocialismoprensa@gmail.com**
