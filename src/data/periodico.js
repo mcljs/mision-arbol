@@ -2,6 +2,24 @@ import noticia01 from '../../static/assets/notiarbol/notiarbol001.pdf'
 
 export const periodicoData = [
 {
+    title: 'Edición 017 del periódico NOTIÁRBOL resalta inaguración de tres viveros comunitarios en los Teques.',
+    title2: 'El periódico NotiÁrbol, en su edición Nº 017, decima septima año 2021, dandole continuida al Plan Nacional de Viveros Comunitarios en Los Teques.',
+    fecha: '15/10/2021',
+    ruta: `https://drive.google.com/file/d/1gQaqzVzB2hnBJvarYnT37WS1t6LdpHB8/view?usp=sharing`, 
+  },
+{
+    title: 'Edición 016 del periódico NOTIÁRBOL resalta una nube de Dióxido de Azufre llegó a Venezuela',
+    title2: 'El periódico NotiÁrbol, en su edición Nº 015, decima sexta del año 2021, la erupción del volcan Cumbre vieja, en isla La Palma, en el Archipiélago de Canarias (España).',
+    fecha: '08/10/2021',
+    ruta: `https://drive.google.com/file/d/1bmT1nGmO6POvRpu5-RK2L9mMZ_ijSGLJ/view?usp=sharing`, 
+  },
+{
+    title: 'Edición 015 del periódico NOTIÁRBOL resalta inaguración en la parroquia Macarao el vivero comunitario 22 a nivel nacional',
+    title2: 'El periódico NotiÁrbol, en su edición Nº 015, decima quinta del año 2021, resalta inaguración en la parroquia Macarao el vivero comunitario 22 a nivel nacional',
+    fecha: '01/10/2021',
+    ruta: `https://drive.google.com/file/d/1WGNU3ikmPhEcrVHBfgf_DJx5QGosJuQm/view?usp=sharing`, 
+  },
+{
     title: 'Edición 014 del periódico NOTIÁRBOL resalta Ecosocialistas sanearon y limpiaron en cinco playas de la Guaira',
     title2: 'El periódico NotiÁrbol, en su edición Nº 015, decima cuarta del año 2021, resalta Ecosocialistas sanearon y limpiaron en cinco playas de la Guaira',
     fecha: '24/09/2021',

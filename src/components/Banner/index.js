@@ -16,14 +16,14 @@ const Banner = (  ) => (
         </div>
                <div className="w-full py-10 px-6 text-gray-800 flex flex-col justify-between">
 
-          <h3 className="font-semibold text-lg leading-tight dark:text-white"> Edición 011 del periódico NOTIÁRBOL resalta nuevas alianzas con el consejo comunal Brisas de Sarrapial para la reforestacón de espaciones comunitarios .</h3>
+          <h3 className="font-semibold text-lg leading-tight dark:text-white"> Edición 017 del periódico NOTIÁRBOL resalta inaguración de tres viveros comunitarios en los Teques .</h3>
           <p className="mt-2 dark:text-white">
            
-El periódico NotiÁrbol, en su edición Nº 011, decima primera año 2021, resalta en convenio con el consejo comunal Brisas de Sarrapial se instaló el primer vivreo comunitario en el estado Monagas.
+El periódico NotiÁrbol, en su edición Nº 017, decima septima año 2021, dandole continuida al Plan Nacional de Viveros Comunitarios en Los Teques.
 
           </p>
           <p className="text-sm text-gray-700 uppercase tracking-wide font-semibold mt-2 dark:text-[#0791e6]">
-            Caracas &bull; 27 de Agosto de 2021
+            Caracas &bull; 15 de Octubre de 2021
           </p>
                 
 <div className="inline-block mr-2 mt-2">
