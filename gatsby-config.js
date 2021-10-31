@@ -7,7 +7,8 @@ module.exports = {
   },
 flags: {
     DEV_SSR: false,
-    FAST_DEV: true
+    FAST_DEV: true,
+    PARALLEL_QUERY_RUNNING:true,
   },
 
   plugins: [

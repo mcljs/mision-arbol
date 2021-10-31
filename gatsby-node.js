@@ -80,7 +80,7 @@ exports.createPages = ({graphql,actions}) => {
           previousPost: next,
           nextPost: previous
         },
-        defer: true,
+    
       })
     })
   })
