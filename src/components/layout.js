@@ -13,6 +13,7 @@ import Navbar from '../components/Navbar'
 import Footer1 from './Footer';
 import ScrollToTop from './ScrollButton';
 import useDarkMode from '../hooks/useDarkMode';
+import {Header} from './Headers/Header';
 //import "./layout.css"
 const Layout = ({ children }) => {
 
@@ -25,7 +26,8 @@ useDarkMode()
   return (
     <>
       {/*<Global styles={globalStyles}/>*/}    
-      <Navbar  />
+      <Header />
+
 
         <main className="dark:bg-[#121f3d]">{children}</main>
       <ScrollToTop />

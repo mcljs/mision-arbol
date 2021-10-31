@@ -79,7 +79,8 @@ exports.createPages = ({graphql,actions}) => {
           slug: node.fields.slug,
           previousPost: next,
           nextPost: previous
-        }
+        },
+        defer: true,
       })
     })
   })

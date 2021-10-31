@@ -68,28 +68,33 @@ const ColumnRight = styled.div`
 const InfoSection = ({ reverse }) => {
   return (
     <Section className="dark:bg-[#121f3d]">
-      <Container >
+      <Container>
         <ColumnLeft>
-          <h1 className="dark:text-white">Calendario Ecosocialista Septiembre 2021</h1>
+          <h1 className="dark:text-white">
+            Calendario Ecosocialista Noviembre 2021
+          </h1>
           <section>
-                      <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">16.-</strong>Día Internacional de la Preservación de la Capa de Ozono           </h2>
-
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">18.-</strong>Día Mundial de las Playas    </h2>
-            <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">21.-</strong>Día Mundial de la Paz
+              <strong className="font-bold">01.-</strong>Día Mundial de la
+              Ecología{" "}
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">27.-</strong>Día Mundial del Turismo
+              <strong className="font-bold">03.-</strong>Día Internacional de
+              las Reservas de la Biósfera
             </h2>
- <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">29.-</strong>Día Mundial de los Mares
+            <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">06.-</strong>Día Internacional
+              contra la Explotación del Ambiente en los Conflictos Armados{" "}
             </h2>
 
-
-          
-                   </section>
+            <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">08.-</strong>Día del Urbanismo
+            </h2>
+            <h2 className="text-2xl font-light mb-3 dark:text-white">
+              <strong className="font-bold">26.-</strong>Día Mundial Contral el
+              Uso Indiscriminado de Agroquímicos
+            </h2>
+          </section>
 
           <Button
             to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing"

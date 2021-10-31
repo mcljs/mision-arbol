@@ -9,7 +9,7 @@ const Periodico = (  ) => {
   <>
      <div className="max-w-screen-md mx-auto grid grid-cols-1 gap-5 sm:pt-28 pt-20 px-5 pb-24">
       <div className="w-48 mx-auto">
-        <StaticImage placeholder="blurred" src="../../images/logo.png" alt="logo"/>
+        <StaticImage placeholder="blurred" src="../../images/Nuevo logo Mision arbol.ai1-01 (1).png" alt="logo"/>
       </div> 
       <h1 className="lg:text-4xl sm:text-3xl text-2xl font-bold text-center leading-tight dark:text-white">Periódico Digital</h1>
       
