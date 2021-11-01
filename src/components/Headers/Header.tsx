@@ -24,7 +24,7 @@ export const Header = (): JSX.Element => {
  <img className="dark:bg-[#0e182a] bg-[#98b63e] bg-cover bg-center w-full h-full sm:h-[144px] flex  top-0 z-50 cursor-text" alt={Banner} src={Banner}  />
     <header
       className={clsx(
-        'flex sticky top-0 z-50 items-center w-full h-16 bg-gray-100 dark:bg-secondary-500 shadow dark:shadow-none transition-transform duration-150 transform md:h-auto',
+        'flex sticky top-0 z-50 items-center w-full h-16 bg-gray-100 dark:bg-[#03091e] shadow dark:shadow-none transition-transform duration-150 transform md:h-auto',
         prevY
           ? y < 276 || prevY > y
             ? 'translate-y-0'

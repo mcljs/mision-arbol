@@ -16,7 +16,7 @@ const Gallery = (  ) => {
       <header>
       <h1 className="flex flex-col items-center">
         {/* <span className="text-transparent bg-clip-text bg-gradient-to-br from-pink-500 to-red-600 font-semibold tracking-wide uppercase">Instagram</span>*/}
-        <h1 className="mt-2 mb-8 font-extrabold tracking-tight text-gray-99 lg:text-4xl sm:text-3xl text-2xl">Galería de Imágenes</h1>
+        <h1 className="mt-2 mb-8 font-extrabold tracking-tight text-gray-99 lg:text-4xl sm:text-3xl text-2xl dark:text-white">Galería de Imágenes</h1>
         <hr className="nt-8 border-t-2 w-20 mx-auto"/>
       </h1>
     </header>

@@ -15,8 +15,8 @@ const BannerCenso = (  ) => (
       </div>
       <div className="flex md:justify-end w-full md:w-1/2 -mt-5 ">
          <div className="bg-dots ">
-            <div className="shadow-2xl max-w-md z-10 rounded-full mt-6 ml-4">
-               <StaticImage alt="card img" class="rounded-t " src="../../images/censo_vivero.png"/> 
+            <div className="shadow-2xl max-w-md z-10 rounded-full mt-6 ml-4 dark:bg-[#121f3d]">
+               <StaticImage alt="card img" className="rounded-t dark:bg-[#121f3d] " src="../../images/censo_vivero.png"/> 
         
             </div>
          </div>

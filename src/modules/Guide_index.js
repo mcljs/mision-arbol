@@ -48,7 +48,7 @@ let [categories] = useState({
   return (
     <Layout >
  <SEO title="Guía de Especie" />
-      <div className="bg-gray-100">
+      <div className="bg-gray-100 dark:bg-[#121f3d]">
        <div className="text-center max-w-xl mx-auto pt-4">
       <h1 className="text-6xl md:text-7xl font-bold mb-5 mt-12 text-gray-600 dark:text-white">Guía de Especies</h1>
       
@@ -69,10 +69,10 @@ let [categories] = useState({
               key={category}
               className={({ selected }) =>
                 classNames(
-                  'w-full py-2.5 text-sm leading-5 font-medium text-yellow-700 rounded-lg bg-white',
+                  'w-full py-2.5 text-sm leading-5 font-medium text-yellow-700 rounded-lg bg-white dark:bg-[#24385b] dark:text-white',
                   'focus:outline-none focus:ring-2 ring-offset-2 ring-offset-yellow-400 ring-white ring-opacity-40',
                   selected
-                    ? 'bg-yellow-50 shadow'
+                    ? 'bg-yellow-50 dark:bg-[#40587c] shadow'
                     : 'text-yellow-400 hover:bg-white '
                 )
               }
