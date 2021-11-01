@@ -21,7 +21,7 @@ export const Header = (): JSX.Element => {
 
   return (
     <>
- <img className="dark:bg-[#0e182a] bg-red-primary bg-cover bg-center w-full h-full sm:h-[144px] flex  top-0 z-50 cursor-text" alt={Banner} src={Banner}  />
+ <img className="dark:bg-[#0e182a] bg-[#98b63e] bg-cover bg-center w-full h-full sm:h-[144px] flex  top-0 z-50 cursor-text" alt={Banner} src={Banner}  />
     <header
       className={clsx(
         'flex sticky top-0 z-50 items-center w-full h-16 bg-gray-100 dark:bg-secondary-500 shadow dark:shadow-none transition-transform duration-150 transform md:h-auto',
