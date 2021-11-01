@@ -101,13 +101,6 @@ flags: {
               name: "uploads"
             },
           },
-{
-          resolve: `gatsby-remark-images-contentful`,
-          options: {
-
-            maxWidth: 960,
-          },
-        },
           {
             resolve: "gatsby-remark-images",
             options: {

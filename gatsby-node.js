@@ -2,6 +2,10 @@ const path = require('path')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 
+exports.onPluginInit = async (args, pluginOptions) => {
+  await initializePlugin(args, pluginOptions)
+}
+
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   // Ensures we are processing only markdown files
@@ -80,7 +84,7 @@ exports.createPages = ({graphql,actions}) => {
           previousPost: next,
           nextPost: previous
         },
-        defer: true,
+        defer: index + 1 > 10,
       })
     })
   })

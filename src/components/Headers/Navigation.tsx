@@ -1,5 +1,6 @@
 // Internals
-import MenuItem from './MenuItem'
+import React from 'react';
+import MenuItem from './MenuItem';
 
 const Navigation = ({
   toggle,
