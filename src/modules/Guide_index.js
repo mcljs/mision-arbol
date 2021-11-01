@@ -1,22 +1,46 @@
 import React, { useState } from 'react'
 import Layout from '../components/layout'
 import SEO from "../components/Seo"
-import { Tabs, Tab, TabContent } from '../components/Tabs'
 import Link from '../components/link'
 import {EspList} from '../components/Especies/EspList'
+import { Tab } from '@headlessui/react'
+
+function classNames(...classes) {
+  return classes.filter(Boolean).join(' ')
+}
 
 const Guide = () => {
 
-   const [activeTab, setActiveTab] = useState(0)
-
-  const handleTabSwitch = e => {
-    const index = parseInt(e.target.id, 0)
-    if (index !== activeTab) {
-      setActiveTab(index)
-    }
-  }
 
 
+let [categories] = useState({
+    Forestales: [
+      {
+        id: 1,
+        component:  <EspList publisher="Forestales"/>
+,
+
+      },
+
+    ],
+    Medicinales: [
+      {
+        id: 1,
+        component:  <EspList publisher="Medicinal"/>
+,
+
+      },
+        ],
+    Ornamentales: [
+      {
+        id: 1,
+        component: <EspList publisher="Ornamentales"/>
+,
+
+      },
+      
+         ],
+  })
 
 
 
@@ -37,45 +61,44 @@ const Guide = () => {
         </div>
 
        </div>
+ <div className="px-20 py-16 sm:px-40">
+          <Tab.Group >
+        <Tab.List className="flex p-1 space-x-2 bg-blue-900/20 rounded-xl">
+          {Object.keys(categories).map((category) => (
+            <Tab
+              key={category}
+              className={({ selected }) =>
+                classNames(
+                  'w-full py-2.5 text-sm leading-5 font-medium text-yellow-700 rounded-lg bg-white',
+                  'focus:outline-none focus:ring-2 ring-offset-2 ring-offset-yellow-400 ring-white ring-opacity-40',
+                  selected
+                    ? 'bg-yellow-50 shadow'
+                    : 'text-yellow-400 hover:bg-white '
+                )
+              }
+            >
+              {category}
+            </Tab>
+          ))}
+        </Tab.List> 
+ <Tab.Panels className="mt-2">
+          {Object.values(categories).map((posts, idx) => (
+            <Tab.Panel
+              key={idx}
+           
+            >
+            
+                {posts.map((post) => (
+                  <>{post.component} </> 
+                ))}
+            
+            </Tab.Panel>
+          ))}
+        </Tab.Panels>
+</Tab.Group>
 
-          <Tabs>
-
-              <Tab className="dark:bg-[#24385b] dark:hover:bg-[#24385b] dark:text-white" onClick={handleTabSwitch} activeTab={activeTab === 0} id={0}>Forestales</Tab>
-
-              <Tab className="dark:bg-[#24385b] dark:hover:bg-[#24385b] dark:text-white" onClick={handleTabSwitch} activeTab={activeTab === 1} id={1}>Medicinales</Tab>
-
-              <Tab className="dark:bg-[#24385b] dark:hover:bg-[#24385b] dark:text-white" onClick={handleTabSwitch} activeTab={activeTab === 2} id={2}>Ornamentales</Tab>
-
-              
-
-            </Tabs>
-        
+ </div>
    {/* ------------ Books Section ------------ */}
- <TabContent activeTab={activeTab === 0}>
-
-   <EspList publisher="Forestales"/>
-    
-
-  </TabContent> 
-
-
- <TabContent activeTab={activeTab === 1}>
-
-     <EspList publisher="Medicinal"/>
-
-  
-
-          
-        </TabContent> 
-
- <TabContent activeTab={activeTab === 2}>
-
-     <EspList publisher="Ornamentales"/>
-
-  
-
-          
-        </TabContent> 
 
 </div>
     </Layout>

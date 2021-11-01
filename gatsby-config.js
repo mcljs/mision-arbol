@@ -8,6 +8,7 @@ module.exports = {
 flags: {
     DEV_SSR: false,
     FAST_DEV: true,
+  PRESERVE_FILE_DOWNLOAD_CACHE: true,
     PARALLEL_QUERY_RUNNING:true,
   },
 
@@ -146,7 +147,6 @@ flags: {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
-'gatsby-plugin-emotion',
     `gatsby-plugin-image`,
 `gatsby-plugin-styled-components`,
 

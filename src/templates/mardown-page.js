@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 import Layout from '../components/layout'
-import '../styles/mardown.css'
+
 import * as S from '../components/styles/base'
 
 function MarkdownPage({children}) {
