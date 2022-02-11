@@ -4,38 +4,38 @@ import SEO from '../components/Seo'
 import DelayedFallback from "../components/Tweet/DelayedFallback"
 import Vertices from "../components/Vertices"
 import useDarkMode from "../hooks/useDarkMode"
+import Articles from "../components/Articles"
+import Banner from "../components/Banner"
+import Layout from "../components/layout"
+import InfoSection from "../components/InfoSection/InfoSection"
+import Email from '../components/Email'
+import {InfoData} from "../data/InfoData"
+import VideoSection from "../components/VideoSection"
+import Tweet from "../components/Tweet/index"
+import BannerCenso from "../components/Banner/CensoNacional"
 
-const Articles = React.lazy(() => import("../components/Articles")) 
-const Banner = React.lazy(() => import('../components/Banner'))
-const Layout = React.lazy(()=> import('../components/layout'))
-const Testimonials = React.lazy(()=> import('../components/Header/Arbol'))
-const InfoSection =  React.lazy(()=> import('../components/InfoSection/InfoSection'))
-const Email = React.lazy(()=> import('../components/Email'))
-const {InfoData} = React.lazy(()=> import('../data/InfoData'))
-const VideoSection = React.lazy(()=> import('../components/VideoSection'))
-const Tweet = React.lazy(()=> import('../components/Tweet/index'))
-const BannerCenso = React.lazy(()=> import('../components/Banner/CensoNacional'))
+
+//const InfoSection =  React.lazy(()=> import('../components/InfoSection/InfoSection'))
+//const Email = React.lazy(()=> import('../components/Email'))
+//const {InfoData} = React.lazy(()=> import('../data/InfoData'))
+//const VideoSection = React.lazy(()=> import('../components/VideoSection'))
+//const Tweet = React.lazy(()=> import('../components/Tweet/index'))
+//const BannerCenso = React.lazy(()=> import('../components/Banner/CensoNacional'))
 
 //import Testimonials from "../components/Header/Arbol"
-//import InfoSection from "../components/InfoSection/InfoSection"
-//import Email from '../components/Email'
-//import Layout from "../components/layout"
+
 //import SEO from "../components/seo"
-//import {InfoData} from "../data/InfoData"
-//import VideoSection from "../components/VideoSection"
 
 
 const IndexPage = () => {
 
 useDarkMode()
-const isSSR = typeof window === "undefined"
 
   return (
     <>
  
  <SEO title="Inicio" />
-    {!isSSR &&(
-<React.Suspense fallback={ <DelayedFallback/> }>
+
   <Layout>
   
       <VideoSection />
@@ -47,9 +47,8 @@ const isSSR = typeof window === "undefined"
  <Tweet />
     <Email />  
   </Layout>
- </React.Suspense>
 
-  )}
+
     </>
 )}
 
