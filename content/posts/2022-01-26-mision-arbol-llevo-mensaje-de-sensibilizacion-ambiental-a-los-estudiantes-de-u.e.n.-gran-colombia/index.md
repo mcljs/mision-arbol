@@ -1,8 +1,8 @@
 ---
 date: 2022-01-26 15:32:21
-tags: ["Minec", "FILVEN"]
+tags: ["Minec"]
 title: Misión árbol llevó mensaje de sensibilización ambiental a los estudiantes de U.E.N. Gran Colombia
-description: Misión Árbol, ente adscrito al Ministerio del Poder Popular para el Ecosocialismo (Minec), se desplegó a nivel nacional en las instituciones educativas, en procura del desarrollo de la conciencia de los estudiantes en material ambiental, con motivo de celebrarse este miércoles el Día Internacional de la Educación Ambiental. 
+description: Misión Árbol, ente adscrito al Ministerio del Poder Popular para el Ecosocialismo Minec, se desplegó a nivel nacional en las instituciones educativas, en procura del desarrollo de la conciencia de los estudiantes en material ambiental, con motivo de celebrarse este miércoles el Día Internacional de la Educación Ambiental. 
 twitter_text: Misión árbol llevó mensaje de sensibilización ambiental a los estudiantes de U.E.N. Gran Colombia 
 image: ./Misión-Árbol-llevó-mensaje-de-sensibilización-ambiental-a-los-estudiantes-de-U.E.N.-Gran-Colombia-2-768x575.jpeg
 cover: ./Misión-Árbol-llevó-mensaje-de-sensibilización-ambiental-a-los-estudiantes-de-U.E.N.-Gran-Colombia-2-768x575.jpeg
