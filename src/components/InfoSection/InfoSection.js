@@ -71,33 +71,29 @@ const InfoSection = ({ reverse }) => {
       <Container>
         <ColumnLeft>
           <h1 className="dark:text-white">
-            Calendario Ecosocialista Noviembre 2021
+            Calendario Ecosocialista Febrero 2022
           </h1>
           <section>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">01.-</strong>Día Mundial de la
-              Ecología{" "}
+              <strong className="font-bold">02.-</strong>Día Mundial de los Humedades{" "}
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">03.-</strong>Día Internacional de
-              las Reservas de la Biósfera
+              <strong className="font-bold">13.-</strong>Día Nacional de los Guardaparques
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">06.-</strong>Día Internacional
-              contra la Explotación del Ambiente en los Conflictos Armados{" "}
+              <strong className="font-bold">14.-</strong>Día de la Energia{" "}
             </h2>
 
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">08.-</strong>Día del Urbanismo
+              <strong className="font-bold">21.-</strong>Día Internacional para la Proteccion de los Osos
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">26.-</strong>Día Mundial Contral el
-              Uso Indiscriminado de Agroquímicos
+              <strong className="font-bold">23.-</strong>Día del Compromiso Internacional del Control de Mercurio
             </h2>
           </section>
 
           <Button
-            to="https://drive.google.com/file/d/1P1AHPSSehE5wY7XczNG5qIaKAk1N2u8H/view?usp=sharing"
+            to="https://drive.google.com/file/d/19cog2N9LxE93-sD85pPV8EakNNZLCmia/view?usp=sharing"
             primary="true"
           >
             Descargar
