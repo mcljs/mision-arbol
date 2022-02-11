@@ -82,7 +82,6 @@ exports.createPages = ({graphql,actions}) => {
           previousPost: next,
           nextPost: previous
         },
-        defer: index + 1 > 10,
       })
     })
   })
