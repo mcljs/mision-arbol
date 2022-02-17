@@ -75,20 +75,24 @@ const InfoSection = ({ reverse }) => {
           </h1>
           <section>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">02.-</strong>Día Mundial de los Humedades{" "}
+              <strong className="font-bold">02.-</strong>Día Mundial de los
+              Humedades{" "}
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">13.-</strong>Día Nacional de los Guardaparques
+              <strong className="font-bold">13.-</strong>Día Nacional de los
+              Guardaparques
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
               <strong className="font-bold">14.-</strong>Día de la Energia{" "}
             </h2>
 
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">21.-</strong>Día Internacional para la Proteccion de los Osos
+              <strong className="font-bold">21.-</strong>Día Internacional para
+              la Proteccion de los Osos
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">23.-</strong>Día del Compromiso Internacional del Control de Mercurio
+              <strong className="font-bold">23.-</strong>Día del Compromiso
+              Internacional del Control de Mercurio
             </h2>
           </section>
 
@@ -101,7 +105,7 @@ const InfoSection = ({ reverse }) => {
         </ColumnLeft>
         <ColumnRight reverse={reverse} className="dark:bg-[#121f3d]">
           <StaticImage
-            src="../../assets/calendario-img.png"
+            src="../../assets/calendario2022.jpg"
             alt="home"
             placeholder="tracedSVG"
             width={550}
