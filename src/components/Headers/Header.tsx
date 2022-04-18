@@ -11,7 +11,7 @@ import MobileHeader from './MobileHeader'
 //import type { MyLocale } from 'i18n'
 import {StaticImage} from "gatsby-plugin-image"
 // eslint-disable-next-line spaced-comment
-import Banner from '../../images/bannerweb.png'
+import Banner from '../../images/banner.jpg'
 import Logo from '../../images/Nuevo logo Mision arbol.ai1-01 (1).png'
 
 export const Header = (): JSX.Element => {

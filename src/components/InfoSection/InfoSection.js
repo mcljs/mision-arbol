@@ -71,28 +71,21 @@ const InfoSection = ({ reverse }) => {
       <Container>
         <ColumnLeft>
           <h1 className="dark:text-white">
-            Calendario Ecosocialista Febrero 2022
+            Calendario Ecosocialista Abril 2022
           </h1>
           <section>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">02.-</strong>Día Mundial de los
-              Humedades{" "}
+              <strong className="font-bold">07.-</strong>Día Mundial de la salud{" "}
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">13.-</strong>Día Nacional de los
-              Guardaparques
+              <strong className="font-bold">20.-</strong>Día del Caiman del Orinoco
             </h2>
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">14.-</strong>Día de la Energia{" "}
+              <strong className="font-bold">22.-</strong>Día Mundial de la Tierra{" "}
             </h2>
 
             <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">21.-</strong>Día Internacional para
-              la Proteccion de los Osos
-            </h2>
-            <h2 className="text-2xl font-light mb-3 dark:text-white">
-              <strong className="font-bold">23.-</strong>Día del Compromiso
-              Internacional del Control de Mercurio
+              <strong className="font-bold">21.-</strong>Día Internacional de la Concientizacion respecto al ruido
             </h2>
           </section>
 
