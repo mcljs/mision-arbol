@@ -20,7 +20,7 @@ import TagPill from '../components/TagPill'
       <SEO title={post.frontmatter.title}
         description={post.frontmatter.description}
         //image={post.frontmatter.image}
-        image={`https://mision-arbol.vercel.app${post.frontmatter.image?.publicURL || post.frontmatter.imageUrl}`}
+        image={`${post.frontmatter.image?.publicURL || post.frontmatter.imageUrl}`}
         />
 
         <div className="mt-10 sm:mt-24 ">
