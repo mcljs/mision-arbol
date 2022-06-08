@@ -10,7 +10,7 @@ export default function SkeletonImage({ img, ...rest }) {
 
   const { src, srcSet, sizes } = img.props;
 
-  React.useLayoutEffect(() => {
+  useSSRLayoutEffect(() => {
     if (imgRef.current?.complete) setVisible(true);
   }, [])
 

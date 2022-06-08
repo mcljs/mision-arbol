@@ -74,24 +74,26 @@ const Articles = () => {
           render={({ featuredPost, allPosts }) => (
             <>
               <div className="grid  grid-cols-1 md:grid-cols-2 py-12 gap-x-24 gap-y-12">
-                {featuredPost.nodes[0].frontmatter.cover === null ? (
+                {featuredPost.nodes[0].frontmatter.cover && (
                   <SkeletonImage
                     img={
                       <img
                         className="h-80 w-full rounded-lg"
                         src={featuredPost.nodes[0].frontmatter.imageUrl}
-                        alt={featuredPost.nodes[0].frontmatter.imageUrl}
+                        alt=""
                       />
                     }
                   />
-                ) : (
-                  <Img
-                    fluid={
-                      featuredPost.nodes[0].frontmatter.cover.childImageSharp
-                        .fluid
+                )}
+                {featuredPost.nodes[0].frontmatter.imageUrl && (
+                  <SkeletonImage
+                    img={
+                      <img
+                        className="h-80 w-full rounded-lg"
+                        src={featuredPost.nodes[0].frontmatter.imageUrl}
+                        alt=""
+                      />
                     }
-                    objectFit="cover"
-                    objectPosition="50% 50%"
                   />
                 )}
 
@@ -117,21 +119,22 @@ const Articles = () => {
                     className="flex flex-col rounded-lg shadow-lg overflow-hidden"
                   >
                     <div className="flex-shrink-0">
-                      {post.frontmatter.image === null ? (
+                      {post.frontmatter.image && (
+                        <Img
+                          fluid={post.frontmatter.image.childImageSharp.fluid}
+                          objectFit="cover"
+                          objectPosition="50% 50%"
+                        />
+                      )}
+                      {post.frontmatter.imageUrl && (
                         <SkeletonImage
                           img={
                             <img
                               className="h-80 w-full object-cover"
                               src={post.frontmatter.imageUrl}
-                              alt={post.frontmatter.imageUrl}
+                              alt=""
                             />
                           }
-                        />
-                      ) : (
-                        <Img
-                          fluid={post.frontmatter.image.childImageSharp.fluid}
-                          objectFit="cover"
-                          objectPosition="50% 50%"
                         />
                       )}
                     </div>
