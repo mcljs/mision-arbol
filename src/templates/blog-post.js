@@ -72,9 +72,6 @@ query Post($slug: String!) {
       description
       date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
       imageUrl
-      image {
-       publicURL
-     }
     }
     html
     timeToRead

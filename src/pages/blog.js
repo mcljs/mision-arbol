@@ -22,11 +22,6 @@ const Blog = () => {
             frontmatter {
               title
               imageUrl
-              cover {
-                childImageSharp {
-                  gatsbyImageData(layout: CONSTRAINED)
-                }
-              }
 
               description
               date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY ")
@@ -54,7 +49,7 @@ const Blog = () => {
           {postList.map(
             ({
               node: {
-                frontmatter: { cover, date, description, title, imageUrl },
+                frontmatter: { date, description, title, imageUrl },
                 timeToRead,
                 fields: { slug },
               },
@@ -64,16 +59,9 @@ const Blog = () => {
                   className="-full border-2 border-gray-100 flex flex-col items-center justify-between rounded-lg overflow-hidden hover:scale-105 hover:shadow-xl transform transition-all ease-in-out duration-200"
                   to={slug}
                 >
-                  {cover === null ? (
-                    <SkeletonImage
-                      img={<img className="w-full" src={imageUrl} alt="" />}
-                    />
-                  ) : (
-                    <GatsbyImage
-                      className="w-full"
-                      image={cover?.childImageSharp.gatsbyImageData}
-                    />
-                  )}
+                  <SkeletonImage
+                    img={<img className="w-full" src={imageUrl} alt="" />}
+                  />
                   <section className="p-4">
                     <h2 className="sm:text-2xl text-xl pb-5 leading-tight font-semibold dark:text-white">
                       {title}

@@ -2,7 +2,7 @@ import * as React from 'react';
 import clsx from 'clsx';
 
 export default function SkeletonImage({ img, ...rest }) {
-  const [visible, setVisible] = React.useState(true);
+  const [visible, setVisible] = React.useState(false);
   const imgRef = React.useRef(null);
 
   const useSSRLayoutEffect =

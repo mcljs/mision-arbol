@@ -7,8 +7,7 @@ description: El pasado martes 31 de mayo, desde el sector Monte Piedad de la
 date: 2022-05-31 08:55:03
 tags:
   - MINEC
-image: captura-de-pantalla-2022-06-07-a-la-s-8.47.11-p.-m..png
-cover: captura-de-pantalla-2022-06-07-a-la-s-8.47.11-p.-m..png
+imageUrl: https://i.imgur.com/IxnctRl.png
 ---
 ***Prensa Misión Árbol (FMA).*** El pasado martes 31 de mayo, desde el sector Monte Piedad de la parroquia 23 de enero se realizó una jornada de reforestación con los estudiantes de 5to año de bachillerato de los liceos Manuel Palacio Fajardo, Gabriela Mistral y José Vicente Ochoa, además de otras escuelas primarias que acompañaron la actividad. Jorge Riera, estudiante de 5to año de informática de la Escuela Técnica Manuel Palacio Fajardo expresó: “hoy estamos en el proyecto de un árbol, un estudiante. Hemos sembrado árboles en nuestra parroquia con otros compañeros de otros planteles”.
 

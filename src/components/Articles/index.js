@@ -27,16 +27,7 @@ const Articles = () => {
                     description
                     imageUrl
                     cover {
-                      childImageSharp {
-                        fluid(
-                          maxHeight: 300
-                          maxWidth: 600
-                          quality: 100
-                          cropFocus: ATTENTION
-                        ) {
-                          ...GatsbyImageSharpFluid
-                        }
-                      }
+                      publicURL
                     }
                   }
                 }
