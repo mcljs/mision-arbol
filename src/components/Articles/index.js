@@ -65,17 +65,6 @@ const Articles = () => {
           render={({ featuredPost, allPosts }) => (
             <>
               <div className="grid  grid-cols-1 md:grid-cols-2 py-12 gap-x-24 gap-y-12">
-                {featuredPost.nodes[0].frontmatter.cover && (
-                  <SkeletonImage
-                    img={
-                      <img
-                        className="h-80 w-full rounded-lg"
-                        src={featuredPost.nodes[0].frontmatter.imageUrl}
-                        alt=""
-                      />
-                    }
-                  />
-                )}
                 {featuredPost.nodes[0].frontmatter.imageUrl && (
                   <SkeletonImage
                     img={
