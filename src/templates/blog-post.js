@@ -20,7 +20,7 @@ import TagPill from '../components/TagPill'
       <SEO title={post.frontmatter.title}
         description={post.frontmatter.description}
         //image={post.frontmatter.image}
-        image={`https://mision-arbol.vercel.app${post.frontmatter.image?.publicURL}`}
+        image={post.frontmatter.imageUrl}
         />
 
         <div className="mt-10 sm:mt-24 ">
@@ -71,6 +71,7 @@ query Post($slug: String!) {
       tags
       description
       date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
+      imageUrl
       image {
        publicURL
      }

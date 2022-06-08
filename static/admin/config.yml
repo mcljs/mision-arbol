@@ -3,7 +3,6 @@ backend:
   repo: mcljs/mision-arbol
   branch: master
   site_domain: misionarbol.minec.gob.ve
-  base_url: https://netlify-cms-oauth-two.vercel.app
 
 local_backend: true
 
@@ -32,6 +31,7 @@ collections:
           format: "YYYY-MM-DD hh:mm:ss",
         }     
       - { label: 'Tags', name: 'tags', widget: 'list', default: [''],  required: false, }
+      - { label: "imageUrl", name: "imageUrl", widget: "image" }
       - { label: "image", name: "image", widget: "image" }
       - { label: "cover", name: "cover", widget: "image" }
       - { label: 'Body', name: 'body', widget: 'markdown' }

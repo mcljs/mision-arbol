@@ -14,7 +14,7 @@ import Footer1 from './Footer';
 import ScrollToTop from './ScrollButton';
 import useDarkMode from '../hooks/useDarkMode';
 import {Header} from './Headers/Header';
-//import "./layout.css"
+import "./layout.css"
 const Layout = ({ children }) => {
 
 useDarkMode()

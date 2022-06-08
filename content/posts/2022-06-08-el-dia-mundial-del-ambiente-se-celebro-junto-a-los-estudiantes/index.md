@@ -11,6 +11,8 @@ imageUrl: https://i.imgur.com/x7zJB0d.jpg
 image: https://i.imgur.com/x7zJB0d.jpg
 cover: https://i.imgur.com/x7zJB0d.jpg
 ---
+
+![Mision-Arbol](https://i.imgur.com/x7zJB0d.jpg)
 ***Prensa Misión Árbol (FMA).*** Este domingo 5 de junio, para cerrar la semana aniversario de la Misión Árbol y conmemorar el Día Mundial de Ambiente se realizó una gran jornada de reforestación el Parque Nacional Warairarepano.
 
 Desde el sector Terrazas de Maripérez, se dio el encuentro entre más de 1000 estudiantes de bachillerato, las autoridades del Ministerio de Educación, Ministerio para el Ecosocialismo y la Misión Árbol.

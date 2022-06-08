@@ -11,9 +11,7 @@ import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import { useLocation } from "@reach/router"
 
-
-function SEO({ description, lang, meta,image, title }) {
-
+function SEO({ description, lang, meta, image, title }) {
   useLocation()
   const { site } = useStaticQuery(
     graphql`
@@ -30,13 +28,11 @@ function SEO({ description, lang, meta,image, title }) {
 
   const metaDescription = description || site.siteMetadata.description
 
-  
   const imageUrl = `http://misionarbol.minec.gob.ve${image}`
 
-  const ogImage = 
-    image || 'http://misionarbol.minec.gob.ve/static/682c4dfb4d5442c930e62265fc36b09a/logo.jpeg'
-
-
+  const ogImage =
+    image ||
+    "http://misionarbol.minec.gob.ve/static/682c4dfb4d5442c930e62265fc36b09a/logo.jpeg"
 
   return (
     <Helmet
@@ -48,66 +44,67 @@ function SEO({ description, lang, meta,image, title }) {
       meta={[
         {
           name: `aplication-name`,
-          content: 'Misión Arbol'
+          content: "Misión Arbol",
         },
         {
           name: `description`,
-          content: metaDescription
+          content: metaDescription,
         },
         {
           property: `og:image`,
-          content: ogImage
+          content: ogImage,
         },
         {
           property: `og:title`,
-          content: title
+          content: title,
         },
         {
           property: `og:description`,
-          content: metaDescription
+          content: metaDescription,
         },
         {
           property: `og:type`,
-          content: `website`
+          content: `website`,
         },
         {
           name: `twitter:card`,
-          content: `summary_large_image`
+          content: `summary_large_image`,
         },
         {
           name: `twitter:image:src`,
-          content: ogImage
+          content: ogImage,
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author
+          content: site.siteMetadata.author,
         },
         {
           name: `twitter:title`,
-          content: title
+          content: title,
         },
         {
           name: `twitter:description`,
-          content: metaDescription
-        }
-      ]  .concat(
+          content: metaDescription,
+        },
+      ]
+        .concat(
           image
             ? [
                 {
                   name: `og:image`,
-                  content: imageUrl,
+                  content: ogImage,
                 },
                 {
                   name: `og:image:alt`,
-                  content:  title,
+                  content: title,
                 },
                 {
                   name: `twitter:image`,
-                  content: imageUrl,
+                  content: ogImage,
                 },
                 {
                   name: `twitter:image:alt`,
-                  content:  title,
+                  content: title,
                 },
                 {
                   name: `twitter:card`,
@@ -121,7 +118,8 @@ function SEO({ description, lang, meta,image, title }) {
                 },
               ]
         )
-        .concat(meta)}    />
+        .concat(meta)}
+    />
   )
 }
 

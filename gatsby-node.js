@@ -1,8 +1,5 @@
-const path = require('path')
+const path = require("path")
 const { createFilePath } = require(`gatsby-source-filesystem`)
-
-
-
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
@@ -22,82 +19,74 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       value: `/${slug.slice(12)}`,
     })
   }
-
-
 }
 
-
-exports.createPages = ({graphql,actions}) => {
-  const {createPage } = actions
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
 
   return graphql(`
-  {
-    allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
-      edges {
-        node {
-          fields {
-            slug
+    {
+      allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              tags
+              date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
+              description
+              title
+              imageUrl
+              image {
+                publicURL
+              }
+            }
+            timeToRead
           }
-          frontmatter {
-            tags
-            date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
-            description
-            title
-           image{
-              publicURL
+          next {
+            frontmatter {
+              title
+            }
+            fields {
+              slug
             }
           }
-          timeToRead
-        }
-        next {
-          frontmatter {
-            title
-          }
-          fields {
-            slug
-          }
-        }
-        previous {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            tags
+          previous {
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+              tags
+            }
           }
         }
       }
     }
-  }
-  
   `).then(result => {
     const posts = result.data.allMarkdownRemark.edges
 
-    posts.forEach(({node,next,previous,index}) => {
+    posts.forEach(({ node, next, previous, index }) => {
       createPage({
         path: node.fields.slug,
-        component: path.resolve('./src/templates/blog-post.js'),
+        component: path.resolve("./src/templates/blog-post.js"),
         context: {
           slug: node.fields.slug,
           previousPost: next,
-          nextPost: previous
+          nextPost: previous,
         },
       })
     })
   })
 }
 
+exports.onCreatePage = async ({ page, actions }) => {
+  const { createPage } = actions
 
-
-exports.onCreatePage = async({page,actions}) => {
-  const {createPage} = actions
-
-
-  if(page.path.match(/^\/guide/)){
+  if (page.path.match(/^\/guide/)) {
     page.matchPath = "/guide/*"
 
     createPage(page)
   }
 }
-
-

@@ -8,11 +8,10 @@ description: Este domingo 29 de mayo se llevó a cabo una Jornada Nacional de
 date: 2022-05-29 09:02:58
 tags:
   - MINEC
-image: https://imgur.com/a/mQ6srJb
-cover: https://imgur.com/a/mQ6srJb
+imageUrl: https://i.imgur.com/kBuoh7R.png
 ---
-!\[Mision-Arbol](./https://imgur.com/a/mQ6srJb)\
-\
+
+![Mision-Arbol](https://i.imgur.com/kBuoh7R.png)
 ***Prensa Misión Árbol (FMA).*** Este domingo 29 de mayo se llevó a cabo una Jornada Nacional de Reforestación en conmemoración al Día Nacional del Árbol.
 
 El último domingo de mayo se celebra el Día Nacional del Árbol, además de esto cada 29 de mayo también se festeja la  declaración del Araguaney como árbol nacional, es decir, que en esta coincidencia la celebración no podía ser otra que honrar a todos los árboles que cobijan al país. En esta fecha tan especial, se realizó una gran jornada de reforestación para llevar a la tierra miles de árboles que fueron plantados por toda la fuerza ecosocialista y el poder popular que se activó a nivel nacional para esta fiesta.
