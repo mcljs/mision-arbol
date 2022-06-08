@@ -9,6 +9,8 @@ date: 2022-05-29 09:02:58
 tags:
   - MINEC
 imageUrl: https://i.imgur.com/kBuoh7R.png
+image: ./2022-06-08--.png
+cover: ./2022-06-08--.png
 ---
 
 ![Mision-Arbol](https://i.imgur.com/kBuoh7R.png)

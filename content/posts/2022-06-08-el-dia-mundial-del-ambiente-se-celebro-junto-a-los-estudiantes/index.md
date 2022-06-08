@@ -8,6 +8,8 @@ date: 2022-06-06 11:08:10
 tags:
   - DiaMundialDelAmbiente
 imageUrl: https://i.imgur.com/x7zJB0d.jpg
+image: ./x7zJB0d.jpeg
+cover: ./x7zJB0d.jpeg
 ---
 
 ![Mision-Arbol](https://i.imgur.com/x7zJB0d.jpg)
