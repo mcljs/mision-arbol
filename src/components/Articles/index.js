@@ -26,9 +26,6 @@ const Articles = () => {
                     title
                     description
                     imageUrl
-                    cover {
-                      publicURL
-                    }
                   }
                 }
               }
@@ -45,18 +42,6 @@ const Articles = () => {
                     title
                     description
                     imageUrl
-                    image {
-                      childImageSharp {
-                        fluid(
-                          maxHeight: 390
-                          maxWidth: 600
-                          quality: 100
-                          cropFocus: ATTENTION
-                        ) {
-                          ...GatsbyImageSharpFluid
-                        }
-                      }
-                    }
                   }
                 }
               }
@@ -99,13 +84,6 @@ const Articles = () => {
                     className="flex flex-col rounded-lg shadow-lg overflow-hidden"
                   >
                     <div className="flex-shrink-0">
-                      {post.frontmatter.image && (
-                        <Img
-                          fluid={post.frontmatter.image.childImageSharp.fluid}
-                          objectFit="cover"
-                          objectPosition="50% 50%"
-                        />
-                      )}
                       {post.frontmatter.imageUrl && (
                         <SkeletonImage
                           img={

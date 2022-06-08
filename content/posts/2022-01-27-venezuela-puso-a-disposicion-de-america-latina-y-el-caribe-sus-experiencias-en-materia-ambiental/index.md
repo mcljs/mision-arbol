@@ -4,6 +4,7 @@ tags: ["MINEC"]
 title: Venezuela puso a disposición de América Latina y el Caribe sus experiencias en materia ambiental.
 description: Durante el encuentro conmemorativo del 40 aniversario del Foro de Ministros y Ministras del Medio Ambiente de América Latina y el Caribe, el titular del Ecosocialismo en Venezuela, Josué Lorca, disertó sobre las realidades del continente y puso a disposición de las delegaciones asistentes, las experiencias venezolanas en el tema.
 twitter_text: Programa Guardianes del Arbol será llevado a instituciones educativas de la nación.
+imageUrl: https://i.imgur.com/aPGdVCt.jpg
 image: ./Venezuela-puso-a-disposición-de-América-Latina-y-el-Caribe-sus-experiencias-en-materia-ambiental.jpg
 cover: ./Venezuela-puso-a-disposición-de-América-Latina-y-el-Caribe-sus-experiencias-en-materia-ambiental.jpg
 timeToRead: 4
