@@ -8,7 +8,7 @@ description: Este martes 12 de julio, desde el parque Topo Las Piñas, ubicado e
 date: 2022-07-13 08:40:25
 tags:
   - MINEC
-imageUrl: captura-de-pantalla-2022-07-13-a-la-s-8.43.01-a.-m..png
+imageUrl: https://res.cloudinary.com/mcljs/image/upload/v1657717522/Captura_de_Pantalla_2022-07-13_a_la_s_8.43.01_a._m._i3bga5.png
 image: captura-de-pantalla-2022-07-13-a-la-s-8.43.01-a.-m..png
 cover: captura-de-pantalla-2022-07-13-a-la-s-8.43.01-a.-m..png
 ---

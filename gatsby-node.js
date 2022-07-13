@@ -43,6 +43,7 @@ exports.createPages = ({graphql,actions}) => {
             date(locale: "es-ve", formatString: "DD [de] MMMM [de] YYYY")
             description
             title
+            imageUrl
            image{
               publicURL
             }
